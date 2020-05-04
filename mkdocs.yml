@@ -1,10 +1,16 @@
+# Reference:
+# mkdocs - https://www.mkdocs.org/user-guide/configuration/
+# mkdocs material theme - https://squidfunk.github.io/mkdocs-material/getting-started/#configuration
+
 # Project Information
 site_name: AlgoBulls Help Site
 site_description: Help Site for using the AlgoBulls Platform | A Trading platform with complete end-to-end solution - ready-to-use Stock Market Knowledge & Fully Automated Algorithmic Trading!
 site_author: AlgoBulls
 site_url: https://help.algobulls.com
 
-# Theme Configuration
+# GitHub Repo information
+repo_url: https://github.com/algobulls/algobulls_help_site
+
 theme:
   name: material
   favicon: 'imgs/favicon.svg'
@@ -12,8 +18,11 @@ theme:
   palette:
     primary: blue
     accent: blue
+  features:
+    - instant
+  language: en
 
-# Copyright info (displayed in the footer)
+
 copyright: Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Private Limited
 
 # Navigation
@@ -31,10 +40,28 @@ nav:
       - 'Products':
           - 'Build your Trading Strategy': 'member/build-your-strategy.md'
 
-# Google Analytics
+plugins:
+  - search                                  # necessary for search to work
+  - git-revision-date-localized:            # When enabled, the respective 'Last Updated' date is automatically added at the bottom of each page. Docs: https://squidfunk.github.io/mkdocs-material/plugins/revision-date/
+      type: timeago
+
+
 google_analytics:
   - 'UA-147658856-2'
   - 'auto'
 
-# Reference yaml for material ui theme:
-# https://squidfunk.github.io/mkdocs-material/getting-started/l
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/algobulls
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/algobullsalgotrading
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/algobulls/
+  disqus: algobulls
+
+
+markdown_extensions:
+  - admonition              # Add note, tip, question, warning, error, etc. Docs: https://squidfunk.github.io/mkdocs-material/extensions/admonition/
+  - toc:                    # Docs: https://squidfunk.github.io/mkdocs-material/extensions/permalinks/
+      permalink: true
