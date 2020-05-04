@@ -18,8 +18,6 @@ theme:
   palette:
     primary: blue
     accent: blue
-  features:
-    - instant
   language: en
 
 
