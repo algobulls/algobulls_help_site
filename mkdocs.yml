@@ -1,0 +1,40 @@
+# Project Information
+site_name: AlgoBulls Help Site
+site_description: Help Site for using the AlgoBulls Platform | A Trading platform with complete end-to-end solution - ready-to-use Stock Market Knowledge & Fully Automated Algorithmic Trading!
+site_author: AlgoBulls
+site_url: https://help.algobulls.com
+
+# Theme Configuration
+theme:
+  name: material
+  favicon: 'imgs/favicon.svg'
+  logo: 'imgs/site_logo_white.svg'
+  palette:
+    primary: blue
+    accent: blue
+
+# Copyright info (displayed in the footer)
+copyright: Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Private Limited
+
+# Navigation
+nav:
+  - Home: 'index.md'
+  - 'Website Manual':
+      - 'Landing Page': 'member/landing-page.md'
+      - 'Wallet': 'member/your-wallet.md'
+      - 'Broking Account': 'member/Operations/broking-account.md'
+      - 'Portfolio': 'member/Operations/portfolio.md'
+      - 'Fundbook': 'member/Operations/fundbook.md'
+      - 'Tradebook': 'member/Operations/tradebook.md'
+      - 'Favorites': 'member/Operations/favorites.md'
+      - 'User Profile': 'member/Operations/profile.md'
+      - 'Products':
+          - 'Build your Trading Strategy': 'member/build-your-strategy.md'
+
+# Google Analytics
+google_analytics:
+  - 'UA-147658856-2'
+  - 'auto'
+
+# Reference yaml for material ui theme:
+# https://squidfunk.github.io/mkdocs-material/getting-started/l
