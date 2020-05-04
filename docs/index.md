@@ -52,6 +52,10 @@ You can always take your pick from the millions of tailor-made strategies made b
 
 Finally, you can choose some strategies as [Favorites](member/Operations/favorites), which is a handy way to keep an eye on some of the strategies.
 
+!!! info
+    You can help us improve this site by submitting updates on our GitHub repository. 
+    Just click on the edit button on the top and it will take you to GitHub 
+    directly.
 ------------
 Visit [algobulls.com](https://algobulls.com/).
 
