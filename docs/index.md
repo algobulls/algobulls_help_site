@@ -5,57 +5,76 @@
 ## Introduction
 Welcome! We think you should go through the list below and see that you have understood and ticked off all the points!
 
-## 1) Broking Account
+## 1) Registration and Sign-Up
+Visit [the site](https://devel.appv2.algobulls.com) and sign-up to the AlgoBulls platform.
+
+## 2) General Settings
+After signing up to the platform, visit [here](member/Settings/general-settings.md) to know more about updating your KYC details.
+
+Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental regulations for trading online.
+
+## 3) Add funds into your Algobulls account
+Click [here]() to know more about adding funds into your Algobulls account.
+These funds are used to fire trades through your account.
+
+Alternatively, you can directly avail one of our packages by paying up-front.
+
+Package details can be found [here]() 
+
+!!! info
+    Ask J about screenshots for packages.
+
+## 4) Update your trading risk
+Click [here](member/Settings/general-settings.md##Trading Management) to know more about updating your trading risk.
+
+Trading Risk is the amount till which the AlgoBulls platform should execute your trade.
+
+Example, if you have 100,000 in your broker account (say, Zerodha) and you enter your trading risk amount as 80,000, then AlgoBulls will keep firing trades through your broker account till the funds in your broker account reach 80,000.
+
+On reaching 80,000, all trading will stop.
+
+Example, if you have 100,000 in your broker account (say, Zerodha) and you enter your trading risk amount as 120,000, then AlgoBulls will not start trading, as the amount in your broker account is already less than the acceptable risk amount. 
+
+## 5) Broker Account and Binding
+
 You need to have a valid working broking account before you start algorithmic trading using AlgoBulls.
 
 We currently offer support for the following brokers. (More on the way!)
 
-* Aliceblue
-* Mastertrust
 * Zerodha
+* Mastertrust
+* Aliceblue
 * Upstox
 
-Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [link it](member/Operations/broking-account) with the broking account.
+Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
 
-## 2) Registration and Sign-Up
-Once you have a valid working broking account, kindly register with AlgoBulls and complete the sign-up process.
-
-After you login, you land [here](member/landing-page).
-
-## 3) Your Wallet
-After you login, you need to add funds to your [Wallet](member/your-wallet).
-
-Your transactions are charged through the wallet. All charges are detailed in the [Fundbook](member/Operations/fundbook).
-
-## 4) Profile
-Now that you have added funds, kindly fill the [Profile](member/Operations/profile) page.
-
-This page helps you to give details like Aadhar ID, PAN, etc. which are required as per the governmental regulations for trading online.
-
-## 5) Portfolio
-
-The most important area of AlgoBulls is the [Portfolio](member/Operations/portfolio) page.
-
-All strategies created/opted by you can be viewed, tweaked, started and stopped from here.
-
-All activities triggered at the Portfolio page can be viewed in the [Tradebook](member/Operations/tradebook).
-
-All recent activities are also a part of your Notifications, which you can see by pressing the bell icon on the [Landing Page](member/landing-page).
-
-## 6) Build your own Strategy
-
-You can create very complex and customizable strategies on the [Build](member/build-your-strategy) page using conditions, indicators, instruments and candlesticks.
-
-You can always take your pick from the millions of tailor-made strategies made by our experts also (which you can tweak from the Portfolio page to suit your needs).
-
-## 7) Favorites
-
-Finally, you can choose some strategies as [Favorites](member/Operations/favorites), which is a handy way to keep an eye on some of the strategies.
+!!! tldr
+    All the above points are the minimum actions you need to take to start algorithmic trading with the AlgoBulls platform.
+    
+!!! note
+    If your trading has still not started, look at the possible reasons below. Please contact your relationship manager if you think there is another reason as to why your trading has not started. Alternatively, you can [Email us]().
+    
+!!! warning
+    Even after completing the all the points mentioned above, trading might not start because of the follwing reasons:
+    
+    * Your broker account (say, Zerodha) may not have sufficient funds
+    
+    * Currency Segment in your broker account is not yet activated. (This happens with new accounts, and though Zerodha activates this by default, Alice Blue takes 24 hours to do so)
+    
+    * Due to market volatility, your broker may have stopped taking bracket order requests. (Any bracket order strategies currently running in your platform account will stop showing any new orders)
+    
+    * Certain order types dont work with certain brokers. So your binded broker account should allow those particular order to be fired.
+    
+    * Every strategy may not run with every broker. This is due to permission issues at the broker end.
+    
+    * Once your trading starts, the AlgoBulls platform has no control over the brokerage charges levied by your broker. Please have a look at all charges on the broker side before going ahead.
+     ([Zerodha](https://zerodha.com/), [Alice Blue](https://www.aliceblueonline.com/), [Master Trust](https://www.mastertrust.co.in/), [Upstox](https://upstox.com/)) 
 
 !!! info
     You can help us improve this site by submitting updates on our GitHub repository. 
     Just click on the edit button on the top and it will take you to GitHub 
     directly.
+   
 ------------
 Visit [algobulls.com](https://algobulls.com/).
 

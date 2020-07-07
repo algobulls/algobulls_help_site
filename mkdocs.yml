@@ -27,16 +27,18 @@ copyright: Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Priv
 nav:
   - Home: 'index.md'
   - 'Website Manual':
-      - 'Landing Page': 'member/landing-page.md'
-      - 'Wallet': 'member/your-wallet.md'
-      - 'Broking Account': 'member/Operations/broking-account.md'
-      - 'Portfolio': 'member/Operations/portfolio.md'
-      - 'Fundbook': 'member/Operations/fundbook.md'
-      - 'Tradebook': 'member/Operations/tradebook.md'
-      - 'Favorites': 'member/Operations/favorites.md'
-      - 'User Profile': 'member/Operations/profile.md'
-      - 'Products':
-          - 'Build your Trading Strategy': 'member/build-your-strategy.md'
+      - 'Marketplace': 'member/marketplace.md'
+      - 'Dashboard': 'member/dashboard.md'
+      - 'Portfolio': 'member/portfolio.md'
+      - 'Paper Trading & Backtesting': 'member/paperback.md'
+      - 'Customized Strategies': 'member/custom-strategies.md'
+      - 'Books':
+          - 'Trades': 'member/Books/tradebook.md'
+          - 'Funds': 'member/Books/fundbook.md'
+          - 'P & L': 'member/Books/pnl.md'
+      - 'Settings':
+          - 'General': 'member/Settings/general-settings.md'
+          - 'Broking': 'member/Settings/broking-settings.md'
 
 plugins:
   - search                                  # necessary for search to work
