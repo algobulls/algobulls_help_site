@@ -29,11 +29,11 @@ Click [here](member/Settings/general-settings.md##Trading Management) to know mo
 
 Trading Risk is the amount till which the AlgoBulls platform should execute your trade.
 
-Example, if you have 100,000 in your broker account (say, Zerodha) and you enter your trading risk amount as 80,000, then AlgoBulls will keep firing trades through your broker account till the funds in your broker account reach 80,000.
+Example, if you have 100,000 in your broker account and you enter your trading risk amount as 80,000, then AlgoBulls will keep firing trades through your broker account till the funds in your broker account reach 80,000.
 
 On reaching 80,000, all trading will stop.
 
-Example, if you have 100,000 in your broker account (say, Zerodha) and you enter your trading risk amount as 120,000, then AlgoBulls will not start trading, as the amount in your broker account is already less than the acceptable risk amount. 
+Example, if you have 100,000 in your broker account and you enter your trading risk amount as 120,000, then AlgoBulls will not start trading, as the amount in your broker account is already less than the acceptable risk amount. 
 
 ## 5) Broker Account and Binding
 
@@ -57,7 +57,7 @@ Make sure you sign up and setup your account with any of these brokers before pr
 !!! warning
     Even after completing the all the points mentioned above, trading might not start because of the follwing reasons:
     
-    * Your broker account (say, Zerodha) may not have sufficient funds
+    * Your broker account may not have sufficient funds
     
     * Currency Segment in your broker account is not yet activated. (This happens with new accounts, and though Zerodha activates this by default, Alice Blue takes 24 hours to do so)
     
