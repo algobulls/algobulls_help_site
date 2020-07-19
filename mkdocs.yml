@@ -40,6 +40,7 @@ nav:
           - 'General': 'member/Settings/general-settings.md'
           - 'Broking': 'member/Settings/broking-settings.md'
       - 'Navigation Bar': 'member/nav-bar.md'
+      - 'Wallet': 'member/wallet.md'
 
 plugins:
   - search                                  # necessary for search to work

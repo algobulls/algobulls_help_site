@@ -25,15 +25,6 @@ The following list gives a short brief about each field.
 
 ![Filters](imgs/toolbar-1.png)
 
-!!! info
-    Ask J if the above can be
-    
-     * Larger / Normal / Smaller
-     
-     OR
-     
-     * Expanded / Standard / Compact 
-
 `Full Screen` - The current tab on your browser goes Full Screen. Click again to go back to normal. This is similar to pressing F11 on most browsers and operating systems.
 
 ![Filters](imgs/toolbar-2.png)
