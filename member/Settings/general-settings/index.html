@@ -428,8 +428,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#trading-management" class="md-nav__link">
-    Trading Management
+  <a href="#risk-management" class="md-nav__link">
+    Risk Management
   </a>
   
 </li>
@@ -546,8 +546,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#trading-management" class="md-nav__link">
-    Trading Management
+  <a href="#risk-management" class="md-nav__link">
+    Risk Management
   </a>
   
 </li>
@@ -614,12 +614,14 @@
 <p>Uploading incorrect KYC details (Aadhar / PAN) will lead to de-activation of your account. Please contact your relationship manager or <a href="">email us</a> to get your account re-activated.</p>
 <p>Any packages or payments done to the AlgoBulls platform will continue during you account's deactivated period and cannot be redeemed or extended. </p>
 </div>
-<h2 id="trading-management">Trading Management<a class="headerlink" href="#trading-management" title="Permanent link">&para;</a></h2>
+<h2 id="risk-management">Risk Management<a class="headerlink" href="#risk-management" title="Permanent link">&para;</a></h2>
 <hr />
-<p>Click on <code>Modify</code> to update your trading risk amount here.</p>
-<p><img alt="Profile" src="../imgs/general-settings-4.png" /></p>
-<p>Enter your platform password and the limit amount.</p>
-<p><img alt="Profile" src="../imgs/general-settings-5.png" /></p>
+<p><img alt="General-Settings" src="../imgs/risk-mgmt1.png" /></p>
+<p>Both the values <code>MAX Capital Drawdown</code> and <code>Desired Profit</code> should be filled. Click on <code>Modify</code> on each field to enter your values.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Real Trading will not start in your account, if both the Risk Management fields are left empty. </p>
+</div>
 <div class="admonition important">
 <p class="admonition-title">Important</p>
 <p>Once your risk amount entered here matches or is already less than the amount in your broking account, all trading on the AlgoBulls platfrom will automatically stop.</p>
@@ -765,7 +767,7 @@
       <script>
         app = initialize({
           base: "../../..",
-          features: [],
+          features: ["navigation.expand"],
           search: Object.assign({
             worker: "../../../assets/javascripts/worker/search.9b3611bd.min.js"
           }, typeof search !== "undefined" && search)
