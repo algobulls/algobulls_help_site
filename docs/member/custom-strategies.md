@@ -26,15 +26,6 @@ The ...(Ellipsis) to the right give some navigation options, like switching to [
 
 `Density` - Choose the density of the data you see. Options are Larger, Middle and Compact
 
-!!! info
-    Ask J if the above can be
-    
-     * Larger / Normal / Smaller
-     
-     OR
-     
-     * Expanded / Standard / Compact 
-
 `Full Screen` - The current tab on your browser goes Full Screen. Click again to go back to normal. This is similar to pressing F11 on most browsers and operating systems.
 
 `Settings` - You can select which columns should be visible through here.

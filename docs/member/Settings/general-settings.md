@@ -60,9 +60,6 @@ Enter your platform password and the limit amount.
 ---
 If you AlgoBulls platform account is going to be handled by your agent, enter the details here.
 
-!!! info
-    Ask J to give below screenshot
-
 ![Profile](imgs/general-settings-5.png)
 
 !!! important
@@ -77,12 +74,6 @@ We offer various services to developers through our platform.
 We provide:
 * Notification service thorugh SMS and Email
 * Web Socket Service API for connecting with brokers
-* 
-
-Developers can use our platform for creating ...
-
-!!! info
-    Ask J about above line.
 
 ![Profile](imgs/general-settings-6.png)
 
