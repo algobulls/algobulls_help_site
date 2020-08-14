@@ -51,5 +51,9 @@
      <loc>https://help.algobulls.com/member/wallet/</loc>
      <lastmod>2020-08-14</lastmod>
      <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://help.algobulls.com/developers/</loc>
+     <lastmod>2020-08-14</lastmod>
+     <changefreq>daily</changefreq>
     </url>
 </urlset>
