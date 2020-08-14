@@ -41,6 +41,7 @@ nav:
           - 'Broking': 'member/Settings/broking-settings.md'
       - 'Navigation Bar': 'member/nav-bar.md'
       - 'Wallet': 'member/wallet.md'
+  - 'Developer Options': 'developers.md'
 
 plugins:
   - search                                  # necessary for search to work
