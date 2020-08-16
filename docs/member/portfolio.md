@@ -1,5 +1,7 @@
 # Portfolio
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qC_Kbf1KwFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The Portfolio page is your complete overview of the strategies availed by you. 
 
 If this page does not have any entries, you can add a strategy using the `Choose Algo Strategy` link. 
@@ -22,7 +24,7 @@ You can also set/edit whether an agent will be mnanaging your Portfolio be check
 
 The `Summary Bar` shows the following metrics:
 
-`Choose Strategy` - How many strategies from the [Marketplace](member/marketplace.md) are in your Portfolio.
+`Choose Strategy` - How many strategies from the [Marketplace](marketplace.md) are in your Portfolio.
 
 `Tweak Strategy` - How many strategies have been tweaked by you.
 

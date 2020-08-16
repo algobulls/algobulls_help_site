@@ -45,7 +45,7 @@ Make sure you sign up and setup your account with any of these brokers before pr
     All the above points are the minimum actions you need to take to start algorithmic trading with the AlgoBulls platform.
     
 !!! note
-    If your trading has still not started, look at the possible reasons below. Please contact your relationship manager if you think there is another reason as to why your trading has not started. Alternatively, you can [Email us]().
+    If your trading has still not started, look at the possible reasons below. Please contact your relationship manager if you think there is another reason as to why your trading has not started. Alternatively, you can [Email us](mailto:support@algobulls.com).
     
 !!! warning
     Even after completing the all the points mentioned above, trading might not start because of the follwing reasons:

@@ -1,5 +1,7 @@
 # Fundbook
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7ry8Bmz8QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This page shows all the charges that your account has been charged against. The page shows your most recent charges, followed by older ones down the line. To get a better understanding, you can filter your transactions by category, and/or check your transactions within a date range.
 
 ![Fundbook](imgs/fundbook-1.png)

@@ -1,8 +1,10 @@
 # Paper Trading and Backtesting
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wc0h930E1AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 You can view and manage all your strategies of Paper Trading and Backtesting here.
 
-The ...(Ellipsis) to the right give some navigation options, like switching to [Portfolio](member/portfolio.md) or jumping to Paper Testing.
+The ...(Ellipsis) to the right give some navigation options, like switching to [Portfolio](portfolio.md) or jumping to Paper Testing.
 
 ![PTB](imgs/ptb-1.png)
 
@@ -111,7 +113,5 @@ There are 3 menu options here - `Backtesting`, `Paper Trading` and `Combined Res
 `Settings` - You can select which columns should be visible through here. 
 
 ![PTB](imgs/ptb-8.gif)
-
-![Notif](imgs/notif2.png)
 
 Note: You can also log-out by clicking on your account name and choosing the Log Out option.

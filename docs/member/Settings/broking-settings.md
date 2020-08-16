@@ -1,5 +1,7 @@
 # Broking Account Settings
----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYeZjPn3jUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This page allows you to add a broker of your choice. Simply give the broker details, and then your strategy can be fired in connection with that broker. This gives you a great way to have complete control over your broking account, and the transactions that happen with it. 
 
 Different broking accounts need different details, and this page helps you to supply those details according to the broking account of your choice!

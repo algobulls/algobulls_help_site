@@ -1,8 +1,10 @@
-# Custom Strategies
+# Managr Strategies
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8c-GeIhibY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This page displays a list of all your strategies that you may set as Backtesting, Paper Trading or Real Trading (Portfolio).
 
-The ...(Ellipsis) to the right give some navigation options, like switching to [Portfolio](member/portfolio.md) or jumping to Backtesting / Paper Testing.
+The ...(Ellipsis) to the right give some navigation options, like switching to [Portfolio](portfolio.md) or jumping to Backtesting / Paper Testing.
 
 ## Paper Trading Fields
 ---

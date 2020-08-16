@@ -19,7 +19,9 @@ theme:
     primary: blue
     accent: blue
   language: en
-
+  features:
+    - navigation.expand
+#   - tabs (if you want tabs at the top instead of a side-menu)
 
 copyright: Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Private Limited
 
@@ -31,8 +33,8 @@ nav:
       - 'Dashboard': 'member/dashboard.md'
       - 'Portfolio': 'member/portfolio.md'
       - 'Paper Trading & Backtesting': 'member/paperback.md'
-      - 'Customized Strategies': 'member/custom-strategies.md'
-      - 'Books':
+      - 'Manage Strategies': 'member/custom-strategies.md'
+      - 'Live Reports':
           - 'Trades': 'member/Books/tradebook.md'
           - 'Funds': 'member/Books/fundbook.md'
           - 'P & L': 'member/Books/pnl.md'
@@ -41,6 +43,7 @@ nav:
           - 'Broking': 'member/Settings/broking-settings.md'
       - 'Navigation Bar': 'member/nav-bar.md'
       - 'Wallet': 'member/wallet.md'
+      - 'Tweak': 'member/tweak.md'
 
 plugins:
   - search                                  # necessary for search to work
@@ -67,3 +70,5 @@ markdown_extensions:
   - admonition              # Add note, tip, question, warning, error, etc. Docs: https://squidfunk.github.io/mkdocs-material/extensions/admonition/
   - toc:                    # Docs: https://squidfunk.github.io/mkdocs-material/extensions/permalinks/
       permalink: true
+  - pymdownx.tabbed
+  - pymdownx.superfences

@@ -1,5 +1,7 @@
 # General Settings
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYeZjPn3jUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Set up your basic profile, update your KYC details, set your trading risk, give access to your trading manager, and check out your developer options here. 
 
 ![Profile](imgs/general-settings.png)
@@ -42,17 +44,17 @@ The following list gives a short brief about each field.
     
     Any packages or payments done to the AlgoBulls platform will continue during you account's deactivated period and cannot be redeemed or extended. 
 
-## Trading Management
+## Risk Management
 ---
-Click on `Modify` to update your trading risk amount here.
 
-![Profile](imgs/general-settings-4.png)
+![General-Settings](imgs/risk-mgmt1.png)
 
-Enter your platform password and the limit amount.
+Both the values `MAX Capital Drawdown` and `Desired Profit` should be filled. Click on `Modify` on each field to enter your values.
 
-![Profile](imgs/general-settings-5.png)
+!!! Note
+    Real Trading will not start in your account, if both the Risk Management fields are left empty. 
 
-!!! important
+!!! Important
     Once your risk amount entered here matches or is already less than the amount in your broking account, all trading on the AlgoBulls platfrom will automatically stop.
 
 

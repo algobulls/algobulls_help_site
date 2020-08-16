@@ -1,5 +1,7 @@
 # Dashboard
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J9msKNweQvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This page gives an overview of your account and trades.
 
 Click `Add Money` to add funds into your AlgoBulls wallet.

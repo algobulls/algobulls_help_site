@@ -1,25 +1,23 @@
 # Marketplace
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KpnncgSfKXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This is the Algobulls Platform Marketplace for strategies.
 
-Before adding any strategy to your Portfolio, you can search for strategies here, look into the details for each strategy, and view the backteting reports to evaluate the performance. 
+Before adding any strategy to your Portfolio, you can search for strategies here, look into the details for each strategy, and view the backtesting reports to evaluate the performance. 
 
-![Landing Page](imgs/market-place-0.png)
+[ ![Marketplace](imgs/mkt1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt1.png)
 
 ## Searching for a Strategy 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQCWEm4gJHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[ ![Marketplace](imgs/mkt2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt2.png)
+
 `Search Bar` - You can type your keywords here.
 
-`Sort By` - You can sort the strategies into the following:
-
-* Backtest PnL - Sorted by the best Backtest PnL %.
-* Drawdown - Sorted by the least worst drawdown %. 
-* Transaction Frequency - Sorted by the most frequency of transactions.
-* Transaction Charges - Sorted by the least transaction charges.
-* Most Recent Transactions - Sorted by strategies having the most recent transactions.
-
-![Marketplace](imgs/market-place-2.png)
+`Favorites` Toggle - Toggle the switch to see the strategies marked as Favorite (<font size=3>☆</font>)
 
 `Filter` - You can filter your view as per the following categories shown.
 
@@ -30,69 +28,85 @@ Before adding any strategy to your Portfolio, you can search for strategies here
 ![Marketplace](imgs/market-place-13-5.png)
 ![Marketplace](imgs/market-place-13-6.png)
 
+`Sort By` - You can sort the strategies into the following:
+
+* Backtest PnL <font size=5>↑ ↓</font>
+* Drawdown <font size=5>↑ ↓</font> 
+* Transaction Frequency <font size=5>↑ ↓</font>
+* Transaction Charges <font size=5>↑ ↓</font>
+* Most Recent Transactions <font size=5>↑ ↓</font>
+
+`Pagination` - You can click the < and > for changing pages. You can also choose to view 6/8/10 strategies per page.
+
 ## What does a Strategy Card look like
 ---
 
-![Landing Page](imgs/market-place-15.png)
+[ ![Marketplace](imgs/mkt10.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt10.png)
 
 ## A look at the toolbar
 ---
 
-`Expand` - You see a detailed and expanded view of a strategy when you click on the card or click this button.
+![Marketplace](imgs/market-place-14.png)
 
-`Tweak` - Click this button to view and tweak the parameters of a strategy. 
+`Expand` - You see a detailed and expanded view of a strategy when you click on the card or click this button. The effect is the same when you click on a Strategy Card.
 
-`Share` - Click this button to get a shareable link for a strategy.
+`Tweak` - Click this button to tweak the parameters of a strategy. This is what happens when you click the `Tweak` button:
+
+* The strategy gets added to your account
+* You are re-directed to the [Paper Trading & Backtesting](paperback.md) page
+* Click on `Tweak` on the newly added strategy on this page
+
+`Share` - Click this button to get a shareable link for a strategy. You will see this message:
+
+![Marketplace](imgs/mkt9.png)
 
 `Add to Favorites` - Click this button to add this strategy to Favorites for easy viewing later.
-
-![Landing Page](imgs/market-place-14.png)
 
 ## When you click on a Strategy Card
 ---
 
 Clicking on a Strategy Card will give you a detailed and expanded view of the strategy.
 
-![Marketplace](imgs/market-place-3.png)
+[ ![Marketplace](imgs/mkt3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt3.png)
 
-This is the Left Hand Side of the expanded view.
-
-It shows the same details and the toolbar as the market place.
+The Left Hand Side of the expanded view shows the same details and the toolbar as the market place.
 
 In addition to that, the following details are visible: `Strategy Code`, `Minimum Capital Required`, `Transaction Charges (in %)`, `Recommended Duration (Days)`, and `Required Risk Appetite`.
 
-![Marketplace](imgs/market-place-4.png)
+[ ![Marketplace](imgs/market-place-4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/market-place-4.png)
 
-This is the Right Hand Side of the expanded view.
-
-It has 2 tabs: `Algorithm Strategy` and `Backtesting Report`.
+The Right Hand Side of the expanded view has 2 tabs: `Algorithm Strategy` and `Backtesting Report`.
 
 `Algorithm Strategy` has 2 tabs: `Parameters` and `Details`.
 
-`Algorithm Strategy` -> `Parameters`
-
-![Marketplace](imgs/market-place-5.png)
-
-`Algorithm Strategy` -> `Details`
-
-![Marketplace](imgs/market-place-6.png)
-
-![Marketplace](imgs/market-place-7.png)
-
 `Backtesting Report` has 3 tabs: `Summary`, `Returns` and `Tradebook`.
 
-`Backtesting Report` -> `Summary`
+Click on each tab below to know more.
 
-![Marketplace](imgs/market-place-8.png)
+=== "Algorithm Strategy"
+    === "Parameters"
+        This displays all the parameters of the strategy. Click on `Tweak` to edit these parameters as per your requirements.
+        
+        [ ![Marketplace](imgs/mkt4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt4.png)
+        
+    === "Details"
+        This tab describes the strategy in detail. You will see the description of the strategy, the signal generation conditions, the explanation and an associated graph wih it.
+        
+        [ ![Marketplace](imgs/mkt5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt5.png)
+        
+=== "Backtesting Report"
+    === "Summary"
+        The report summary is displayed here.
+        
+        [ ![Marketplace](imgs/mkt6.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt6.png)
+        
+    === "Returns"
+        This displays all the returns given by the strategy.
+        
+        [ ![Marketplace](imgs/mkt7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt7.png)
+        
+    === "Tradebook"
+        This displays all the trades punched during the Backtesting.
+        
+        [ ![Marketplace](imgs/mkt8.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt8.png)
 
-`Backtesting Report` -> `Returns`
-
-![Marketplace](imgs/market-place-9.png)
-
-`Backtesting Report` -> `Tradebook` (with PnL percentages)
-
-![Marketplace](imgs/market-place-10.png)
-
-`Backtesting Report` -> `Tradebook` (without PnL percentages)
-
-![Marketplace](imgs/market-place-11.png)

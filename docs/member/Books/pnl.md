@@ -1,5 +1,7 @@
 # P & L
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7ry8Bmz8QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This page shows the Proft and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. To get a better understanding, you can filter your activities using the filters, strategy, instrument and date range.
 
 ![Tradebook](imgs/pnl-1.png)
