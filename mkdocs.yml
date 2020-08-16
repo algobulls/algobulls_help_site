@@ -44,6 +44,7 @@ nav:
       - 'Navigation Bar': 'member/nav-bar.md'
       - 'Wallet': 'member/wallet.md'
       - 'Tweak': 'member/tweak.md'
+  - 'Developer Options': 'developers.md'
 
 plugins:
   - search                                  # necessary for search to work

@@ -34,15 +34,6 @@ There are 3 menu options here - `Backtesting`, `Paper Trading` and `Combined Res
 
 `Density` - Choose the density of the data you see. Options are Larger, Middle and Compact
 
-!!! info
-    Ask J if the above can be
-    
-     * Larger / Normal / Smaller
-     
-     OR
-     
-     * Expanded / Standard / Compact 
-
 `Full Screen` - The current tab on your browser goes Full Screen. Click again to go back to normal. This is similar to pressing F11 on most browsers and operating systems.
 
 `Settings` - You can select which columns should be visible through here. 
@@ -70,15 +61,6 @@ There are 3 menu options here - `Backtesting`, `Paper Trading` and `Combined Res
 `Refresh` - If you are not able to see an entry (possibly a most recent one) in the table, click Refresh to check again.
 
 `Density` - Choose the density of the data you see. Options are Larger, Middle and Compact
-
-!!! info
-    Ask J if the above can be
-    
-     * Larger / Normal / Smaller
-     
-     OR
-     
-     * Expanded / Standard / Compact 
 
 `Full Screen` - The current tab on your browser goes Full Screen. Click again to go back to normal. This is similar to pressing F11 on most browsers and operating systems.
 

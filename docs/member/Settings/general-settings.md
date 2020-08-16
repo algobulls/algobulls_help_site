@@ -79,4 +79,4 @@ We provide:
 
 ![Profile](imgs/general-settings-6.png)
 
-[Email us]() to know more! 
+[Email us](mailto:support@algobulls.com) to know more! 

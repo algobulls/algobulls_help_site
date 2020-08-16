@@ -12,7 +12,6 @@ $ pip install -f requirements.txt
 ### Generate docs
 ```
 $ mkdocs build
-
 ```
 Docs would be generated in `site` folder in the same directory
 
