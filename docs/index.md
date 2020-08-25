@@ -16,17 +16,12 @@ Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental 
 ## 3) Add funds into your Algobulls account
 Click [here](member/wallet.md) to know more about your Wallet. All pricing, packages and adding funds into your Algobulls account are covered here.
 
+## 4) Update your Risk Management Settings
+Click [here](/member/Settings/general-settings/#risk-management) to know more about your Risk Management Settings.
 
-## 4) Update your trading risk
-Click [here](member/Settings/general-settings.md) to know more about updating your trading risk.
+`MAX Capital Drawdown` is your Risk Appetite. Real Trading will stop when this limit is breached.
 
-Trading Risk is the amount till which the AlgoBulls platform should execute your trade.
-
-Example, if you have 100,000 in your broker account and you enter your trading risk amount as 80,000, then AlgoBulls will keep firing trades through your broker account till the funds in your broker account reach 80,000.
-
-On reaching 80,000, all trading will stop.
-
-Example, if you have 100,000 in your broker account and you enter your trading risk amount as 120,000, then AlgoBulls will not start trading, as the amount in your broker account is already less than the acceptable risk amount. 
+`Desired Profit` is the value of your Profit Limit. Read Trading will stop when this value is achieved.
 
 ## 5) Broker Account and Binding
 
@@ -34,9 +29,9 @@ You need to have a valid working broking account before you start algorithmic tr
 
 We currently offer support for the following brokers. (More on the way!)
 
+* Alice Blue
 * Zerodha
 * Mastertrust
-* Aliceblue
 * Upstox
 
 Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
@@ -52,7 +47,7 @@ Make sure you sign up and setup your account with any of these brokers before pr
     
     * Your broker account may not have sufficient funds
     
-    * Currency Segment in your broker account is not yet activated. (This happens with new accounts, and though Zerodha activates this by default, Alice Blue takes 24 hours to do so)
+    * Currency Segment in your broker account is not yet activated. (This happens with new accounts, and though some brokers activate this by default, other may take takes 24 hours or more to do so)
     
     * Due to market volatility, your broker may have stopped taking bracket order requests. (Any bracket order strategies currently running in your platform account will stop showing any new orders)
     
@@ -61,7 +56,7 @@ Make sure you sign up and setup your account with any of these brokers before pr
     * Every strategy may not run with every broker. This is due to permission issues at the broker end.
     
     * Once your trading starts, the AlgoBulls platform has no control over the brokerage charges levied by your broker. Please have a look at all charges on the broker side before going ahead.
-     ([Zerodha](https://zerodha.com/), [Alice Blue](https://www.aliceblueonline.com/), [Master Trust](https://www.mastertrust.co.in/), [Upstox](https://upstox.com/)) 
+     ([Alice Blue](https://www.aliceblueonline.com/), [Zerodha](https://zerodha.com/), [Master Trust](https://www.mastertrust.co.in/), [Upstox](https://upstox.com/)) 
 
 !!! info
     You can help us improve this site by submitting updates on our GitHub repository. 

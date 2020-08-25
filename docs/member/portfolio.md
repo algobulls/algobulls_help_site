@@ -6,7 +6,7 @@ The Portfolio page is your complete overview of the strategies availed by you.
 
 If this page does not have any entries, you can add a strategy using the `Choose Algo Strategy` link. 
 
-![Portfolio](imgs/portfolio-1.png)
+![Portfolio](imgs/portfolio_main.png)
 
 Click the `Add AlgoBulls Money` button to add funds into your account.
 
@@ -20,7 +20,7 @@ Click ![Portfolio](imgs/portfolio-6.png) to edit/set the `Capital Drawn Set Upto
 
 You can also set/edit whether an agent will be mnanaging your Portfolio be checking out the `Portfolio management assigned to` field. 
 
-![Portfolio](imgs/portfolio-2.png)
+![Portfolio](imgs/portfolio_rhs.png)
 
 The `Summary Bar` shows the following metrics:
 
@@ -38,9 +38,9 @@ The `Summary Bar` shows the following metrics:
 
 ## Fields
 ---
-`Table Fields` - The table covers the following fields: Last Activity At, Strategy Code, Strategy Name, Strategy From, No of Trades, Current P&L, Quantity, Status, Logs, Action.
+`Table Fields` - The table covers the following fields: Last Activity At, Strategy Code, Strategy Name, Strategy From, No of Trades, Current P&L, Instruments, Quantity, Status, Reports, Logs, Action.
 
-![Portfolio](imgs/portfolio-4.png)
+[ ![Portfolio](imgs/portfolio_fields.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/portfolio_fields.png)
 
 !!! note
     The `Strategy From` field will have one of the three values - Choose / Choose Tweak / Choose Premium. 

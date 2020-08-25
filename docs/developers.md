@@ -2,7 +2,7 @@
 
 You can use the Developer Options offered by the AlgoBulls Platform to **create**, **load**, **test** and **execute** your own strategies.
 
-* **Create** - Write your own strategy code in Python using the [pyalgotrading](https://github.com/algobulls/pyalgotrading/) package. Read the [documentation](https://algobulls.github.io/pyalgotrading/) for this package to learn more!
+* **Create** - Write your own strategy code in Python using the [pyalgotrading](https://github.com/algobulls/pyalgotrading/) package. Read the [API documentation](https://algobulls.github.io/pyalgotrading/) for this package to learn more!
 
 * **Load** - Write Python code in a Jupyter Notebook to [upload](https://algobulls.github.io/pyalgotrading/upload/) your strategy into your AlgoBulls account for testing.
 
@@ -12,7 +12,7 @@ You can use the Developer Options offered by the AlgoBulls Platform to **create*
 
 * **Execute** - Write Python code in a Jupyter Notebook to execute Real Trading in your Portfolio using your strategy. Alternatively, login to the AlgoBulls Website to access you account and start Real Trading on  your strategy.
 
-    [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](/member/portfolio/)
+    [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](/member/portfolio)
 
 ## Checklist for Backtesting and Paper Trading
 ---
@@ -49,13 +49,13 @@ Now you can perform Backtesting and Paper Trading for your strategy using Python
     * AlgoBulls reserves the right to suspend or deactivate your account without notice if your Aadhar and PAN details are not valid.
     * Any plans which are activated will not be refunded and the lost days cannot be redeemed while the account is re-activated upon uploading the proper details.
 
-##  Source Documentation and Tutorial Resources
+##  API Documentation and Tutorial Resources
 ---
 
    * [Tutorial](https://algobulls.github.io/pyalgotrading/introduction/)
 
-   * [Source Docs](https://algobulls.github.io/pyalgotrading/package_pyalgotrading/)
-
+   * [API](https://algobulls.github.io/pyalgotrading/package_algobulls/)
+  
 ## Indian Markets
 ---
 
