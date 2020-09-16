@@ -5,16 +5,25 @@
 ## Introduction
 Welcome! We think you should go through the list below and see that you have understood and ticked off all the points!
 
+## Before you start
+---
+* Customers looking to do only Backtesting and Paper Trading can do the `Registration and Sign-Up` step and `Add funds into your Algobulls account` step given below.
+
+* Customers looking to do Real Trading on Indian Makets and Exchanges will need to tick-off all steps given below.
+
 ## 1) Registration and Sign-Up
 Visit [the site](https://www.algobulls.com/) and sign-up to the AlgoBulls platform.
 
-## 2) General Settings
+## 2) Add funds into your Algobulls account
+Click [here](member/wallet.md) to know more about your Wallet. All pricing, packages and adding funds into your Algobulls account are covered here.
+
+## 3) General Settings
 After signing up to the platform, visit [here](member/Settings/general-settings.md) to know more about updating your KYC details.
 
 Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental regulations for trading online.
 
-## 3) Add funds into your Algobulls account
-Click [here](member/wallet.md) to know more about your Wallet. All pricing, packages and adding funds into your Algobulls account are covered here.
+!!! Note
+    * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
 
 ## 4) Update your Risk Management Settings
 Click [here](/member/Settings/general-settings/#risk-management) to know more about your Risk Management Settings.
@@ -22,6 +31,9 @@ Click [here](/member/Settings/general-settings/#risk-management) to know more ab
 `MAX Capital Drawdown` is your Risk Appetite. Real Trading will stop when this limit is breached.
 
 `Desired Profit` is the value of your Profit Limit. Read Trading will stop when this value is achieved.
+
+!!! Note
+    * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
 
 ## 5) Broker Account and Binding
 
@@ -36,11 +48,10 @@ We currently offer support for the following brokers. (More on the way!)
 
 Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
 
-!!! tldr
-    All the above points are the minimum actions you need to take to start algorithmic trading with the AlgoBulls platform.
-    
-!!! note
-    If your trading has still not started, look at the possible reasons below. Please contact your relationship manager if you think there is another reason as to why your trading has not started. Alternatively, you can [Email us](mailto:support@algobulls.com).
+!!! Note
+    * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
+---
+If your trading has still not started, look at the possible reasons below. Please contact your relationship manager if you think there is another reason as to why your trading has not started. Alternatively, you can [Email us](mailto:support@algobulls.com).
     
 !!! warning
     Even after completing the all the points mentioned above, trading might not start because of the follwing reasons:
