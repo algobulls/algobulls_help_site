@@ -27,8 +27,8 @@ There are 3 tabs here:
 | Add a strategy from Marketplace to your Portfolio        | <font size=6>🆓</font>  |
 | View backtesting reports for a strategy from Marketplace | <font size=6>🆓</font>   |
 | Tweak (change parameters of) a strategy                  | <font size=6>🆓</font>   |
-| Run backtesting for a tweaked strategy                   | <font size=6>💰</font>    |
-| Run paper trading for a strategy                         | <font size=6>💰</font>    |
+| Run backtesting for a tweaked strategy                   | <font size=6>💰</font> Rs. 1/min   |
+| Run paper trading for a strategy                         | <font size=6>💰</font> Rs. 1/min    |
 | Run real trading for a strategy                          | <font size=6>💰</font>    |
 
 ## Plans

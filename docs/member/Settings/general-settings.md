@@ -28,9 +28,6 @@ The following list gives a short brief about each field.
 
 ![Profile](imgs/general-settings-2.png)
 
-!!! info
-    `Title` - Ask J about this (What is Title field?).
-
 `Bio` - A quick "About Me" that helps us to know more about you to interact with you suitably. Any links to your LinkedIn or other social media is also useful.
 
 `Experience` - Our experts can interact with you better over phone/email if we know the extent of your market knowledge.
@@ -44,19 +41,18 @@ The following list gives a short brief about each field.
     
     Any packages or payments done to the AlgoBulls platform will continue during you account's deactivated period and cannot be redeemed or extended. 
 
-## Risk Management
----
+[//]: <> (## Risk Management)
+[//]: <> (---)
 
-![General-Settings](imgs/risk-mgmt1.png)
+[//]: <> (![General-Settings](imgs/risk-mgmt1.png))
 
-Both the values `MAX Capital Drawdown` and `Desired Profit` should be filled. Click on `Modify` on each field to enter your values.
+[//]: <> (Both the values `MAX Capital Drawdown` and `Desired Profit` should be filled. Click on `Modify` on each field to enter your values.)
 
-!!! Note
-    Real Trading will not start in your account, if both the Risk Management fields are left empty. 
+[//]: <> (!!! Note)
+[//]: <> (    Real Trading will not start in your account, if both the Risk Management fields are left empty.) 
 
-!!! Important
-    Once your risk amount entered here matches or is already less than the amount in your broking account, all trading on the AlgoBulls platfrom will automatically stop.
-
+[//]: <> (!!! Important)
+[//]: <> (    Once your risk amount entered here matches or is already less than the amount in your broking account, all trading on the AlgoBulls platfrom will automatically stop.)
 
 ## Trade Manager
 ---
