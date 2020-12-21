@@ -9,7 +9,7 @@ This page shows all the activities done by your strategies in your account. All 
 ## Fields
 The following list gives a short brief about each field.
 
-`Table Fields` - The table covers the following fields: Timestamp, Broker, Strategy, AlgoBulls Order ID, Broker Order ID, Exchange Order ID, Instrument, Transaction Type, Quantity, Price.
+`Table Fields` - The table covers the following fields: Timestamp, Broker, Strategy, AlgoBulls Order ID, Broker Order ID, Instrument, Transaction Type, Quantity, Price.
 
 `Filters` - Choose one or more filters to display those activities in the table below.
 

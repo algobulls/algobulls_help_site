@@ -4,13 +4,13 @@
 
 This page shows all the charges that your account has been charged against. The page shows your most recent charges, followed by older ones down the line. To get a better understanding, you can filter your transactions by category, and/or check your transactions within a date range.
 
-![Fundbook](imgs/fundbook-1.png)
+![Fundbook](imgs/FB1.png)
 
 ## Fields
 ---
 The following list gives a short brief about each field.
 
-`Table Fields` - The table covers the following fields: Timestamp, Category, Description/Particular, Debit, Credit, Remaining Amount/Net.
+`Table Fields` - The table covers the following fields: Timestamp, Category, Particulars, Debit, Credit, Net.
 
 `Filters` - Choose one or more filters to display those particular categories. Choose among the options shown below.
 

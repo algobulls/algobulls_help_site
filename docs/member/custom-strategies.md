@@ -4,16 +4,16 @@
 
 This page displays a list of all your strategies that you may set as Backtesting, Paper Trading or Real Trading (Portfolio).
 
-The ...(Ellipsis) to the right give some navigation options, like switching to [Portfolio](portfolio.md) or jumping to Backtesting / Paper Testing.
+![Custom Strategies](imgs/screenshots/MS1.png)
 
-## Paper Trading Fields
+## Fields
 ---
-`Table Fields` - The table covers the following fields: Last Activity At, Strategy Code, Strategy Name, Strategy From, Add to Backtesting, Add to Paper Trading, Add to Portfolio.
+`Table Fields` - The table covers the following fields: Last Activity At, Code, Strategy, Tag, Source, Instrument(s), Add to Backtesting, Add to Paper Trading, Add to Portfolio.
 
-![Custom Strategies](imgs/custom-1.png)
+![Custom Strategies](imgs/screenshots/MS2.png)
 
 !!! note
-    The `Strategy From` field will have one of the three values - Choose / Choose Tweak / Choose Premium. 
+    The `Source` field will have one of the three values - CHOOSE, CHOOSE (TWEAK), BUILD_PYTHON (TWEAK). 
     
     Choose reflects in `Choose Strategy` from the `Summary Bar`.
     

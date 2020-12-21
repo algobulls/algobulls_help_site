@@ -1,4 +1,4 @@
-Plans and Wallet
+# Plans and Wallet
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWfAVlhbDbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -35,7 +35,7 @@ There are 3 tabs here:
 
 The following is a list of plans currently offered by our platform.
 
-![Nav](imgs/money-13.png)
+![Nav](imgs/screenshots/Plans_Wallet.png)
 
 Click on the amount button of any plan to initiate payment for that plan. 
 
