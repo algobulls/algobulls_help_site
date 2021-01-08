@@ -69,44 +69,83 @@ Clicking on a Strategy Card will give you a detailed and expanded view of the st
 
 [ ![Marketplace](imgs/mkt3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt3.png)
 
+
+### The LHS of the Expanded View for a Strategy Card
+---
 The Left Hand Side of the expanded view shows the same details and the toolbar as the market place.
 
-In addition to that, the following details are visible: `Strategy Code`, `Minimum Capital Required`, `Transaction Charges (in %)`, `Recommended Duration (Days)`, and `Required Risk Appetite`.
+In addition to that, the following details are visible:
+
+ * `Strategy Code` - 
+ * `Minimum Capital Required` - 
+ * `Transaction Charges (in %)` - 
+ * `Recommended Duration (Days)` - 
+ * `Required Risk Appetite` - 
 
 [ ![Marketplace](imgs/market-place-4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/market-place-4.png)
 
-The Right Hand Side of the expanded view has 2 tabs: `Algorithm Strategy` and `Backtesting Report`.
+### The RHS of the Expanded View for a Strategy Card
+---
 
-`Algorithm Strategy` has 2 tabs: `Parameters` and `Details`.
+The Right Hand Side of the expanded view has 2 tabs:
+ 
+ * `Strategy Algorithm` - 
+ * `Backtesting Report` - 
 
-`Backtesting Report` has 3 tabs: `Summary`, `Returns` and `Tradebook`.
+#### Strategy Algorithm
+---
+`Algorithm Strategy` has 2 tabs:
+ 
+ * `Parameters` - 
+    * `Strategy By` -
+    * `Strategy Name` -
+    * `Exchange` -
+    * `Segment` -
+    * `Instrument` -
+    * `Candle Interval` -
+    * `Trading Type` -
+    * `Trading Start Time` -
+    * `Trading Stop Time` -
+    * `Parameters` - 
+ * `Details` - 
 
-Click on each tab below to know more.
-
-=== "Algorithm Strategy"
-    === "Parameters"
-        This displays all the parameters of the strategy. Click on `Tweak` to edit these parameters as per your requirements.
-        
-        [ ![Marketplace](imgs/mkt4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt4.png)
-        
-    === "Details"
-        This tab describes the strategy in detail. You will see the description of the strategy, the signal generation conditions, the explanation and an associated graph wih it.
-        
-        [ ![Marketplace](imgs/mkt5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt5.png)
-        
-=== "Backtesting Report"
-    === "Summary"
-        The report summary is displayed here.
-        
-        [ ![Marketplace](imgs/mkt6.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt6.png)
-        
-    === "Returns"
-        This displays all the returns given by the strategy.
-        
-        [ ![Marketplace](imgs/mkt7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt7.png)
-        
-    === "Tradebook"
-        This displays all the trades punched during the Backtesting.
-        
-        [ ![Marketplace](imgs/mkt8.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt8.png)
-
+#### Backtesting Report
+---
+`Backtesting Report` has 4 tabs:
+ 
+ * `Summary` - 
+    * `Net PnL` - 
+    * `Net PnL %` - 
+    * `Max Drawdown` - 
+    * `Max Drawdown %` - 
+    * `Number of Trades` - 
+    * `Number of Wins` - 
+    * `Number of Looses` - 
+    * `Number of Long Trades` - 
+    * `Number of Short Trades` - 
+    * `Max Gain` - 
+    * `Min Gain` - 
+    * `Avg. Profit per winning trade` - 
+    * `Avg. Profit per losing trade` - 
+ * `Returns` - 
+    * `All Time` -	
+    * `Last month` - 
+    * `Last 2 weeks` - 
+    * `Last 3 days` - 
+ * `Tradebook` - 
+    * `Instrument` -
+    * `Entry Time` -	
+    * `Entry` -	
+    * `Entry Qty.` -	
+    * `Entry Price` -	
+    * `Exit Time` -	
+    * `Exit` -	
+    * `Exit Qty.` -	
+    * `Exit Price` -	
+    * `PnL (Rs.) / PnL %` -	
+    * `PnL Cum. (Rs.) / PnL Cum. %` -
+ * `Insights (Beta)` - 
+    * `P&L Absolute (Rs.)` -
+    * `P&L %` -
+    * `P&L Cumulative Absolute (Rs.)` -
+    * `P&L Cumulative %` -
