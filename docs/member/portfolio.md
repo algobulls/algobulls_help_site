@@ -30,7 +30,19 @@ The `Summary Bar` shows the following metrics:
 
 ## Fields
 ---
-`Table Fields` - The table covers the following fields: Last Activity At, Code, Strategy, Tag, Source, Config, Instrument(s), Qty. (Lots), Status, Logs, Action.
+The table covers the following fields: 
+
+* `Last Activity At` - 
+* `Code` - 
+* `Strategy` - 
+* `Tag` - 
+* `Source` - 
+* `Config` - 
+* `Instrument(s)` - 
+* `Qty. (Lots)` - 
+* `Status` - 
+* `Logs` - 
+* `Action` - 
 
 [ ![Portfolio](imgs/portfolio_fields.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/portfolio_fields.png)
 

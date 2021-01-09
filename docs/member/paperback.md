@@ -29,9 +29,47 @@ There are 3 menu options here - `Backtesting`, `Paper Trading` and `Combined Res
 
 ![PTB](imgs/ptb-6.gif)
 
+## Table Fields for Backtesting and Paper Trading
+---
+The table covers the following fields: 
+
+* `Last Activity At` - 
+* `Code` - 
+* `Strategy` - 
+* `Tag` - 
+* `Source` - 
+* `Customize` - 
+* `Instrument(s)` - 
+* `Qty. (Lots)` - 
+* `Status` - 
+* `Reports` -
+* `Logs` - 
+* `Add to Portfolio` -
+* `Action` - 
+
 ## Combined Results Fields
 ---
-`Table Fields` - The table covers the following fields: Last Activity At, Code, Strategy, Tag, Source, Backtesting PnL, Backtesting PnL %, Max Drawdown, Number of Trades, Number of Wins, Number of Losses, Number of Long Trades, Number of Short Trades, Max Gain, Min Gain, Avg. Profit per winning trade, Avg. Profit per losing trade, Add to Portfolio, Action.
+The table covers the following fields: 
+
+* `Last Activity At` - 
+* `Code` - 
+* `Strategy` - 
+* `Tag` - 
+* `Source` - 
+* `Backtesting PnL` - 
+* `Backtesting PnL %` - 
+* `Max Drawdown` - 
+* `Number of Trades` - 
+* `Number of Wins` - 	
+* `Number of Losses` - 	
+* `Number of Long Trades` - 	
+* `Number of Short Trades` - 	
+* `Max Gain` - 	
+* `Min Gain` - 	
+* `Avg. Profit per winning trade` - 
+* `Avg. Profit per losing trade` - 
+* `Add to Portfolio` -
+* `Action` - 
 
 ![PTB](imgs/ptb-5.png)
 

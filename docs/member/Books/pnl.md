@@ -8,19 +8,19 @@ This page shows the Proft and Loss of your trades in your account. All trades/or
 
 ## Fields
 ---
-The following list gives a short brief about each field.
-
-`Table Fields` - The table covers the following fields: Strategy, Instrument, Entry Time, Entry, Entry Qty., Entry Price, Exit Time, Exit, Exit Qty., Exit Price, PnL, PnL %
-
-`Filters` - Choose one or more filters to display those activities in the table below.
-
-* `Strategy` - Choose one or more strategies to display them in the table below.
-These entries are populated as per the strategies opted/created by you.
-
-* `Instrument` - Choose one or more instruments to display them in the table below.
-These entries are populated as per the instruments on which your strategies are fired on. An example is shown below.
-
-* `Start/End Date` - Give the date range to view the table for the selected strategy and instrument (if any)
+The table covers the following fields:
+ 
+* `Strategy	Instrument` - 
+* `Entry Time` - 
+* `Entry` - 
+* `Entry Qty.` - 
+* `Entry Price` - 
+* `Exit Time` - 
+* `Exit` - 
+* `Exit Qty.` - 
+* `Exit Price` - 
+* `PnL` - 
+* `PnL %` - 
 
 ![TradebookInstruments](imgs/pnl-2.png)
 

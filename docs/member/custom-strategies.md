@@ -8,7 +8,17 @@ This page displays a list of all your strategies that you may set as Backtesting
 
 ## Fields
 ---
-`Table Fields` - The table covers the following fields: Last Activity At, Code, Strategy, Tag, Source, Instrument(s), Add to Backtesting, Add to Paper Trading, Add to Portfolio.
+The table covers the following fields:
+ 
+* `Last Activity At` - 
+* `Code` - 
+* `Strategy` - 
+* `Tag` - 
+* `Source` - 
+* `Instrument(s)` - 
+* `Add to Backtesting` - 
+* `Add to Paper Trading` - 
+* `Add to Portfolio` -	 
 
 ![Custom Strategies](imgs/screenshots/MS2.png)
 

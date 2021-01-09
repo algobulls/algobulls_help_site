@@ -6,7 +6,7 @@ This page shows all the activities done by your strategies in your account. All 
 
 ![Tradebook](imgs/tradebook-1.png)
 
-## Fields
+## Filters
 The following list gives a short brief about each field.
 
 `Table Fields` - The table covers the following fields: Timestamp, Broker, Strategy, AlgoBulls Order ID, Broker Order ID, Instrument, Transaction Type, Quantity, Price.
@@ -20,6 +20,20 @@ These entries are populated as per the strategies opted/created by you.
 These entries are populated as per the instruments on which your strategies are fired on. An example is shown below.
 
 * `Start/End Date` - Give the date range to view the table for the selected strategy and instrument (if any)
+
+## Fields
+---
+The table covers the following fields:
+
+* `Timestamp` - 
+* `Broker` - 
+* `Strategy` - 
+* `AlgoBulls Order ID` - 
+* `Broker Order ID` - 
+* `Instrument` - 
+* `Transaction Type` - 
+* `Quantity` - 
+* `Price` - 
 
 ![TradebookInstruments](imgs/tradebook-2.png)
 

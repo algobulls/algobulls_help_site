@@ -94,7 +94,7 @@ The Right Hand Side of the expanded view has 2 tabs:
 
 #### Strategy Algorithm
 ---
-`Algorithm Strategy` has 2 tabs:
+`Strategy Algorithm` has 2 tabs:
  
  * `Parameters` - 
     * `Strategy By` -

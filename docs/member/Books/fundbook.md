@@ -6,7 +6,7 @@ This page shows all the charges that your account has been charged against. The 
 
 ![Fundbook](imgs/FB1.png)
 
-## Fields
+## Filters
 ---
 The following list gives a short brief about each field.
 
@@ -19,6 +19,17 @@ The following list gives a short brief about each field.
 * `Start/End Date` - Give the date range to view the table for the selected category (if any)
 
 ![Filters](imgs/fundbook-2.png)
+
+## Fields
+---
+The table covers the following fields:
+
+* `Timestamp` - 
+* `Category` - 
+* `Particulars` - 
+* `Debit` - 
+* `Credit` - 
+* `Net` - 
 
 ## A look at the toolbar
 ---
