@@ -4,7 +4,7 @@
 
 This page shows all the charges that your account has been charged against. The page shows your most recent charges, followed by older ones down the line. To get a better understanding, you can filter your transactions by category, and/or check your transactions within a date range.
 
-![Fundbook](imgs/FB1.png)
+![Fundbook](imgs/screenshots/FB1.png)
 
 ## Filters
 ---

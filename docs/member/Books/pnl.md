@@ -4,7 +4,21 @@
 
 This page shows the Proft and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. To get a better understanding, you can filter your activities using the filters, strategy, instrument and date range.
 
-![Tradebook](imgs/PnL1.png)
+![PnLBook](imgs/PnL1.png)
+
+## Filters
+---
+Filters  will allow you to selectively search for a particular entry or emtries. 
+
+* `Strategies` - Choose one or more strategies to display them in the table below.
+These entries are populated as per the strategies opted/created by you.
+
+* `Instrument` - Choose one or more instruments to display them in the table below.
+These entries are populated as per the instruments on which your strategies are fired on.
+
+* `Date Range` - Give the date range to view the table for the selected strategy and instrument (if any)
+
+![PnLBook](imgs/pnl-2.png)
 
 ## Fields
 ---
@@ -22,8 +36,8 @@ The table covers the following fields:
 * `PnL` - 
 * `PnL %` - 
 
-![TradebookInstruments](imgs/pnl-2.png)
 
+[ ![PnLBook](imgs/PnL1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/PnL1.png)
 ## A look at the toolbar
 ---
 

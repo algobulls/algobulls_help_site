@@ -41,10 +41,6 @@ Click on the amount button of any plan to initiate payment for that plan.
 
 ![Nav](imgs/money-3.gif)
 
-Here is an overview of all plans offered by our platform.
-
-![Nav](imgs/money-12.gif)
-
 Click on `Active Plans` to see the plan(s) currently active in your account.
 
 ![Nav](imgs/money-9.png)

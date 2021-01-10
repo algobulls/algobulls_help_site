@@ -21,7 +21,7 @@ Click on the Add button to add a new broker account.
 
 Select a broker of your choice. For our example, we select Zerodha.
 
-![Broking](imgs/broker-settings-2.png)
+![Broking](imgs/select-broker-1.png)
 
 Fill the required fields. (Fields marked with asterisk are required)
 

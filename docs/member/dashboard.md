@@ -16,7 +16,7 @@ Click `Add Broking Details and Bind Account` to bind a broker account to the Alg
 
 Before binding an account, you will see this.
 
-![Dashboard](imgs/screenshots/broking_account_negative_shadow.png)
+![Dashboard](imgs/screenshots/broking_account_negative.png)
 
 After binding an account, you will see this.
 

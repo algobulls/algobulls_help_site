@@ -1,4 +1,4 @@
-# General Settings
+# Settings
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYeZjPn3jUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -27,6 +27,8 @@ The following list gives a short brief about each field.
 `PAN Number` - Your PAN Card number. This is required as per the governmental regulations for trading online.
 
 ![Profile](imgs/general-settings-2.png)
+
+`Title` - A suitable one liner description for your bio.
 
 `Bio` - A quick "About Me" that helps us to know more about you to interact with you suitably. Any links to your LinkedIn or other social media is also useful.
 
