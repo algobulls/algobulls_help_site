@@ -9,16 +9,16 @@ This page displays a list of all your strategies that you may set as Backtesting
 ## Fields
 ---
 The table covers the following fields:
- 
-* `Last Activity At` - 
-* `Code` - 
-* `Strategy` - 
-* `Tag` - 
-* `Source` - 
-* `Instrument(s)` - 
-* `Add to Backtesting` - 
-* `Add to Paper Trading` - 
-* `Add to Portfolio` -	 
+
+* `Last Activity At` - Shows last time the strategy was run.
+* `Code` - Code of the Strategy.
+* `Strategy` - Name of the Strategy
+* `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
+* `Source` - Type of Strategy for eg: Build, Tweak or Develop.
+* `Instrument(s)` - Instrument on which the strategy is being run.
+* `Add to Backtesting` - Adds strategy to Backtesting.
+* `Add to Paper Trading` - Adds strategy to Papertrading.
+* `Add to Portfolio` - Adds strategy to Portfolio.
 
 ![Custom Strategies](imgs/screenshots/MS2.png)
 

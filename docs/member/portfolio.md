@@ -32,17 +32,17 @@ The `Summary Bar` shows the following metrics:
 ---
 The table covers the following fields: 
 
-* `Last Activity At` - 
-* `Code` - 
-* `Strategy` - 
-* `Tag` - 
-* `Source` - 
-* `Config` - 
-* `Instrument(s)` - 
-* `Qty. (Lots)` - 
-* `Status` - 
-* `Logs` - 
-* `Action` - 
+* `Last Activity At` - Shows last time the strategy was run.
+* `Code` - Code of the Strategy.
+* `Strategy` - Name of the Strategy
+* `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
+* `Source` - Type of Strategy for eg: Build, Tweak or Develop.
+* `Config` - Change parameters and other configuration from here.
+* `Instrument(s)` - Instrument on which the strategy is being run.
+* `Qty. (Lots)` - Quantity/Lots being traded.
+* `Status` - States the Status of the strategy if it is Started or Stopped.
+* `Logs` - You can access the logs from here.
+* `Action` - Option to whether Start or Stop the Strategy.
 
 [ ![Portfolio](imgs/portfolio_fields.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/portfolio_fields.png)
 

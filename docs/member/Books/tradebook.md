@@ -25,15 +25,15 @@ These entries are populated as per the instruments on which your strategies are 
 ---
 The table covers the following fields:
 
-* `Timestamp` - 
-* `Broker` - 
-* `Strategy` - 
-* `AlgoBulls Order ID` - 
-* `Broker Order ID` - 
-* `Instrument` - 
-* `Transaction Type` - 
-* `Quantity` - 
-* `Price` - 
+* `Timestamp` - Execution time of trade.
+* `Broker` - Broker with whom the trade was executed.
+* `Strategy` - Name of strategy that placed the trade.
+* `AlgoBulls Order ID` - Unique AlgoBulls order ID. This helps in mapping correct entry/exit orders.
+* `Broker Order ID` - Unique Broker order ID. This helps in mapping correct entry/exit orders.
+* `Instrument` - Instrument on which the strategy is being run.
+* `Transaction Type` - Transaction type of trade. For eg: Buy or Sell.
+* `Quantity` - Quantity of the trade.
+* `Price` - Price of trade.
 
 ![TradebookInstruments](imgs/tradebook-2.png)
 

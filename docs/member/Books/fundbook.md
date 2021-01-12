@@ -24,12 +24,12 @@ The following list gives a short brief about each field.
 ---
 The table covers the following fields:
 
-* `Timestamp` - 
-* `Category` - 
-* `Particulars` - 
-* `Debit` - 
-* `Credit` - 
-* `Net` - 
+* `Timestamp` - Time of Transaction.
+* `Category` - Nature of  Transaction.
+* `Particulars` - Details of Transaction (No. of minutes usage)
+* `Debit` -  Amount if Debit on the date of transaction.
+* `Credit` - Amount if Credit on the date of transaction.
+* `Net` - Net Debit or Credit as on date.
 
 ## A look at the toolbar
 ---

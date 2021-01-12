@@ -24,17 +24,18 @@ These entries are populated as per the instruments on which your strategies are 
 ---
 The table covers the following fields:
  
-* `Strategy	Instrument` - 
-* `Entry Time` - 
-* `Entry` - 
-* `Entry Qty.` - 
-* `Entry Price` - 
-* `Exit Time` - 
-* `Exit` - 
-* `Exit Qty.` - 
-* `Exit Price` - 
-* `PnL` - 
-* `PnL %` - 
+* `Strategy` - Name of the Strategy.
+* `Instrument` - Instrument on which the backtesting was run.
+* `Entry Time` - Entry Time of Trade.
+* `Entry` - Entry Type of Trade.
+* `Entry Qty.` - Entry Quantity of Trade.
+* `Entry Price` - Entry Price of Trade.
+* `Exit Time` - Exit Time of Trade.
+* `Exit` - Exit Type of Trade.
+* `Exit Qty.` - Exit Quantity of Trade.
+* `Exit Price` - Exit Price of Trade.
+* `PnL` - Pnl of the Trade.
+* `PnL %` - Pnl % of the Trade.
 
 
 [ ![PnLBook](imgs/PnL1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/PnL1.png)

@@ -33,43 +33,43 @@ There are 3 menu options here - `Backtesting`, `Paper Trading` and `Combined Res
 ---
 The table covers the following fields: 
 
-* `Last Activity At` - 
-* `Code` - 
-* `Strategy` - 
-* `Tag` - 
-* `Source` - 
+* `Last Activity At` - Shows last time the strategy was run.
+* `Code` - Code of the Strategy.
+* `Strategy` - Name of the Strategy
+* `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
+* `Source` - Type of Strategy for eg: Build, Tweak or Develop.
 * `Customize` - 
-* `Instrument(s)` - 
-* `Qty. (Lots)` - 
-* `Status` - 
-* `Reports` -
-* `Logs` - 
-* `Add to Portfolio` -
-* `Action` - 
+* `Instrument(s)` - Instrument on which the strategy is being run.
+* `Qty. (Lots)` - Quantity/Lots being traded.
+* `Status` - States the Status of the strategy if it is Started or Stopped.
+* `Reports` - 
+* `Logs` - You can access the logs from here.
+* `Add to Portfolio` - Adds strategy to Portfolio.
+* `Action` - Option to whether Start or Stop the Strategy.
 
 ## Combined Results Fields
 ---
 The table covers the following fields: 
 
-* `Last Activity At` - 
-* `Code` - 
-* `Strategy` - 
-* `Tag` - 
-* `Source` - 
-* `Backtesting PnL` - 
-* `Backtesting PnL %` - 
-* `Max Drawdown` - 
-* `Number of Trades` - 
-* `Number of Wins` - 	
-* `Number of Losses` - 	
-* `Number of Long Trades` - 	
-* `Number of Short Trades` - 	
-* `Max Gain` - 	
-* `Min Gain` - 	
-* `Avg. Profit per winning trade` - 
-* `Avg. Profit per losing trade` - 
-* `Add to Portfolio` -
-* `Action` - 
+* `Last Activity At` - Shows last time the strategy was run.
+* `Code` - Code of the Strategy.
+* `Strategy` - Name of the Strategy.
+* `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
+* `Source` - Type of Strategy for eg: Build, Tweak or Develop.
+* `Backtesting PnL` - Net PnL of the strategy.
+* `Backtesting PnL %` - Net PnL of the strategy in absolute percentage.
+* `Max Drawdown` - Max drawdown the strategy suffered during backtesting period.
+* `Number of Trades` - No. of signals strategy generated during the backtesting.
+* `Number of Wins` - No. of wins during the backtesting period.
+* `Number of Losses` - No. of losses during the backtesting period.
+* `Number of Long Trades` - No. of Long Trades strategy generated during backtesting period.
+* `Number of Short Trades` - No. of Short Trades strategy generated during backtesting period.
+* `Max Gain` - Max Gain during backtesting period.
+* `Min Gain` - Min Gain during backtesting period. This is different than Drawdown in a way that it considers minimum possible return from strategy.
+* `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins.
+* `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins.
+* `Add to Portfolio` - Adds the Strategy to Portfolio from where it can be traded in live market.
+* `Action` - Lets users delete the strategy card from the account.
 
 ![PTB](imgs/ptb-5.png)
 
