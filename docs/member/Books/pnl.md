@@ -2,13 +2,13 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y7ry8Bmz8QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This page shows the Proft and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. To get a better understanding, you can filter your activities using the filters, strategy, instrument and date range.
+This page shows the Profit and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. To get a better understanding, you can filter your activities using the filters, strategy, instrument and date range.
 
 ![PnLBook](imgs/PnL1.png)
 
 ## Filters
 ---
-Filters  will allow you to selectively search for a particular entry or emtries. 
+Filters  will allow you to selectively search for a particular entry or entries. 
 
 * `Strategies` - Choose one or more strategies to display them in the table below.
 These entries are populated as per the strategies opted/created by you.

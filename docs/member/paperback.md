@@ -37,7 +37,7 @@ The table covers the following fields:
 * `Code` - Code of the Strategy.
 * `Strategy` - Name of the Strategy
 * `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
-* `Source` - Type of Strategy for eg: Build, Tweak or Develop.
+* `Source` - Type of the Strategy viz. Build, Tweak or Develop.
 * `Customize` - 
 * `Instrument(s)` - Instrument on which the strategy is being run.
 * `Qty. (Lots)` - Quantity/Lots being traded.
@@ -55,7 +55,7 @@ The table covers the following fields:
 * `Code` - Code of the Strategy.
 * `Strategy` - Name of the Strategy.
 * `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
-* `Source` - Type of Strategy for eg: Build, Tweak or Develop.
+* `Source` - Type of the Strategy viz. Build, Tweak or Develop.
 * `Backtesting PnL` - Net PnL of the strategy.
 * `Backtesting PnL %` - Net PnL of the strategy in absolute percentage.
 * `Max Drawdown` - Max drawdown the strategy suffered during backtesting period.
@@ -65,7 +65,7 @@ The table covers the following fields:
 * `Number of Long Trades` - No. of Long Trades strategy generated during backtesting period.
 * `Number of Short Trades` - No. of Short Trades strategy generated during backtesting period.
 * `Max Gain` - Max Gain during backtesting period.
-* `Min Gain` - Min Gain during backtesting period. This is different than Drawdown in a way that it considers minimum possible return from strategy.
+* `Min Gain` - Min Gain during backtesting period. This is different than Drawdown in a way that it considers the minimum possible return from strategy.
 * `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins.
 * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins.
 * `Add to Portfolio` - Adds the Strategy to Portfolio from where it can be traded in live market.

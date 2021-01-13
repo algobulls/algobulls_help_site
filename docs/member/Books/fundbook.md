@@ -4,7 +4,7 @@
 
 This page shows all the charges that your account has been charged against. The page shows your most recent charges, followed by older ones down the line. To get a better understanding, you can filter your transactions by category, and/or check your transactions within a date range.
 
-![Fundbook](imgs/screenshots/FB1.png)
+![Fundbook](imgs/FB1.png)
 
 ## Filters
 ---
@@ -14,7 +14,7 @@ The following list gives a short brief about each field.
 
 `Filters` - Choose one or more filters to display those particular categories. Choose among the options shown below.
 
-* `Category` - You can filter along 4 categories, Algobulls Money, Transaction Charges, Credit from Parent and Strategy Build Charges.
+* `Category` - You can filter along 4 categories, AlgoBulls Money, Transaction Charges, Credit from Parent and Strategy Build Charges.
 
 * `Start/End Date` - Give the date range to view the table for the selected category (if any)
 
@@ -27,8 +27,8 @@ The table covers the following fields:
 * `Timestamp` - Time of Transaction.
 * `Category` - Nature of  Transaction.
 * `Particulars` - Details of Transaction (No. of minutes usage)
-* `Debit` -  Amount if Debit on the date of transaction.
-* `Credit` - Amount if Credit on the date of transaction.
+* `Debit` -  Amount Debited on the date of transaction.
+* `Credit` - Amount Credited on the date of transaction.
 * `Net` - Net Debit or Credit as on date.
 
 ## A look at the toolbar

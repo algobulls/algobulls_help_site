@@ -26,7 +26,7 @@ After binding an account, you will see this.
 ---
 The Action Bar gives the following information:
  
- * `Capital Risk Set` - Redirects to Risk Management where user can define the risk appetite. System will stop the strategy once this amount is breached.
+ * `Capital Risk Set` - Redirects to Risk Management where user can define the risk appetite. The strategy stops once this amount is breached.
  * `Portfolio Strategy Added` - Redirect to Portfolio (Real Trading) module which is your complete overview of strategies availed by you.
  * `Real Trading (Started/Stopped)` - Redirects to Portfolio (Real Trading) module which is your complete overview of strategies availed by you. You can start/stop strategy from here.
  * `Backtesting Strategy Added` - Redirects to Backtesting module which is your complete overview of backtesting and real trading strategies availed by you. You can start/stop backtesting/paper trading from here.

@@ -6,7 +6,7 @@
 
 You can add funds to your wallet by clicking the `+ Money` button.
 
-All your actions like tweaking, backtesting, paper trading and real trading are charged according the funds in your wallet (wherever charges are applicable).
+All your actions like tweaking, backtesting, paper trading and real trading are charged according to the funds in your wallet (wherever charges are applicable).
 
 Your funds keep decreasing as and when you are charged, and once the funds become zero, your account stops trading.
 
@@ -16,7 +16,7 @@ There are 3 tabs here:
 
 `Plan` - A category-wise list of packages offering by the platform.
 
-`Active Plans` - The currently active plan(s) in you account.
+`Active Plans` - The currently active plan(s) in your account.
 
 `History` - A list of all amounts that you have added to your wallet over a period of time.
 

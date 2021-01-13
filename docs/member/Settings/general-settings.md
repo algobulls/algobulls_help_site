@@ -14,7 +14,7 @@ The following list gives a short brief about each field.
 
 `Avatar` - Clicking 'Change Avatar' button  will help you to add/change your profile picture. 
 
-`E-mail` - You relationship manager or an AlgoBulls representative will contact you over email/phone. 
+`E-mail` - Your relationship manager or an AlgoBulls representative will contact you over email/phone. 
 
 `Phone Number` - This will display the phone number you have signed up with. This field cannot be changed.
 
@@ -72,7 +72,7 @@ If you AlgoBulls platform account is going to be handled by your agent, enter th
 We offer various services to developers through our platform.
 
 We provide:
-* Notification service thorugh SMS and Email
+* Notification service through SMS and Email
 * Web Socket Service API for connecting with brokers
 
 ![Profile](imgs/general-settings-6.png)

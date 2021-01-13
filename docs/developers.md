@@ -6,11 +6,11 @@ You can use the Developer Options offered by the AlgoBulls Platform to **create*
 
 * **Load** - Write Python code in a Jupyter Notebook to [upload](https://algobulls.github.io/pyalgotrading/upload/) your strategy into your AlgoBulls account for testing.
 
-* **Test** - Write Python code in a Jupyter Notebook to test your strategy into your AlgoBulls account for testing. Alternatively, login to the AlgoBulls Website to access you account and test your strategy.
+* **Test** - Write Python code in a Jupyter Notebook to test your strategy into your AlgoBulls account for testing. Alternatively, login to the AlgoBulls Website to access your account and test your strategy.
 
     [See how to test using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to test using your account](/member/paperback)
 
-* **Execute** - Write Python code in a Jupyter Notebook to execute Real Trading in your Portfolio using your strategy. Alternatively, login to the AlgoBulls Website to access you account and start Real Trading on  your strategy.
+* **Execute** - Write Python code in a Jupyter Notebook to execute Real Trading in your Portfolio using your strategy. Alternatively, login to the AlgoBulls Website to access your account and start Real Trading on your strategy.
 
     [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](/member/portfolio)
 
@@ -32,7 +32,7 @@ Now you can perform Backtesting and Paper Trading for your strategy using Python
 !!! Note
     * The API Token is used for all actions performed through Python code into your account. Actions include uploading a strategy, performing testing, running real trade, etc.
     * Pick up the updated API Token periodically from your account if there is an error while executing your actions through Python code. 
-    * Choose and activate an appropriate plan by visting the Wallet page from your account. 
+    * Choose and activate an appropriate plan by visiting the Wallet page from your account. 
 
 ## Checklist for Real Trading
 ---
@@ -41,7 +41,7 @@ Now you can perform Backtesting and Paper Trading for your strategy using Python
 
 <font size=4>✅</font> - Add and Bind a broker on the [Broker Settings](https://app.algobulls.com/account/broking) page of your account. [Learn More](/member/Settings/broking-settings)
 
-<font size=4>✅</font> - Add the Aadhar and PAN details of the person to whom the broker acount belongs to, on the [General Settings](https://app.algobulls.com/account/settings) page of your account.
+<font size=4>✅</font> - Add the Aadhar and PAN details of the person to whom the broker account belongs to, on the [General Settings](https://app.algobulls.com/account/settings) page of your account.
 
 <font size=4>✅</font> - Set up the Risk Management values, `Max Drawdown Limit` and `Desired Profit` on the [General Settings](https://app.algobulls.com/account/settings) page of your account. [Learn More](/member/Settings/general-settings/#risk-management)
 

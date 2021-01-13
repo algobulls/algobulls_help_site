@@ -8,7 +8,7 @@ If this page does not have any entries, you can add a strategy using the `Choose
 
 ![Portfolio](imgs/portfolio_main.png)
 
-Click the `+ Add AlgoBulls Money / Packages` button to add money into your account and/or choose a package taht suits your needs.
+Click the `+ Add AlgoBulls Money / Packages` button to add money into your account and/or choose a package that suits your needs.
 
 Click ![Portfolio](imgs/portfolio-6.png) to edit/set the `Capital Drawn Set Upto` field. (This feature is in beta, currently)
 
@@ -36,7 +36,7 @@ The table covers the following fields:
 * `Code` - Code of the Strategy.
 * `Strategy` - Name of the Strategy
 * `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
-* `Source` - Type of Strategy for eg: Build, Tweak or Develop.
+* `Source` - Type of the Strategy viz. Build, Tweak or Develop.
 * `Config` - Change parameters and other configuration from here.
 * `Instrument(s)` - Instrument on which the strategy is being run.
 * `Qty. (Lots)` - Quantity/Lots being traded.

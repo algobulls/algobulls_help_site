@@ -2,7 +2,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KpnncgSfKXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is the Algobulls Platform Marketplace for strategies.
+This is the AlgoBulls Platform Marketplace for strategies.
 
 Before adding any strategy to your Portfolio, you can search for strategies here, look into the details for each strategy, and view the backtesting reports to evaluate the performance. 
 
@@ -72,7 +72,7 @@ Clicking on a Strategy Card will give you a detailed and expanded view of the st
 
 ### The LHS of the Expanded View for a Strategy Card
 ---
-The Left Hand Side of the expanded view shows the same details and the toolbar as the market place.
+The Left-hand Side of the expanded view shows the same details and the toolbar as the marketplace.
 
 [ ![Marketplace](imgs/screenshots/lhs.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/lhs.png)
 
@@ -87,10 +87,10 @@ In addition to that, the following details are visible:
 ### The RHS of the Expanded View for a Strategy Card
 ---
 
-The Right Hand Side of the expanded view has 2 tabs:
+The Right-hand Side of the expanded view has 2 tabs:
  
  * `Strategy Algorithm` - Gives an overview of functioning of the strategy. You will find key parameters and entire logic of how the strategy is designed and works.
- * `Backtesting Report` - Backtesting is very crucial before making trading any strategy live. You get entire trade summary of how the strategy has performed over backtesting period along with various key data points such as Net P/L (Rs & %), No of profitable trades, Hit Ratio, etc.
+ * `Backtesting Report` - Backtesting is very crucial before making trading any strategy live. You get the entire trade summary of how the strategy has performed over backtesting period along with various key data points such as Net P/L (Rs & %), No of profitable trades, Hit Ratio, etc.
 
 #### Strategy Algorithm
 ---
@@ -108,7 +108,7 @@ The Right Hand Side of the expanded view has 2 tabs:
     * `Trading Type` - States the trading type on which strategy will be performed. Intraday and Delivery are two modes supported by the platform. Transaction charges differ for both the trading types.
     * `Trading Start Time` - Start time of the strategy. This can be user defined depending on the trading time.
     * `Trading Stop Time` - Stop time of the strategy. This can be user defined depending on the trading time.
-    * `Parameters` - Key parameters of the strategy. This differs from strategy-to-strategy basis the logic. Fast MA Period, Slow MA Period and Signal Period in the concerned example above.
+    * `Parameters` - Key parameters of the strategy. This differs from strategy-to-strategy based on the logic. Example: Fast MA Period, Slow MA Period, Signal Period etc.
 
 [ ![Marketplace](imgs/screenshots/sad.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/sad.png)
 
@@ -131,7 +131,7 @@ The Right Hand Side of the expanded view has 2 tabs:
     * `Number of Long Trades` - No. of Long Trades strategy generated during backtesting period.
     * `Number of Short Trades` - No. of Short Trades strategy generated during backtesting period.
     * `Max Gain` - Max Gain during backtesting period.
-    * `Min Gain` - Min Gain during backtesting period. This is different than the Drawdown value because it considers minimum possible return from strategy.
+    * `Min Gain` - Min Gain during backtesting period. This is different than the Drawdown value because it considers the minimum possible return from strategy.
     * `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins
     * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins
     
@@ -156,7 +156,7 @@ The Right Hand Side of the expanded view has 2 tabs:
     * `Exit Qty.` -	Quantity traded. This depends on the number of profit booking trades embedded in the strategy logic.
     * `Exit Price` - Price at which exit trade was executed.	
     * `PnL (Rs.) / PnL %` -	PnL amount and PnL % of each trade.
-    * `PnL Cum. (Rs.) / PnL Cum. %` - umulative PnL amount and Cumulative PnL % of each trade.
+    * `PnL Cum. (Rs.) / PnL Cum. %` - Cumulative PnL amount and Cumulative PnL % of each trade.
  * `Insights (Beta)` - Graphical representation of trading results over the backtesting period. X-Axis is the daily time series of the backtesting period and Y-Axis is the amount and percentage depending upon the data.
     * `P&L Absolute (Rs.)` - Absolute P&L in Rs./INR.
     * `P&L %` - Absolute P&L in %.

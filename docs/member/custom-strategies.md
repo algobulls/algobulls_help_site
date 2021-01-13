@@ -14,7 +14,7 @@ The table covers the following fields:
 * `Code` - Code of the Strategy.
 * `Strategy` - Name of the Strategy
 * `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
-* `Source` - Type of Strategy for eg: Build, Tweak or Develop.
+* `Source` - Type of the Strategy viz. Build, Tweak or Develop.
 * `Instrument(s)` - Instrument on which the strategy is being run.
 * `Add to Backtesting` - Adds strategy to Backtesting.
 * `Add to Paper Trading` - Adds strategy to Papertrading.
