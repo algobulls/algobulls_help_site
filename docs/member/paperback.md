@@ -10,9 +10,23 @@ There are 3 menu options here - `Backtesting`, `Paper Trading` and `Combined Res
 
 ![PTB](imgs/ptb-2.png)
 
-## Backtesting/Paper Trading Fields
+## Table Fields for Backtesting and Paper Trading
 ---
-`Table Fields` - The table covers the following fields: Last Activity At, Code, Strategy, Tag, Source, Customize, Instrument(s), Qty. (Lots), Status, Reports, Logs, Add to Portfolio, Action.
+The table covers the following fields:
+
+* `Last Activity At` - Shows last time the strategy was run.
+* `Code` - Code of the Strategy.
+* `Strategy` - Name of the Strategy
+* `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
+* `Source` - Type of the Strategy viz. Build, Tweak or Develop.
+* `Customize` - Tweak you strategy from here.
+* `Instrument(s)` - Instrument on which the strategy is being run.
+* `Qty. (Lots)` - Quantity/Lots being traded.
+* `Status` - States the Status of the strategy if it is Started or Stopped.
+* `Reports` - The Report for a particular strategy consists of the `Summary` and the `P&L Table`. Jump to the [`Reports`](#reports) topic for a complete description.
+* `Logs` - You can access the logs from here.  Jump to the [`Logs`](#logs) topic for a complete description.
+* `Add to Portfolio` - Adds strategy to Portfolio.
+* `Action` - Option to whether Start or Stop the Strategy.
 
 ![PTB](imgs/screenshots/PTBT2.png)
 
@@ -29,23 +43,6 @@ There are 3 menu options here - `Backtesting`, `Paper Trading` and `Combined Res
 
 ![PTB](imgs/ptb-6.gif)
 
-## Table Fields for Backtesting and Paper Trading
----
-The table covers the following fields: 
-
-* `Last Activity At` - Shows last time the strategy was run.
-* `Code` - Code of the Strategy.
-* `Strategy` - Name of the Strategy
-* `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
-* `Source` - Type of the Strategy viz. Build, Tweak or Develop.
-* `Customize` - 
-* `Instrument(s)` - Instrument on which the strategy is being run.
-* `Qty. (Lots)` - Quantity/Lots being traded.
-* `Status` - States the Status of the strategy if it is Started or Stopped.
-* `Reports` - 
-* `Logs` - You can access the logs from here.
-* `Add to Portfolio` - Adds strategy to Portfolio.
-* `Action` - Option to whether Start or Stop the Strategy.
 
 ## Combined Results Fields
 ---
@@ -81,3 +78,43 @@ The table covers the following fields:
     Choose Tweak reflects in `Tweak Strategy` from the `Summary Bar`.
     
     Choose Premium reflects in `Build Strategy` from the `Summary Bar`.
+
+## Reports
+---
+The Reports consist of a `Summary` and a `P&L Table`.
+
+ * `Summary` - Summary statistics of the strategy performance.
+    * `Net PnL` - Net PnL of the strategy.
+    * `Net PnL %` - Net PnL of the strategy in absolute percentage.
+    * `Max Drawdown` - Max drawdown the strategy suffered during backtesting period.
+    * `Max Drawdown %` - Max drawdown the strategy suffered during backtesting period in percentage.
+    * `Number of Trades` - No. of signals strategy generated during the backtesting.
+    * `Number of Wins` - No. of wins during the backtesting period
+    * `Number of Looses` - No. of losses during the backtesting period
+    * `Number of Long Trades` - No. of Long Trades strategy generated during backtesting period.
+    * `Number of Short Trades` - No. of Short Trades strategy generated during backtesting period.
+    * `Max Gain` - Max Gain during backtesting period.
+    * `Min Gain` - Min Gain during backtesting period. This is different than the Drawdown value because it considers the minimum possible return from strategy.
+    * `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins
+    * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins
+ * `P&L Table` - Profit and Loss Details.
+    * `Instrument` - Instrument strategy being performed on.
+    * `Entry Time` - Entry time of trade.
+    * `Entry` -	Entry trade type such as Buy/Sell.
+    * `Entry Qty.` - Quantity traded.
+    * `Entry Price` - Price at which entry trade was executed.
+    * `Exit Time` -	Exit time of trade.
+    * `Exit` - Exit trade type such as Buy/Sell.
+    * `Exit Qty.` -	Quantity traded. This depends on the number of profit booking trades embedded in the strategy logic.
+    * `Exit Price` - Price at which exit trade was executed.
+    * `PnL (Rs.) / PnL %` -	PnL amount and PnL % of each trade.
+    * `PnL Cum. (Rs.) / PnL Cum. %` - Cumulative PnL amount and Cumulative PnL % of each trade.   
+
+## Logs
+---
+
+You can see the complete running of the strategy as it progresses here.
+
+You can Refresh the logs periodically using the `↻` button.
+
+You can also download the logs for later reference using the `Download Logs` button.
