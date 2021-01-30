@@ -42,8 +42,11 @@ You need to have a valid working broking account before you start algorithmic tr
 We currently offer support for the following brokers. (More on the way!)
 
 * Alice Blue
-* Zerodha
+* Angel Broking
+* Kotak Securities
 * Mastertrust
+* Zebu
+* Zerodha
 
 Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
 
@@ -61,12 +64,11 @@ If your trading has still not started, look at the possible reasons below. Pleas
     
     * Due to market volatility, your broker may have stopped taking bracket order requests. (Any bracket order strategies currently running in your platform account will stop showing any new orders)
     
-    * Certain order types don't work with certain brokers. So your binded broker account should allow those particular order to be fired.
+    * Certain order types don't work with certain brokers. So your binded broker account should allow those particular order to be fired
     
-    * Every strategy may not run with every broker. This is due to permission issues at the broker end.
+    * Every strategy may not run with every broker. This is due to permission issues at the broker end
     
-    * Once your trading starts, the AlgoBulls platform has no control over the brokerage charges levied by your broker. Please have a look at all charges on the broker side before going ahead.
-     ([Alice Blue](https://www.aliceblueonline.com/), [Zerodha](https://zerodha.com/), [Master Trust](https://www.mastertrust.co.in/) 
+    * Once your trading starts, the AlgoBulls platform has no control over the brokerage charges levied by your broker. Please have a look at all charges on the broker side before going ahead
 
 !!! info
     You can help us improve this site by submitting updates on our GitHub repository. 

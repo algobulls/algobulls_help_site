@@ -1,7 +1,7 @@
 # Zebu
 ---
 
-* Official Website: [https://zebull.in/](https://zebull.in/)
+* Official Website: [https://zebuetrade.com/](https://zebuetrade.com/)
 
 * Trading Website: [https://zebull.in/](https://zebull.in/)
 
