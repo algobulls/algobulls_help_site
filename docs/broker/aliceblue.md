@@ -8,6 +8,19 @@
 
 ## Login and Setup the AliceBlue Broking Details 
 ---
+
+This section will take you through the step wise instructions to login, setup and bind your broker into your AlgoBulls Account.
+
+### Before you Start
+---
+Keep the following information available before you start:
+
+1) Algobulls Account Credentials - Phone Number and Password
+
+2) Broking Account Credentials - ClientID, Password and 2FA Answers 
+
+### Let's Start
+---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login)
 * Click on `Sign In with your Broking Account`
 
