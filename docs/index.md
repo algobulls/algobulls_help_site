@@ -25,12 +25,12 @@ Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental 
 !!! Note
     * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
 
-## 4) Update your Risk Management Settings
+## 4) Update your Risk Management Settings (Beta)
 Click [here](/member/Settings/general-settings/#risk-management) to know more about your Risk Management Settings.
 
 `MAX Capital Drawdown` is your Risk Appetite. Real Trading will stop when this limit is breached.
 
-`Desired Profit` is the value of your Profit Limit. Read Trading will stop when this value is achieved.
+`Desired Profit` is the value of your Profit Limit. Real Trading will stop when this value is achieved.
 
 !!! Note
     * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
@@ -44,7 +44,6 @@ We currently offer support for the following brokers. (More on the way!)
 * Alice Blue
 * Zerodha
 * Mastertrust
-* Upstox
 
 Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
 
@@ -67,7 +66,7 @@ If your trading has still not started, look at the possible reasons below. Pleas
     * Every strategy may not run with every broker. This is due to permission issues at the broker end.
     
     * Once your trading starts, the AlgoBulls platform has no control over the brokerage charges levied by your broker. Please have a look at all charges on the broker side before going ahead.
-     ([Alice Blue](https://www.aliceblueonline.com/), [Zerodha](https://zerodha.com/), [Master Trust](https://www.mastertrust.co.in/), [Upstox](https://upstox.com/)) 
+     ([Alice Blue](https://www.aliceblueonline.com/), [Zerodha](https://zerodha.com/), [Master Trust](https://www.mastertrust.co.in/) 
 
 !!! info
     You can help us improve this site by submitting updates on our GitHub repository. 
