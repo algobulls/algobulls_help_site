@@ -48,7 +48,7 @@ nav:
   - 'Broker Information':
       - 'ALICEBLUE': 'broker/aliceblue.md'
 #      - 'ALPACA': 'broker/alpaca.md'
-#      - 'ANGELBROKING': 'broker/angelbroking.md'
+      - 'ANGELBROKING': 'broker/angelbroking.md'
 #      - 'ASTHA': 'broker/astha.md'
 #      - 'FYERS': 'broker/fyers.md'
 #      - 'KOTAK SECURITIES': 'broker/kotak securities.md'

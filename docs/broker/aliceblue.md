@@ -6,9 +6,8 @@
 
 * Markets Supported: India
 
-## Login and Setup the AliceBlue Broking Details 
+## Login and Setup your AliceBlue Account
 ---
-
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
 ### Before you Start
@@ -75,7 +74,7 @@ Keep the following information available before you start:
 
 * If the verification is successful, you will see the following message
 
-[ ![AliceBlue](imgs/aliceblue/aliceblue_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login_3.png)
+[ ![AliceBlue](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.pngg)
 
 ### Login with OAuth Method
 ---
