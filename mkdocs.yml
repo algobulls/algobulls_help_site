@@ -45,6 +45,17 @@ nav:
       - 'Wallet': 'member/wallet.md'
       - 'Tweak': 'member/tweak.md'
   - 'Developer Options': 'developers.md'
+  - 'Broker Information':
+      - 'ALICEBLUE': 'broker/aliceblue.md'
+#      - 'ALPACA': 'broker/alpaca.md'
+#      - 'ANGELBROKING': 'broker/angelbroking.md'
+#      - 'ASTHA': 'broker/astha.md'
+#      - 'FYERS': 'broker/fyers.md'
+#      - 'KOTAK SECURITIES': 'broker/kotak securities.md'
+#      - 'MASTERTRUST': 'broker/mastertrust.md'
+#      - 'TRADEBULLS': 'broker/tradebulls.md'
+#      - 'ZEBU': 'broker/zebu.md'
+#      - 'ZERODHA': 'broker/zerodha.md'
 
 plugins:
   - search                                  # necessary for search to work
