@@ -67,5 +67,21 @@
      <loc>https://help.algobulls.com/broker/angelbroking/</loc>
      <lastmod>2021-01-30</lastmod>
      <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://help.algobulls.com/broker/kotaksecurities/</loc>
+     <lastmod>2021-01-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://help.algobulls.com/broker/mastertrust/</loc>
+     <lastmod>2021-01-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://help.algobulls.com/broker/zebu/</loc>
+     <lastmod>2021-01-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://help.algobulls.com/broker/zerodha/</loc>
+     <lastmod>2021-01-30</lastmod>
+     <changefreq>daily</changefreq>
     </url>
 </urlset>
