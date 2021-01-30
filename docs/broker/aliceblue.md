@@ -74,7 +74,7 @@ Keep the following information available before you start:
 
 * If the verification is successful, you will see the following message
 
-[ ![AliceBlue](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.pngg)
+[ ![AliceBlue](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
 ### Login with OAuth Method
 ---
