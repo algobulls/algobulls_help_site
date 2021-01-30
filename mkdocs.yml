@@ -44,7 +44,6 @@ nav:
       - 'Navigation Bar': 'member/nav-bar.md'
       - 'Wallet': 'member/wallet.md'
       - 'Tweak': 'member/tweak.md'
-  - 'Developer Options': 'developers.md'
   - 'Broker Information':
       - 'ALICEBLUE': 'broker/aliceblue.md'
 #      - 'ALPACA': 'broker/alpaca.md'
@@ -56,6 +55,7 @@ nav:
 #      - 'TRADEBULLS': 'broker/tradebulls.md'
       - 'ZEBU': 'broker/zebu.md'
       - 'ZERODHA': 'broker/zerodha.md'
+  - 'Developer Options': 'developers.md'
 
 plugins:
   - search                                  # necessary for search to work
