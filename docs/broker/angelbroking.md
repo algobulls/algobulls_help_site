@@ -71,7 +71,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 * If the verification is successful, you will see the following message
 
-[ ![Angelbroking](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/success_login.png)
+[ ![Angelbroking](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
 ## Bind your Broking Account
 ---
