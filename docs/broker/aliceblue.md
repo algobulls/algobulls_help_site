@@ -30,47 +30,50 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login)
-
-* Click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
 
 [ ![AliceBlue](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
 
-* Type the first few characters of your Broker Name as shown in Step 1 below. 
-
-    As seen here, AliceBlue supports 2 ways of logging in:
-
-    1. non-OAuth Method 
-
-    2. OAuth Method.
-     
-    Both are explained below.
+* Type the first few characters of your Broker Name 
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_1.png)
 
+
+As seen here, AliceBlue supports 2 ways of logging in:
+
+1. non-OAuth Method 
+
+2. OAuth Method.
+     
+Both are explained below
+
 ### Login with non-OAuth Method
 ---
-* To Login with Username and Password, select the option as shown in Step 2 below. Then click the button as shown in Step 3
+(1). Type the first few characters of your Broker Name
+
+(2). Select the `ALICEBLUE` broker
+
+(3). Click on the `Login & Connect with ALICEBLUE` button
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login.png)
 
-* Login to your AlgoBulls account. Provide data for the following fields and then click `Login` as shown in Step 3 below:
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
-1) Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
+* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
-2) Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
+* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
 
-[ ![AliceBlue](imgs/sign-in.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in.png)
+[ ![AliceBlue](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
 * You will be re-directed to the Verification Page. Provide data for the following fields:
 
-1) Client ID: The ID given to you by your broker
+(4). Client ID: The ID given to you by your broker
 
-2) Password: The password given to you by the broker
+(5). Password: The password given to you by the broker
 
-3) 2FA Answers: The answer you have given for the security question. [See Important Points](#important-points-to-note) below
+(6). 2FA Answers: The answer you have given for the security question. [See Important Points](#important-points-to-note) below
 
-[ ![AliceBlue](imgs/aliceblue/aliceblue_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login_2.png)
+[ ![AliceBlue](imgs/aliceblue/aliceblue_2_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_2_nonoauth.png)
 
 * If the verification is successful, you will see the following message
 
@@ -78,23 +81,31 @@ Keep the following information available before you start:
 
 ### Login with OAuth Method
 ---
-* To Login with OAuth, select the option as shown in Step 2 below. Then click the button as shown in Step 3
+(1). Type the first few characters of your Broker Name
+
+(2). Select the `ALICEBLUE OAuth` broker
+
+(3). Click on the `Login with ALICEBLUE` button
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_oauth.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-1) Client ID: The ID given to you by your broker
+(4). Client ID: The ID given to you by your broker
 
-2) Password: The password given to you by the broker
+(5). Password: The password given to you by the broker
 
-3) Click `SIGN IN`
+(6). Click `SIGN IN`
 
-[ ![AliceBlue](imgs/aliceblue/aliceblue_oauth_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_oauth_3.png)
+[ ![AliceBlue](imgs/aliceblue/aliceblue_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_2_oauth.png)
 
-* Give the 2FA Answers for the questions asked in as shown Step 1 and Step 2 below. Then click the `Submit` button as shown in Step 3 
+(7). 2FA Question: Give the answer to this 2FA question
 
-[ ![AliceBlue](imgs/aliceblue/aliceblue_oauth_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_oauth_4.png)
+(8). 2FA Question: Give the answer to this 2FA question
+
+(9). Click `Submit` 
+
+[ ![AliceBlue](imgs/aliceblue/aliceblue_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_3_oauth.png)
 
 * If the sign-in is successful, you will re-directed back to the AlgoBulls website
 

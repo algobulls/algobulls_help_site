@@ -31,8 +31,7 @@ Keep the following information available before you start:
 * API Secret
 
 !!! note
-* To know more about API Key and Secret, see the following video: 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=75vlLNRD3IA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    * To know more about API Key and Secret, see the following video: [Link](https://www.youtube.com/watch?v=75vlLNRD3IA) 
 
 ### Let's Start
 ---

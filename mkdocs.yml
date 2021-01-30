@@ -51,11 +51,11 @@ nav:
       - 'ANGELBROKING': 'broker/angelbroking.md'
 #      - 'ASTHA': 'broker/astha.md'
 #      - 'FYERS': 'broker/fyers.md'
-#      - 'KOTAK SECURITIES': 'broker/kotak securities.md'
-#      - 'MASTERTRUST': 'broker/mastertrust.md'
+      - 'KOTAK SECURITIES': 'broker/kotaksecurities.md'
+      - 'MASTERTRUST': 'broker/mastertrust.md'
 #      - 'TRADEBULLS': 'broker/tradebulls.md'
-#      - 'ZEBU': 'broker/zebu.md'
-#      - 'ZERODHA': 'broker/zerodha.md'
+      - 'ZEBU': 'broker/zebu.md'
+      - 'ZERODHA': 'broker/zerodha.md'
 
 plugins:
   - search                                  # necessary for search to work
