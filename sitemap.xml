@@ -56,10 +56,6 @@
      <lastmod>2021-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://help.algobulls.com/developers/</loc>
-     <lastmod>2021-01-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://help.algobulls.com/broker/aliceblue/</loc>
      <lastmod>2021-01-30</lastmod>
      <changefreq>daily</changefreq>
@@ -81,6 +77,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://help.algobulls.com/broker/zerodha/</loc>
+     <lastmod>2021-01-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://help.algobulls.com/developers/</loc>
      <lastmod>2021-01-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
