@@ -69,7 +69,7 @@ Keep the following information available before you start:
 
 2) Password: The password given to you by the broker
 
-3) 2FA Answers: The answer you have given for the security question [See Important Points](#important-points-to-note) below
+3) 2FA Answers: The answer you have given for the security question. [See Important Points](#important-points-to-note) below
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login_2.png)
 
@@ -101,6 +101,8 @@ Keep the following information available before you start:
 
 ## Bind your Broking Account
 ---
+The following steps will help you to make sure you have binded your broker account
+
 * Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
 
 * Bind your account using the Toggle button marked below
