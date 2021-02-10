@@ -74,3 +74,11 @@ The following steps will help you to make sure you have binded your broker accou
 * Bind your account using the Toggle button marked below
 
 [ ![Mastertrust](imgs/mastertrust/mastertrust_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mastertrust/mastertrust_binded.png)
+
+## Important Points to Note
+---
+* Use the following link to login to your broking account - 
+    
+    [https://masterswift-beta.mastertrust.co.in/](https://masterswift-beta.mastertrust.co.in/)
+
+* You may lose connectivity to your binded broker on the AlgoBulls account if any other app or website is used to login to your account.
