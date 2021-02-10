@@ -3,7 +3,7 @@
 
 * Official Website: [https://www.mastertrust.co.in/](https://www.mastertrust.co.in/)
 
-* Trading Website: [https://www.mastertrust.co.in/](https://www.mastertrust.co.in/)
+* Trading Website: [https://masterswift-beta.mastertrust.co.in/](https://masterswift-beta.mastertrust.co.in/)
 
 * Markets Supported: India
 
