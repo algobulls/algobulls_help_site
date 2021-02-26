@@ -348,6 +348,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#formulae" class="md-nav__link">
+    Formulae
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -703,6 +710,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#formulae" class="md-nav__link">
+    Formulae
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -790,19 +804,19 @@
 <p>The Reports consist of a <code>Summary</code> and a <code>P&amp;L Table</code>.</p>
 <ul>
 <li><code>Summary</code> - Summary statistics of the strategy performance.<ul>
-<li><code>Net PnL</code> - Net PnL of the strategy.</li>
-<li><code>Net PnL %</code> - Net PnL of the strategy in absolute percentage.</li>
-<li><code>Max Drawdown</code> - Max drawdown the strategy suffered during backtesting period.</li>
-<li><code>Max Drawdown %</code> - Max drawdown the strategy suffered during backtesting period in percentage.</li>
-<li><code>Number of Trades</code> - No. of signals strategy generated during the backtesting.</li>
-<li><code>Number of Wins</code> - No. of wins during the backtesting period</li>
-<li><code>Number of Looses</code> - No. of losses during the backtesting period</li>
-<li><code>Number of Long Trades</code> - No. of Long Trades strategy generated during backtesting period.</li>
-<li><code>Number of Short Trades</code> - No. of Short Trades strategy generated during backtesting period.</li>
-<li><code>Max Gain</code> - Max Gain during backtesting period.</li>
-<li><code>Min Gain</code> - Min Gain during backtesting period. This is different than the Drawdown value because it considers the minimum possible return from strategy.</li>
-<li><code>Avg. Profit per winning trade</code> - Cumulative Profit for winning trades divided by No. of Wins</li>
-<li><code>Avg. Profit per losing trade</code> - Cumulative Loss for winning trades divided by No. of Wins</li>
+<li><code>Net PnL</code> - The cumulative backtesting P&amp;L.</li>
+<li><code>Net PnL %</code> - The cumulative backtesting P&amp;L percentage.</li>
+<li><code>Max Drawdown</code> - The maximum loss your strategy has encountered during the execution.</li>
+<li><code>Max Drawdown %</code> - The maximum loss your strategy has encountered during the execution in percentage.</li>
+<li><code>Number of Trades</code> - Total trades (entry and exit counted as one) during the session.</li>
+<li><code>Number of Wins</code> - Count of trades where the trade P&amp;L was non-negative.</li>
+<li><code>Number of Losses</code> - Count of trades where the trade P&amp;L was negative.</li>
+<li><code>Number of Long Trades</code> - Count of trades where the entry transaction type was 'BUY'.</li>
+<li><code>Number of Short Trades</code> - Count of trades where the entry transaction type was 'SELL'.</li>
+<li><code>Max Gain</code> - P&amp;L of the trade with the maximum P&amp;L value among all trades.</li>
+<li><code>Min Gain</code> - P&amp;L of the trade with the minimum P&amp;L value among all trades.</li>
+<li><code>Avg. Profit per winning trade</code> - Cumulative Profit for winning trades divided by No. of Wins.</li>
+<li><code>Avg. Profit per losing trade</code> - Cumulative Loss for winning trades divided by No. of Wins.</li>
 </ul>
 </li>
 <li><code>P&amp;L Table</code> - Profit and Loss Details.<ul>
@@ -820,11 +834,36 @@
 </ul>
 </li>
 </ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+</div>
+<p>See the <a href="#formulae">Formulae</a> section below to know more abou the Summary Points.</p>
 <h2 id="logs">Logs<a class="headerlink" href="#logs" title="Permanent link">&para;</a></h2>
 <hr />
 <p>You can see the complete running of the strategy as it progresses here.</p>
 <p>You can Refresh the logs periodically using the <code>↻</code> button.</p>
 <p>You can also download the logs for later reference using the <code>Download Logs</code> button.</p>
+<h2 id="formulae">Formulae<a class="headerlink" href="#formulae" title="Permanent link">&para;</a></h2>
+<hr />
+<ul>
+<li>
+<p>Net PnL: The cumulative backtesting P&amp;L. This is the sum of all the Absolute P&amp;L values of the previous trades.</p>
+<p><code>pnl_absolute = (exit_price - entry_price)*exit_quantity</code> for a long trade</p>
+<p><code>pnl_absolute = (entry_price - exit_price)*exit_quantity</code> for a short trade</p>
+</li>
+<li>
+<p>Max Drawdown %: he maximum loss your strategy has encountered during the execution in percentage.</p>
+<p><code>max_drowdown_percentage = (Max Drawdown) / (corresponding entry_price) // exit _ quantity x 100</code></p>
+</li>
+<li>
+<p>Avg. Profit per winning trade: Cumulative Profit for winning trades divided by No. of Wins.</p>
+<p><code>avg_profit_per_winning_trade = (Total P&amp;L of winning trades) / (Count of winning trades)</code></p>
+</li>
+<li>
+<p>Avg. Profit per losing trade: Cumulative Loss for winning trades divided by No. of Wins.</p>
+<p><code>avg_profit_per_losing_trade = (Total P&amp;L of losing trades) / (Count of losing trades)</code></p>
+</li>
+</ul>
                 
                   
                     
