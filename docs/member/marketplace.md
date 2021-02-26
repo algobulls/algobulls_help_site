@@ -119,21 +119,24 @@ The Right-hand Side of the expanded view has 2 tabs:
 `Backtesting Report` has 4 tabs:
  
 [ ![Marketplace](imgs/screenshots/brs.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/brs.png)
- 
+
  * `Summary` - Summary statistics of the strategy backtesting performed.
-    * `Net PnL` - Net PnL of the strategy.
-    * `Net PnL %` - Net PnL of the strategy in absolute percentage.
-    * `Max Drawdown` - Max drawdown the strategy suffered during backtesting period.
-    * `Max Drawdown %` - Max drawdown the strategy suffered during backtesting period in percentage.
-    * `Number of Trades` - No. of signals strategy generated during the backtesting.
-    * `Number of Wins` - No. of wins during the backtesting period
-    * `Number of Looses` - No. of losses during the backtesting period
-    * `Number of Long Trades` - No. of Long Trades strategy generated during backtesting period.
-    * `Number of Short Trades` - No. of Short Trades strategy generated during backtesting period.
-    * `Max Gain` - Max Gain during backtesting period.
-    * `Min Gain` - Min Gain during backtesting period. This is different than the Drawdown value because it considers the minimum possible return from strategy.
-    * `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins
-    * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins
+    * `Net PnL` - The cumulative backtesting P&L.
+    * `Net PnL %` - The cumulative backtesting P&L percentage.
+    * `Max Drawdown` - The maximum loss your strategy has encountered during the execution.
+    * `Max Drawdown %` - The maximum loss your strategy has encountered during the execution in percentage.
+    * `Number of Trades` - Total trades (entry and exit counted as one) during the session.
+    * `Number of Wins` - Count of trades where the trade P&L was non-negative.
+    * `Number of Losses` - Count of trades where the trade P&L was negative.
+    * `Number of Long Trades` - Count of trades where the entry transaction type was 'BUY'.
+    * `Number of Short Trades` - Count of trades where the entry transaction type was 'SELL'.
+    * `Max Gain` - P&L of the trade with the maximum P&L value among all trades.
+    * `Min Gain` - P&L of the trade with the minimum P&L value among all trades.
+    * `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins.
+    * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins.
+
+!!! Note
+    See the [Formulae](#formulae) section below to know more about the Summary Fields.
     
 [ ![Marketplace](imgs/screenshots/brr.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/brr.png) 
     
@@ -162,3 +165,24 @@ The Right-hand Side of the expanded view has 2 tabs:
     * `P&L %` - Absolute P&L in %.
     * `P&L Cumulative Absolute (Rs.)` - Absolute Cumulative P&L in Rs./INR
     * `P&L Cumulative %` - Absolute Cumulative P&L in %.
+
+## Formulae
+---
+
+* Net PnL: The cumulative backtesting P&L. This is the sum of all the Absolute P&L values of the previous trades.
+  
+      `pnl_absolute = (exit_price - entry_price)*exit_quantity` for a long trade
+
+      `pnl_absolute = (entry_price - exit_price)*exit_quantity` for a short trade
+ 
+* Max Drawdown %: The maximum loss your strategy has encountered during the execution in percentage.
+  
+      `max_drowdown_percentage = (Max Drawdown) / (corresponding entry_price) // exit _ quantity x 100`
+
+* Avg. Profit per winning trade: Cumulative Profit for winning trades divided by No. of Wins.
+  
+      `avg_profit_per_winning_trade = (Total P&L of winning trades) / (Count of winning trades)`
+
+* Avg. Profit per losing trade: Cumulative Loss for winning trades divided by No. of Wins.
+  
+      `avg_profit_per_losing_trade = (Total P&L of losing trades) / (Count of losing trades)`

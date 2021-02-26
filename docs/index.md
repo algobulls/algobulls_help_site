@@ -42,11 +42,13 @@ You need to have a valid working broking account before you start algorithmic tr
 We currently offer support for the following brokers. (More on the way!)
 
 * Alice Blue
+* Alpaca
 * Angel Broking
 * Kotak Securities
 * Mastertrust
 * Zebu
 * Zerodha
+
 
 Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
 

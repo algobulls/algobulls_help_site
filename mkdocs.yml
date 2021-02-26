@@ -46,7 +46,7 @@ nav:
       - 'Tweak': 'member/tweak.md'
   - 'Broker Information':
       - 'ALICEBLUE': 'broker/aliceblue.md'
-#      - 'ALPACA': 'broker/alpaca.md'
+      - 'ALPACA': 'broker/alpaca.md'
       - 'ANGELBROKING': 'broker/angelbroking.md'
 #      - 'ASTHA': 'broker/astha.md'
 #      - 'FYERS': 'broker/fyers.md'
