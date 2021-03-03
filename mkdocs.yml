@@ -44,6 +44,7 @@ nav:
       - 'Navigation Bar': 'member/nav-bar.md'
       - 'Wallet': 'member/wallet.md'
       - 'Tweak': 'member/tweak.md'
+#      - 'FAQ': 'member/faq.md'
   - 'Broker Information':
       - 'ALICEBLUE': 'broker/aliceblue.md'
       - 'ALPACA': 'broker/alpaca.md'

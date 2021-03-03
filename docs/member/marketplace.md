@@ -43,6 +43,10 @@ Before adding any strategy to your Portfolio, you can search for strategies here
 
 [ ![Marketplace](imgs/mkt10.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt10.png)
 
+The `Execute` button adds the strategy to your [Portfolio](portfolio.md) (Real Trading).
+
+You can further add this strategy to Backtesting and Papertrading using the [Manage Strategies](custom-strategies.md) menu from the Navigation bar.  
+
 ## A look at the toolbar
 ---
 
