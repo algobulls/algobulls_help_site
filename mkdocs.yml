@@ -28,6 +28,7 @@ copyright: Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Priv
 # Navigation
 nav:
   - Home: 'index.md'
+  - 'FAQ': 'member/faq.md'
   - 'Website Manual':
       - 'Marketplace': 'member/marketplace.md'
       - 'Dashboard': 'member/dashboard.md'
@@ -44,7 +45,6 @@ nav:
       - 'Navigation Bar': 'member/nav-bar.md'
       - 'Wallet': 'member/wallet.md'
       - 'Tweak': 'member/tweak.md'
-      - 'FAQ': 'member/faq.md'
   - 'Broker Information':
       - 'ALICEBLUE': 'broker/aliceblue.md'
       - 'ALPACA': 'broker/alpaca.md'
