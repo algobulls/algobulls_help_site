@@ -96,7 +96,7 @@ The Reports consist of a `Summary` and a `P&L Table`.
     * `Max Gain` - P&L of the trade with the maximum P&L value among all trades.
     * `Min Gain` - P&L of the trade with the minimum P&L value among all trades.
     * `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins.
-    * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins.
+    * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Losses.
  * `P&L Table` - Profit and Loss Details.
     * `Instrument` - Instrument strategy being performed on.
     * `Entry Time` - Entry time of trade.

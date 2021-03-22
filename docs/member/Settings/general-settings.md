@@ -75,6 +75,8 @@ We provide:
 * Notification service through SMS and Email
 * Web Socket Service API for connecting with brokers
 
+To learn more, visit the [Developer Options](../../developers.md) Help page.
+
 ![Profile](imgs/general-settings-6.png)
 
 [Email us](mailto:support@algobulls.com) to know more! 

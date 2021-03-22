@@ -4,6 +4,20 @@
 
 This is the AlgoBulls Platform Marketplace for strategies.
 
+[ ![Marketplace](imgs/mktplace_types.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mktplace_types.png)
+
+The Marketplace is divided into the following categories:
+
+* Retail - This marketplace is for traders having little to no experience in algorithmic trading
+
+* Premium - This marketplace consists of options strategies for high risk individuals
+
+* HNI - This marketplace is for High Networh Individuals
+
+* Ultra HNI - This marketplace is for High Networh Individuals having more capital than HNI
+
+* Institutional - This marketplace is for institutions and broking houses
+
 Before adding any strategy to your Portfolio, you can search for strategies here, look into the details for each strategy, and view the backtesting reports to evaluate the performance. 
 
 [ ![Marketplace](imgs/screenshots/mkt1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/mkt1.png)
@@ -23,7 +37,7 @@ Before adding any strategy to your Portfolio, you can search for strategies here
 
 `Filter` - You can filter your view as per the following categories shown.
 
-[ ![Marketplace](imgs/screenshots/search_filter_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/search_filter_2.png)
+[ ![Marketplace](imgs/mkt_filter.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt_filter.png)
 
 `Sort By` - You can sort the strategies into the following:
 
@@ -105,18 +119,18 @@ The Right-hand Side of the expanded view has 2 tabs:
  * `Parameters` - These are all the parameters used by the strategy. 
     * `Strategy By` - Creator of the strategy.
     * `Strategy Name` - Name of the strategy.
-    * `Exchange` - Exchange the strategy is expected to trade on. This depends on the instrument the strategy being executed on such as NSE, NFO and MCX for Indian markets.
-    * `Segment` - Segments the strategy is expected to trade on. This depends on the exchange the strategy being executed on such as NSE, NFO and MCX for Indian markets.
+    * `Exchange` - Exchange where the strategy is expected to trade on. This depends on the instrument the strategy being executed on such as NSE, NFO and MCX for Indian markets.
+    * `Segment` - Segments where the strategy is expected to trade on. This depends on the exchange the strategy being executed on such as NSE, NFO and MCX for Indian markets.
     * `Instrument` - Instrument on which the trading will be performed.
     * `Candle Interval` - Candle Interval in which the strategy will be performed. 1 Min, 3 Mins, 5 Mins, 15 Mins and 30 Mins are some of the candle types which can be used to generate signals.
     * `Trading Type` - States the trading type on which strategy will be performed. Intraday and Delivery are two modes supported by the platform. Transaction charges differ for both the trading types.
-    * `Trading Start Time` - Start time of the strategy. This can be user defined depending on the trading time.
-    * `Trading Stop Time` - Stop time of the strategy. This can be user defined depending on the trading time.
+    * `Trading Start Time` - Start time of the strategy. A user can define the timings according to their own requirements by tweaking the strategy parameters.
+    * `Trading Stop Time` - Stop time of the strategy. A user can define the timings according to their own requirements by tweaking the strategy parameters.
     * `Parameters` - Key parameters of the strategy. This differs from strategy-to-strategy based on the logic. Example: Fast MA Period, Slow MA Period, Signal Period etc.
 
 [ ![Marketplace](imgs/screenshots/sad.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/sad.png)
 
- * `Details` - 
+ * `Details` - This gives a description of how the strategy works. It includes - strategy details and working, indicators used, formulae, signal generation conditions, etc.
 
 #### Backtesting Report
 ---
@@ -137,7 +151,7 @@ The Right-hand Side of the expanded view has 2 tabs:
     * `Max Gain` - P&L of the trade with the maximum P&L value among all trades.
     * `Min Gain` - P&L of the trade with the minimum P&L value among all trades.
     * `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins.
-    * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins.
+    * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Losses.
 
 !!! Note
     See the [Formulae](#formulae) section below to know more about the Summary Fields.
@@ -187,6 +201,6 @@ The Right-hand Side of the expanded view has 2 tabs:
   
       `avg_profit_per_winning_trade = (Total P&L of winning trades) / (Count of winning trades)`
 
-* Avg. Profit per losing trade: Cumulative Loss for winning trades divided by No. of Wins.
+* Avg. Profit per losing trade: Cumulative Loss for winning trades divided by No. of Losses.
   
       `avg_profit_per_losing_trade = (Total P&L of losing trades) / (Count of losing trades)`

@@ -11,6 +11,8 @@ Welcome! We think you should go through the list below and see that you have und
 
 * Customers looking to do Real Trading on Indian Markets and Exchanges will need to tick-off all steps given below.
 
+You may also visit the [FAQ](member/faq.md) page to know more.
+
 ## 1) Registration and Sign-Up
 Visit [the site](https://www.algobulls.com/) and sign-up to the AlgoBulls platform.
 
