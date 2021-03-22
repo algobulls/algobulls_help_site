@@ -823,6 +823,25 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KpnncgSfKXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>This is the AlgoBulls Platform Marketplace for strategies.</p>
+<p><a href="../imgs/mktplace_types.png"> <img alt="Marketplace" src="../imgs/mktplace_types.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p>The Marketplace is divided into the following categories:</p>
+<ul>
+<li>
+<p>Retail - This marketplace is for traders having little to no experience in algorithmic trading</p>
+</li>
+<li>
+<p>Premium - This marketplace consists of options strategies for high risk individuals</p>
+</li>
+<li>
+<p>HNI - This marketplace is for High Networh Individuals</p>
+</li>
+<li>
+<p>Ultra HNI - This marketplace is for High Networh Individuals having more capital than HNI</p>
+</li>
+<li>
+<p>Institutional - This marketplace is for institutions and broking houses</p>
+</li>
+</ul>
 <p>Before adding any strategy to your Portfolio, you can search for strategies here, look into the details for each strategy, and view the backtesting reports to evaluate the performance. </p>
 <p><a href="../imgs/screenshots/mkt1.png"> <img alt="Marketplace" src="../imgs/screenshots/mkt1.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <h2 id="searching-for-a-strategy">Searching for a Strategy<a class="headerlink" href="#searching-for-a-strategy" title="Permanent link">&para;</a></h2>
@@ -894,13 +913,13 @@
 <li><code>Parameters</code> - These are all the parameters used by the strategy. <ul>
 <li><code>Strategy By</code> - Creator of the strategy.</li>
 <li><code>Strategy Name</code> - Name of the strategy.</li>
-<li><code>Exchange</code> - Exchange the strategy is expected to trade on. This depends on the instrument the strategy being executed on such as NSE, NFO and MCX for Indian markets.</li>
-<li><code>Segment</code> - Segments the strategy is expected to trade on. This depends on the exchange the strategy being executed on such as NSE, NFO and MCX for Indian markets.</li>
+<li><code>Exchange</code> - Exchange where the strategy is expected to trade on. This depends on the instrument the strategy being executed on such as NSE, NFO and MCX for Indian markets.</li>
+<li><code>Segment</code> - Segments where the strategy is expected to trade on. This depends on the exchange the strategy being executed on such as NSE, NFO and MCX for Indian markets.</li>
 <li><code>Instrument</code> - Instrument on which the trading will be performed.</li>
 <li><code>Candle Interval</code> - Candle Interval in which the strategy will be performed. 1 Min, 3 Mins, 5 Mins, 15 Mins and 30 Mins are some of the candle types which can be used to generate signals.</li>
 <li><code>Trading Type</code> - States the trading type on which strategy will be performed. Intraday and Delivery are two modes supported by the platform. Transaction charges differ for both the trading types.</li>
-<li><code>Trading Start Time</code> - Start time of the strategy. This can be user defined depending on the trading time.</li>
-<li><code>Trading Stop Time</code> - Stop time of the strategy. This can be user defined depending on the trading time.</li>
+<li><code>Trading Start Time</code> - Start time of the strategy. A user can define the timings according to their own requirements by tweaking the strategy parameters.</li>
+<li><code>Trading Stop Time</code> - Stop time of the strategy. A user can define the timings according to their own requirements by tweaking the strategy parameters.</li>
 <li><code>Parameters</code> - Key parameters of the strategy. This differs from strategy-to-strategy based on the logic. Example: Fast MA Period, Slow MA Period, Signal Period etc.</li>
 </ul>
 </li>
@@ -927,7 +946,7 @@
 <li><code>Max Gain</code> - P&amp;L of the trade with the maximum P&amp;L value among all trades.</li>
 <li><code>Min Gain</code> - P&amp;L of the trade with the minimum P&amp;L value among all trades.</li>
 <li><code>Avg. Profit per winning trade</code> - Cumulative Profit for winning trades divided by No. of Wins.</li>
-<li><code>Avg. Profit per losing trade</code> - Cumulative Loss for winning trades divided by No. of Wins.</li>
+<li><code>Avg. Profit per losing trade</code> - Cumulative Loss for winning trades divided by No. of Losses.</li>
 </ul>
 </li>
 </ul>
@@ -986,7 +1005,7 @@
 <p><code>avg_profit_per_winning_trade = (Total P&amp;L of winning trades) / (Count of winning trades)</code></p>
 </li>
 <li>
-<p>Avg. Profit per losing trade: Cumulative Loss for winning trades divided by No. of Wins.</p>
+<p>Avg. Profit per losing trade: Cumulative Loss for winning trades divided by No. of Losses.</p>
 <p><code>avg_profit_per_losing_trade = (Total P&amp;L of losing trades) / (Count of losing trades)</code></p>
 </li>
 </ul>
