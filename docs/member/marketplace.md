@@ -55,7 +55,7 @@ Before adding any strategy to your Portfolio, you can search for strategies here
 ## What does a Strategy Card look like
 ---
 
-[ ![Marketplace](imgs/mkt10.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mkt10.png)
+[ ![Marketplace](imgs/strategy_card_details.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/strategy_card_details.png)
 
 The `Execute` button adds the strategy to your [Portfolio](portfolio.md) (Real Trading).
 
@@ -85,7 +85,7 @@ You can further add this strategy to Backtesting and Papertrading using the [Man
 
 Clicking on a Strategy Card will give you a detailed and expanded view of the strategy.
 
-[ ![Marketplace](imgs/screenshots/expanded_view.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/expanded_view.png)
+[ ![Marketplace](imgs/strategy_card_click.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/strategy_card_click.png)
 
 
 ### The LHS of the Expanded View for a Strategy Card
@@ -96,12 +96,13 @@ The Left-hand Side of the expanded view shows the same details and the toolbar a
 
 In addition to that, the following details are visible:
 
- * `Strategy Code` - It is a unique identification code assigned to each strategy. You can search the strategy directly with the code.
- * `Minimum Capital Required` - Minimum capital required in order to trade the strategy. There are different minimum amounts required to trade strategies depending upon the type of security and market the strategy is being traded into.
+ * `Strategy Code` - A unique identification code assigned to each strategy. You can search the strategy directly with the code.
+ * `Minimum Capital Required` - Approximate margin as required by the brokers to buy or sell the instrument, this normally keeps fluctuating hence a max value is considered compared among the partnered brokers.
  * `Transaction Charges (in %)` - Indicative transaction charges strategy is expected to incur per trade.
  * `Recommended Duration (Days)` - Duration over which the strategy is expected to generate positive returns.
- * `Required Risk Appetite` -  Maximum downside investor is expected to bear in order to make profits over the duration of the strategy.
-
+ * `Return on Investment` - Cumulative PnL absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed. 
+ * `Drawdown on Investment` - Max DD absolute value divided by Minimum Capital Required, DDOI indicates a simulated yet accurate representation of drawdown on capital employed. 
+ 
 ### The RHS of the Expanded View for a Strategy Card
 ---
 

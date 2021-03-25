@@ -12,7 +12,7 @@ AlgoBulls is for anyone who wants a portion of their money professionally traded
 ---
 Absolutely not! Our automated trading platform connects with your trading account, and the expert algorithm strategies will do all the trading and manage the risk for you. You need not have any prior experience in trading or programming.
 
-## Why you need Agobulls?
+## Why you need Algobulls?
 ---
 Simple, if your account has not seen substantial growth during both rising and falling markets then AlgoBulls automated trading systems are the solution for consistent gains, no matter the market direction. You can easily choose a strategy from numerous strategies provided by experts and start trading immediately!
 
@@ -22,7 +22,7 @@ Yes, AlgoBulls uses multiple trading strategies designed for falling prices that
 
 ## What is the cost for Automation or How much does AlgoBulls charge?
 ---
-For using the available strategies, there are no upfront fees. There is a small transactional fee, per transaction, which is mentioned on the Strategy Card. Also, you can subscribe to our monthly packages which start from as low as rs1000 to avoid transaction cost. For building a customized strategy, the price depends on the complexity involved and the man-hours needed by our development team to develop it. To get an exact quote by getting in touch with us via Email or Phone.
+For using the available strategies, there are no upfront fees. There is a small transactional fee, per transaction, which is mentioned on the Strategy Card. Also, you can subscribe to our monthly plans to avoid transaction cost. For building a customized strategy, the price depends on the complexity involved and the man-hours needed by our development team to develop it. To get an exact quote by getting in touch with us via Email or Phone.
 
 ## How much investment required for trading?
 ---
