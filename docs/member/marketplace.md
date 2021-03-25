@@ -12,9 +12,9 @@ The Marketplace is divided into the following categories:
 
 * Premium - This marketplace consists of options strategies for high risk individuals
 
-* HNI - This marketplace is for High Networh Individuals
+* HNI - This marketplace is for High Networth Individuals
 
-* Ultra HNI - This marketplace is for High Networh Individuals having more capital than HNI
+* Ultra HNI - This marketplace is for High Networth Individuals having more capital than HNI
 
 * Institutional - This marketplace is for institutions and broking houses
 
