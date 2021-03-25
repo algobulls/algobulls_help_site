@@ -92,7 +92,7 @@ Clicking on a Strategy Card will give you a detailed and expanded view of the st
 ---
 The Left-hand Side of the expanded view shows the same details and the toolbar as the marketplace.
 
-[ ![Marketplace](imgs/screenshots/lhs.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/lhs.png)
+[ ![Marketplace](imgs/strategy_card_click_lhs.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/strategy_card_click_lhs.png)
 
 In addition to that, the following details are visible:
 
