@@ -6,9 +6,9 @@ This page gives an overview of your account and trades.
 
 ## AlgoBulls Money
 ---
-Click `Add Money` to add funds into your AlgoBulls wallet.
+Click `+ Add Money` to add funds into your AlgoBulls wallet.
 
-![Dashboard](imgs/dashboard-1.png)
+![Dashboard](imgs/dashboard_money.png)
 
 ## Broker Details and Binding
 ---

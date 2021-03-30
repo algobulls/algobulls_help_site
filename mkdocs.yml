@@ -11,17 +11,44 @@ site_url: https://help.algobulls.com
 # GitHub Repo information
 repo_url: https://github.com/algobulls/algobulls_help_site
 
+#theme:
+#  name: material
+#  favicon: 'imgs/favicon.svg'
+#  logo: 'imgs/site_logo_white.svg'
+#  palette:
+#    primary: blue
+#    accent: blue
+#  language: en
+#  features:
+#    - navigation.expand
+#    - navigation.top
+#   - tabs (if you want tabs at the top instead of a side-menu)
+
 theme:
   name: material
   favicon: 'imgs/favicon.svg'
   logo: 'imgs/site_logo_white.svg'
   palette:
-    primary: blue
-    accent: blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+#        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+#        icon: material/weather-sunny
+        name: Switch to light mode
   language: en
   features:
     - navigation.expand
-#   - tabs (if you want tabs at the top instead of a side-menu)
+    - navigation.top
 
 copyright: Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Private Limited
 
@@ -33,12 +60,13 @@ nav:
       - 'Marketplace': 'member/marketplace.md'
       - 'Dashboard': 'member/dashboard.md'
       - 'Portfolio': 'member/portfolio.md'
+      - 'P&L Tracker': 'member/pnltracker.md'
       - 'Paper Trading & Backtesting': 'member/paperback.md'
       - 'Manage Strategies': 'member/custom-strategies.md'
       - 'Live Reports':
-          - 'Trades': 'member/Books/tradebook.md'
-          - 'Funds': 'member/Books/fundbook.md'
-          - 'P & L': 'member/Books/pnl.md'
+          - 'P & L Book': 'member/Books/pnl.md'
+          - 'Trade Book': 'member/Books/tradebook.md'
+          - 'Fund Book': 'member/Books/fundbook.md'
       - 'Settings':
           - 'General': 'member/Settings/general-settings.md'
           - 'Broking': 'member/Settings/broking-settings.md'

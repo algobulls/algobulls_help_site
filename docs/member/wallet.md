@@ -2,9 +2,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWfAVlhbDbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Nav](imgs/money-2.png)
+![Nav](imgs/wallet_money.png)
 
-You can add funds to your wallet by clicking the `+ Money` button.
+You can add funds to your wallet by clicking the `+ Add Money` button.
 
 All your actions like tweaking, backtesting, paper trading and real trading are charged according to the funds in your wallet (wherever charges are applicable).
 
@@ -35,16 +35,12 @@ There are 3 tabs here:
 
 The following is a list of plans currently offered by our platform.
 
-![Nav](imgs/screenshots/Plans_Wallet.png)
+![Nav](imgs/wallet_plans_list.png)
 
 Click on the amount button of any plan to initiate payment for that plan. 
 
-![Nav](imgs/money-3.gif)
+![Nav](imgs/wallet_plans.png)
 
-Click on `Active Plans` to see the plan(s) currently active in your account.
+Click on `Active Plans` tab shown above to see the plan(s) currently active in your account.
 
-![Nav](imgs/money-9.png)
-
-Click on `History` to see all your activity for your wallet over a period of time.
-
-![Nav](imgs/money-10.png)
+Click on `History` tab shown above to see all previously used plans.
