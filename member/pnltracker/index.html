@@ -675,11 +675,23 @@
                 <h1 id="pl-tracker">P&amp;L Tracker<a class="headerlink" href="#pl-tracker" title="Permanent link">&para;</a></h1>
 <p>Define your <code>Desired Profit</code> and <code>Risk Appetite</code> to trade for that particular instrument.</p>
 <p>AlgoBulls Risk Management System will try its best to book your P&amp;L at the given Profit Desired or limit it at the given Risk Appetite.</p>
-<p>You can set and use the P&amp;L Tracker values for Backtesting, Paper Trading and Read Trading as well.</p>
+<p>You can set and use the P&amp;L Tracker values for Real Trading, Paper Trading, and Backtesting as well.</p>
 <p><a href="../imgs/PnL_tracker.gif"> <img alt="Portfolio" src="../imgs/PnL_tracker.gif" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p>You can either give both values or keep both values blank. Giving one of the values and keeping the other value blank is not allowed.</p>
+<p>In other words:</p>
+<ul>
+<li>
+<p>P&amp;L Tracker is enabled if both values are given.</p>
+</li>
+<li>
+<p>P&amp;L Tracker is disabled if both values are blank.</p>
+</li>
+</ul>
+<p>This feature is in Beta mode, so if you are not sure, keep both values blank.</p>
+<p>Currently, The P&amp;L Scan Frequency for Real Trading and Paper Trading is 1 minute (i.e. 60 seconds). This may change in the future.</p>
 <div class="admonition note">
 <p class="admonition-title">Note<ul>
-<li>These values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on.</li>
+<li>For Real Trading - These values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on.</li>
 </ul>
 </p>
 </div>
@@ -691,7 +703,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class='timeago' datetime='1617103619000' locale='en'></span>
+      Last update: <span class='timeago' datetime='1617106120000' locale='en'></span>
     
   </small>
 </div>
