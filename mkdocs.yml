@@ -60,7 +60,6 @@ nav:
       - 'Marketplace': 'member/marketplace.md'
       - 'Dashboard': 'member/dashboard.md'
       - 'Portfolio': 'member/portfolio.md'
-      - 'P&L Tracker': 'member/pnltracker.md'
       - 'Paper Trading & Backtesting': 'member/paperback.md'
       - 'Manage Strategies': 'member/custom-strategies.md'
       - 'Live Reports':
@@ -70,8 +69,10 @@ nav:
       - 'Settings':
           - 'General': 'member/Settings/general-settings.md'
           - 'Broking': 'member/Settings/broking-settings.md'
-      - 'Navigation Bar': 'member/nav-bar.md'
       - 'Wallet': 'member/wallet.md'
+#      - 'Navigation Bar': 'member/nav-bar.md'
+  - 'Features':
+      - 'P&L Tracker': 'member/pnltracker.md'
       - 'Tweak': 'member/tweak.md'
   - 'Broker Information':
       - 'ALICEBLUE': 'broker/aliceblue.md'

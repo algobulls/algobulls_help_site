@@ -39,7 +39,7 @@ The table covers the following fields:
 * `Source` - Type of the Strategy viz. Build, Tweak or Develop.
 * `Config` - Change parameters and other configuration from here.
 * `Instrument(s)` - Instrument on which the strategy is being run.
-* `P&L Tracker` - Define your Desired Profit and Risk Appetite to trade for that particular instrument. AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite. However, these values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on.
+* `P&L Tracker` - Define your Desired Profit and Risk Appetite to trade for that particular strategy. AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite. However, these values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on.
 * `Qty. (Lots)` - Quantity/Lots being traded.
 * `Status` - States the Status of the strategy if it is Started or Stopped.
 * `Logs` - You can access the logs from here.

@@ -3,6 +3,14 @@ Tweak gives user an option to change different parameters of strategy as per the
 
 [ ![Tweak](imgs/tweak-1.gif "Click to Enlarge") ](imgs/tweak-1.gif)
 
+This feature is available and live for:
+
+|  Trading Type | Available |
+|:-------------:|:-------:|
+| Real Trading  |    <font size=4>✅</font>    |
+| Paper Trading |    <font size=4>✅</font>    |
+| Backtesting   |    <font size=4>✅</font>    |
+
 ## General
 ---
 All general parameters are listed.
