@@ -55,9 +55,9 @@ Before adding any strategy to your Portfolio, you can search for strategies here
 ## What does a Strategy Card look like
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cfSns8VpEGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jlAmzId6Z6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[ ![Marketplace](imgs/strategy_card_details.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/strategy_card_details.png)
+[//]: <> ([ ![Marketplace](imgs/strategy_card_details.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/strategy_card_details.png))
 
 The `Execute` button adds the strategy to your [Portfolio](portfolio.md) (Real Trading).
 
