@@ -1,4 +1,4 @@
-# AlgoBulls Help
+# AlgoBulls Help Site
 
 ![Logo](imgs/logo_large.svg)
 
