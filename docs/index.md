@@ -1,6 +1,6 @@
 # AlgoBulls Help
 
-![Logo](imgs/algobulls_logo_with_tagline.svg)
+![Logo](imgs/logo_large.svg)
 
 ## Introduction
 Welcome! We think you should go through the list below and see that you have understood and ticked off all the points!
