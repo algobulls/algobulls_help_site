@@ -27,17 +27,7 @@ Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental 
 !!! Note
     * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
 
-## 4) Update your Risk Management Settings (Beta)
-Click [here](/member/Settings/general-settings/#risk-management) to know more about your Risk Management Settings.
-
-`MAX Capital Drawdown` is your Risk Appetite. Real Trading will stop when this limit is breached.
-
-`Desired Profit` is the value of your Profit Limit. Real Trading will stop when this value is achieved.
-
-!!! Note
-    * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
-
-## 5) Broker Account and Binding
+## 4) Broker Account and Binding
 
 You need to have a valid working broking account before you start algorithmic trading using AlgoBulls.
 
@@ -50,7 +40,6 @@ We currently offer support for the following brokers. (More on the way!)
 * Mastertrust
 * Zebu
 * Zerodha
-
 
 Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
 
