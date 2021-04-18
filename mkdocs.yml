@@ -69,7 +69,7 @@ nav:
       - 'Settings':
           - 'General': 'member/Settings/general-settings.md'
           - 'Broking': 'member/Settings/broking-settings.md'
-      - 'Wallet': 'member/wallet.md'
+      - 'Plans & Wallet': 'member/wallet.md'
 #      - 'Navigation Bar': 'member/nav-bar.md'
   - 'Features':
       - 'P&L Tracker': 'member/pnltracker.md'
