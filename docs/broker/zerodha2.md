@@ -33,7 +33,7 @@ Keep the following information available before you start:
 
 ### One-Time Activity
 ---
-This activity will help you to link you broking account to the AlgoBulls account via the oauth method.
+This activity will help you to link your broking account to the AlgoBulls account via the oauth method.
 
 If you have done this activity once before, then you can directly skip to the [Login](#-lets-start) section
 
@@ -62,13 +62,13 @@ If you have done this activity once before, then you can directly skip to the [L
 [ ![Zerodha](imgs/zerodha/create_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/create_app.png)
     
 !!! Note
-    * Make payment once re-directed to the payment gateway and then continue the below steps
+    * Make payment once redirected to the payment gateway and then continue the below steps
 
 * Now click on the newly created app name
 
 [ ![Zerodha](imgs/zerodha/click_here.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/click_here.png)
 
-* Copy the API key and save it seaprately for later use. Click on `Show API secret` and copy it too
+* Copy the API key and save it separately for later use. Click on `Show API secret` and copy it too
 
 [ ![Zerodha](imgs/zerodha/show_api_secret.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/show_api_secret.png)
 
