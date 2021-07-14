@@ -84,7 +84,7 @@ nav:
       - 'MASTERTRUST': 'broker/mastertrust.md'
 #      - 'TRADEBULLS': 'broker/tradebulls.md'
       - 'ZEBU': 'broker/zebu.md'
-      - 'ZERODHA': 'broker/zerodha.md'
+      - 'ZERODHA': 'broker/zerodha2.md'
   - 'Developer Options': 'developers.md'
 
 plugins:
