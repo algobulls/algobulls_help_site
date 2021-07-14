@@ -35,7 +35,7 @@ Keep the following information available before you start:
 ---
 This activity will help you to link your broking account to the AlgoBulls account via the oauth method.
 
-If you have done this activity once before, then you can directly skip to the [Login](#-lets-start) section
+If you have done this activity once before, then you can directly skip to the [Login](#lets-start) (Let's Start) section
 
 * Visit [https://kite.trade](https://kite.trade) and click on `Login`
 
@@ -150,4 +150,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Important Points to Note
 ---
-* You have to login at the start of every trading day before you start trading using the steps given for [Login](#-lets-start)
+* You have to login at the start of every trading day before you start trading using the steps given for [Login](#lets-start) (Let's Start) section
