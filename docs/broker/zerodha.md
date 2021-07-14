@@ -5,6 +5,8 @@
 
 * Trading Website: [https://kite.zerodha.com/](https://kite.zerodha.com/)
 
+* Developer Website: [https://kite.trade/](https://kite.trade/)
+
 * Markets Supported: India
 
 ## Login and Setup your Zerodha Account 
@@ -15,19 +17,77 @@ This section will take you through the step-wise instructions to log in, setup, 
 ---
 Keep the following information available before you start:
 
-1) AlgoBulls Account Credentials
+1) Developer Credentials at [https://kite.trade](https://kite.trade)
 
-* Phone Number
+* EMail ID
 
 * Password
 
-2) Broking Account Credentials
+2) Broking Account Credentials at [https://kite.zerodha.com/](https://kite.zerodha.com/)
 
 * User ID
 
 * Password
 
 * PIN
+
+### One-Time Activity
+---
+This activity will help you to link your broking account to the AlgoBulls account via the oauth method.
+
+!!! Note
+    * Login to your registered AlgoBulls account first and then perform the below steps
+
+If you have done this activity once before, then you can directly skip to the [Login](#lets-start) (Let's Start) section
+
+* Visit [https://kite.trade](https://kite.trade) and click on `Login`
+
+[ ![Zerodha](imgs/zerodha/visit.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/visit.png)
+
+* Enter your EMail ID and Password. Click the `Login` button
+
+[ ![Zerodha](imgs/zerodha/login_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/login_app.png)
+
+* Click the `Create new app` button
+
+[ ![Zerodha](imgs/zerodha/create_app_button.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/create_app_button.png)
+
+* On the `Create a new app` page, fill the following fields:
+
+    * Type: Select `Connect`
+    * App name: Give the app name. Example: AlgoBulls Login
+    * Zerodha CLient ID: Give your Zerodha User ID
+    * Redirect URL: Give the value `https://127.0.0.1`
+    * Description: Give the description. Example: App for AlgoBulls Login
+    
+* Click the `Create` button
+
+[ ![Zerodha](imgs/zerodha/create_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/create_app.png)
+    
+!!! Note
+    * Make payment once redirected to the payment gateway and then continue the below steps
+
+* Now click on the newly created app name
+
+[ ![Zerodha](imgs/zerodha/click_here.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/click_here.png)
+
+* Copy the API key and save it separately for later use. Click on `Show API secret` and copy it too
+
+[ ![Zerodha](imgs/zerodha/show_api_secret.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/show_api_secret.png)
+
+* Use the API key and API secret to create a new Redirect URL in the following format:
+```html
+https://app.algobulls.com/loading?st=zerodha&k=<userapikey>&s=<userapisecret>
+```
+  
+    Example: If the API key is uS3r@piKey and the API secret is uS3r@pis3cr3t, then the redirect URL will be:
+```html
+https://app.algobulls.com/loading?st=zerodha&k=uS3r@piKey&s=uS3r@pis3cr3t
+```
+
+* Paste the newly created Redirect URL in the `Redirect URL` field and click the `Save` button
+
+[ ![Zerodha](imgs/zerodha/change_redirect_url.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/change_redirect_url.png)
 
 ### Let's Start
 ---
@@ -37,33 +97,49 @@ Keep the following information available before you start:
 
 (1). Type the first few characters of your Broker Name
 
-(2). Select the `ZERODHA` broker
+(2). Select the `ZERODHA OAuth` broker
 
-(3). Click on the `Login & Connect with ZERODHA` button
+(3). Click on the `Login with ZERODHA` button
 
-[ ![Zerodha](imgs/zerodha/zerodha_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_1.png)
+[ ![Zerodha](imgs/zerodha/zerodha_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth.png)
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Now paste your saved API key in the URL
 
-* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
+Example: If the API key is uS3r@piKey and the URL is:
 
-* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
+```html
+https://kite.zerodha.com/connect/login?api_key=pleaseenteryourapikey
+```
 
-[ ![Zerodha](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+[ ![Zerodha](imgs/zerodha/zerodha_oauth_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth_2.png)
 
-* You will be re-directed to the Verification Page. Provide data for the following fields:
+then the new URL will be:
+
+```html
+https://kite.zerodha.com/connect/login?api_key=pleaseenteruS3r@piKey
+```
+
+[ ![Zerodha](imgs/zerodha/zerodha_oauth_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth_3.png)
+
+Press Enter after modifying the URL with your API key
+
+Now provide data for the following fields:
 
 (4). User ID: The ID given to you by your broker
 
 (5). Password: The password given to you by the broker
 
-(6). PIN: The PIN given to you by the broker
+(6). Click `Login` button
 
-[ ![Zerodha](imgs/zerodha/zerodha_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_2.png)
+[ ![Zerodha](imgs/zerodha/zerodha_oauth_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth_4.png)
 
-* If the verification is successful, you will see the following message
+(7). PIN: The PIN given to you by the broker
 
-[ ![Zerodha](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
+(8). Click `Continue` button
+
+[ ![Zerodha](imgs/zerodha/zerodha_oauth_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth_5.png)
+
+If login is successful, you will directly land on the [Broking](https://app.algobulls.com/account/broking) page
 
 ## Bind your Broking Account
 ---
@@ -74,3 +150,7 @@ The following steps will help you to make sure you have binded your broker accou
 * Bind your account using the Toggle button marked below
 
 [ ![Zerodha](imgs/zerodha/zerodha_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_binded.png)
+
+## Important Points to Note
+---
+* You have to login at the start of every trading day before you start trading using the steps given for [Login](#lets-start) (Let's Start) section
