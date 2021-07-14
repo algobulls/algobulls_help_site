@@ -20,7 +20,7 @@
     
     
       
-        <title>Zerodha - AlgoBulls Help Site</title>
+        <title>ZERODHA - AlgoBulls Help Site</title>
       
     
     
@@ -111,7 +111,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Zerodha
+              ZERODHA
             
           </span>
         </div>
@@ -536,12 +536,14 @@
 
   
   
+    
+  
   
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" data-md-state="indeterminate" type="checkbox" id="__nav_5" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
       
       <label class="md-nav__link" for="__nav_5">
         Broker Information
@@ -629,11 +631,92 @@
             
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../zerodha2/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          ZERODHA
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         ZERODHA
       </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#login-and-setup-your-zerodha-account" class="md-nav__link">
+    Login and Setup your Zerodha Account
+  </a>
+  
+    <nav class="md-nav" aria-label="Login and Setup your Zerodha Account">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#before-you-start" class="md-nav__link">
+    Before you Start
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#one-time-activity" class="md-nav__link">
+    One-Time Activity
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lets-start" class="md-nav__link">
+    Let's Start
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bind-your-broking-account" class="md-nav__link">
+    Bind your Broking Account
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#important-points-to-note" class="md-nav__link">
+    Important Points to Note
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -700,6 +783,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#one-time-activity" class="md-nav__link">
+    One-Time Activity
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#lets-start" class="md-nav__link">
     Let's Start
   </a>
@@ -714,6 +804,13 @@
         <li class="md-nav__item">
   <a href="#bind-your-broking-account" class="md-nav__link">
     Bind your Broking Account
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#important-points-to-note" class="md-nav__link">
+    Important Points to Note
   </a>
   
 </li>
@@ -745,6 +842,9 @@
 <p>Trading Website: <a href="https://kite.zerodha.com/">https://kite.zerodha.com/</a></p>
 </li>
 <li>
+<p>Developer Website: <a href="https://kite.trade/">https://kite.trade/</a></p>
+</li>
+<li>
 <p>Markets Supported: India</p>
 </li>
 </ul>
@@ -754,16 +854,16 @@
 <h3 id="before-you-start">Before you Start<a class="headerlink" href="#before-you-start" title="Permanent link">&para;</a></h3>
 <hr />
 <p>Keep the following information available before you start:</p>
-<p>1) AlgoBulls Account Credentials</p>
+<p>1) Developer Credentials at <a href="https://kite.trade">https://kite.trade</a></p>
 <ul>
 <li>
-<p>Phone Number</p>
+<p>EMail ID</p>
 </li>
 <li>
 <p>Password</p>
 </li>
 </ul>
-<p>2) Broking Account Credentials</p>
+<p>2) Broking Account Credentials at <a href="https://kite.zerodha.com/">https://kite.zerodha.com/</a></p>
 <ul>
 <li>
 <p>User ID</p>
@@ -775,6 +875,72 @@
 <p>PIN</p>
 </li>
 </ul>
+<h3 id="one-time-activity">One-Time Activity<a class="headerlink" href="#one-time-activity" title="Permanent link">&para;</a></h3>
+<hr />
+<p>This activity will help you to link your broking account to the AlgoBulls account via the oauth method.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<ul>
+<li>Login to your registered AlgoBulls account first and then perform the below steps</li>
+</ul>
+</div>
+<p>If you have done this activity once before, then you can directly skip to the <a href="#lets-start">Login</a> (Let's Start) section</p>
+<ul>
+<li>Visit <a href="https://kite.trade">https://kite.trade</a> and click on <code>Login</code></li>
+</ul>
+<p><a href="../imgs/zerodha/visit.png"> <img alt="Zerodha" src="../imgs/zerodha/visit.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<ul>
+<li>Enter your EMail ID and Password. Click the <code>Login</code> button</li>
+</ul>
+<p><a href="../imgs/zerodha/login_app.png"> <img alt="Zerodha" src="../imgs/zerodha/login_app.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<ul>
+<li>Click the <code>Create new app</code> button</li>
+</ul>
+<p><a href="../imgs/zerodha/create_app_button.png"> <img alt="Zerodha" src="../imgs/zerodha/create_app_button.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<ul>
+<li>
+<p>On the <code>Create a new app</code> page, fill the following fields:</p>
+<ul>
+<li>Type: Select <code>Connect</code></li>
+<li>App name: Give the app name. Example: AlgoBulls Login</li>
+<li>Zerodha CLient ID: Give your Zerodha User ID</li>
+<li>Redirect URL: Give the value <code>https://127.0.0.1</code></li>
+<li>Description: Give the description. Example: App for AlgoBulls Login</li>
+</ul>
+</li>
+<li>
+<p>Click the <code>Create</code> button</p>
+</li>
+</ul>
+<p><a href="../imgs/zerodha/create_app.png"> <img alt="Zerodha" src="../imgs/zerodha/create_app.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<ul>
+<li>Make payment once redirected to the payment gateway and then continue the below steps</li>
+</ul>
+</div>
+<ul>
+<li>Now click on the newly created app name</li>
+</ul>
+<p><a href="../imgs/zerodha/click_here.png"> <img alt="Zerodha" src="../imgs/zerodha/click_here.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<ul>
+<li>Copy the API key and save it separately for later use. Click on <code>Show API secret</code> and copy it too</li>
+</ul>
+<p><a href="../imgs/zerodha/show_api_secret.png"> <img alt="Zerodha" src="../imgs/zerodha/show_api_secret.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<ul>
+<li>
+<p>Use the API key and API secret to create a new Redirect URL in the following format:
+<div class="highlight"><pre><span></span><code>https://app.algobulls.com/loading?st=zerodha<span class="err">&amp;</span>k=<span class="p">&lt;</span><span class="nt">userapikey</span><span class="p">&gt;</span><span class="err">&amp;</span>s=<span class="p">&lt;</span><span class="nt">userapisecret</span><span class="p">&gt;</span>
+</code></pre></div></p>
+<p>Example: If the API key is uS3r@piKey and the API secret is uS3r@pis3cr3t, then the redirect URL will be:
+<div class="highlight"><pre><span></span><code>https://app.algobulls.com/loading?st=zerodha<span class="err">&amp;</span>k=uS3r@piKey<span class="err">&amp;</span>s=uS3r@pis3cr3t
+</code></pre></div></p>
+</li>
+<li>
+<p>Paste the newly created Redirect URL in the <code>Redirect URL</code> field and click the <code>Save</code> button</p>
+</li>
+</ul>
+<p><a href="../imgs/zerodha/change_redirect_url.png"> <img alt="Zerodha" src="../imgs/zerodha/change_redirect_url.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <h3 id="lets-start">Let's Start<a class="headerlink" href="#lets-start" title="Permanent link">&para;</a></h3>
 <hr />
 <ul>
@@ -782,30 +948,30 @@
 </ul>
 <p><a href="../imgs/siwyba.png"> <img alt="Zerodha" src="../imgs/siwyba.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <p>(1). Type the first few characters of your Broker Name</p>
-<p>(2). Select the <code>ZERODHA</code> broker</p>
-<p>(3). Click on the <code>Login &amp; Connect with ZERODHA</code> button</p>
-<p><a href="../imgs/zerodha/zerodha_1.png"> <img alt="Zerodha" src="../imgs/zerodha/zerodha_1.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<p>Now Login to your AlgoBulls account. Provide data for the following fields and then click the <code>Login</code> button</p>
-<ul>
-<li>
-<p>Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.</p>
-</li>
-<li>
-<p>Password: The password you have given to Register/Sign-Up to the AlgoBulls website.</p>
-</li>
-</ul>
-<p><a href="../imgs/sign-in-2.png"> <img alt="Zerodha" src="../imgs/sign-in-2.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<ul>
-<li>You will be re-directed to the Verification Page. Provide data for the following fields:</li>
-</ul>
+<p>(2). Select the <code>ZERODHA OAuth</code> broker</p>
+<p>(3). Click on the <code>Login with ZERODHA</code> button</p>
+<p><a href="../imgs/zerodha/zerodha_oauth.png"> <img alt="Zerodha" src="../imgs/zerodha/zerodha_oauth.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p>Now paste your saved API key in the URL</p>
+<p>Example: If the API key is uS3r@piKey and the URL is:</p>
+<div class="highlight"><pre><span></span><code>https://kite.zerodha.com/connect/login?api_key=pleaseenteryourapikey
+</code></pre></div>
+
+<p><a href="../imgs/zerodha/zerodha_oauth_2.png"> <img alt="Zerodha" src="../imgs/zerodha/zerodha_oauth_2.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p>then the new URL will be:</p>
+<div class="highlight"><pre><span></span><code>https://kite.zerodha.com/connect/login?api_key=pleaseenteruS3r@piKey
+</code></pre></div>
+
+<p><a href="../imgs/zerodha/zerodha_oauth_3.png"> <img alt="Zerodha" src="../imgs/zerodha/zerodha_oauth_3.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p>Press Enter after modifying the URL with your API key</p>
+<p>Now provide data for the following fields:</p>
 <p>(4). User ID: The ID given to you by your broker</p>
 <p>(5). Password: The password given to you by the broker</p>
-<p>(6). PIN: The PIN given to you by the broker</p>
-<p><a href="../imgs/zerodha/zerodha_2.png"> <img alt="Zerodha" src="../imgs/zerodha/zerodha_2.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<ul>
-<li>If the verification is successful, you will see the following message</li>
-</ul>
-<p><a href="../imgs/success_login.png"> <img alt="Zerodha" src="../imgs/success_login.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p>(6). Click <code>Login</code> button</p>
+<p><a href="../imgs/zerodha/zerodha_oauth_4.png"> <img alt="Zerodha" src="../imgs/zerodha/zerodha_oauth_4.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p>(7). PIN: The PIN given to you by the broker</p>
+<p>(8). Click <code>Continue</code> button</p>
+<p><a href="../imgs/zerodha/zerodha_oauth_5.png"> <img alt="Zerodha" src="../imgs/zerodha/zerodha_oauth_5.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p>If login is successful, you will directly land on the <a href="https://app.algobulls.com/account/broking">Broking</a> page</p>
 <h2 id="bind-your-broking-account">Bind your Broking Account<a class="headerlink" href="#bind-your-broking-account" title="Permanent link">&para;</a></h2>
 <hr />
 <p>The following steps will help you to make sure you have binded your broker account</p>
@@ -818,6 +984,11 @@
 </li>
 </ul>
 <p><a href="../imgs/zerodha/zerodha_binded.png"> <img alt="Zerodha" src="../imgs/zerodha/zerodha_binded.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<h2 id="important-points-to-note">Important Points to Note<a class="headerlink" href="#important-points-to-note" title="Permanent link">&para;</a></h2>
+<hr />
+<ul>
+<li>You have to login at the start of every trading day before you start trading using the steps given for <a href="#lets-start">Login</a> (Let's Start) section</li>
+</ul>
                 
                   
                     
@@ -826,7 +997,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class='timeago' datetime='1612035441000' locale='en'></span>
+      Last update: <span class='timeago' datetime='1626286101000' locale='en'></span>
       
     
   </small>
@@ -856,6 +1027,41 @@
       
         
 <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../zebu/" class="md-footer__link md-footer__link--prev" aria-label="Previous: ZEBU" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              ZEBU
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../../developers/" class="md-footer__link md-footer__link--next" aria-label="Next: Developer Options" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Developer Options
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
