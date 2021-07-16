@@ -11,7 +11,7 @@
 
 ## Important Points to Note
 ---
-* It is required to login **once** (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+* It is required to login **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
 
 ## Login and Setup your Zerodha Account 
 ---
@@ -175,4 +175,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Important Points to Note
 ---
-* It is required to login **once** (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+* It is required to login **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section

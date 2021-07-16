@@ -9,7 +9,7 @@
 
 ## Important Points to Note
 ---
-* It is required to login **once** (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
+* It is required to login **once** daily (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
 
 ## Login and Setup your Zebu Account 
 ---
@@ -81,4 +81,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Important Points to Note
 ---
-* It is required to login **once** (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
+* It is required to login **once** daily (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
