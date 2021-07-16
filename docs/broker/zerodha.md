@@ -37,8 +37,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 !!! Note
     * Login to your registered AlgoBulls account first and then perform the below steps
-
-If you have done this activity once before, then you can directly skip to the [Login](#lets-start) (Let's Start) section
+    * If you have done this activity once before, then you can directly skip to the [Daily Activity](#daily-activity-login) section
 
 * Visit [https://kite.trade](https://kite.trade) and click on `Login`
 
@@ -66,6 +65,7 @@ If you have done this activity once before, then you can directly skip to the [L
     
 !!! Note
     * Make payment once redirected to the payment gateway and then continue the below steps
+    * This API subscription has to be renewed periodically (monthly)
 
 * Now click on the newly created app name
 
@@ -89,8 +89,12 @@ https://app.algobulls.com/loading?st=zerodha&k=uS3r@piKey&s=uS3r@pis3cr3t
 
 [ ![Zerodha](imgs/zerodha/change_redirect_url.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/change_redirect_url.png)
 
-### Let's Start
+### Daily Activity (Login)
 ---
+
+!!! Note
+    * Perform the following steps at the start of every trading day
+
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
 
 [ ![Zerodha](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
@@ -116,7 +120,7 @@ https://kite.zerodha.com/connect/login?api_key=pleaseenteryourapikey
 then the new URL will be:
 
 ```html
-https://kite.zerodha.com/connect/login?api_key=pleaseenteruS3r@piKey
+https://kite.zerodha.com/connect/login?api_key=uS3r@piKey
 ```
 
 [ ![Zerodha](imgs/zerodha/zerodha_oauth_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth_3.png)
@@ -139,7 +143,21 @@ Now provide data for the following fields:
 
 [ ![Zerodha](imgs/zerodha/zerodha_oauth_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth_5.png)
 
-If login is successful, you will directly land on the [Broking](https://app.algobulls.com/account/broking) page
+!!! Note
+
+* If you are facing issues with login, try the following steps:
+
+    * Open a new tab
+
+    * Visit [https://kite.zerodha.com/](https://kite.zerodha.com/)
+
+    * Login with your credentials
+
+    * Logout
+
+    * Close the tab
+
+    * Perform steps (1). to (8). again
 
 ## Bind your Broking Account
 ---
@@ -153,4 +171,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Important Points to Note
 ---
-* You have to login at the start of every trading day before you start trading using the steps given for [Login](#lets-start) (Let's Start) section
+* You have to login at the start of every trading day before you can commence trading using the steps given in the [Daily Activity](#daily-activity-login) section
