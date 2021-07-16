@@ -9,6 +9,10 @@
 
 * Markets Supported: India
 
+## Important Points to Note
+---
+* It is required to login **once** (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+
 ## Login and Setup your Zerodha Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
@@ -171,4 +175,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Important Points to Note
 ---
-* You have to login at the start of every trading day before you can commence trading using the steps given in the [Daily Activity](#daily-activity-login) section
+* It is required to login **once** (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section

@@ -7,6 +7,10 @@
 
 * Markets Supported: India
 
+## Important Points to Note
+---
+* It is required to login **once** (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
+
 ## Login and Setup your Zebu Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
