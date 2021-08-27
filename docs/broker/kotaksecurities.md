@@ -7,9 +7,6 @@
 
 * Markets Supported: India
 
-!!! Note
-    * This broker is currently in Beta Testing mode.
-
 ## Login and Setup your Kotak Securities Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
