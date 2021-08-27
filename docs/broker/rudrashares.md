@@ -1,13 +1,12 @@
-# Indira Securities
+# Rudra Shares
 ---
+* Official Website: [https://www.rudrashares.com/](https://www.rudrashares.com/)
 
-* Official Website: [https://www.indiratrade.com/](https://www.indiratrade.com/)
-
-* Trading Website: [https://www.indiratrade.com/trade-online](https://www.indiratrade.com/trade-online)
+* Trading Website: [https://onlinetrading.rudrashares.com/](https://onlinetrading.rudrashares.com/)
 
 * Markets Supported: India
 
-## Login and Setup your Indira Securities Account 
+## Login and Setup your Rudra Shares Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -24,24 +23,24 @@ Keep the following information available before you start:
 2) Broking Account Credentials
 
 * User ID
-
+      
 * Password
-
-* 2FA Answers (your PAN Card number)
+      
+* PIN
 
 ### Let's Start
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
 
-[ ![Indira](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![RudraShares](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
 
 (1). Type the first few characters of your Broker Name
 
-(2). Select the `INDIRASECURITIES` broker
+(2). Select the `RUDRA SHARES OAuth` broker
 
-(3). Click on the `Login & Connect with INDIRASECURTIES` button
+(3). Click on the `Login with RUDRA SHARES` button
 
-[ ![Indira](imgs/indirasecurities/indira_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_1.png)
+[ ![RudraShares](imgs/rudrashares/rudra_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_1.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
@@ -49,7 +48,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 * Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
 
-[ ![Indira](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+[ ![RudraShares](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
 * You will be re-directed to the Verification Page. Provide data for the following fields:
 
@@ -57,13 +56,19 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 (5). Password: The password given to you by the broker
 
-(6). 2FA Answers: The 2-factor authentication answer you have given (your PAN Card number)
+(6). Click the `Sign In` button
 
-[ ![Indira](imgs/indirasecurities/indira_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_2.png)
+[ ![RudraShares](imgs/rudrashares/rudra_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_2.png)
+
+(7). PIN: The PIN given to you by the broker
+
+(8). Click the `Submit` button
+
+[ ![RudraShares](imgs/rudrashares/rudra_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_3.png)
 
 * If the verification is successful, you will see the following message
 
-[ ![Indira](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
+[ ![RudraShares](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
 ## Bind your Broking Account
 ---
@@ -73,4 +78,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 * Bind your account using the Toggle button marked below
 
-[ ![Indira](imgs/indirasecurities/indira_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_3.png)
+[ ![RudraShares](imgs/rudrashares/rudra_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_4.png)

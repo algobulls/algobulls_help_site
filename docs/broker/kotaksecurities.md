@@ -84,4 +84,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 * Bind your account using the Toggle button marked below
 
-[ ![Kotak](imgs/kotak/kotak_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_binded.png)
+[ ![Kotak](imgs/kotak/kotak_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_4.png)
