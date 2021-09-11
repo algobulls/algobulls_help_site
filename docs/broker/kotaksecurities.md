@@ -27,11 +27,12 @@ Keep the following information available before you start:
 
 * Password
 
-* Access Code
-
 * Consumer Key
 
-* Auth Bearer
+* Access Token
+
+!!! Note
+    * Get your Consumer Key and Access Token from [here](docs/access_token_process.pdf) 
 
 ### Let's Start
 ---
@@ -61,11 +62,11 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 (5). Password: The password given to you by the broker
 
-(6). Access Code: The access code given to you by the broker
+(6). Consumer Key: The consumer key given to you by the broker
 
-(7). Consumer Key: The consumer key given to you by the broker
+(7). Access Token: The access token given to you by the broker
 
-(8). Auth Bearer: The auth bearer code given to you by the broker
+Get your Consumer Key and Access Token from [here](docs/access_token_process.pdf)
 
 [ ![Kotak](imgs/kotak/kotak_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_2.png)
 
