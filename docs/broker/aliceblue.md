@@ -26,7 +26,7 @@ Keep the following information available before you start:
       
 * Password
       
-* 2FA Answers 
+* Year of Birth
 
 ### Let's Start
 ---
@@ -71,7 +71,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 (5). Password: The password given to you by the broker
 
-(6). 2FA Answers: The answer you have given for the security question. [See Important Points](#important-points-to-note) below
+(6). Year of Birth: The year of birth you have given while creating the broker account
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_2_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_2_nonoauth.png)
 
@@ -99,11 +99,9 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_2_oauth.png)
 
-(7). 2FA Question: Give the answer to this 2FA question
+(7). Year of Birth: The year of birth you have given while creating the broker account
 
-(8). 2FA Question: Give the answer to this 2FA question
-
-(9). Click `Submit` 
+(8). Click `Submit`
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_3_oauth.png)
 
@@ -118,7 +116,3 @@ The following steps will help you to make sure you have binded your broker accou
 * Bind your account using the Toggle button marked below
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_binded.png)
-
-## Important Points to Note
----
-* For the non-OAuth login method, the 2FA answers for all the questions should be the same
