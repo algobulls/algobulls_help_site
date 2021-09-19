@@ -195,7 +195,19 @@ The Right-hand Side of the expanded view has 2 tabs:
       `pnl_absolute = (exit_price - entry_price)*exit_quantity` for a long trade
 
       `pnl_absolute = (entry_price - exit_price)*exit_quantity` for a short trade
- 
+
+* Max DD.:
+
+      `Max DD. = minimum of ( ((Equity Curve) / (Max. Equity Curve)  - 1)*100 )`
+
+* ROI:
+
+      `ROI =  (P&L Cumulative) / (Minimum Capital Required) X 100`
+
+* Equity Curve:
+
+      `Equity Curve = (Minimum Capital Required) + (P&L Cumulative)`
+
 * Max Drawdown %: The maximum loss your strategy has encountered during the execution in percentage.
   
       `max_drowdown_percentage = (Max Drawdown) / (corresponding entry_price) // exit _ quantity x 100`
