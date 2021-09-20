@@ -41,7 +41,7 @@ Before adding any strategy to your Portfolio, you can search for strategies here
 
 `Sort By` - You can sort the strategies into the following:
 
-* Backtest PnL <font size=5>↑ ↓</font>
+* Backtest P&L <font size=5>↑ ↓</font>
 * Drawdown <font size=5>↑ ↓</font> 
 * Transaction Charges <font size=5>↑ ↓</font>
 * Most Recent Transactions <font size=5>↑ ↓</font>
@@ -102,7 +102,7 @@ In addition to that, the following details are visible:
  * `Minimum Capital Required` - Approximate margin as required by the brokers to buy or sell the instrument, this normally keeps fluctuating hence a max value is considered compared among the partnered brokers.
  * `Transaction Charges (in %)` - Indicative transaction charges strategy is expected to incur per trade.
  * `Recommended Duration (Days)` - Duration over which the strategy is expected to generate positive returns.
- * `Return on Investment` - Cumulative PnL absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed. 
+ * `Return on Investment` - Cumulative P&L absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed. 
  * `Drawdown on Investment` - Max DD absolute value divided by Minimum Capital Required, DDOI indicates a simulated yet accurate representation of drawdown on capital employed. 
  
 ### The RHS of the Expanded View for a Strategy Card
@@ -142,8 +142,8 @@ The Right-hand Side of the expanded view has 2 tabs:
 [ ![Marketplace](imgs/screenshots/brs.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/screenshots/brs.png)
 
  * `Summary` - Summary statistics of the strategy backtesting performed.
-    * `Net PnL` - The cumulative backtesting P&L.
-    * `Net PnL %` - The cumulative backtesting P&L percentage.
+    * `Net P&L` - The cumulative backtesting P&L.
+    * `Net P&L %` - The cumulative backtesting P&L percentage.
     * `Max Drawdown` - The maximum loss your strategy has encountered during the execution.
     * `Max Drawdown %` - The maximum loss your strategy has encountered during the execution in percentage.
     * `Number of Trades` - Total trades (entry and exit counted as one) during the session.
@@ -179,8 +179,8 @@ The Right-hand Side of the expanded view has 2 tabs:
     * `Exit` - Exit trade type such as Buy/Sell	
     * `Exit Qty.` -	Quantity traded. This depends on the number of profit booking trades embedded in the strategy logic.
     * `Exit Price` - Price at which exit trade was executed.	
-    * `PnL (Rs.) / PnL %` -	PnL amount and PnL % of each trade.
-    * `PnL Cum. (Rs.) / PnL Cum. %` - Cumulative PnL amount and Cumulative PnL % of each trade.
+    * `P&L (Rs.) / P&L %` -	P&L amount and P&L % of each trade.
+    * `P&L Cum. (Rs.) / P&L Cum. %` - Cumulative P&L amount and Cumulative P&L % of each trade.
  * `Insights (Beta)` - Graphical representation of trading results over the backtesting period. X-Axis is the daily time series of the backtesting period and Y-Axis is the amount and percentage depending upon the data.
     * `P&L Absolute (Rs.)` - Absolute P&L in Rs./INR.
     * `P&L %` - Absolute P&L in %.
@@ -190,19 +190,19 @@ The Right-hand Side of the expanded view has 2 tabs:
 ## Formulae
 ---
 
-* Net PnL: The cumulative backtesting P&L. This is the sum of all the Absolute P&L values of the previous trades.
+* Net P&L: The cumulative backtesting P&L. This is the sum of all the Absolute P&L values of the previous trades.
   
-      `pnl_absolute = (exit_price - entry_price)*exit_quantity` for a long trade
+      `p&l_absolute = (exit_price - entry_price) x exit_quantity` for a long trade
 
-      `pnl_absolute = (entry_price - exit_price)*exit_quantity` for a short trade
+      `p&l_absolute = (entry_price - exit_price) x exit_quantity` for a short trade
 
 * Max DD.:
 
-      `Max DD. = minimum of ( ((Equity Curve) / (Max. Equity Curve)  - 1)*100 )`
+      `Max DD. = minimum of ( ((Equity Curve) / (Max. Equity Curve)  - 1) x 100 )`
 
 * ROI:
 
-      `ROI =  (P&L Cumulative) / (Minimum Capital Required) X 100`
+      `ROI =  (P&L Cumulative) / (Minimum Capital Required) x 100`
 
 * Equity Curve:
 
