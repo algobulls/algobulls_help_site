@@ -1011,7 +1011,7 @@
 <p><a href="../imgs/mkt_filter.png"> <img alt="Marketplace" src="../imgs/mkt_filter.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <p><code>Sort By</code> - You can sort the strategies into the following:</p>
 <ul>
-<li>Backtest PnL <font size=5>↑ ↓</font></li>
+<li>Backtest P&amp;L <font size=5>↑ ↓</font></li>
 <li>Drawdown <font size=5>↑ ↓</font> </li>
 <li>Transaction Charges <font size=5>↑ ↓</font></li>
 <li>Most Recent Transactions <font size=5>↑ ↓</font></li>
@@ -1052,7 +1052,7 @@
 <li><code>Minimum Capital Required</code> - Approximate margin as required by the brokers to buy or sell the instrument, this normally keeps fluctuating hence a max value is considered compared among the partnered brokers.</li>
 <li><code>Transaction Charges (in %)</code> - Indicative transaction charges strategy is expected to incur per trade.</li>
 <li><code>Recommended Duration (Days)</code> - Duration over which the strategy is expected to generate positive returns.</li>
-<li><code>Return on Investment</code> - Cumulative PnL absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed. </li>
+<li><code>Return on Investment</code> - Cumulative P&amp;L absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed. </li>
 <li><code>Drawdown on Investment</code> - Max DD absolute value divided by Minimum Capital Required, DDOI indicates a simulated yet accurate representation of drawdown on capital employed. </li>
 </ul>
 <h3 id="the-rhs-of-the-expanded-view-for-a-strategy-card">The RHS of the Expanded View for a Strategy Card<a class="headerlink" href="#the-rhs-of-the-expanded-view-for-a-strategy-card" title="Permanent link">&para;</a></h3>
@@ -1091,8 +1091,8 @@
 <p><a href="../imgs/screenshots/brs.png"> <img alt="Marketplace" src="../imgs/screenshots/brs.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
 <li><code>Summary</code> - Summary statistics of the strategy backtesting performed.<ul>
-<li><code>Net PnL</code> - The cumulative backtesting P&amp;L.</li>
-<li><code>Net PnL %</code> - The cumulative backtesting P&amp;L percentage.</li>
+<li><code>Net P&amp;L</code> - The cumulative backtesting P&amp;L.</li>
+<li><code>Net P&amp;L %</code> - The cumulative backtesting P&amp;L percentage.</li>
 <li><code>Max Drawdown</code> - The maximum loss your strategy has encountered during the execution.</li>
 <li><code>Max Drawdown %</code> - The maximum loss your strategy has encountered during the execution in percentage.</li>
 <li><code>Number of Trades</code> - Total trades (entry and exit counted as one) during the session.</li>
@@ -1133,8 +1133,8 @@
 <li><code>Exit</code> - Exit trade type such as Buy/Sell </li>
 <li><code>Exit Qty.</code> - Quantity traded. This depends on the number of profit booking trades embedded in the strategy logic.</li>
 <li><code>Exit Price</code> - Price at which exit trade was executed.    </li>
-<li><code>PnL (Rs.) / PnL %</code> - PnL amount and PnL % of each trade.</li>
-<li><code>PnL Cum. (Rs.) / PnL Cum. %</code> - Cumulative PnL amount and Cumulative PnL % of each trade.</li>
+<li><code>P&amp;L (Rs.) / P&amp;L %</code> - P&amp;L amount and P&amp;L % of each trade.</li>
+<li><code>P&amp;L Cum. (Rs.) / P&amp;L Cum. %</code> - Cumulative P&amp;L amount and Cumulative P&amp;L % of each trade.</li>
 </ul>
 </li>
 <li><code>Insights (Beta)</code> - Graphical representation of trading results over the backtesting period. X-Axis is the daily time series of the backtesting period and Y-Axis is the amount and percentage depending upon the data.<ul>
@@ -1149,17 +1149,17 @@
 <hr />
 <ul>
 <li>
-<p>Net PnL: The cumulative backtesting P&amp;L. This is the sum of all the Absolute P&amp;L values of the previous trades.</p>
-<p><code>pnl_absolute = (exit_price - entry_price)*exit_quantity</code> for a long trade</p>
-<p><code>pnl_absolute = (entry_price - exit_price)*exit_quantity</code> for a short trade</p>
+<p>Net P&amp;L: The cumulative backtesting P&amp;L. This is the sum of all the Absolute P&amp;L values of the previous trades.</p>
+<p><code>p&amp;l_absolute = (exit_price - entry_price) x exit_quantity</code> for a long trade</p>
+<p><code>p&amp;l_absolute = (entry_price - exit_price) x exit_quantity</code> for a short trade</p>
 </li>
 <li>
 <p>Max DD.:</p>
-<p><code>Max DD. = minimum of ( ((Equity Curve) / (Max. Equity Curve)  - 1)*100 )</code></p>
+<p><code>Max DD. = minimum of ( ((Equity Curve) / (Max. Equity Curve)  - 1) x 100 )</code></p>
 </li>
 <li>
 <p>ROI:</p>
-<p><code>ROI =  (P&amp;L Cumulative) / (Minimum Capital Required) X 100</code></p>
+<p><code>ROI =  (P&amp;L Cumulative) / (Minimum Capital Required) x 100</code></p>
 </li>
 <li>
 <p>Equity Curve:</p>
