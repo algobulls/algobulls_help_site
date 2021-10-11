@@ -176,3 +176,7 @@ The following steps will help you to make sure you have binded your broker accou
 ## Important Points to Note
 ---
 * It is required to login **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+
+## Support
+---
+For Help and Support, contact us on +91 80350 73246 or [email us](mailto:support@algobulls.com).

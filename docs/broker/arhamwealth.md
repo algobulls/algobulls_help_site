@@ -77,3 +77,7 @@ The following steps will help you to make sure you have binded your broker accou
 * Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
 
 * Bind your account using the Toggle button marked below
+
+## Support
+---
+For Help and Support, contact us on +91 80350 73246 or [email us](mailto:support@algobulls.com).

@@ -82,3 +82,7 @@ The following steps will help you to make sure you have binded your broker accou
     [https://masterswift-beta.mastertrust.co.in/](https://masterswift-beta.mastertrust.co.in/)
 
 * You may lose connectivity to your binded broker on the AlgoBulls account if any other app or website is used to login to your account.
+
+## Support
+---
+For Help and Support, contact us on +91 80350 73246 or [email us](mailto:support@algobulls.com).

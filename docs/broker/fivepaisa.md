@@ -53,10 +53,6 @@ To encrypt your credentials, perform the follwing steps:
 
 (8). Copy the Encrypted DOB
 
-!!! Note
-
-    * For IIFL users, Enter your Client ID in Point No. (2) above.
-
 ### Let's Start
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
@@ -102,3 +98,7 @@ The following steps will help you to make sure you have binded your broker accou
 * Bind your account using the Toggle button marked below
 
 [ ![5PAISA](imgs/fivepaisa/fivepaisa_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fivepaisa/fivepaisa_3.png)
+
+## Support
+---
+For Help and Support, contact us on +91 80350 73246 or [email us](mailto:support@algobulls.com).

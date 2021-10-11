@@ -116,3 +116,7 @@ The following steps will help you to make sure you have binded your broker accou
 * Bind your account using the Toggle button marked below
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_binded.png)
+
+## Support
+---
+For Help and Support, contact us on +91 80350 73246 or [email us](mailto:support@algobulls.com).
