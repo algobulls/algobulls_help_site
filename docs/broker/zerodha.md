@@ -13,6 +13,8 @@
 ---
 * It is required to login **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
 
+* TOTP is required (mandatory) in order to place trades in your account
+
 ## Login and Setup your Zerodha Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.

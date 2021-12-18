@@ -76,10 +76,12 @@ nav:
       - 'Tweak': 'member/tweak.md'
   - 'Broker Information':
       - '5PAISA': 'broker/fivepaisa.md'
+      - 'AC AGARWAL': 'broker/acagarwal.md'
       - 'ALICEBLUE': 'broker/aliceblue.md'
       - 'ALPACA': 'broker/alpaca.md'
       - 'ANGELBROKING': 'broker/angelbroking.md'
       - 'ARHAM WEALTH': 'broker/arhamwealth.md'
+      - 'EDELWEISS': 'broker/edelweiss.md'
 #      - 'ASTHA': 'broker/astha.md'
 #      - 'FYERS': 'broker/fyers.md'
       - 'IIFL SECURITIES': 'broker/iifl.md'
