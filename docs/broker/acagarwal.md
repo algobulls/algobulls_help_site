@@ -27,7 +27,7 @@ Keep the following information available before you start:
 
 * Password
 
-* 2FA Answers
+* 2FA Answers (your DOB in ddmmyyyy format)
 
 ### Let's Start
 ---
@@ -55,7 +55,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 (2). Password: The password given to you by the broker
 
-(3). 2FA Answers: The 2-factor authentication answer you have given
+(3). 2FA Answers: The 2-factor authentication answer you have given (your DOB in ddmmyyyy format)
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_4.png)
 
@@ -75,4 +75,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Support
 ---
-For Help and Support, contact us on +91 80350 73246 or [email us](mailto:support@algobulls.com).
+For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

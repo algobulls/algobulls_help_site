@@ -181,4 +181,4 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Support
 ---
-For Help and Support, contact us on +91 80350 73246 or [email us](mailto:support@algobulls.com).
+For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).
