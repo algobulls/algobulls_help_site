@@ -99,7 +99,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 [ ![isec](imgs/icici_securities/select_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/select_broker.png)
 
-# DONE TILL HERE
+# DONE TILL HERE.
 
 Now paste your saved API key in the URL
 
