@@ -58,7 +58,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 [ ![isec](imgs/icici_securities/submit.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/submit.png)
 
 
-* Now Copy and Save API key and Secret Key
+* Now Copy and Save APP key and Secret Key
 
 [ ![isec](imgs/icici_securities/save.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/save.png)
 
