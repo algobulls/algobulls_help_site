@@ -58,7 +58,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 [ ![isec](imgs/icici_securities/submit.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/submit.png)
 
 
-* Now Copy and Save API key and Secret Key
+* Now Copy and Save APP key and Secret Key
 
 [ ![isec](imgs/icici_securities/save.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/save.png)
 
@@ -95,48 +95,55 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 (1). Type the first few characters of your Broker Name
 (2). Select the `ICICI Securities` broker
-(3). Click on the `Login with ICICI Securities` button
 
 [ ![isec](imgs/icici_securities/select_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/select_broker.png)
 
-# DONE TILL HERE
+Now visit [https://www.urlencoder.org/](https://www.urlencoder.org/) and type your 'API key' in the box
 
-Now paste your saved API key in the URL
+[ ![isec](imgs/icici_securities/encode_one.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_one.png)
+
+click on `Encode` and encoded key will appear in box below 
+Copy the Encoded key
+
+[ ![isec](imgs/icici_securities/encode_two.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_two.png)
+
+Now paste your Encoded key in the URL
 
 Example: If the API key is uS3r@piKey and the URL is:
 
 ```html
 https://api.icicidirect.com/apiuser/login?api_key=placeapikeyhere
-https://kite.zerodha.com/connect/login?api_key=pleaseenteryourapikey
+
 ```
-
-[ ![isec](imgs/icici_securities/zerodha_oauth_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/zerodha_oauth_2.png)
-
 then the new URL will be:
 
 ```html
-https://kite.zerodha.com/connect/login?api_key=uS3r@piKey
+https://api.icicidirect.com/apiuser/login?api_key=uS3r@piKey
 ```
 
-[ ![isec](imgs/icici_securities/zerodha_oauth_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/zerodha_oauth_3.png)
+[ ![isec](imgs/icici_securities/key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/key.png)
 
 Press Enter after modifying the URL with your API key
 
 Now provide data for the following fields:
 
-(4). User ID: The ID given to you by your broker
+(3). User ID: The ID given to you by your broker
 
-(5). Password: The password given to you by the broker
+(4). Password: The password given to you by the broker
 
-(6). Click `Login` button
+(5). DOB/PAN: Add Date Of Birth or PAN number
 
-[ ![isec](imgs/icici_securities/zerodha_oauth_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/zerodha_oauth_4.png)
+(6). Agree to terms and conditions
 
-(7). PIN: The PIN given to you by the broker
+(7). Click `Submit` button
 
-(8). Click `Continue` button
+[ ![isec](imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login_again.png)
 
-[ ![isec](imgs/zerodha/zerodha_oauth_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/zerodha_oauth_5.png)
+
+#DONE TILL HERE
+
+
+
 
 !!! Note
 
