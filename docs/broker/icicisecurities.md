@@ -140,18 +140,13 @@ Now provide data for the following fields:
 [ ![isec](imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login_again.png)
 
 
-#DONE TILL HERE
-
-
-
-
 !!! Note
 
 * If you are facing issues with login, try the following steps:
 
     * Open a new tab
 
-    * Visit [https://kite.zerodha.com/](https://kite.zerodha.com/)
+    * Visit [[https://www.icicidirect.com/]([https://www.icicidirect.com/)
 
     * Login with your credentials
 
@@ -159,7 +154,9 @@ Now provide data for the following fields:
 
     * Close the tab
 
-    * Perform steps (1). to (8). again
+    * Perform steps (1). to (7). again
+
+#DONE TILL HERE
 
 ## Bind your Broking Account
 ---
