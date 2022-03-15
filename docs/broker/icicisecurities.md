@@ -21,7 +21,7 @@ This section will take you through the step-wise instructions to log in, setup, 
 ---
 Keep the following information available before you start:
 
-1) Developer and Broking Account Credentials at [https://api.icicidirect.com/apiuser/home](https://api.icicidirect.com/apiuser/home)
+1) Account Credentials
 
 * User ID
 
@@ -46,21 +46,21 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Click the `Register an app` button
 
-[ ![isec](imgs/icici_securities/register_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/register_app.png)
+[ ![isec](imgs/icici_securities/register_an_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/register_app.png)
 
 * On the `Register an app` page, fill the following fields:
 
-    * App name: Give the app name. Example: icici_algobulls
+    * App name: Give the app name. Example: `algobulls_icici`
     * Redirect URL: Give the value `https://app.algobulls.com/loading`
     
 * Click the `Submit` button
-* 
+
 [ ![isec](imgs/icici_securities/submit.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/submit.png)
 
 
-* Now Copy and Save APP key and Secret Key
+* Now Copy and Save the App key
 
-[ ![isec](imgs/icici_securities/save.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/save.png)
+[ ![isec](imgs/icici_securities/app_key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/save.png)
 
 
 * Now click on the 'View Apps' button
@@ -68,19 +68,32 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 [ ![isec](imgs/icici_securities/view_apps.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/view_apps.png)
 
 
-* Current App Status is 'Deactive' click on it to activate
+* Current App Status is 'Deactive'. Click on it to activate the app
 
 [ ![isec](imgs/icici_securities/deactive.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/deactive.png)
 
 
 * Click 'Yes' to confirm
 
-[ ![isec](imgs/icici_securities/click_yes.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/click_yes.png)
+[ ![isec](imgs/icici_securities/yes.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/click_yes.png)
 
 
-* App Status changes to 'Active'
+* Ensure that the App status has changed to 'Active'
 
 [ ![isec](imgs/icici_securities/active.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/active.png)
+
+
+* Now visit [https://www.urlencoder.org/](https://www.urlencoder.org/) to Encode your key
+
+* Type your 'APP key' in the box
+
+[ ![isec](imgs/icici_securities/encode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_one.png)
+
+* Click on `Encode` and encoded key will appear in box below 
+
+* Copy and Save the Encoded key
+
+[ ![isec](imgs/icici_securities/encode_two.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_two.png)
 
 
 ### Daily Activity (Login)
@@ -89,40 +102,33 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 !!! Note
     * Perform the following steps at the start of every trading day
 
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`
 
 [ ![isec](imgs/icici_securities/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/algo_home.png)
 
 (1). Type the first few characters of your Broker Name
+
 (2). Select the `ICICI Securities` broker
 
 [ ![isec](imgs/icici_securities/select_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/select_broker.png)
 
-Now visit [https://www.urlencoder.org/](https://www.urlencoder.org/) and type your 'API key' in the box
 
-[ ![isec](imgs/icici_securities/encode_one.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_one.png)
+Now paste your saved Encoded key in the following URL
 
-click on `Encode` and encoded key will appear in box below 
-Copy the Encoded key
-
-[ ![isec](imgs/icici_securities/encode_two.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_two.png)
-
-Now paste your Encoded key in the URL
-
-Example: If the API key is uS3r@piKey and the URL is:
+Example: If the Encoded APP key is uS3r@ppKey and the URL is:
 
 ```html
-https://api.icicidirect.com/apiuser/login?api_key=placeapikeyhere
+https://api.icicidirect.com/apiuser/login?api_key=placeappkeyhere
 ```
 then the new URL will be:
 
 ```html
-https://api.icicidirect.com/apiuser/login?api_key=uS3r@piKey
+https://api.icicidirect.com/apiuser/login?api_key=uS3r@ppKey
 ```
 
 [ ![isec](imgs/icici_securities/key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/key.png)
 
-Press Enter after modifying the URL with your API key
+Press Enter after modifying the URL with your APP key
 
 Now provide data for the following fields:
 
@@ -139,32 +145,13 @@ Now provide data for the following fields:
 [ ![isec](imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login_again.png)
 
 
-!!! Note
-
-* If you are facing issues with login, try the following steps:
-
-    * Open a new tab
-
-    * Visit [https://api.icicidirect.com/apiuser/home](https://api.icicidirect.com/apiuser/home)
-
-    * Login with your credentials
-
-    * Logout
-
-    * Close the tab
-
-    * Perform steps (1). to (7). again
-    
-
 ## Bind your Broking Account
 ---
 The following steps will help you to make sure you have binded your broker account
 
 * Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
 
-* Bind your account using the Toggle button marked below
-
-[ ![isec](imgs/icici_securities/isec_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/zerodha_binded.png)
+* Bind your account using the Toggle button
 
 ## Important Points to Note
 ---
