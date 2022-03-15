@@ -154,8 +154,7 @@ Now provide data for the following fields:
     * Close the tab
 
     * Perform steps (1). to (7). again
-
-#DONE TILL HERE
+    
 
 ## Bind your Broking Account
 ---
