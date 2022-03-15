@@ -113,7 +113,6 @@ Example: If the API key is uS3r@piKey and the URL is:
 
 ```html
 https://api.icicidirect.com/apiuser/login?api_key=placeapikeyhere
-
 ```
 then the new URL will be:
 
@@ -146,7 +145,7 @@ Now provide data for the following fields:
 
     * Open a new tab
 
-    * Visit [[https://www.icicidirect.com/]([https://www.icicidirect.com/)
+    * Visit [https://api.icicidirect.com/apiuser/home](https://api.icicidirect.com/apiuser/home)
 
     * Login with your credentials
 
@@ -166,8 +165,7 @@ The following steps will help you to make sure you have binded your broker accou
 
 * Bind your account using the Toggle button marked below
 
-[ ![
-isec](imgs/icici_securities/isec_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/zerodha_binded.png)
+[ ![isec](imgs/icici_securities/isec_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/zerodha_binded.png)
 
 ## Important Points to Note
 ---
