@@ -2,59 +2,66 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y7ry8Bmz8QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This page shows all the activities done by your strategies in your account. All strategies fire and currently running in your account are updated real-time as and when the transactions take place. To get a better understanding, you can filter your activities using the filters, strategy, instrument and date range.
+This section displays chosen strategy activities in your account. All strategies executed in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range.
 
-![Tradebook](imgs/tradebook-1.png)
+TheTrade Book shows the ''Trading Volume,' which is the maximum traded volume to date, and the 'Total Trades,' which is the total number of trades made to date.
+
+![Tradebook](imgs/tradebook1.png)
+
+Your trades are segregated in shades of blue and white. Data can be viewed in colour on a daily, weekly, monthly, and yearly basis. Dark blue denotes the highest number of trades and white denotes no trades made on that particular day/week/month/year.
+
+![Tradebook](imgs/tradebook2.png)
 
 ## Filters
-The following list gives a short brief about each field.
+Filters will allow you to selectively search for a specific entry or multiple entries
 
-`Table Fields` - The table covers the following fields: Timestamp, Broker, Strategy, AlgoBulls Order ID, Broker Order ID, Instrument, Transaction Type, Quantity, Price.
+![Tradebook](imgs/tradebook3.png)
 
-`Filters` - Choose one or more filters to display those activities in the table below.
+* `Strategies` - Choose one or more strategies to display them in the table below. 
+These entries are populated as per the strategies chosen by you.
 
-* `Strategy` - Choose one or more strategies to display them in the table below.
-These entries are populated as per the strategies opted/created by you.
+![Tradebook](imgs/tradebook4.png)
 
-* `Instrument` - Choose one or more instruments to display them in the table below.
-These entries are populated as per the instruments on which your strategies are fired on. An example is shown below.
+* `Instrument` - Select one or more instruments to display in the table below. These entries are populated as per the instruments on which your strategies were activated. 
 
-* `Start/End Date` - Give the date range to view the table for the selected strategy and instrument (if any)
+![Tradebook](imgs/tradebook5.png)
+
+* ` Date Range (Start Date & End Date)` - Give the date range to view the table for the selected  strategy and instrument (if any)
+
+![Tradebook](imgs/tradebook6.png)
 
 ## Fields
 ---
 The table covers the following fields:
 
-* `Timestamp` - Execution time of trade.
-* `Broker` - Broker with whom the trade was executed.
-* `Strategy` - Name of strategy that placed the trade.
+* `Strategy` - Name of strategy that placed the trade
+* `Broker ID` - This includes a unique Broker order ID. This helps in mapping correct entry/exit orders.
 * `AlgoBulls Order ID` - Unique AlgoBulls order ID. This helps in mapping correct entry/exit orders.
-* `Broker Order ID` - Unique Broker order ID. This helps in mapping correct entry/exit orders.
-* `Instrument` - Instrument on which the strategy is being run.
-* `Transaction Type` - Transaction type of trade. For eg: Buy or Sell.
-* `Quantity` - Quantity of the trade.
-* `Price` - Price of trade.
+* `Transaction` -  The transaction section includes the transaction type such as buy or sell, quantity, price, date & time.
 
-![TradebookInstruments](imgs/tradebook-2.png)
 
-## A look at the toolbar
+[![TradebookInstruments](imgs/tradebook7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/tradebook7.png)
+
+## Toolbar
 ---
 
-`Density` - Choose the density of the data you see. Options are Larger, Middle and Compact
+![Filters](imgs/toolbar1.png)
 
-![Filters](imgs/toolbar-1.png)
+`Refresh` - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
 
-`Full Screen` - The current tab on your browser goes Full Screen. Click again to go back to normal. This is similar to pressing F11 on most browsers and operating systems.
+![Filters](imgs/toolbar3.png)
 
-![Filters](imgs/toolbar-2.png)
+`Density` - View data comfortably by choosing the density. The options include Larger, Middle and Compact. 
 
-`Refresh` - If you are not able to see an entry (possibly a most recent one) in the table, click Refresh to check again. 
+![Filters](imgs/toolbar4.png)
 
-![Filters](imgs/toolbar-3.png)
+`Settings` - Select the columns that you want to view in this settings option
 
-`Settings` - You can select which columns should be visible through here. 
+![Filters](imgs/toolbar5.png)
 
-![Filters](imgs/toolbar-4.png)
+`Full Screen` - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
+
+![Filters](imgs/toolbar6.png)
 
 ---
 
