@@ -57,19 +57,20 @@ nav:
   - Home: 'index.md'
   - 'FAQ': 'archive_v1/member/faq.md'
   - 'Website Manual':
-      - 'Marketplace': 'member/marketplace.md'
-          #- 'Dashboard': 'member/dashboard.md'
-          #- 'Portfolio': 'member/portfolio.md'
-          #- 'Paper Trading & Backtesting': 'member/paperback.md'
-          #- 'Manage Strategies': 'member/custom-strategies.md'
-          - 'Live Reports':
-              - 'P & L Book': 'member/Books/pnl.md'
-              - 'Trade Book': 'member/Books/tradebook.md'
-              - 'Fund Book': 'member/Books/fundbook.md'
-          #- 'Settings':
-              #- 'General': 'member/Settings/general-settings.md'
-              #- 'Broking': 'member/Settings/broking-settings.md'
-          #- 'Plans & Wallet': 'member/wallet.md'
+      #- 'Marketplace': 'member/marketplace.md'
+      - 'Dashboard': 'member/dashboard.md'
+      - 'Portfolio': 'member/My-Portfolio.md'
+      - 'My Strategies': 'member/My-Strategies.md'
+      #- 'Paper Trading & Backtesting': 'member/paperback.md'
+      #- 'Manage Strategies': 'member/custom-strategies.md'
+      - 'Live Reports':
+          - 'P & L Book': 'member/Books/pnl.md'
+          - 'Trade Book': 'member/Books/tradebook.md'
+          - 'Fund Book': 'member/Books/fundbook.md'
+      #- 'Settings':
+       #   - 'General': 'member/Settings/general-settings.md'
+       #   - 'Broking': 'member/Settings/broking-settings.md'
+      #- 'Plans & Wallet': 'member/wallet.md'
   - 'Archive/V1':
     - 'Website Manual':
         - 'Marketplace': 'archive_v1/member/marketplace.md'
