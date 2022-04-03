@@ -55,22 +55,43 @@ copyright: Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Priv
 # Navigation
 nav:
   - Home: 'index.md'
-  - 'FAQ': 'archive_v1/member/faq.md'
+  - 'FAQ': 'member/faq.md'
   - 'Website Manual':
       #- 'Marketplace': 'member/marketplace.md'
       - 'Dashboard': 'member/dashboard.md'
-      - 'Portfolio': 'member/My-Portfolio.md'
+      - 'My Portfolio': 'member/My-Portfolio.md'
       - 'My Strategies': 'member/My-Strategies.md'
-      #- 'Paper Trading & Backtesting': 'member/paperback.md'
-      #- 'Manage Strategies': 'member/custom-strategies.md'
+      - 'Strategy Card': 'member/Strategy-Card.md'
+      - 'Choose Strategy': 'member/Choose-Strategy.md'
+      - 'Paper Trading & Backtesting': 'member/paperback.md'
       - 'Live Reports':
           - 'P & L Book': 'member/Books/pnl.md'
           - 'Trade Book': 'member/Books/tradebook.md'
           - 'Fund Book': 'member/Books/fundbook.md'
-      #- 'Settings':
-       #   - 'General': 'member/Settings/general-settings.md'
-       #   - 'Broking': 'member/Settings/broking-settings.md'
-      #- 'Plans & Wallet': 'member/wallet.md'
+      - 'Broking Details': 'member/broking-details.md'
+      - 'Plans & Wallet': 'member/wallet.md'
+      - 'Settings': 'member/settings.md'
+  - 'Features':
+      - 'P&L Tracker': 'member/pnltracker.md'
+      #- 'Tweak': 'member/tweak.md'
+#  - 'Broker Information':
+#      - '5PAISA': 'broker/fivepaisa.md'
+#      - 'AC AGARWAL': 'broker/acagarwal.md'
+#      - 'ALICEBLUE': 'broker/aliceblue.md'
+#      - 'ALPACA': 'broker/alpaca.md'
+#      - 'ANGELBROKING': 'broker/angelbroking.md'
+#      - 'ARHAM WEALTH': 'broker/arhamwealth.md'
+#      - 'EDELWEISS': 'broker/edelweiss.md'
+#      - 'ICICI SECURITIES': 'broker/icicisecurities.md'
+#      - 'IIFL SECURITIES': 'broker/iifl.md'
+#      - 'INDIRA SECURITIES': 'broker/indirasecurities.md'
+#      - 'JAINAM DUCK': 'broker/jainamduck.md'
+#      - 'KOTAK SECURITIES': 'broker/kotaksecurities.md'
+#      - 'MASTERTRUST': 'broker/mastertrust.md'
+#      - 'RUDRA SHARES': 'broker/rudrashares.md'
+#      - 'SHAREKHAN': 'broker/sharekhan.md'
+#      - 'ZEBU': 'broker/zebu.md'
+#      - 'ZERODHA': 'broker/zerodha.md'
   - 'Archive/V1':
     - 'Website Manual':
         - 'Marketplace': 'archive_v1/member/marketplace.md'
