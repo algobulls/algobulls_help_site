@@ -1,7 +1,5 @@
 # My Strategies
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c8c-GeIhibY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 This page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Backtesting & Paper Trading (Test Mode/virtual trading). You can also add strategies and manage them here. 
 
 ![Custom Strategies](imgs/ms1.png)

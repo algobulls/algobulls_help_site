@@ -1,8 +1,8 @@
 # Choose Strategy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KpnncgSfKXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology. This Marketplace has more than 100+ Algo Strategies created by industry leading experts. The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
 
-Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology. This Marketplace has more than 100+ Algo Strategies created by industry leading experts. The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. The Choose strategy marketplace is divided into 3 parts - Retail, Premium & HNI marketplace 
+The Choose strategy marketplace is divided into 3 parts - `Retail, Premium & HNI marketplace`
 
 ![ChooseStrategy](imgs/cs1.png)
 
@@ -21,8 +21,6 @@ Before adding strategies to your ‘My Portfolio’ section, you can explore the
 
 ## Searching for a Strategy
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQCWEm4gJHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can find strategies using the following options: 
 

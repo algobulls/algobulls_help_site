@@ -1,7 +1,5 @@
 # Settings
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fYeZjPn3jUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In Settings, you can add/edit your basic profile, update your KYC information, set your trading risk, grant access to your trading manager, and explore your developer options.
 
 Choose the Setting options from the sidebar navigation. 

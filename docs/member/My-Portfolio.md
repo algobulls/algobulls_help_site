@@ -1,6 +1,4 @@
 # My Portfolio
-    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qC_Kbf1KwFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The My Portfolio section consists of a complete overview of the strategies availed by you.
 

@@ -1,7 +1,5 @@
 # Broking Details
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fYeZjPn3jUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 To begin algo trading with AlgoBulls, it is necessary to add your broker details and bind your broking account. To add a broker account follow these steps: 
 
 From the AlgoBulls sidebar navigation select Broking Details in Live Mode 

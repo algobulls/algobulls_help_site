@@ -1,7 +1,5 @@
 # Dashboard
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J9msKNweQvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The AlgoBulls dashboard gives you an overview of your account and trades. 
 
 ![Dashboard](imgs/dashboard1.png)

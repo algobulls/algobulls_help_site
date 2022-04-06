@@ -1,7 +1,5 @@
 # Fundbook
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y7ry8Bmz8QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 The Fund Book section shows all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
 You can select your transactions by category and/or examine your transactions within a date range to gain a better understanding.
 

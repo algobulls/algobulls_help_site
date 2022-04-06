@@ -1,7 +1,5 @@
 # Plans and Wallet
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KWfAVlhbDbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Models
 
 The AlgoBulls platform works on 2 models: Pay-per-use model & Subscription model 

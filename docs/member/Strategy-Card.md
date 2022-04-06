@@ -1,7 +1,5 @@
 # Strategy Card
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KpnncgSfKXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your ‘My Portfolio’ page. 
 
 ![StrategyCard](imgs/sc1.png)

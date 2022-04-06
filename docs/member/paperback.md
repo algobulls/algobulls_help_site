@@ -1,7 +1,5 @@
 # Backtesting and Paper Trading
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wc0h930E1AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Backtesting is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try Paper trading. 
 
 ## Steps to backtest or paper trade a strategy on AlgoBulls
