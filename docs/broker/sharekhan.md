@@ -7,7 +7,7 @@
 
 * Markets Supported: India
 
-## Login and Setup your ShareKhan Account 
+## Login and Set up your ShareKhan Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -33,15 +33,13 @@ Keep the following information available before you start:
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
 
-[ ![ShareKhan](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![ShareKhan](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `SHAREKHAN` broker
+* Select the `SHAREKHAN` broker
 
-(3). Click on the `Login & Connect with SHAREKHAN` button
-
-[ ![ShareKhan](imgs/sharekhan/sharekhan_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_1.png)
+[ ![ShareKhan](imgs/sharekhan/sharekhan_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_login.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
@@ -51,13 +49,17 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![ShareKhan](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* You will be re-directed to the Verification Page. Provide data for the following fields:
+* Now go to `Broking Details` and click add broker
 
-(4). Login ID: The ID given to you by your broker
+[ ![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-(5). Membership Password: The Membership Password given to you by the broker
+* Now Provide data for the following fields:
 
-(6). Trading Password: The Trading Password given to you by the broker 
+(1). Login ID: The ID given to you by your broker
+
+(2). Membership Password: The Membership Password given to you by the broker
+
+(3). Trading Password: The Trading Password given to you by the broker 
 
 [ ![ShareKhan](imgs/sharekhan/sharekhan_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_2.png)
 

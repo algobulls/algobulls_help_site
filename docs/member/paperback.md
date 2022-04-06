@@ -65,22 +65,22 @@ If you are happy with the strategy after the backtesting or paper trading result
 
 `Step 2`: Switch to Live Mode & go to the [My Portfolio](My-Portfolio.md) section in the sidebar menu. To start the chosen strategy click the start button from the Action field.
 
-![PTB](imgs/ptb.png)
+![PTB](imgs/ptb13.png)
 
 Select a broker, add the start and end time and Quantity/Lots. 
 
-![PTB](imgs/ptb.png)
+![PTB](imgs/ptb14.png)
 
 `Step 3`: Use the toggle button to activate the P&L tracker. Add the profit desired and Risk appetite here. Click on save & start.  
 
-![PTB](imgs/ptb.png)
+![PTB](imgs/ptb15.png)
 
 Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead. 
 
 You can view the strategy status in the progress section. Once the strategy has begun the status will change to started and will change to stopped once the strategy has stopped in the Progress section. 
 
-![PTB](imgs/ptb.png)
+![PTB](imgs/ptb16.png)
 
 The strategy may stop due to various reasons such as market closure, P&L achieved, or if there are any errors. To check errors, in the ‘Progress’ field click on ‘view details’ option and then click  ‘detailed logs’ on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
 
-![PTB](imgs/ptb.png)
+![PTB](imgs/ptb17.png)

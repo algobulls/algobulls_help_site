@@ -33,13 +33,14 @@ Keep the following information available before you start:
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on 'Ac Agarwal' under `Login with your Broking Account`
 
+
 * If you do not see your broker name, then click on `+ x more` where x is the number of brokers
 
-[ ![Acagarwal](imgs/acagarwal/acagarwal_login_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_1.png)
+[ ![Acagarwal](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
 * Type `Ac Agarwal` in the Search Box. and then click on the Broker Link that is shown in the search results
 
-[ ![Acagarwal](imgs/acagarwal/acagarwal_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_2.png)
+[ ![Acagarwal](imgs/acagarwal/acagarwal_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
@@ -49,7 +50,15 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_3.png)
 
-* You will be re-directed to the Verification Page. Provide data for the following fields:
+* Now go to `Broking Details` and click add broker
+
+[ ![Acagarwal](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+
+* choose the broker 
+
+[ ![Acagarwal](imgs/acagarwal/acagarwal_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_selectbroker.png)
+
+* Now Provide data for the following fields:
 
 (1). User ID: The ID given to you by your broker
 

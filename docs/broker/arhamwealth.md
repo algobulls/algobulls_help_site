@@ -32,43 +32,31 @@ Keep the following information available before you start:
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
 
-[ ![ArhamWealth](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![ArhamWealth](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `ARHAMWEALTH OAuth` broker
+* Select the `ARHAMWEALTH OAuth` broker
 
-(3). Click on the `Login with ARHAMWEALTH` button
-
-[ ![ArhamWealth](imgs/arhamwealth/arham_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_1.png)
-
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
-
-* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
-
-* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
-
-[ ![ArhamWealth](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+[ ![ArhamWealth](imgs/arhamwealth/arhamwealth_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arhamwealth_login.png)
 
 * You will be re-directed to the Verification Page. Provide data for the following fields:
 
-(4). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker
 
-(5). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker
 
-(6). Click the `Sign In` button
+(3). Click the `Sign In` button
 
 [ ![ArhamWealth](imgs/arhamwealth/arham_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_2.png)
 
-(7). PIN: The PIN given to you by the broker
+(4). PIN: The PIN given to you by the broker
 
-(8). Click the `Submit` button
+(5). Click the `Submit` button
 
 [ ![ArhamWealth](imgs/arhamwealth/arham_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_3.png)
 
-* If the verification is successful, you will see the following message
-
-[ ![ArhamWealth](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website
 
 ## Bind your Broking Account
 ---

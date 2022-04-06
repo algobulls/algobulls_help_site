@@ -6,7 +6,7 @@
 
 * Markets Supported: India
 
-## Login and Setup your Rudra Shares Account 
+## Login and Set up your Rudra Shares Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -30,39 +30,29 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
 
-[ ![RudraShares](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![RudraShares](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `RUDRA SHARES OAuth` broker
+* Select the `RUDRA SHARES OAuth` broker
 
-(3). Click on the `Login with RUDRA SHARES` button
-
-[ ![RudraShares](imgs/rudrashares/rudra_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_1.png)
-
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
-
-* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
-
-* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
-
-[ ![RudraShares](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+[ ![RudraShares](imgs/rudrashares/rudra_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_login.png)
 
 * You will be re-directed to the Verification Page. Provide data for the following fields:
 
-(4). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker
 
-(5). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker
 
-(6). Click the `Sign In` button
+(3). Click the `Sign In` button
 
 [ ![RudraShares](imgs/rudrashares/rudra_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_2.png)
 
-(7). PIN: The PIN given to you by the broker
+(4). PIN: The PIN given to you by the broker
 
-(8). Click the `Submit` button
+(5). Click the `Submit` button
 
 [ ![RudraShares](imgs/rudrashares/rudra_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_3.png)
 

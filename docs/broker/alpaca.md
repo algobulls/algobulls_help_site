@@ -6,7 +6,7 @@
 
 * Markets Supported: USA
 
-## Login and Setup your Alpaca Account
+## Login and Set up your Alpaca Account
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -28,14 +28,13 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
 
-[ ![Alpaca](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![Alpaca](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
 * Type the first few characters of your Broker Name
 
-[ ![Alpaca](imgs/alpaca/alpaca_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_1.png)
-
+[ ![Alpaca](imgs/alpaca/alpaca_search.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_search.png)
 
 As seen here, Alpaca supports 2 ways of logging in:
 
@@ -47,31 +46,29 @@ Both are explained below
 
 ### Login with Alpaca Paper (OAuth) Method
 ---
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `ALPACA PAPER` broker
+* Select the `ALPACA PAPER` broker
 
-(3). Click on the `Login with ALPACA PAPER` button
-
-[ ![Alpaca](imgs/alpaca/alpaca_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login.png)
+[ ![Alpaca](imgs/alpaca/alpaca_paper.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_paper.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-(4). Click `Log In`
+(1). Click `Log In`
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_2.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-(5). Email ID: Your Email ID
+(2). Email ID: Your Email ID
 
-(6). Password: The password you have set
+(3). Password: The password you have set
 
-(7). Click `Login`
+(4). Click `Login`
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_3.png)
 
-(8). Click `Allow` if asked for authorization
+(5). Click `Allow` if asked for authorization
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_4.png)
 
@@ -82,11 +79,9 @@ Both are explained below
 !!! Note
         Coming Soon! This option is not yet enabled!
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `ALPACA REAL` broker
-
-(3). Click on the `Login with ALPACA REAL` button
+* Select the `ALPACA REAL` broker
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_5.png)
 
