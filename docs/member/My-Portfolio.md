@@ -66,6 +66,3 @@ The strategy configuration field includes Instrument and Strategy Settings such 
 * `Action` - The action field allows you to start or stop a strategy. To execute a strategy click start. When you click on the start you will be able to choose multiple brokers and run the strategies simultaneously too.
 
 ![Portfolio](imgs/portfolio7.png)
-
-
-#Strategy start page to be added
