@@ -40,4 +40,15 @@ You will get a confirmation once the details have been updated successfully.
 
 You can also check the help site to view your broker requirements. To view your broker information now [click here](../archive_v1/member/faq.md). 
 
+!!! note
+    
+    A broker binding cannot be unbinded if trades are in progress. (Example, during market hours) Stop all your running strategies and then unbind a broker.
+    
+    Any one broker at a given time can be binded. Binding a broker will automatically remove the bind of any other broker, if the current binded broker is not being used by the platform.
+    
+    If no broker is present, all trading will be stopped.
+    
+    If no broker is binded, all trading will be stopped.
+    
+    If a broker is binded but the platform trading limit has matched the funds in your broker account, all trading will be stopped.
 

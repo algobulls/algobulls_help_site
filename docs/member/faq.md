@@ -50,11 +50,12 @@ No, the AlgoBulls system should be viewed as a diversification investment. The g
 
 ## How can I manage my risk in AlgoBulls?
 ---
-We have our risk management tool from which you can control your risk and profit. Please ask our representative for help or email us on [support@AlgoBulls.com](mailto:support@AlgoBulls.com).
+We have our [risk management](pnltracker.md) tool from which you can control your risk and profit. Please ask our representative for help or email us on [support@AlgoBulls.com](mailto:support@AlgoBulls.com).
 
 ## How can I build my own strategy?
 ---
 AlgoBulls provides build services where if you know coding then you can develop your own strategy by coding it. And if you are the one who does not know coding then we will code your strategy and develop it for you.
+for more [click here](https://algobulls.com/build/)
 
 ## How can we code strategy through developers API and how does it work?
 ---
@@ -80,7 +81,7 @@ No, it will be visible only in your account. However, kindly contact us to get y
 
 ## Can I backtest, paper trade and real trade through AlgoBulls?
 ---
-Yes. See [here](../member/paperback.md) and [here](../member/portfolio.md).
+Yes. See [here](../member/paperback.md) and [here](../member/My-Portfolio.md).
 
 ## Who is a strategist?
 ---

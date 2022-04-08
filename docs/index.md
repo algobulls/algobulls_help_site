@@ -33,11 +33,14 @@ You need to have a valid working broking account before you start algorithmic tr
 
 We currently offer support for the following brokers. (More on the way!)
 
-    5PAISA
+	5PAISA
+    AC AGARWAL
     ALICEBLUE
     ALPACA
     ANGELBROKING
     ARHAM WEALTH
+    EDELWEISS
+    ICICI SECURITIES
     IIFL SECURITIES
     INDIRA SECURITIES
     JAINAM DUCK
@@ -48,7 +51,7 @@ We currently offer support for the following brokers. (More on the way!)
     ZEBU
     ZERODHA
 
-Make sure you sign up and setup your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
+Make sure you sign up and set up your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
 
 !!! Note
     * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
