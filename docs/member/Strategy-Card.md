@@ -14,6 +14,17 @@ You can also check the Strategy, Instrument, Capital Required, Hit Ratio, Risk, 
 
 By selecting the All time, 1 month, 7 days, or 3 days tab, you may view the strategies' past performance or back-tested data based on duration.
 
+The strategy card is divided into 3 sections - Records, Analytics & Returns 
+
+![StrategyCard](imgs/sc_3types.png)
+
+Records : The records section includes the Gross Profit/Loss, Trading Volume & Total Trades 
+A heatmap of your tradebook is also displayed here. 
+
+![StrategyCard](imgs/sc_records.png)
+
+Analytics : This section includes a detailed analysis of the strategy.
+
 ![StrategyCard](imgs/sc4.png)
 
 In the Analytics section you can check the past performance in a graphical representation. 
@@ -47,6 +58,10 @@ In the Analytics section you can check the past performance in a graphical repre
 `Drawdown %` - The maximum loss your strategy has encountered during the execution in percentage.
 
 ![StrategyCard](imgs/sc11.png)
+
+Returns: You can view a strategy’s ROI in the returns section. The returns duration and the ROI% is displayed here. 
+
+![StrategyCard](imgs/sc_returns.png)
 
 ## Toolbar
 
