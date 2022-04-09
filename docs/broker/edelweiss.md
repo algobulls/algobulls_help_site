@@ -11,7 +11,7 @@
 ---
 * It is required to login **once** daily (at the start of the trading day).
 
-## Login and Setup your Edelweiss Account 
+## Login and Set up your Edelweiss Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -39,7 +39,7 @@ Keep the following information available before you start:
 
 * If you do not see your broker name, then click on `+ x more` where x is the number of brokers
 
-[ ![Edelweiss](imgs/edelweiss/edelweiss_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login.png)
+[ ![Edelweiss](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
 * Type `Edelweiss` in the Search Box. and then click on the Broker Link that is shown in the search results
 

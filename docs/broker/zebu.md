@@ -9,9 +9,9 @@
 
 ## Important Points to Note
 ---
-* It is required to login **once** daily (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
+* It is required to log in **once** daily (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
 
-## Login and Setup your Zebu Account 
+## Login and Set up your Zebu Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -37,15 +37,27 @@ Keep the following information available before you start:
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
 
-[ ![Zebu](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![Zebu](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `ZEBU` broker
+[ ![Zebu](imgs/zebu/zebu_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_login.png)
 
-(3). Click on the `Login & Connect with ZEBU` button
+As seen here, Zebu supports 2 ways of logging in:
 
-[ ![Zebu](imgs/zebu/zebu_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_1.png)
+1. non-OAuth Method 
+
+2. OAuth Method.
+     
+Both are explained below
+
+### Login with non-OAuth Method
+---
+* Type the first few characters of your Broker Name
+
+* Select the `ZEBU` broker under `other available brokers`
+
+[ ![Zebu](imgs/zebu/zebu_login_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_login_nonoauth.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
@@ -55,19 +67,49 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Zebu](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* You will be re-directed to the Verification Page. Provide data for the following fields:
+* Now go to `Broking Details` and click add broker
 
-(4). User ID: The ID given to you by your broker
+[ ![Zebu](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-(5). Password: The password given to you by the broker
+* choose the broker 
 
-(6). API Key: The API Key given to you by the broker
+[ ![Zebu](imgs/zebu/zebu_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_selectbroker.png)
 
-[ ![Zebu](imgs/zebu/zebu_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_2.png)
+* Now Provide data for the following fields:
+
+(1). User ID: The ID given to you by your broker
+
+(2). Password: The password given to you by the broker
+
+(3). API Key: The API Key given to you by the broker
+
+(4). Click `Confirm`
+
+[ ![Zebu](imgs/zebu/zebu_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_credentials.png)
 
 * If the verification is successful, you will see the following message
 
 [ ![Zebu](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
+
+### Login with OAuth Method
+---
+* Type the first few characters of your Broker Name
+
+* Select the `ZEBU` broker
+
+[ ![Zebu](imgs/zebu/zebu_login_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_login_oauth.png)
+
+* You will be re-directed to the broker login page. Provide data for the following fields:
+
+(1). User ID: The ID given to you by your broker
+
+[ ![Zebu](imgs/zebu/zebu_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_2_oauth.png)
+
+(2). Password: The password given to you by the broker
+
+[ ![Zebu](imgs/zebu/zebu_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_3_oauth.png)
+
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website
 
 ## Bind your Broking Account
 ---
@@ -81,7 +123,7 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Important Points to Note
 ---
-* It is required to login **once** daily (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
+* It is required to log in **once** daily (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
 
 ## Support
 ---

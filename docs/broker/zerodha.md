@@ -11,11 +11,11 @@
 
 ## Important Points to Note
 ---
-* It is required to login **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+* It is required to log in **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
 
 * TOTP is required (mandatory) in order to place trades in your account
 
-## Login and Setup your Zerodha Account 
+## Login and Set up your Zerodha Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -100,17 +100,15 @@ https://app.algobulls.com/loading?st=zerodha&k=uS3r@piKey&s=uS3r@pis3cr3t
 !!! Note
     * Perform the following steps at the start of every trading day
 
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
 
-[ ![Zerodha](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![Zerodha](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `ZERODHA OAuth` broker
+* Select the `ZERODHA` broker
 
-(3). Click on the `Login with ZERODHA` button
-
-[ ![Zerodha](imgs/zerodha/zerodha_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth.png)
+[ ![Zerodha](imgs/zerodha/zerodha_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_login.png)
 
 Now paste your saved API key in the URL
 
@@ -134,17 +132,17 @@ Press Enter after modifying the URL with your API key
 
 Now provide data for the following fields:
 
-(4). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker
 
-(5). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker
 
-(6). Click `Login` button
+(3). Click `Login` button
 
 [ ![Zerodha](imgs/zerodha/zerodha_oauth_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth_4.png)
 
-(7). PIN: The PIN given to you by the broker
+(4). PIN: The PIN given to you by the broker
 
-(8). Click `Continue` button
+(5). Click `Continue` button
 
 [ ![Zerodha](imgs/zerodha/zerodha_oauth_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_oauth_5.png)
 
@@ -162,7 +160,7 @@ Now provide data for the following fields:
 
     * Close the tab
 
-    * Perform steps (1). to (8). again
+    * Perform steps (1). to (5). again
 
 ## Bind your Broking Account
 ---

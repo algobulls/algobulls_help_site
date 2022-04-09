@@ -7,7 +7,7 @@
 
 * Markets Supported: India
 
-## Login and Setup your Mastertrust Account 
+## Login and Set up your Mastertrust Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -31,17 +31,15 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
 
-[ ![Mastertrust](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![Mastertrust](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `MASTERTRUST` broker
+* Select the `MASTERTRUST` broker
 
-(3). Click on the `Login & Connect with MASTERTRUST` button
-
-[ ![Mastertrust](imgs/mastertrust/mastertrust_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mastertrust/mastertrust_1.png)
+[ ![Mastertrust](imgs/mastertrust/master_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mastertrust/master_login.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
@@ -51,15 +49,23 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Mastertrust](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* You will be re-directed to the Verification Page. Provide data for the following fields:
+* Now go to `Broking Details` and click add broker
 
-(4). User ID: The ID given to you by your broker
+[ ![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-(5). Password: The password given to you by the broker
+* choose the broker 
 
-(6). DOB: Your Date of Birth
+[ ![Acagarwal](imgs/mastertrust/master_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mastertrust/master_selectbroker.png)
 
-[ ![Mastertrust](imgs/mastertrust/mastertrust_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mastertrust/mastertrust_2.png)
+* Now Provide data for the following fields:
+
+(1). User ID: The ID given to you by your broker
+
+(2). Password: The password given to you by the broker
+
+(3). DOB: Your Date of Birth
+
+[ ![Mastertrust](imgs/mastertrust/master_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mastertrust/master_credentials.png)
 
 * If the verification is successful, you will see the following message
 

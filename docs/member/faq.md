@@ -50,11 +50,12 @@ No, the AlgoBulls system should be viewed as a diversification investment. The g
 
 ## How can I manage my risk in AlgoBulls?
 ---
-We have our risk management tool from which you can control your risk and profit. Please ask our representative for help or email us on [support@AlgoBulls.com](mailto:support@AlgoBulls.com).
+We have our [risk management](pnltracker.md) tool from which you can control your risk and profit. Please ask our representative for help or email us on [support@AlgoBulls.com](mailto:support@AlgoBulls.com).
 
 ## How can I build my own strategy?
 ---
 AlgoBulls provides build services where if you know coding then you can develop your own strategy by coding it. And if you are the one who does not know coding then we will code your strategy and develop it for you.
+for more [click here](https://algobulls.com/build/)
 
 ## How can we code strategy through developers API and how does it work?
 ---
@@ -80,7 +81,7 @@ No, it will be visible only in your account. However, kindly contact us to get y
 
 ## Can I backtest, paper trade and real trade through AlgoBulls?
 ---
-Yes. See [here](../member/paperback.md) and [here](../member/portfolio.md).
+Yes. See [here](../member/paperback.md) and [here](../member/My-Portfolio.md).
 
 ## Who is a strategist?
 ---
@@ -89,3 +90,23 @@ A Strategist is a certified stock market expert who has made his/her strategies 
 ## Can a trader view the technicalities of the strategies provided by the expert strategist?
 ---
 Traders may or may not be able to view the technical part of the strategies provided by the experts as those remain the intellectual property of the strategists and it is up to their sole discretion if they would be willing to share the technical details. AlgoBulls system, however, will place the orders accurately based on the selected strategies in the traders’ accounts.
+
+## What is Test mode? 
+---
+The Test Mode on AlgoBulls is a virtual simulation of the real markets. You can test a strategy in live markets without risking any money through Paper Trading, modify strategies using the Tweak option and test the past performance data for that strategy through Backtesting. Ensure the toggle button on the bottom left side of the website is switched to Test Mode. 
+
+## What is Live Mode? 
+---
+The ‘Live Mode’ is where you can execute strategies to begin real trading. Switch the toggle button on the bottom left side of the website to LIVE MODE. The choose strategy marketplace includes more than 100+ strategies that you can choose from; select a strategy, click execute and begin live trading. To avoid additional charges for services used in Real Trading, ensure you subscribe to a plan from the [Plans & Wallet](wallet.md) section. 
+
+## What is paper trading and backtesting? 
+---
+You can use the Backtesting method to test the past performance of an existing or tweaked strategy. You can use paper trading to see how the strategies perform in live markets without investing any real money. Please note that in both Backtesting and Paper Trading you will be charged if you don’t have an active [AlgoBulls package](wallet.md). To avoid these charges you can buy the AlgoBulls package. Don’t forget to switch your AlgoBulls account to Test Mode before backtesting or paper trading.    
+
+## What is tweaking a strategy? 
+---
+If you'd like to tweak the strategies for Backtesting or Paper Trading , AlgoBulls also has a Tweak option. To tweak any strategy, click the Tweak button in the ‘My Portfolio’ section after choosing a strategy from the marketplace. You can change the parameters as per your choice. 
+
+## What is the AlgoBulls Live Reports section? 
+---
+AlgoBulls believes in complete transparency and that's why reports for every trade that you place, funds used and Profit & loss are reflected real time here. The Live Reports section has three sub-sections namely the p&l book, trade book and fund book. Profit and Loss of all trades in your account are reflected in the P&L Book . All active strategies are updated real time as and when the transactions take place in the TradeBook. The Fund Book has all the debit and credit details of your transactions with AlgoBulls

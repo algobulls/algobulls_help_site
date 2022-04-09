@@ -6,7 +6,7 @@
 
 * Markets Supported: India
 
-## Login and Setup your AliceBlue Account
+## Login and Set up your AliceBlue Account
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -30,14 +30,13 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
 
-[ ![AliceBlue](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![AliceBlue](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
 * Type the first few characters of your Broker Name 
 
-[ ![AliceBlue](imgs/aliceblue/aliceblue_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_1.png)
-
+[ ![AliceBlue](imgs/aliceblue/aliceblue_search.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_search.png)
 
 As seen here, AliceBlue supports 2 ways of logging in:
 
@@ -49,13 +48,11 @@ Both are explained below
 
 ### Login with non-OAuth Method
 ---
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `ALICEBLUE` broker
+* Select the `ALICEBLUE` broker under `other available brokers`
 
-(3). Click on the `Login & Connect with ALICEBLUE` button
-
-[ ![AliceBlue](imgs/aliceblue/aliceblue_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login.png)
+[ ![AliceBlue](imgs/aliceblue/aliceblue_login_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
@@ -65,15 +62,25 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![AliceBlue](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* You will be re-directed to the Verification Page. Provide data for the following fields:
+* Now go to `Broking Details` and click add broker
 
-(4). Client ID: The ID given to you by your broker
+[ ![AliceBlue](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-(5). Password: The password given to you by the broker
+* choose the broker 
 
-(6). Year of Birth: The year of birth you have given while creating the broker account
+[ ![AliceBlue](imgs/aliceblue/aliceblue_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_selectbroker.png)
 
-[ ![AliceBlue](imgs/aliceblue/aliceblue_2_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_2_nonoauth.png)
+* Now Provide data for the following fields:
+
+(1). Client ID: The ID given to you by your broker
+
+(2). Password: The password given to you by the broker
+
+(3). Year of Birth: The year of birth you have given while creating the broker account
+
+(4). Click `Confirm`
+
+[ ![AliceBlue](imgs/aliceblue/aliceblue_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_credentials.png)
 
 * If the verification is successful, you will see the following message
 
@@ -81,27 +88,25 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 ### Login with OAuth Method
 ---
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `ALICEBLUE OAuth` broker
+* Select the `ALICEBLUE` broker
 
-(3). Click on the `Login with ALICEBLUE` button
-
-[ ![AliceBlue](imgs/aliceblue/aliceblue_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_oauth.png)
+[ ![AliceBlue](imgs/aliceblue/aliceblue_login_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login_oauth.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-(4). Client ID: The ID given to you by your broker
+(1). Client ID: The ID given to you by your broker
 
-(5). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker
 
-(6). Click `SIGN IN`
+(3). Click `SIGN IN`
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_2_oauth.png)
 
-(7). Year of Birth: The year of birth you have given while creating the broker account
+(4). Year of Birth: The year of birth you have given while creating the broker account
 
-(8). Click `Submit`
+(5). Click `Submit`
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_3_oauth.png)
 

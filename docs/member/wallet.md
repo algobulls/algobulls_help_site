@@ -1,40 +1,10 @@
 # Plans and Wallet
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KWfAVlhbDbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![Nav](imgs/wallet_money.png)
-
-You can add funds to your wallet by clicking the `+ Add Money` button.
-
-All your actions like backtesting, paper trading and real trading are charged according to the funds in your wallet (wherever charges are applicable).
-
-Your funds keep decreasing as and when you are charged, and once the funds become zero, your account stops trading.
-
-If your actions are going to be quite extensive, then consider opting for packages/plans to get more economical benefits. See the [`Models`](#models) section described next to know more!
-
 ## Models
 
-There are 2 models:
+The AlgoBulls platform works on 2 models: Pay-per-use model & Subscription model 
 
-* `Pay-per-use Model`: In this model, you add money into your AlgoBulls Wallet. As you run and use various services, you are charged for those services.
-
-    Use the [Fund Book](Books/fundbook.md) to track the usage charges.To know more, see [here](#plans-for-the-pay-per-use-model).
-
-* `Subscription Model`: Visit the [Plans & Wallet](https://app.algobulls.com/wallet) page of your account and select a plan suitable for you.
-
-    As an example, if you activate a plan of 1000 INR for Backtesting services for 30 days, then you may use the Backtesting service without incurring any additional charges for the next 30 days.
-
-    However, for this same example, the Real Trading service will still be chargeable as per the `Pay-per-use Model` because the subscription you have chosen does not include this service.
-
-    Use the [Fund Book](Books/fundbook.md) to track the usage charges. To know more, see [here](#plans-for-the-subscription-model).
-
-For both the models, the following actions are common and free:
-
-| Action                                                   | Cost |
-|----------------------------------------------------------|------|
-| Add a strategy from Marketplace to your Portfolio        | <font size=6>🆓</font>  |
-| View backtesting reports for a strategy from Marketplace | <font size=6>🆓</font>   |
-| Tweak (change parameters of) a strategy                  | <font size=6>🆓</font>   |
+* `Pay-per-use Model`: You deposit funds into your AlgoBulls Wallet in this model. You are charged for various services that you use.This may include backtesting, paper trading, tweaking strategies and more. To keep track of the usage costs, always check your Fund Book in the Live reports section.
 
 ### Plans for the Pay-per-use Model
 
@@ -44,34 +14,58 @@ For both the models, the following actions are common and free:
 | Run paper trading for a strategy                         | <font size=6>💰</font> Rs. 1/min    |
 | Run real trading for a strategy                          | <font size=6>💰</font>    |
 
-!!! Note
-    * To know the charges for Real Trading, you have to check out the specific strategy details as shown below:
+To know the charges for Real Trading, you have to check the ‘Transaction fee (w/o package) section in the strategy details as shown below: 
 
-[ ![Wallet](imgs/rt_charges.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rt_charges.png)
+![StrategyCard](imgs/sc2.png)
+
+* `Subscription Model`: 
+In this model you choose a package of your choice from the plans & wallets sections for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
+
+Here’s an example to help you understand better: 
+If you activate a plan for Backtesting services for 1000 INR for 30 days, you will be able to use the service without incurring any further expenses for the next 30 days.
+However for Real Trading, the subscription selected by you does not include this service. This means Real Trading service will continue to be charged according to the Pay-per-use Model. 
 
 ### Plans for the Subscription Model
 
-The following is a list of plans currently offered by our platform.
+| Action                                                   | Cost |
+|----------------------------------------------------------|------|
+| Add a strategy from Marketplace to your Portfolio        | <font size=6>🆓</font>  |
+| View backtesting reports for a strategy from Marketplace | <font size=6>🆓</font>   |
+| Tweak (change parameters of) a strategy                  | <font size=6>🆓</font>   |
 
-![Nav](imgs/wallet_plans_list.png)
+Ensure you keep a track of the usage costs by checking the Fund Book. You can add money or subscribe to a plan from the Plans and Wallet section
 
-!!! Note
-    * The plans shown above are subject to change. For the current plans, [visit here](https://app.algobulls.com/wallet).
+## ADDING MONEY TO YOUR ALGOBULLS ACCOUNT
 
-## Payment, Active Plans and History
+To add money to your AlgoBulls account. Choose ‘Plans & Wallet’ from sidebar navigation. Enter the amount and click on + Add Money 
 
-There are 3 tabs here:
+![Nav](imgs/pw1.png)
 
-`Plan` - A category-wise list of packages offering by the platform.
+Enter your phone number & email address and click on proceed. 
 
-`Active Plans` - The currently active plan(s) in your account.
+![Nav](imgs/pw2.png)
 
-`History` - A list of all amounts that you have added to your wallet over a period of time.
+Choose your preferred payment method. Once the payment is successful the balance will be added in your AlgoBulls account. 
 
-Click on the amount button of any plan to initiate payment for that plan. 
+![Nav](imgs/pw3.png)
 
-![Nav](imgs/wallet_plans.png)
+All of your actions, such as backtesting, paper trading, and live trading, are charged depending on the amount in your wallet (wherever charges are applicable).
 
-Click on `Active Plans` tab shown above to see the plan(s) currently active in your account.
+Your funds are reduced as you are charged, and when they reach zero, your account stops trading.
 
-Click on `History` tab shown above to see all previously used plans.
+You can consider opting for packages/plans to get more cost-effective benefits.
+
+# SUBSCRIBING TO A PLAN ON ALGOBULLS: 
+
+## PLANS, ACTIVE PLANS & HISTORY
+
+![Nav](imgs/pw4.png)
+
+* `Plans` - A list of platform's available packages organised by category. The current category of plans include Backtesting & Papertrading, Developers, Free, Offers & Smart Plans
+
+* `Active Plans` - Plans that are active in your account currently. This includes the category, validity, description, amount, purchase date and end date. 
+
+* `History` - A list of all the amounts you've added to your wallet in the past. This includes the Transaction ID, Plan created & updated, status and amount. 
+
+To subscribe to a plan, click on the amount button for that plan. 
+

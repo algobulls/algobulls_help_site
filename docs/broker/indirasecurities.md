@@ -7,7 +7,7 @@
 
 * Markets Supported: India
 
-## Login and Setup your Indira Securities Account 
+## Login and Set up your Indira Securities Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -31,17 +31,15 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
 
-[ ![Indira](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![Indira](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `INDIRASECURITIES` broker
+* Select the `INDIRASECURITIES` broker
 
-(3). Click on the `Login & Connect with INDIRASECURTIES` button
-
-[ ![Indira](imgs/indirasecurities/indira_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_1.png)
+[ ![Indira](imgs/indirasecurities/indira_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_login.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
@@ -51,15 +49,23 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Indira](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* You will be re-directed to the Verification Page. Provide data for the following fields:
+* Now go to `Broking Details` and click add broker
 
-(4). User ID: The ID given to you by your broker
+[ ![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-(5). Password: The password given to you by the broker
+* choose the broker 
 
-(6). 2FA Answers: The 2-factor authentication answer you have given (your PAN Card number)
+[ ![Acagarwal](imgs/indirasecurities/indira_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_selectbroker.png)
 
-[ ![Indira](imgs/indirasecurities/indira_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_2.png)
+* Now Provide data for the following fields:
+
+(1). User ID: The ID given to you by your broker
+
+(2). Password: The password given to you by the broker
+
+(3). 2FA Answers: The 2-factor authentication answer you have given (your PAN Card number)
+
+[ ![Indira](imgs/indirasecurities/indira_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_credentials.png)
 
 * If the verification is successful, you will see the following message
 

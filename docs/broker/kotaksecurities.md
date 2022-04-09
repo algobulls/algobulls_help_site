@@ -7,7 +7,7 @@
 
 * Markets Supported: India
 
-## Login and Setup your Kotak Securities Account 
+## Login and Set up your Kotak Securities Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -36,17 +36,15 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
 
-[ ![Kotak](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
+[ ![Kotak](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-(1). Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name
 
-(2). Select the `KOTAK SECURITIES` broker
+* Select the `KOTAK SECURITIES` broker
 
-(3). Click on the `Login & Connect with KOTAK SECURITIES` button
-
-[ ![Kotak](imgs/kotak/kotak_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_1.png)
+[ ![Kotak](imgs/kotak/kotak_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_login.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
@@ -56,19 +54,28 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Kotak](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* You will be re-directed to the Verification Page. Provide data for the following fields:
+* Now go to `Broking Details` and click add broker
 
-(4). User ID: The ID given to you by your broker
+[ ![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-(5). Password: The password given to you by the broker
+* choose the broker 
 
-(6). Consumer Key: The consumer key given to you by the broker
+#change
+[ ![Acagarwal](imgs/kotak/kotak_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_selectbroker.png)
 
-(7). Access Token: The access token given to you by the broker
+* Now Provide data for the following fields:
+
+(1). User ID: The ID given to you by your broker
+
+(2). Password: The password given to you by the broker
+
+(3). Consumer Key: The consumer key given to you by the broker
+
+(4). Access Token: The access token given to you by the broker
 
 Get your Consumer Key and Access Token from [here](docs/access_token_process.pdf)
 
-[ ![Kotak](imgs/kotak/kotak_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_2.png)
+[ ![Kotak](imgs/kotak/kotak_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_credentials.png)
 
 * If the verification is successful, you will see the following message
 

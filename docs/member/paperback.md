@@ -1,144 +1,84 @@
-# Paper Trading and Backtesting
+# Backtesting and Paper Trading
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wc0h930E1AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Backtesting is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try Paper trading. 
 
-You can view and manage all your strategies of Paper Trading and Backtesting here.
+## Steps to backtest or paper trade a strategy on AlgoBulls
 
-![PTB](imgs/screenshots/PTBT1.png)
+You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to Test Mode by using the toggle button on the bottom left side of the sidebar navigation.
 
-There are 3 menu options here - `Backtesting`, `Paper Trading` and `Combined Results`.
+![PTB](imgs/ptb1.png)
 
-![PTB](imgs/ptb-2.png)
+![PTB](imgs/ptb2.png)
 
-## Table Fields for Backtesting and Paper Trading
----
-The table covers the following fields:
+Also ensure that you’ve added a strategy from the [ChooseStrategy](Choose-Strategy.md) marketplace. 
 
-* `Last Activity At` - Shows last time the strategy was run.
-* `Code` - Code of the Strategy.
-* `Strategy` - Name of the Strategy
-* `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
-* `Source` - Type of the Strategy viz. Build, Tweak or Develop.
-* `Customize` - Tweak you strategy from here.
-* `Instrument(s)` - Instrument on which the strategy is being run.
-* `Qty. (Lots)` - Quantity/Lots being traded.
-* `Status` - States the Status of the strategy if it is Started or Stopped.
-* `Reports` - The Report for a particular strategy consists of the `Summary` and the `P&L Table`. Jump to the [`Reports`](#reports) topic for a complete description.
-* `Logs` - You can access the logs from here.  Jump to the [`Logs`](#logs) topic for a complete description.
-* `Add to Portfolio` - Adds strategy to Portfolio.
-* `Action` - Option to whether Start or Stop the Strategy.
+![PTB](imgs/ptb3.png)
 
-![PTB](imgs/screenshots/PTBT2.png)
+`Step 1`: In the [MyPortfolio](My-Portfolio.md) section click on the 'Start' button in the Action column. 
 
-## A look at the Backtesting/Paper Trading/Combined Results toolbar
----
+![PTB](imgs/ptb4.png)
 
-`Refresh` - If you are not able to see an entry (possibly a most recent one) in the table, click Refresh to check again.
+A pop-up window will appear. The AlgoBulls virtual Broker is the default broker selected in the Choose Broker option.
 
-`Density` - Choose the density of the data you see. Options are Larger, Middle and Compact
+![PTB](imgs/ptb5.png)
 
-`Full Screen` - The current tab on your browser goes Full Screen. Click again to go back to normal. This is similar to pressing F11 on most browsers and operating systems.
+`Step 2`: In the Customizations' section choose Back Data for backtesting OR Live Data for paper trading. 
 
-`Settings` - You can select which columns should be visible through here. 
+![PTB](imgs/ptb6.png)
 
-![PTB](imgs/ptb-6.gif)
+Select the duration option in the customizations section. Add the desired date and time, as well as the quantity/lots. In backtesting you will need to put the start date and end date along with time. 
+
+![PTB](imgs/ptb7.png)
+
+In paper trading you only need to add the start and end time. 
+
+`Step 3`: Once you scroll below you will see the P&L tracker. Switch the P&L tracker ‘ON’ and enter your desired profit and risk appetite. 
+
+![PTB](imgs/ptb8.png)
+
+`Step 4`: Ensure you read the terms and conditions and then check the ‘I agree to the Terms and conditions’ box. Save & Start the strategy.
+
+![PTB](imgs/ptb9.png)
+
+Please note that in both Backtesting and Paper Trading you will be charged if you don’t have an active AlgoBulls package. To avoid these charges you can buy the AlgoBulls package. 
 
 
-## Combined Results Fields
----
-The table covers the following fields: 
+You will be able to track the Backtesting or Paper Trading status in the Progress section 
 
-* `Last Activity At` - Shows last time the strategy was run.
-* `Code` - Code of the Strategy.
-* `Strategy` - Name of the Strategy.
-* `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
-* `Source` - Type of the Strategy viz. Build, Tweak or Develop.
-* `Backtesting PnL` - Net PnL of the strategy.
-* `Backtesting PnL %` - Net PnL of the strategy in absolute percentage.
-* `Max Drawdown` - Max drawdown the strategy suffered during backtesting period.
-* `Number of Trades` - No. of signals strategy generated during the backtesting.
-* `Number of Wins` - No. of wins during the backtesting period.
-* `Number of Losses` - No. of losses during the backtesting period.
-* `Number of Long Trades` - No. of Long Trades strategy generated during backtesting period.
-* `Number of Short Trades` - No. of Short Trades strategy generated during backtesting period.
-* `Max Gain` - Max Gain during backtesting period.
-* `Min Gain` - Min Gain during backtesting period. This is different than Drawdown in a way that it considers the minimum possible return from strategy.
-* `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins.
-* `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Wins.
-* `Add to Portfolio` - Adds the Strategy to Portfolio from where it can be traded in live market.
-* `Action` - Lets users delete the strategy card from the account.
+![PTB](imgs/ptb10.png)
 
-![PTB](imgs/ptb-5.png)
+You can check the status details in the View Details feature in the Progress section. You can click on the view detailed logs option to get the logs. 
 
-!!! note
-    The `Source` field will have one of the three values - CHOOSE, CHOOSE (TWEAK), BUILD_PYTHON (TWEAK). 
-    
-    Choose reflects in `Choose Strategy` from the `Summary Bar`.
-    
-    Choose Tweak reflects in `Tweak Strategy` from the `Summary Bar`.
-    
-    Choose Premium reflects in `Build Strategy` from the `Summary Bar`.
+![PTB](imgs/ptb11.png)
 
-## Reports
----
-The Reports consist of a `Summary` and a `P&L Table`.
+Once this process is complete, you will be able to view the strategies Past Performance (Backtesting) or Live Market Performance (Paper trading)
 
- * `Summary` - Summary statistics of the strategy performance.
-    * `Net PnL` - The cumulative backtesting P&L.
-    * `Net PnL %` - The cumulative backtesting P&L percentage.
-    * `Max Drawdown` - The maximum loss your strategy has encountered during the execution.
-    * `Max Drawdown %` - The maximum loss your strategy has encountered during the execution in percentage.
-    * `Number of Trades` - Total trades (entry and exit counted as one) during the session.
-    * `Number of Wins` - Count of trades where the trade P&L was non-negative.
-    * `Number of Losses` - Count of trades where the trade P&L was negative.
-    * `Number of Long Trades` - Count of trades where the entry transaction type was 'BUY'.
-    * `Number of Short Trades` - Count of trades where the entry transaction type was 'SELL'.
-    * `Max Gain` - P&L of the trade with the maximum P&L value among all trades.
-    * `Min Gain` - P&L of the trade with the minimum P&L value among all trades.
-    * `Avg. Profit per winning trade` - Cumulative Profit for winning trades divided by No. of Wins.
-    * `Avg. Profit per losing trade` - Cumulative Loss for winning trades divided by No. of Losses.
- * `P&L Table` - Profit and Loss Details.
-    * `Instrument` - Instrument strategy being performed on.
-    * `Entry Time` - Entry time of trade.
-    * `Entry` -	Entry trade type such as Buy/Sell.
-    * `Entry Qty.` - Quantity traded.
-    * `Entry Price` - Price at which entry trade was executed.
-    * `Exit Time` -	Exit time of trade.
-    * `Exit` - Exit trade type such as Buy/Sell.
-    * `Exit Qty.` -	Quantity traded. This depends on the number of profit booking trades embedded in the strategy logic.
-    * `Exit Price` - Price at which exit trade was executed.
-    * `PnL (Rs.) / PnL %` -	PnL amount and PnL % of each trade.
-    * `PnL Cum. (Rs.) / PnL Cum. %` - Cumulative PnL amount and Cumulative PnL % of each trade.   
+## Steps to apply backtested or paper traded strategies to Real Trading/Live Trading
 
-!!! Note
-    See the [Formulae](#formulae) section below to know more about the Summary Fields.
+If you are happy with the strategy after the backtesting or paper trading results you can begin real money trading by simply switching to Live Mode. You can begin real trading in 3 simple steps:  
 
-## Logs
----
+`Step 1`: The backtested/Paper traded will be added to your My strategies section where you can simply switch them to Live Trading from the toggle button. The strategy will be added to your portfolio in Live Mode
 
-You can see the complete running of the strategy as it progresses here.
+![PTB](imgs/ptb12.png)
 
-You can Refresh the logs periodically using the `↻` button.
+`Step 2`: Switch to Live Mode & go to the [My Portfolio](My-Portfolio.md) section in the sidebar menu. To start the chosen strategy click the start button from the Action field.
 
-You can also download the logs for later reference using the `Download Logs` button.
+![PTB](imgs/ptb13.png)
 
-## Formulae
----
+Select a broker, add the start and end time and Quantity/Lots. 
 
-* Net PnL: The cumulative backtesting P&L. This is the sum of all the Absolute P&L values of the previous trades.
-  
-      `pnl_absolute = (exit_price - entry_price)*exit_quantity` for a long trade
+![PTB](imgs/ptb14.png)
 
-      `pnl_absolute = (entry_price - exit_price)*exit_quantity` for a short trade
- 
-* Max Drawdown %: The maximum loss your strategy has encountered during the execution in percentage.
-  
-      `max_drowdown_percentage = (Max Drawdown) / (corresponding entry_price) // exit _ quantity x 100`
+`Step 3`: Use the toggle button to activate the P&L tracker. Add the profit desired and Risk appetite here. Click on save & start.  
 
-* Avg. Profit per winning trade: Cumulative Profit for winning trades divided by No. of Wins.
-  
-      `avg_profit_per_winning_trade = (Total P&L of winning trades) / (Count of winning trades)`
+![PTB](imgs/ptb15.png)
 
-* Avg. Profit per losing trade: Cumulative Loss for winning trades divided by No. of Wins.
-  
-      `avg_profit_per_losing_trade = (Total P&L of losing trades) / (Count of losing trades)`
+Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead. 
+
+You can view the strategy status in the progress section. Once the strategy has begun the status will change to started and will change to stopped once the strategy has stopped in the Progress section. 
+
+![PTB](imgs/ptb16.png)
+
+The strategy may stop due to various reasons such as market closure, P&L achieved, or if there are any errors. To check errors, in the ‘Progress’ field click on ‘view details’ option and then click  ‘detailed logs’ on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
+
+![PTB](imgs/ptb17.png)
