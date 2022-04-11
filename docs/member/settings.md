@@ -50,9 +50,9 @@ Enter your agent's details here if your AlgoBulls platform account will be manag
     AlgoBulls will not be responsible for any issues occurring because of deliberate or leaked credentials of your account.
 
 ## Developer Options
-We offer various services to developers through our platform. We provide: * Notification service through SMS and Email * Web Socket Service API for connecting with brokers. To learn more, visit the [Developer Options](developers.md) Help page.
+We offer various services to developers through our platform. We provide: * Notification service through SMS and Email * Web Socket Service API for connecting with brokers. To learn more, visit the [Developer Options](../developers.md) Help page.
 
 
 
 
-To learn more, visit the [Developer Options](../../developers.md) Help page.
+To learn more, visit the [Developer Options](../developers.md) Help page.
