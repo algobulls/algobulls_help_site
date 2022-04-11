@@ -12,7 +12,7 @@ You can use the Developer Options offered by the AlgoBulls Platform to **create*
 
 * **Execute** - Write Python code in a Jupyter Notebook to execute Real Trading in your Portfolio using your strategy. Alternatively, login to the AlgoBulls Website to access your account and start Real Trading on your strategy.
 
-    [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](member/My-Portfolio.md)
+    [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](member/my-portfolio.md)
 
 ## Checklist for Backtesting and Paper Trading
 ---
