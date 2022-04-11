@@ -38,7 +38,7 @@ You will get a confirmation once the details have been updated successfully.
 
 ![Broking](imgs/broker9.png)
 
-You can also check the help site to view your broker requirements. To view your broker information now [click here](../archive_v1/member/faq.md). 
+You can also check the help site to view your broker requirements. To view your broker information now [click here](../member/faq.md). 
 
 !!! note
     
