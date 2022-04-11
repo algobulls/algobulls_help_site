@@ -6,7 +6,7 @@ The My Portfolio section consists of a complete overview of the strategies avail
 
 The `summary bar` in the portfolio section includes the following: 
 
-`Choose Strategy` - Number of strategies from the [Marketplace](marketplace.md) in your portfolio 
+`Choose Strategy` - Number of strategies from the Marketplace in your portfolio 
 
 `Tweak Strategy` -  Number of strategies that have been tweaked by you 
 

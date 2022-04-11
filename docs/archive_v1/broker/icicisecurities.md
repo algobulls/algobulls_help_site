@@ -46,7 +46,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Click the `Register an app` button
 
-[ ![isec](imgs/icici_securities/register_an_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/register_app.png)
+[ ![isec](imgs/icici_securities/register_an_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/register_an_app.png)
 
 * On the `Register an app` page, fill the following fields:
 
@@ -60,7 +60,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Now Copy and Save the App key
 
-[ ![isec](imgs/icici_securities/app_key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/save.png)
+[ ![isec](imgs/icici_securities/app_key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/app_key.png)
 
 
 * Now click on the 'View Apps' button
@@ -75,7 +75,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Click 'Yes' to confirm
 
-[ ![isec](imgs/icici_securities/yes.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/click_yes.png)
+[ ![isec](imgs/icici_securities/yes.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/yes.png)
 
 
 * Ensure that the App status has changed to 'Active'
@@ -87,7 +87,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Type your 'APP key' in the box
 
-[ ![isec](imgs/icici_securities/encode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_one.png)
+[ ![isec](imgs/icici_securities/encode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode.png)
 
 * Click on `Encode` and encoded key will appear in box below 
 

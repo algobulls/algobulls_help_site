@@ -20,7 +20,7 @@ Visit [the site](https://www.algobulls.com/) and sign-up to the AlgoBulls platfo
 Click [here](member/wallet.md) to know more about your Wallet. All pricing, packages and adding funds into your AlgoBulls account are covered here.
 
 ## 3) General Settings
-After signing up to the platform, visit [here](member/Settings/general-settings.md) to know more about updating your KYC details.
+After signing up to the platform, visit [here](member/settings.md) to know more about updating your KYC details.
 
 Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental regulations for trading online.
 

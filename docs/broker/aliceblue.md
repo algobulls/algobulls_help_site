@@ -52,7 +52,7 @@ Both are explained below
 
 * Select the `ALICEBLUE` broker under `other available brokers`
 
-[ ![AliceBlue](imgs/aliceblue/aliceblue_login_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login.png)
+[ ![AliceBlue](imgs/aliceblue/aliceblue_login_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login_nonoauth.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
