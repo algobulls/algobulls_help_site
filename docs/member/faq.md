@@ -81,7 +81,7 @@ No, it will be visible only in your account. However, kindly contact us to get y
 
 ## Can I backtest, paper trade and real trade through AlgoBulls?
 ---
-Yes. See [here](../member/paperback.md) and [here](../member/My-Portfolio.md).
+Yes. See [here](../member/paperback.md) and [here](../member/my-portfolio.md).
 
 ## Who is a strategist?
 ---
