@@ -11,9 +11,9 @@
 
 ## Important Points to Note
 ---
-* It is required to login **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+* It is required to log in **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
 
-## Login and Setup your ICICI Securities Account 
+## Login and Set up your ICICI Securities Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -46,7 +46,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Click the `Register an app` button
 
-[ ![isec](imgs/icici_securities/register_an_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/register_app.png)
+[ ![isec](imgs/icici_securities/register_an_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/register_an_app.png)
 
 * On the `Register an app` page, fill the following fields:
 
@@ -60,7 +60,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Now Copy and Save the App key
 
-[ ![isec](imgs/icici_securities/app_key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/save.png)
+[ ![isec](imgs/icici_securities/app_key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/app_key.png)
 
 
 * Now click on the 'View Apps' button
@@ -75,7 +75,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Click 'Yes' to confirm
 
-[ ![isec](imgs/icici_securities/yes.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/click_yes.png)
+[ ![isec](imgs/icici_securities/yes.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/yes.png)
 
 
 * Ensure that the App status has changed to 'Active'
@@ -87,7 +87,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 * Type your 'APP key' in the box
 
-[ ![isec](imgs/icici_securities/encode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_one.png)
+[ ![isec](imgs/icici_securities/encode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode.png)
 
 * Click on `Encode` and encoded key will appear in box below 
 
@@ -155,7 +155,7 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Important Points to Note
 ---
-* It is required to login **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+* It is required to log in **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
 
 ## Support
 ---

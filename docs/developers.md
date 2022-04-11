@@ -8,22 +8,22 @@ You can use the Developer Options offered by the AlgoBulls Platform to **create*
 
 * **Test** - Write Python code in a Jupyter Notebook to test your strategy into your AlgoBulls account for testing. Alternatively, login to the AlgoBulls Website to access your account and test your strategy.
 
-    [See how to test using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to test using your account](/member/paperback)
+    [See how to test using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to test using your account](member/paperback.md)
 
 * **Execute** - Write Python code in a Jupyter Notebook to execute Real Trading in your Portfolio using your strategy. Alternatively, login to the AlgoBulls Website to access your account and start Real Trading on your strategy.
 
-    [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](/member/portfolio)
+    [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](member/My-Portfolio.md)
 
 ## Checklist for Backtesting and Paper Trading
 ---
 
 <font size=4>✅</font> - [Register](https://app.algobulls.com/user/register) and [Login](https://app.algobulls.com/user/login) to your [AlgoBulls](https://www.algobulls.com/) Account.
 
-<font size=4>✅</font> - Activate a [plan](https://app.algobulls.com/wallet) for your account. [Learn More](/member/wallet)
+<font size=4>✅</font> - Activate a [plan](https://app.algobulls.com/wallet) for your account. [Learn More](member/wallet.md)
 
 <font size=4>✅</font> - Create your strategy using the [pyalgotrading](https://github.com/algobulls/pyalgotrading/) package or choose a readymade strategy from the [pyalgostrategypool](https://github.com/algobulls/pyalgostrategypool) package.
 
-<font size=4>✅</font> - Pick up the API Token from Developer Options Menu on the [General Settings](https://app.algobulls.com/account/settings) page of your account. [Learn More](member/Settings/general-settings.md)
+<font size=4>✅</font> - Pick up the API Token from Developer Options Menu on the [General Settings](https://app.algobulls.com/account/settings) page of your account. [Learn More](member/settings.md)
 
 <font size=4>✅</font> - [Upload](https://algobulls.github.io/pyalgotrading/upload/) your strategy into your account.
 
