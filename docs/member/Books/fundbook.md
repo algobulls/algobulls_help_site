@@ -45,7 +45,7 @@ The fund book includes the following fields:
 
 `Settings` - Select the columns that you want to view in this settings option
 
-![Filters](imgs/toolbar5.png)
+![Filters](imgs/toolbar5_fundbook.png)
 
 `Full Screen` - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
 
