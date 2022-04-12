@@ -45,26 +45,26 @@ The table covers the following fields:
 
 ## Toolbar
 ---
-![Filters](imgs/toolbar1.png)
+![Filters](imgs/toolbar1_pnl.png)
 
 `P&L % and INR toggle button` - View P&L in percentage or INR by using this option. 
 
-![Filters](imgs/toolbar2.png)
+![Filters](imgs/toolbar2_pnl.png)
 
 `Refresh` - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
 
-![Filters](imgs/toolbar3.png)
+![Filters](imgs/toolbar3_pnl.png)
 
 `Density` - View data comfortably by choosing the density. The options include Larger, Middle and Compact. 
 
-![Filters](imgs/toolbar4.png)
+![Filters](imgs/toolbar4_pnl.png)
 
 `Settings` - Select the columns that you want to view in this settings option
 
-![Filters](imgs/toolbar5.png)
+![Filters](imgs/toolbar5_pnl.png)
 
 `Full Screen` - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
 
-![Filters](imgs/toolbar6.png)
+![Filters](imgs/toolbar6_pnl.png)
 
 ---
