@@ -12,7 +12,7 @@ Ensure the toggle button on the bottom left side of the website is switched to T
 
 ![test_and_live](imgs/test_and_live3.png)
 
-In the test mode, you can backtest or paper trade in 4 simple steps. Learn how to backtest or paper trade in test mode [here](paperback.md) .
+In the test mode, you can backtest or paper trade in 4 simple steps. Learn how to backtest or paper trade in test mode [here](virtual-trading.md) .
 
 The ‘Live Mode’ is where you can execute strategies to begin real trading. Switch the toggle button on the bottom left side of the website to LIVE MODE. 
 

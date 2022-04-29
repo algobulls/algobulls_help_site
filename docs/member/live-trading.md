@@ -1,4 +1,6 @@
-# My Portfolio
+# Live Trading
+
+Live trading is for Real trading 
 
 The My Portfolio section consists of a complete overview of the strategies availed by you.
 
