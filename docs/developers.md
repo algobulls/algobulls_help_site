@@ -8,11 +8,11 @@ You can use the Developer Options offered by the AlgoBulls Platform to **create*
 
 * **Test** - Write Python code in a Jupyter Notebook to test your strategy into your AlgoBulls account for testing. Alternatively, login to the AlgoBulls Website to access your account and test your strategy.
 
-    [See how to test using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to test using your account](member/paperback.md)
+    [See how to test using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to test using your account](member/virtual-trading.md)
 
 * **Execute** - Write Python code in a Jupyter Notebook to execute Real Trading in your Portfolio using your strategy. Alternatively, login to the AlgoBulls Website to access your account and start Real Trading on your strategy.
 
-    [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](member/my-portfolio.md)
+    [See how to trade using Python code](https://algobulls.github.io/pyalgotrading/testing/) | [See how to trade using your account](member/live-trading.md)
 
 ## Checklist for Backtesting and Paper Trading
 ---

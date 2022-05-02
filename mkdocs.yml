@@ -62,7 +62,9 @@ nav:
   - 'FAQ': 'member/faq.md'
   - 'Website Manual':
       - 'Dashboard': 'member/dashboard.md'
-      - 'My Portfolio': 'member/my-portfolio.md'
+      - 'My Portfolio':
+          - 'Live Trading': 'member/live-trading.md'
+          - 'Virtual Trading': 'member/virtual-trading.md'
       - 'My Strategies': 'member/my-strategies.md'
       - 'Strategy Card': 'member/strategy-card.md'
       - 'Choose Strategy': 'member/choose-strategy.md'
