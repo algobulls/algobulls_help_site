@@ -68,7 +68,6 @@ nav:
       - 'My Strategies': 'member/my-strategies.md'
       - 'Strategy Card': 'member/strategy-card.md'
       - 'Choose Strategy': 'member/choose-strategy.md'
-      - 'Paper Trading & Backtesting': 'member/paperback.md'
       - 'Live Reports':
           - 'P & L Book': 'member/Books/pnl.md'
           - 'Trade Book': 'member/Books/tradebook.md'
