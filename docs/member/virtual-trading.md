@@ -1,4 +1,6 @@
-# Backtesting and Paper Trading
+# Virtual Trading
+
+Virtual Trading is for Back tesing and paper trading
 
 Backtesting is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try Paper trading. 
 
@@ -10,11 +12,11 @@ You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin
 
 ![PTB](imgs/ptb2.png)
 
-Also ensure that you’ve added a strategy from the [ChooseStrategy](Choose-Strategy.md) marketplace. 
+Also ensure that you’ve added a strategy from the [ChooseStrategy](choose-strategy.md) marketplace. 
 
 ![PTB](imgs/ptb3.png)
 
-`Step 1`: In the [MyPortfolio](My-Portfolio.md) section click on the 'Start' button in the Action column. 
+`Step 1`: In the [MyPortfolio](live-trading.md) section click on the 'Start' button in the Action column. 
 
 ![PTB](imgs/ptb4.png)
 
@@ -61,7 +63,7 @@ If you are happy with the strategy after the backtesting or paper trading result
 
 ![PTB](imgs/ptb12.png)
 
-`Step 2`: Switch to Live Mode & go to the [My Portfolio](My-Portfolio.md) section in the sidebar menu. To start the chosen strategy click the start button from the Action field.
+`Step 2`: Switch to Live Mode & go to the [My Portfolio](live-trading.md) section in the sidebar menu. To start the chosen strategy click the start button from the Action field.
 
 ![PTB](imgs/ptb13.png)
 

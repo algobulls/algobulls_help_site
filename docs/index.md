@@ -29,35 +29,21 @@ Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental 
 
 ## 4) Broker Account and Binding
 
+Before you begin algorithmic trading with AlgoBulls, you must have a valid functional broking account. Multiple brokers are supported by the AlgoBulls platform. 
+
+You can select your broker from the Add Broker button in the [Broking Details](https://app.algobulls.com/broking) section
+
+![Logo](imgs/select_broker.png)
+
+Before proceeding, make sure you sign up and set up your account with any of these brokers. You will need to provide these details to [bind your broking account](member/broking-details.md) with AlgoBulls. 
+
 You need to have a valid working broking account before you start algorithmic trading using AlgoBulls.
 
-We currently offer support for the following brokers. (More on the way!)
-
-	5PAISA
-    AC AGARWAL
-    ALICEBLUE
-    ALPACA
-    ANGELBROKING
-    ARHAM WEALTH
-    EDELWEISS
-    ICICI SECURITIES
-    IIFL SECURITIES
-    INDIRA SECURITIES
-    JAINAM DUCK
-    KOTAK SECURITIES
-    MASTERTRUST
-    RUDRA SHARES
-    SHAREKHAN
-    ZEBU
-    ZERODHA
-
-Make sure you sign up and set up your account with any of these brokers before proceeding further, as you will need to provide those details to AlgoBulls to [bind it](member/Settings/broking-settings) with the broking account.
-
 !!! Note
-    * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
+    * If you want to perform backtesting and paper trading, you can skip this step (Mandatory for Real Trading)
 ---
-If your trading has still not started, look at the possible reasons below. Please contact your relationship manager if you think there is another reason as to why your trading has not started. Alternatively, you can [email us](mailto:support@algobulls.com).
-    
+If you're unable to trade, consider the factors listed below. If you believe there is another reason why your trade has not begun, please contact your relationship manager. Alternatively, you can [email us](mailto:support@algobulls.com)
+
 !!! warning
     Even after completing the all the points mentioned above, trading might not start because of the following reasons:
     

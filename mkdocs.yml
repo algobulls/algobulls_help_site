@@ -52,18 +52,22 @@ theme:
 
 copyright: Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Private Limited
 
+# Using this to control the style used for linking to pages within documentation. Without this option, links are broken when docs are generated using `mkdocs build`.
+# For more information: https://www.mkdocs.org/user-guide/configuration/#use_directory_urls 
+use_directory_urls: false
+
 # Navigation
 nav:
   - Home: 'index.md'
   - 'FAQ': 'member/faq.md'
   - 'Website Manual':
-      #- 'Marketplace': 'member/marketplace.md'
       - 'Dashboard': 'member/dashboard.md'
-      - 'My Portfolio': 'member/My-Portfolio.md'
-      - 'My Strategies': 'member/My-Strategies.md'
-      - 'Strategy Card': 'member/Strategy-Card.md'
-      - 'Choose Strategy': 'member/Choose-Strategy.md'
-      - 'Paper Trading & Backtesting': 'member/paperback.md'
+      - 'My Portfolio':
+          - 'Live Trading': 'member/live-trading.md'
+          - 'Virtual Trading': 'member/virtual-trading.md'
+      - 'My Strategies': 'member/my-strategies.md'
+      - 'Strategy Card': 'member/strategy-card.md'
+      - 'Choose Strategy': 'member/choose-strategy.md'
       - 'Live Reports':
           - 'P & L Book': 'member/Books/pnl.md'
           - 'Trade Book': 'member/Books/tradebook.md'
@@ -74,6 +78,7 @@ nav:
   - 'Features':
       - 'P&L Tracker': 'member/pnltracker.md'
       - 'Tweak': 'member/tweak.md'
+      - 'Test & Live Mode': 'member/test-to-live-mode.md'
   - 'Broker Information':
       - '5PAISA': 'broker/fivepaisa.md'
       - 'AC AGARWAL': 'broker/acagarwal.md'

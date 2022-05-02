@@ -39,7 +39,7 @@ My Strategies section includes the following fields:
 
 * `Strategy` - This field displays the strategy name, code, date and time  
 
-*`Instrument(s)` - This includes the instrument on which the strategy is being run 
+* `Instrument(s)` - This includes the instrument on which the strategy is being run 
 
 * `Tag` - This is a user defined tag for the strategy. Users can tag different strategies under different tags.
 
