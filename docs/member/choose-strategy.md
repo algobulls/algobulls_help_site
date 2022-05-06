@@ -1,19 +1,23 @@
 # Choose Strategy
 
-Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology. This Marketplace has more than 100+ Algo Strategies created by industry leading experts. The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
+Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology. 
 
-The Choose strategy marketplace is divided into 3 parts - `Retail, Premium & HNI marketplace`
+* This Marketplace has more than 100+ Algo Strategies created by industry leading experts. 
+
+* The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
+
+* The Choose strategy marketplace is divided into 3 parts - `Retail, Premium & HNI marketplace`
 
 ![ChooseStrategy](imgs/cs1.png)
 
 * Retail Marketplace: 
-The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes Equity, Futures & Commodities cash segment strategies 
+ The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes Equity, Futures & Commodities cash segment strategies 
 
 * Premium Marketplace: 
-This Marketplace is for High Risk Individuals. With our intelligent and powerful trading algos, we enable you to trade through Index Option Strategies. 
+With our intelligent and powerful trading algos, we enable you to trade through Index Options Strategies. 
 
 * HNI Marketplace: 
-AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace includes Index Option Strategies 
+ AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace includes Index Option Strategies 
 
 Before adding strategies to your ‘My Portfolio’ section, you can explore the strategy details, parameters and back testing reports to evaluate the strategy's performance in the Choose Strategy section.
 

@@ -9,7 +9,7 @@ To use the P&L Tracker, first turn the toggle button ON, then enter the desired 
 
 ![pnltracker](imgs/pnl_tracker3.png)
 
-The P&L Scan Frequency for Real Trading and Paper Trading is currently refreshed in 30 seconds. This may change in the future.
+The P&L Scan Frequency for Real Trading and Paper Trading is currently refreshed in 30 seconds. This may change in the future. These values are per strategy per day basis.
 
 `Profit Desired` - Enter the desired profit amount here. This is the maximum profit you would like to make from this strategy, after which you would like the strategy to stop. If the strategy exceeds this amount, all positions will be squared off and the strategy will stop the execution. 
 

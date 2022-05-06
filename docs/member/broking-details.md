@@ -1,6 +1,10 @@
 # Broking Details
 
-To begin algo trading with AlgoBulls, it is necessary to add your broker details and bind your broking account. To add a broker account follow these steps: 
+Add your broker details and bind your broking account to begin algo trading with AlgoBulls
+
+* Add and Bind new broker 
+* Choose from multiple brokers 
+* 100% safe & secure
 
 From the AlgoBulls sidebar navigation select Broking Details in Live Mode 
 
@@ -41,9 +45,7 @@ You will get a confirmation once the details have been updated successfully.
 You can also check the help site to view your broker requirements. To view your broker information now [click here](../member/faq.md). 
 
 !!! note
-    
-    A broker binding cannot be unbinded if trades are in progress. (Example, during market hours) Stop all your running strategies and then unbind a broker.
-    
+     
     Any one broker at a given time can be binded. Binding a broker will automatically remove the bind of any other broker, if the current binded broker is not being used by the platform.
     
     If no broker is present, all trading will be stopped.

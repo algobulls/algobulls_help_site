@@ -1,8 +1,12 @@
 # Tradebook
 
-This section displays chosen strategy activities in your account. All strategies executed in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range.
+All strategies executed in your account are updated real-time as and when the transactions take place. 
 
-TheTrade Book shows the ''Trading Volume,' which is the maximum traded volume to date, and the 'Total Trades,' which is the total number of trades made to date.
+* Check trading volume & total trades 
+* Segregate trades as per day/week/month/year 
+* View data in heatmaps 
+
+TheTrade Book shows the `Trading Volume` , which is the maximum traded volume to date, and the `Total Trades`, which is the total number of trades made to date.
 
 ![Tradebook](imgs/tradebook1.png)
 

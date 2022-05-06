@@ -1,6 +1,10 @@
 # My Strategies
 
-This page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Backtesting & Paper Trading (Test Mode/virtual trading). You can also add strategies and manage them here. 
+Manage backtesting, paper trading, tweaked and real trading algo strategies
+
+* Add new strategies 
+* Add strategies to Live trading to begin real trading 
+* Add strategies to Virtual Trading to begin backtesting, Paper Trading & Tweaking 
 
 ![Custom Strategies](imgs/ms1.png)
 

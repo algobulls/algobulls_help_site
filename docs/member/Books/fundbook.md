@@ -1,9 +1,12 @@
 # Fundbook
 
-The Fund Book section shows all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
-You can select your transactions by category and/or examine your transactions within a date range to gain a better understanding.
+The Fund Book displays all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
 
-The Fund Book displays the Number of Transactions made, Total AlgoBulls Money that has been used, plans that are currently active and your current wallet balance. 
+* View all transactions made 
+* Check plans that are currently active 
+* View total AlgoBulls money that has been used & your current wallet balance 
+
+The Fund Book displays the `Number of Transactions` made, `Total AlgoBulls Money` that has been used, `plans` that are currently active and your `current wallet balance`. 
 
 ![Fundbook](imgs/fb1.png)
 
@@ -28,6 +31,9 @@ The fund book includes the following fields:
 * `Time Stamp` - This includes the date and time of the transaction made
 * `Category` -  This includes the nature/category of the transaction that has taken place
 * `Description` - A detailed description of the transaction which includes service charge details, package charge details and other charges for the trades placed.
+* `Debit`: This column displays the amount debited from your AlgoBulls account
+* `Credit`: This column displays the amount credited into your AlgoBulls
+* `Net`: A sum total of the amount debited and credited into your account. This includes the balance in your AlgoBulls wallet.
 
 [ ![Fundbook](imgs/fb5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fb5.png)
 

@@ -1,8 +1,12 @@
 # Live Trading
 
-Live trading is for Real trading 
+You can execute strategies to begin real trading in the Live/Real Trading Mode. Switch the toggle button on the bottom left side of the website to Live Mode.
 
-The My Portfolio section consists of a complete overview of the strategies availed by you.
+* Begin real trading with 100% automation in Live/Real Trading Mode 
+* Choose from multiple brokers & execute trades directly in your Broking account
+* Monitor Live Profit & Loss and fetch strategy execution Logs in real time. There are no charges for fetching Logs.
+* Start & Stop your algo strategies in one click. Charges may be applicable for START and STOP. [More details here](https://help.algobulls.com/)
+* Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now! 
 
 ![Portfolio](imgs/portfolio1.png)
 
@@ -64,6 +68,10 @@ The strategy configuration field includes Instrument and Strategy Settings such 
 * `Progress` - This includes the strategy progress status. You can view if the strategy is about to begin, has begun or has stopped here. You can also click on the view details section to get a real time progress update. 
 
 ![Portfolio](imgs/portfolio6.png)
+
+`Logs` - The log feature allows you to view the complete details of an order placed. In the ‘Progress’ field click on the ‘view details’ option and then click  ‘detailed logs’ on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
+
+![Portfolio](imgs/portfolio6.1.png)
 
 * `Action` - The action field allows you to start or stop a strategy. To execute a strategy click start. When you click on the start you will be able to choose multiple brokers and run the strategies simultaneously too.
 

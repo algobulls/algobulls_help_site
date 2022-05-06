@@ -78,9 +78,7 @@ Deleting a broker will ask you for confirmation, and will delete the broker deta
 ![Broking](imgs/broker-settings-8.png)
 
 !!! note
-    
-    A broker binding cannot be unbinded if trades are in progress. (Example, during market hours) Stop all your running strategies and then unbind a broker.
-    
+
     Any one broker at a given time can be binded. Binding a broker will automatically remove the bind of any other broker, if the current binded broker is not being used by the platform.
     
     If no broker is present, all trading will be stopped.
