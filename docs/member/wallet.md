@@ -1,5 +1,11 @@
 # Plans and Wallet
 
+Add money to your AlgoBulls account or subscribe to a plan from here 
+
+* Choose from Pay-per-use model or subscription model 
+* Add money to your AlgoBulls wallet 
+* Avoid transaction fees or additional charges by subscribing to our plans 
+
 ## Models
 
 The AlgoBulls platform works on 2 models: Pay-per-use model & Subscription model 
@@ -22,7 +28,7 @@ To know the charges for Real Trading, you have to check the ‘Transaction fee (
 In this model you choose a package of your choice from the plans & wallets sections for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
 
 Here’s an example to help you understand better: 
-If you activate a plan for Backtesting services for 1000 INR for 30 days, you will be able to use the service without incurring any further expenses for the next 30 days.
+If you activate a plan for Backtesting services for 3000 INR for 30 days, you will be able to use the service without incurring any further expenses for the next 30 days.
 However for Real Trading, the subscription selected by you does not include this service. This means Real Trading service will continue to be charged according to the Pay-per-use Model. 
 
 ### Plans for the Subscription Model

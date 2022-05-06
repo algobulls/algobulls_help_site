@@ -1,12 +1,14 @@
 # Settings
 
-In Settings, you can add/edit your basic profile, update your KYC information, set your trading risk, grant access to your trading manager, and explore your developer options.
+Add or edit your basic profile, update your KYC information, set your trading risk, grant access to your trading manager, and explore your developer options.
 
-Choose the Setting options from the sidebar navigation. 
+![Settings](imgs/settings1.png)
 
 The Settings section is divided into 4 parts: 
 
 ## Personal Info
+
+![Settings](imgs/settings2.png)
 
 You add or edit your personal details here 
 
@@ -20,9 +22,9 @@ You add or edit your personal details here
     
 `Date of Birth` - Set up your date of birth.
     
-`Aadhar Card` - Your Aadhar ID number. This is required by government regulations for online trading.
+`Aadhar Card` - Your Aadhar ID number.
     
-`PAN Card Number` – This is the number on your PAN Card. This is required by government regulations for online trading. 
+`PAN Card Number` – This is the number on your PAN Card. 
     
 `Title` - A suitable one liner description for your bio.
     
@@ -32,15 +34,17 @@ You add or edit your personal details here
     
 `Education` - If we know whether you have any past financial background, our specialists will be able to connect with you more effectively over the phone/email. (For example, Commerce, MBA Finance, and so on.)
 
-WARNING -  Uploading incorrect KYC details (Aadhar / PAN) will lead to de-activation of your account. Please contact your relationship manager or email us to get your account reactivated.
-
-Any packages or payments made to the AlgoBulls platform will remain in effect during the deactivation period and cannot be redeemed or extended.
-
 ## Password & Security
+
+![Settings](imgs/settings3.png)
+
 You can edit your password and check other security options here 
 
 
 ## Trade Manager
+
+![Settings](imgs/settings4.png)
+
 Enter your agent's details here if your AlgoBulls platform account will be managed by them.
 
 !!! NOTE - 
@@ -50,9 +54,7 @@ Enter your agent's details here if your AlgoBulls platform account will be manag
     AlgoBulls will not be responsible for any issues occurring because of deliberate or leaked credentials of your account.
 
 ## Developer Options
-We offer various services to developers through our platform. We provide: * Notification service through SMS and Email * Web Socket Service API for connecting with brokers. To learn more, visit the [Developer Options](../developers.md) Help page.
 
+![Settings](imgs/settings5.png)
 
-
-
-To learn more, visit the [Developer Options](../developers.md) Help page.
+We offer the Python Build service to the developers through our platform. Developers can use the [pyalgotrading](https://github.com/algobulls/pyalgotrading/)  package to create and test their own strategies. To learn more, visit the [Developer Options](../developers.md)  Help page.

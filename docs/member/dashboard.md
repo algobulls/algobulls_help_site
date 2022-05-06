@@ -15,15 +15,15 @@ You can view your current balance in your AlgoBulls Dashboard. To add money in y
 
 ## Action Bar
 ---
-The action bar displays your AlgoBulls Funds, Subscription Plan Status, Broker Account and Portfolio Strategy. You can also add funds, subscribe to a plan, connect to another broker account and add more strategies to your portfolio page from the action bar. 
-
 ![Dashboard](imgs/dashboard4.png)
+
+The action bar displays your AlgoBulls Funds, Subscription Plan Status, Broker Account and Portfolio Strategy. You can also add funds, subscribe to a plan, connect to another broker account and add more strategies to your portfolio page from the action bar. 
 
 ## Algo Strategy
 ---
-You can see the overall trading volume, profit and loss, and your AlgoBulls current balance in this section. On the left side of the page, you can see the data in a graphical representation, and on the right side, you can see strategy details such as strategy name, total transactions, Volume, and P&L.
-
 ![Dashboard](imgs/dashboard5.png)
+
+You can see the overall trading volume, profit and loss, and your AlgoBulls current balance in this section. On the left side of the page, you can see the data in a graphical representation, and on the right side, you can see strategy details such as strategy name, total transactions, Volume, and P&L.
 
 You can narrow down your search by selecting the following options: 
 
@@ -31,9 +31,10 @@ You can narrow down your search by selecting the following options:
 * `This week` - Trades for the week 
 * `This month` - Trades placed in the month 
 * `This year` - Trades placed this year 
-You can also customise your search by using the date range option where you can put the start and end date for the selected period to get results.
 
 ![Dashboard](imgs/dashboard6.png)
+
+You can also customise your search by using the date range option where you can put the start and end date for the selected period to get results.
 
 As per the range chosen by you, the following data is reflected and updated as a table: 
 
@@ -63,9 +64,9 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 ---
 The Dashboard fields include: 
 
+[ ![Dashboard](imgs/dashboard7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard7.png)
+
 * `Strategy Name` - This consists of the strategy name and strategy code 
 * `Total Txns` - This consists of the total number of transactions made by you for that strategy 
 * `Volume (₹)`- This includes the total volume in INR
 * `P&L (₹)` - This field includes the total P&L
-
-[ ![Dashboard](imgs/dashboard7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard7.png)

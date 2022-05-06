@@ -1,8 +1,11 @@
 # Virtual Trading
 
-Virtual Trading is for Back tesing and paper trading
+The Test or Virtual trading mode is a virtual simulation of the real markets.Switch the toggle button on the bottom left side of the website to Test Mode. 
 
-Backtesting is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try Paper trading. 
+* Test any strategy in live markets without risking any money through Paper Trading 
+* Modify strategies using the Tweak option 
+* Test past performance data for any strategy through Backtesting. 
+* Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now! 
 
 ## Steps to backtest or paper trade a strategy on AlgoBulls
 

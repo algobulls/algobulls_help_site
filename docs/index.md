@@ -51,6 +51,7 @@ If you're unable to trade, consider the factors listed below. If you believe the
     
     * Currency Segment in your broker account is not yet activated. (This happens with new accounts, and though some brokers activate this by default, others may take takes 24 hours or more to do so)
     
+    * Due to market volatility, your broker may have stopped taking certain order requests on some of the scripts or stock.(If Any bracket such order type with such script/stock strategies currently running in your platform account will stop showing any new orders)
     * Due to market volatility, your broker may have stopped taking bracket order requests. (Any bracket order strategies currently running in your platform account will stop showing any new orders)
     
     * Certain order types don't work with certain brokers. So your binded broker account should allow those particular order to be fired

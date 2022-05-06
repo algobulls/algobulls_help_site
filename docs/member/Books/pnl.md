@@ -1,8 +1,11 @@
 # P & L
 
-This page shows the Profit and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range.
+Track the Profit and Loss of your trades in the P&L Book.
+* All trades/orders in your account are updated real-time as and when the transactions take place. 
+* Filter your activities using filters such as Strategies, Instrument and Date range.
+* View data in heatmaps
 
-The P&L Book shows the 'Gross Profit & Loss,' which is your total profit and loss, the 'Trading Volume,' which is the maximum traded volume to date, and the 'Total Trades,' which is the total number of trades made to date.
+The P&L Book shows the `Gross Profit & Loss`, which is your total profit and loss, the `Trading Volume`, which is the maximum traded volume to date, and the `Total Trades`, which is the total number of trades made to date.
 
 ![PnLBook](imgs/pnl1.png)
 
