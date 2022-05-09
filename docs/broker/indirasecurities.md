@@ -71,16 +71,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Indira](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![Indira](imgs/indirasecurities/indira_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/indirasecurities/indira_3.png)
-
 ## Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

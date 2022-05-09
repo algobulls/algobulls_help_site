@@ -65,15 +65,52 @@ Keep the following information available before you start:
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_4.png)
 
-## Bind your Broking Account
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+
+### Another Way to Bind the Broker
 ---
-The following steps will help you to make sure you have binded your broker account
 
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
+Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
 
-* Bind your account using the Toggle button marked below
+* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
-[ ![Edelweiss](imgs/edelweiss/edelweiss_login_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_5.png)
+* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
+
+[ ![Edelweiss](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+
+* Now go to `Broking Details` and click add broker
+
+[ ![Edelweiss](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+
+* Choose the broker 
+
+[ ![Edelweiss](imgs/edelweiss/edelweiss.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss.png)
+
+* You will be re-directed to the Verification Page. Provide data for the following fields:
+
+(1). Type your Login ID
+
+(2). Click on the `Proceed` button
+
+[ ![Edelweiss](imgs/edelweiss/edelweiss_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_2.png)
+
+(3). Type your Password
+
+(4). Make sure that `Yes, This is my Security Image` is ticked
+
+(5). Click on the `Proceed` button
+
+[ ![Edelweiss](imgs/edelweiss/edelweiss_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_3.png)
+
+(6). Type your Year of Birth
+
+(7). Click on the `Continue` button
+
+[ ![Edelweiss](imgs/edelweiss/edelweiss_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_4.png)
+
+* If the verification is successful, you will see the following message
+
+[ ![Edelweiss](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
 ## Support
 ---

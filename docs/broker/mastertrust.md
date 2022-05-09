@@ -7,6 +7,14 @@
 
 * Markets Supported: India
 
+## Important Points to Note
+---
+* Use the following link to login to your broking account - 
+    
+    [https://masterswift-beta.mastertrust.co.in/](https://masterswift-beta.mastertrust.co.in/)
+
+* You may lose connectivity to your binded broker on the AlgoBulls account if any other app or website is used to login to your account.
+
 ## Login and Set up your Mastertrust Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
@@ -53,7 +61,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-* choose the broker 
+* Choose the broker 
 
 [ ![Acagarwal](imgs/mastertrust/master_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mastertrust/master_selectbroker.png)
 
@@ -70,24 +78,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 * If the verification is successful, you will see the following message
 
 [ ![Mastertrust](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![Mastertrust](imgs/mastertrust/mastertrust_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mastertrust/mastertrust_binded.png)
-
-## Important Points to Note
----
-* Use the following link to login to your broking account - 
-    
-    [https://masterswift-beta.mastertrust.co.in/](https://masterswift-beta.mastertrust.co.in/)
-
-* You may lose connectivity to your binded broker on the AlgoBulls account if any other app or website is used to login to your account.
 
 ## Support
 ---

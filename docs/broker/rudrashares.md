@@ -56,19 +56,46 @@ Keep the following information available before you start:
 
 [ ![RudraShares](imgs/rudrashares/rudra_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_3.png)
 
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+
+### Another Way to Bind the Broker
+---
+
+Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+
+* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
+
+* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
+
+[ ![RudraShares](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+
+* Now go to `Broking Details` and click add broker
+
+[ ![RudraShares](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+
+* Choose the broker 
+
+[ ![RudraShares](imgs/rudrashares/rudrashares.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudrashares.png)
+
+* You will be re-directed to the Verification Page. Provide data for the following fields:
+
+(1). User ID: The ID given to you by your broker
+
+(2). Password: The password given to you by the broker
+
+(3). Click the `Sign In` button
+
+[ ![RudraShares](imgs/rudrashares/rudra_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_2.png)
+
+(4). PIN: The PIN given to you by the broker
+
+(5). Click the `Submit` button
+
+[ ![RudraShares](imgs/rudrashares/rudra_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_3.png)
+
 * If the verification is successful, you will see the following message
 
 [ ![RudraShares](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![RudraShares](imgs/rudrashares/rudra_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_4.png)
 
 ## Support
 ---
