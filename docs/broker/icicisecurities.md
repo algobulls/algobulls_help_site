@@ -11,7 +11,7 @@
 
 ## Important Points to Note
 ---
-* It is required to log in **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+* It is required to log in **once** daily (at the start of the trading day)
 
 ## Login and Set up your ICICI Securities Account 
 ---
@@ -112,6 +112,57 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 [ ![isec](imgs/icici_securities/select_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/select_broker.png)
 
+Now paste your saved Encoded key in the following URL
+
+Example: If the Encoded APP key is uS3r@ppKey and the URL is:
+
+```html
+https://api.icicidirect.com/apiuser/login?api_key=placeappkeyhere
+```
+then the new URL will be:
+
+```html
+https://api.icicidirect.com/apiuser/login?api_key=uS3r@ppKey
+```
+
+[ ![isec](imgs/icici_securities/key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/key.png)
+
+Press Enter after modifying the URL with your APP key
+
+Now provide data for the following fields:
+
+(3). User ID: The ID given to you by your broker
+
+(4). Password: The password given to you by the broker
+
+(5). DOB/PAN: Add Date Of Birth or PAN number
+
+(6). Agree to terms and conditions
+
+(7). Click `Submit` button
+
+[ ![isec](imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login_again.png)
+
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+
+### Another Way to Bind the Broker
+---
+
+Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+
+* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
+
+* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
+
+[ ![isec](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+
+* Now go to `Broking Details` and click add broker
+
+[ ![isec](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+
+(1) & (2) Choose the broker and click 'Next'
+
+[ ![isec](imgs/icici_securities/icici.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/icici.png)
 
 Now paste your saved Encoded key in the following URL
 
@@ -144,18 +195,9 @@ Now provide data for the following fields:
 
 [ ![isec](imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login_again.png)
 
+* If the verification is successful, you will see the following message
 
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button
-
-## Important Points to Note
----
-* It is required to log in **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
+[ ![isec](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
 ## Support
 ---

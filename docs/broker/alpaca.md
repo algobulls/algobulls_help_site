@@ -115,17 +115,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 * Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
 
-[ ![AliceBlue](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![Alpaca](imgs/alpaca/alpaca_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_binded.png)
+[ ![Alpaca](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
 ## Support
 ---

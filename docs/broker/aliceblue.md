@@ -112,16 +112,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 * If the sign-in is successful, you will re-directed back to the AlgoBulls website
 
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![AliceBlue](imgs/aliceblue/aliceblue_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_binded.png)
-
 ## Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

@@ -161,21 +161,7 @@ Now provide data for the following fields:
     * Close the tab
 
     * Perform steps (1). to (5). again
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![Zerodha](imgs/zerodha/zerodha_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/zerodha_binded.png)
-
-## Important Points to Note
----
-* It is required to login **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section
-
+    
 ## Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

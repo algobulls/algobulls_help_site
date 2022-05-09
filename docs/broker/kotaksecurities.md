@@ -60,7 +60,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 * choose the broker 
 
-#change
 [ ![Acagarwal](imgs/kotak/kotak_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_selectbroker.png)
 
 * Now Provide data for the following fields:
@@ -80,16 +79,6 @@ Get your Consumer Key and Access Token from [here](docs/access_token_process.pdf
 * If the verification is successful, you will see the following message
 
 [ ![Kotak](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![Kotak](imgs/kotak/kotak_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_4.png)
 
 ## Support
 ---

@@ -31,7 +31,7 @@ Keep the following information available before you start:
 * API Secret
 
 !!! note
-    * To know more about API Key and Secret, see the following video:
+    * To know more about API Key and Secret, see the following video (Only for Non-Oauth based login):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/75vlLNRD3IA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -113,16 +113,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 [ ![Angelbroking](imgs/angelbroking/angelbroking_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_2_oauth.png)
 
 * If the sign-in is successful, you will re-directed back to the AlgoBulls website
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![Angelbroking](imgs/angelbroking/angelbroking_binded.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_binded.png)
 
 ## Support
 ---
