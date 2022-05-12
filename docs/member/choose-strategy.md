@@ -6,18 +6,18 @@ Choose from a wide range of advanced, AI-driven strategies developed with cuttin
 
 * The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
 
-* The Choose strategy marketplace is divided into 3 parts - `Retail, Premium & HNI marketplace`
+* The Choose strategy marketplace is divided into 3 parts - `Retail, Premium & HNI marketplace`.
 
 ![ChooseStrategy](imgs/cs1.png)
 
 * Retail Marketplace: 
- The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes Equity, Futures & Commodities cash segment strategies 
+ The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes Equity cash, Futures & Commodities segment strategies.
 
 * Premium Marketplace: 
 With our intelligent and powerful trading algos, we enable you to trade through Index Options Strategies. 
 
 * HNI Marketplace: 
- AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace includes Index Option Strategies 
+ AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace includes Index Option Strategies.
 
 Before adding strategies to your ‘My Portfolio’ section, you can explore the strategy details, parameters and back testing reports to evaluate the strategy's performance in the Choose Strategy section.
 
@@ -28,7 +28,7 @@ Before adding strategies to your ‘My Portfolio’ section, you can explore the
 
 You can find strategies using the following options: 
 
-`Search Bar` - Use this to type in the Strategy Name or Code 
+`Search Bar` - Use this to type in the Strategy Name or Code .
 
 [ ![Marketplace](imgs/cs3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/cs3.png)
 
@@ -36,7 +36,7 @@ You can find strategies using the following options:
 
 ![ChooseStrategy](imgs/cs4.png)
 
-`Favourites` - You can also switch the favourites toggle button ‘On’ to view the strategies marked as Favourite (<font size=3>☆</font>)
+`Favourites` - You can also switch the favourites toggle button ‘On’ to view the strategies marked as Favourite (<font size=3>☆</font>).
 
 ![ChooseStrategy](imgs/cs5.png)
 
@@ -49,7 +49,7 @@ Click on the `Apply Sort` button to categorise the strategies.
 
 ![ChooseStrategy](imgs/cs6.png)
 
-`Duration` - This option allows you to search for strategies that have been added to the marketplace in the last 3 days, 7 days, 30 days and All Time. 
+`Duration` - This option allows you to search for strategies that have been added to the marketplace in the last 3 days, 14 days, 30 days and All Time. 
 
 ![ChooseStrategy](imgs/cs7.png)
 
@@ -57,7 +57,7 @@ Click on the `Apply Sort` button to categorise the strategies.
 
 ![ChooseStrategy](imgs/cs8.png)
 
-`Density` - You can adjust the density by choosing the Compact mode, Regular Mode & List Mode 
+`Density` - You can adjust the density by choosing the Compact mode, Regular Mode & List Mode.
 
 ![ChooseStrategy](imgs/cs9.png)
 

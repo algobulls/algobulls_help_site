@@ -38,7 +38,7 @@ You add or edit your personal details here
 
 ![Settings](imgs/settings3.png)
 
-You can edit your password and check other security options here 
+You can edit your password and check other security options here .
 
 
 ## Trade Manager

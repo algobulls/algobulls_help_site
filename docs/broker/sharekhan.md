@@ -35,23 +35,23 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`.
 
 [ ![ShareKhan](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
-* Select the `SHAREKHAN` broker
+* Select the `SHAREKHAN` broker.
 
 [ ![ShareKhan](imgs/sharekhan/sharekhan_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_login.png)
 
 * You will be re-directed to the Verification Page. Provide data for the following fields:
 
-(1). Login ID: The ID given to you by your broker
+(1). Login ID: The ID given to you by your broker.
 
-(2). Membership Password: The Membership Password given to you by the broker
+(2). Membership Password: The Membership Password given to you by the broker.
 
-(3). Trading Password: The Trading Password given to you by the broker
+(3). Trading Password: The Trading Password given to you by the broker.
 
 * [ ![ShareKhan](imgs/sharekhan/sharekhan_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_credentials.png)
 
@@ -68,21 +68,21 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![ShareKhan](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker
+* Now go to `Broking Details` and click add broker.
 
 [ ![ShareKhan](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-* Choose the broker 
+* Choose the broker .
 
 [ ![ShareKhan](imgs/sharekhan/sharekhan.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan.png)
 
 * Now Provide data for the following fields:
 
-(1). Login ID: The ID given to you by your broker
+(1). Login ID: The ID given to you by your broker.
 
-(2). Membership Password: The Membership Password given to you by the broker
+(2). Membership Password: The Membership Password given to you by the broker.
 
-(3). Trading Password: The Trading Password given to you by the broker 
+(3). Trading Password: The Trading Password given to you by the broker .
 
 [ ![ShareKhan](imgs/sharekhan/sharekhan_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_2.png)
 

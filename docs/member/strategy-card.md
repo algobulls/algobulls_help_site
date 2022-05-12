@@ -12,7 +12,7 @@ You can also check the Strategy, Instrument, Capital Required, Hit Ratio, Risk, 
 
 ![StrategyCard](imgs/sc3.png)
 
-The strategy card is divided into 3 sections - Records, Analytics & Returns 
+The strategy card is divided into 3 sections - Records, Analytics & Returns.
 
 ![StrategyCard](imgs/sc_3types.png)
 
@@ -34,7 +34,7 @@ In the Analytics section you can check the past performance in a graphical repre
 
 ![StrategyCard](imgs/sc5.png)
 
-`P&L` - The cumulative backtesting P&L
+`P&L` - The cumulative backtesting P&L.
 
 ![StrategyCard](imgs/sc6.png)
 
@@ -68,19 +68,19 @@ Returns: You can view a strategy’s ROI in the returns section. The returns dur
 
 ![StrategyCard](imgs/sc12.png)
 
-Snapshot Tool - This tool helps you take a screenshot. Download the plot as PNG by using the snapshot tool from the Toolbar 
+Snapshot Tool - This tool helps you take a screenshot. Download the plot as PNG by using the snapshot tool from the Toolbar.
 
 ![StrategyCard](imgs/sc13.png)
 
-Zoom Tool - Zoom in to the plot by using the magnifying glass tool 
+Zoom Tool - Zoom in to the plot by using the magnifying glass tool.
 
 ![StrategyCard](imgs/sc14.png)
 
-Pan Tool - The Pan tool enables you to move the view vertically or horizontally
+Pan Tool - The Pan tool enables you to move the view vertically or horizontally.
 
 ![StrategyCard](imgs/sc15.png)
 
-Zoom in/Zoom Out - Magnify or reduce the view of your image with the Zoom in/Zoom out tool
+Zoom in/Zoom Out - Magnify or reduce the view of your image with the Zoom in/Zoom out tool.
 
 ![StrategyCard](imgs/sc16.png)
 
@@ -88,11 +88,11 @@ Autoscale Tool - Use this tool to automatically scale the image.
 
 ![StrategyCard](imgs/sc17.png)
 
-Reset axes - Reset the axes by using the ‘Reset axes’ tool 
+Reset axes - Reset the axes by using the ‘Reset axes’ tool.
 
 ![StrategyCard](imgs/sc18.png)
 
-Download as SVG/JPWG - Download the plot as an SVG or JPEG using these tool 
+Download as SVG/JPWG - Download the plot as an SVG or JPEG using these tool. 
 
 ![StrategyCard](imgs/sc19.png)
 
@@ -124,7 +124,7 @@ Density - View data comfortably by choosing the density. The options include Lar
 
 ![StrategyCard](imgs/sc26.png)
 
-Settings - Select the columns that you want to view in this settings option
+Settings - Select the columns that you want to view in this settings option.
 
 ![StrategyCard](imgs/sc27.png)
 

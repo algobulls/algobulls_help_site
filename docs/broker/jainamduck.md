@@ -30,13 +30,13 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`.
 
 [ ![JainamDuck](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
-* Select the `JAINAM DUCK OAuth` broker
+* Select the `JAINAM DUCK OAuth` broker.
 
 [ ![JainamDuck](imgs/jainamduck/jainam_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/jainamduck/jainam_login.png)
 
@@ -50,17 +50,17 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 * You will be re-directed to the Verification Page. Provide data for the following fields:
 
-(1). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker.
 
-(2). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker.
 
-(3). Click the `Sign In` button
+(3). Click the `Sign In` button.
 
 [ ![JainamDuck](imgs/jainamduck/jainam_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/jainamduck/jainam_2.png)
 
-(4). PIN: The PIN given to you by the broker
+(4). PIN: The PIN given to you by the broker.
 
-(5). Click the `Submit` button
+(5). Click the `Submit` button.
 
 [ ![JainamDuck](imgs/jainamduck/jainam_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/jainamduck/jainam_3.png)
 
