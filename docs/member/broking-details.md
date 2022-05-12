@@ -2,11 +2,11 @@
 
 Add your broker details and bind your broking account to begin algo trading with AlgoBulls
 
-* Add and Bind new broker 
-* Choose from multiple brokers 
-* 100% safe & secure
+* Add and Bind new broker.
+* Choose from multiple brokers. 
+* 100% safe & secure.
 
-From the AlgoBulls sidebar navigation select Broking Details in Live Mode 
+From the AlgoBulls sidebar navigation select Broking Details in Live Mode. 
 
 ![Broking](imgs/broker1.png)
 
@@ -14,11 +14,11 @@ Click the Add Broker button.
 
 ![Broking](imgs/broker2.png)
 
-From the Add New Broker list select your broker 
+From the Add New Broker list select your broker.
 
 ![Broking](imgs/broker3.png)
 
-Add the User ID, Password and Date of Birth. Click on Confirm 
+Add the User ID, Password and Date of Birth. Click on Confirm. 
 
 ![Broking](imgs/broker4.png)
 
@@ -30,7 +30,7 @@ The Broker will now be added to your Broking Details page. If you have multiple 
 
 ![Broking](imgs/broker6.png)
 
-If you wish to edit details click on Login/Edit option  
+If you wish to edit details click on Login/Edit option.
 
 ![Broking](imgs/broker7.png)
 

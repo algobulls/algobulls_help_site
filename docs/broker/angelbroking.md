@@ -37,28 +37,28 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`.
 
 [ ![Angelbroking](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type the first few characters of your Broker Name 
+* Type the first few characters of your Broker Name.
 
 [ ![Angelbroking](imgs/angelbroking/angelbroking_search.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_search.png)
 
 As seen here, Angel Broking supports 2 ways of logging in:
 
-1. non-OAuth Method 
+1. non-OAuth Method
 
-2. OAuth Method.
+2. OAuth Method
      
 Both are explained below
 
 ### Login with non-OAuth Method
 ---
 
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
-* Select the `ANGELBROKING` broker under `other available brokers`
+* Select the `ANGELBROKING` broker under `other available brokers`.
 
 [ ![Angelbroking](imgs/angelbroking/angelbroking_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_nonoauth.png)
 
@@ -70,23 +70,23 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Angelbroking](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker
+* Now go to `Broking Details` and click add broker.
 
 [ ![Angelbroking](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-* choose the broker 
+* Choose the broker. 
 
 [ ![Angelbroking](imgs/angelbroking/angelbroking_selectbroker_non.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_selectbroker_non.png)
 
 * Now Provide data for the following fields:
 
-(1). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker.
 
-(2). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker.
 
-(3). API Key: The API Key given to you by your broker
+(3). API Key: The API Key given to you by your broker.
 
-(4). API Secret: The API Secret given to you by your broker
+(4). API Secret: The API Secret given to you by your broker.
 
 [ ![Angelbroking](imgs/angelbroking/angelbroking_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_2.png)
 
@@ -96,19 +96,19 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 ### Login with OAuth Method
 ---
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
-* Select the `ANGELBROKING` broker
+* Select the `ANGELBROKING` broker.
 
 [ ![Angelbroking](imgs/angelbroking/angelbroking_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_oauth.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-(1). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker.
 
-(2). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker.
 
-(3). Click `Login`
+(3). Click `Login`.
 
 [ ![Angelbroking](imgs/angelbroking/angelbroking_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_2_oauth.png)
 

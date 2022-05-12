@@ -35,29 +35,29 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`.
 
 [ ![Zebu](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
 [ ![Zebu](imgs/zebu/zebu_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_login.png)
 
 ### Login
 ---
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
-* Select the `ZEBU` broker
+* Select the `ZEBU` broker.
 
 [ ![Zebu](imgs/zebu/zebu_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_login.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-(1). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker.
 
 [ ![Zebu](imgs/zebu/zebu_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_2_oauth.png)
 
-(2). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker.
 
 [ ![Zebu](imgs/zebu/zebu_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_3_oauth.png)
 
@@ -74,21 +74,21 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Zebu](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker
+* Now go to `Broking Details` and click add broker.
 
 [ ![Zebu](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-* Choose the broker 
+* Choose the broker .
 
 [ ![Zebu](imgs/zebu/zebu.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-(1). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker.
 
 [ ![Zebu](imgs/zebu/zebu_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_2_oauth.png)
 
-(2). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker.
 
 [ ![Zebu](imgs/zebu/zebu_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_3_oauth.png)
 

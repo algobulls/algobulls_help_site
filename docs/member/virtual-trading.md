@@ -2,8 +2,8 @@
 
 The Test or Virtual trading mode is a virtual simulation of the real markets.Switch the toggle button on the bottom left side of the website to Test Mode. 
 
-* Test any strategy in live markets without risking any money through Paper Trading 
-* Modify strategies using the Tweak option 
+* Test any strategy in live markets without risking any money through Paper Trading. 
+* Modify strategies using the Tweak option.
 * Test past performance data for any strategy through Backtesting. 
 * Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now! 
 
@@ -48,7 +48,7 @@ In paper trading you only need to add the start and end time.
 Please note that in both Backtesting and Paper Trading you will be charged if you don’t have an active AlgoBulls package. To avoid these charges you can buy the AlgoBulls package. 
 
 
-You will be able to track the Backtesting or Paper Trading status in the Progress section 
+You will be able to track the Backtesting or Paper Trading status in the Progress section.
 
 ![PTB](imgs/ptb10.png)
 
@@ -56,13 +56,13 @@ You can check the status details in the View Details feature in the Progress sec
 
 ![PTB](imgs/ptb11.png)
 
-Once this process is complete, you will be able to view the strategies Past Performance (Backtesting) or Live Market Performance (Paper trading)
+Once this process is complete, you will be able to view the strategies Past Performance (Backtesting) or Live Market Performance (Paper trading).
 
 ## Steps to apply backtested or paper traded strategies to Real Trading/Live Trading
 
 If you are happy with the strategy after the backtesting or paper trading results you can begin real money trading by simply switching to Live Mode. You can begin real trading in 3 simple steps:  
 
-`Step 1`: The backtested/Paper traded will be added to your My strategies section where you can simply switch them to Live Trading from the toggle button. The strategy will be added to your portfolio in Live Mode
+`Step 1`: The backtested/Paper traded will be added to your My strategies section where you can simply switch them to Live Trading from the toggle button. The strategy will be added to your portfolio in Live Mode.
 
 ![PTB](imgs/ptb12.png)
 

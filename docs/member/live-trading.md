@@ -2,8 +2,8 @@
 
 You can execute strategies to begin real trading in the Live/Real Trading Mode. Switch the toggle button on the bottom left side of the website to Live Mode.
 
-* Begin real trading with 100% automation in Live/Real Trading Mode 
-* Choose from multiple brokers & execute trades directly in your Broking account
+* Begin real trading with 100% automation in Live/Real Trading Mode.
+* Choose from multiple brokers & execute trades directly in your Broking account.
 * Monitor Live Profit & Loss and fetch strategy execution Logs in real time. There are no charges for fetching Logs.
 * Start & Stop your algo strategies in one click. Charges may be applicable for START and STOP. [More details here](https://help.algobulls.com/)
 * Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now! 
@@ -18,9 +18,9 @@ The `summary bar` in the portfolio section includes the following:
 
 `Build Strategy` - Number of custom strategies that have been built by the AlgoBulls developer team for you. 
 
-`Total Running Strategies` - The number of strategies that are currently active on your portfolio, especially from the ones mentioned above (During the market hours) 
+`Total Running Strategies` - The number of strategies that are currently active on your portfolio, especially from the ones mentioned above (During the market hours).
 
-`Today’s P&L` - The total P&L value
+`Today’s P&L` - The total P&L value.
 
 ![Portfolio](imgs/portfolio2.png)
 
@@ -51,10 +51,10 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 
 My Portfolio includes the following fields: 
 
-* `Strategy` - This field displays the strategy name and code 
-* `Instrument(s)` - This includes the instrument on which the strategy is being run 
+* `Strategy` - This field displays the strategy name and code.
+* `Instrument(s)` - This includes the instrument on which the strategy is being run. 
 * `Tag` - This is a user defined tag for the strategy. Users can tag different strategies under different tags.
-* `Volume` - This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook 
+* `Volume` - This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook.
 
 ![Portfolio](imgs/portfolio3.png)
 

@@ -52,7 +52,7 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 
 ![Filters](imgs/toolbar4.png)
 
-`Settings` - Select the columns that you want to view in this settings option
+`Settings` - Select the columns that you want to view in this settings option.
 
 ![Filters](imgs/toolbar5_dashboard.png)
 
@@ -66,7 +66,7 @@ The Dashboard fields include:
 
 [ ![Dashboard](imgs/dashboard7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard7.png)
 
-* `Strategy Name` - This consists of the strategy name and strategy code 
-* `Total Txns` - This consists of the total number of transactions made by you for that strategy 
-* `Volume (₹)`- This includes the total volume in INR
-* `P&L (₹)` - This field includes the total P&L
+* `Strategy Name` - This consists of the strategy name and strategy code .
+* `Total Txns` - This consists of the total number of transactions made by you for that strategy.
+* `Volume (₹)`- This includes the total volume in INR.
+* `P&L (₹)` - This field includes the total P&L.

@@ -2,9 +2,9 @@
 
 Manage backtesting, paper trading, tweaked and real trading algo strategies
 
-* Add new strategies 
-* Add strategies to Live trading to begin real trading 
-* Add strategies to Virtual Trading to begin backtesting, Paper Trading & Tweaking 
+* Add new strategies. 
+* Add strategies to Live trading to begin real trading .
+* Add strategies to Virtual Trading to begin backtesting, Paper Trading & Tweaking .
 
 ![Custom Strategies](imgs/ms1.png)
 
@@ -28,7 +28,7 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 
 ![Filters](imgs/toolbar4.png)
 
-`Settings` - Select the columns that you want to view in this settings option
+`Settings` - Select the columns that you want to view in this settings option.
 
 ![Filters](imgs/toolbar5_ms.png)
 
@@ -41,9 +41,9 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 ---
 My Strategies section includes the following fields: 
 
-* `Strategy` - This field displays the strategy name, code, date and time  
+* `Strategy` - This field displays the strategy name, code, date and time.
 
-* `Instrument(s)` - This includes the instrument on which the strategy is being run 
+* `Instrument(s)` - This includes the instrument on which the strategy is being run. 
 
 * `Tag` - This is a user defined tag for the strategy. Users can tag different strategies under different tags.
 
