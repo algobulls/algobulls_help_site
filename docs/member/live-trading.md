@@ -12,9 +12,9 @@ You can execute strategies to begin real trading in the Live/Real Trading Mode. 
 
 The `summary bar` in the portfolio section includes the following: 
 
-`Choose Strategy` - Number of strategies from the Marketplace in your portfolio 
+`Choose Strategy` - Number of strategies from the Marketplace in your portfolio added by you.
 
-`Tweak Strategy` -  Number of strategies that have been tweaked by you 
+`Tweak Strategy` -  Number of strategies that have been tweaked by you.
 
 `Build Strategy` - Number of custom strategies that have been built by the AlgoBulls developer team for you. 
 
@@ -38,7 +38,7 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 
 ![Filters](imgs/toolbar4.png)
 
-`Settings` - Select the columns that you want to view in this settings option
+`Settings` - Select the columns that you want to view in this settings option.
 
 ![Filters](imgs/toolbar5_portfolio.png)
 
