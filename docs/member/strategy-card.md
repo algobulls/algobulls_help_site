@@ -4,7 +4,7 @@ A strategy card has all the information you need about a strategy before you beg
 
 ![StrategyCard](imgs/sc1.png)
 
-You can check the Minimum Capital required in Demat, Transaction Fee with Package, Transaction Fee without the package, recommended duration and strategy code. 
+You can check the Minimum Capital required in Demat, Transaction Fee with Package, Transaction Fee without the package, recommended duration, Risk Appetite per day, Desired Profit per day  and strategy code. 
 
 ![StrategyCard](imgs/sc2.png)
 
