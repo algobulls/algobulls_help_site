@@ -1,6 +1,6 @@
 # Settings
 
-Add or edit your basic profile, update your KYC information, set your trading risk, grant access to your trading manager, and explore your developer options.
+Add or edit your basic profile, set your trading risk, grant access to your trading manager, and explore your developer options.
 
 ![Settings](imgs/settings1.png)
 
