@@ -76,7 +76,7 @@ Get your Consumer Key and Access Token from [here](docs/access_token_process.pdf
 
 [ ![Kotak](imgs/kotak/kotak_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_credentials.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![Kotak](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
