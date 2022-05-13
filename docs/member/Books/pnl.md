@@ -1,6 +1,7 @@
 # P & L
 
 Track the Profit and Loss of your trades in the P&L Book.
+
 * All trades/orders in your account are updated real-time as and when the transactions take place. 
 * Filter your activities using filters such as Strategies, Instrument and Date range.
 * View data in heatmaps.
