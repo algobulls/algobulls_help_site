@@ -56,7 +56,7 @@ Keep the following information available before you start:
 
 [ ![RudraShares](imgs/rudrashares/rudra_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_3.png)
 
-* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
 ### Another Way to Bind the Broker
 ---
@@ -93,7 +93,7 @@ Login to your AlgoBulls account. Provide data for the following fields and then 
 
 [ ![RudraShares](imgs/rudrashares/rudra_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_3.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![RudraShares](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 

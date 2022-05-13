@@ -68,7 +68,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_4.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_5.png)
 

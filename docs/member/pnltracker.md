@@ -17,9 +17,9 @@ The P&L Scan Frequency for Real Trading and Paper Trading is currently refreshed
 
 This feature is available and live for:
 
-`Test Mode` - Backtesting & Paper Trading 
+`Test Mode` - Backtesting & Paper Trading.
 
-`Live Mode` - Real Trading in Live Markets 
+`Live Mode` - Real Trading in Live Markets.
 
 AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite.
 

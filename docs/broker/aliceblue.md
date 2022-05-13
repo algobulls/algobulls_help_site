@@ -82,7 +82,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_credentials.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![AliceBlue](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 

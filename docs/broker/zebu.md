@@ -61,7 +61,7 @@ Keep the following information available before you start:
 
 [ ![Zebu](imgs/zebu/zebu_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_3_oauth.png)
 
-* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
 ### Another Way to Bind the Broker
 ---
@@ -92,7 +92,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Zebu](imgs/zebu/zebu_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_3_oauth.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![Zebu](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 

@@ -8,7 +8,7 @@ Add money to your AlgoBulls account or subscribe to a plan from here
 
 ## Models
 
-The AlgoBulls platform works on 2 models: Pay-per-use model & Subscription model 
+The AlgoBulls platform works on 2 models: Pay-per-use model & Subscription model .
 
 * `Pay-per-use Model`: You deposit funds into your AlgoBulls Wallet in this model. You are charged for various services that you use.This may include backtesting, paper trading, tweaking strategies and more. To keep track of the usage costs, always check your Fund Book in the Live reports section.
 
@@ -39,7 +39,7 @@ However for Real Trading, the subscription selected by you does not include this
 | View backtesting reports for a strategy from Marketplace | <font size=6>🆓</font>   |
 | Tweak (change parameters of) a strategy                  | <font size=6>🆓</font>   |
 
-Ensure you keep a track of the usage costs by checking the Fund Book. You can add money or subscribe to a plan from the Plans and Wallet section
+Ensure you keep a track of the usage costs by checking the Fund Book. You can add money or subscribe to a plan from the Plans and Wallet section.
 
 ## ADDING MONEY TO YOUR ALGOBULLS ACCOUNT
 

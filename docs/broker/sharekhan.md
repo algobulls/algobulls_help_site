@@ -53,14 +53,14 @@ Keep the following information available before you start:
 
 (3). Trading Password: The Trading Password given to you by the broker.
 
-* [ ![ShareKhan](imgs/sharekhan/sharekhan_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_credentials.png)
+[ ![ShareKhan](imgs/sharekhan/sharekhan_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_credentials.png)
 
-* If the login is successful, you will re-directed back to the AlgoBulls website
+* If the login is successful, you will re-directed back to the AlgoBulls website.
 
 ### Another Way to Bind the Broker
 ---
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button.
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -86,7 +86,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![ShareKhan](imgs/sharekhan/sharekhan_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_2.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![ShareKhan](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 

@@ -55,7 +55,7 @@ Keep the following information available before you start:
 
 [ ![5PAISA](imgs/fivepaisa/fivepaisa_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fivepaisa/fivepaisa_credentials.png)
 
-* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
 ### Another Way to Bind the Broker
 ---
@@ -86,7 +86,7 @@ Login to your AlgoBulls account. Provide data for the following fields and then 
 
 [ ![5PAISA](imgs/fivepaisa/fivepaisa_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fivepaisa/fivepaisa_credentials.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![5PAISA](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
