@@ -27,10 +27,10 @@ You can see the overall trading volume, profit and loss, and your AlgoBulls curr
 
 You can narrow down your search by selecting the following options: 
 
-* `Today`- Trades for the day 
-* `This week` - Trades for the week 
-* `This month` - Trades placed in the month 
-* `This year` - Trades placed this year 
+* `Today`- Trades for the day.
+* `This week` - Trades for the week.
+* `This month` - Trades placed in the month. 
+* `This year` - Trades placed this year.
 
 ![Dashboard](imgs/dashboard6.png)
 

@@ -54,8 +54,7 @@ We have our [risk management](pnltracker.md) tool from which you can control you
 
 ## 14. How can I build my own strategy?
 
-AlgoBulls provides build services where if you know coding then you can develop your own strategy by coding it. And if you are the one who does not know coding then we will code your strategy and develop it for you.
-for more [click here](https://algobulls.com/build/)
+AlgoBulls provides build services where if you know coding then you can develop your own strategy by coding it. And if you are the one who does not know coding then we will code your strategy and develop it for you [click here](https://algobulls.com/build/) for more.
 
 ## 15. How can we code strategy through developers API and how does it work?
 
