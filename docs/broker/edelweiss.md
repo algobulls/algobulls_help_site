@@ -65,7 +65,7 @@ Keep the following information available before you start:
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_4.png)
 
-* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
 ### Another Way to Bind the Broker
 ---

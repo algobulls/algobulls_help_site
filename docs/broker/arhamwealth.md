@@ -60,7 +60,7 @@ Keep the following information available before you start:
 
 [ ![ArhamWealth](imgs/arhamwealth/arham_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_3.png)
 
-* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
 ### Another Way to Bind the Broker
 ---

@@ -112,7 +112,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Angelbroking](imgs/angelbroking/angelbroking_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_2_oauth.png)
 
-* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
 ## Support
 ---
