@@ -1,18 +1,35 @@
 # P & L
 
+Track the Profit and Loss of your trades in the P&L Book.
+
+* All trades/orders in your account are updated real-time as and when the transactions take place. 
+* Filter your activities using filters such as Strategies, Instrument and Date range.
+* View data in heatmaps.
+
+## What is a P&L Book?
+---
+
 This page shows the Profit and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range.
 
-The P&L Book shows the 'Gross Profit & Loss,' which is your total profit and loss, the 'Trading Volume,' which is the maximum traded volume to date, and the 'Total Trades,' which is the total number of trades made to date.
+![PnLBook](imgs/pnl.png)
+
+## Summary Bar
+---
+
+The P&L Book shows the `Gross Profit & Loss`, which is your total profit and loss, the `Trading Volume`, which is the maximum traded volume to date, and the `Total Trades`, which is the total number of trades made to date.
 
 ![PnLBook](imgs/pnl1.png)
 
-Your P&L data is segregated in shades of green and red. Data can be viewed daily, weekly, monthly, and yearly. Dark green denotes highest profit and red denotes maximum loss
+## P&L Book Heat Maps
+---
+
+Your P&L data is segregated in shades of green and red. Data can be viewed daily, weekly, monthly, and yearly. Dark green denotes highest profit and red denotes maximum loss.
 
 ![PnLBook](imgs/pnl2.png)
 
 ## Filters
 ---
-Filters will allow you to selectively search for a specific entry or multiple entries
+Filters will allow you to selectively search for a specific entry or multiple entries.
 
 ![PnLBook](imgs/pnl3.png)
 
@@ -34,16 +51,16 @@ These entries are populated as per the instruments on the strategies that were e
 ---
 The table covers the following fields:
  
-* `Strategy` - Name of the Strategy
-* `Broker` - Broker Name
-* `Entry` - Quantity, Price, Date & Entry Time of Trade
-* `Exit` - Quantity, Price, Date & Exit Time of Trade
+* `Strategy` - Name of the Strategy.
+* `Broker` - Broker Name.
+* `Entry` - Quantity, Price, Date & Entry Time of Trade.
+* `Exit` - Quantity, Price, Date & Exit Time of Trade.
 * `P&L (% or INR)` - The P&L % or INR can be changed using the toggle option in the tools section in the top right corner. You can view the P&L in rupees or P&L percentage of the trade.
 
 
 [ ![PnLBook](imgs/pnl7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/pnl7.png)
 
-## Toolbar
+## The Toolbar
 ---
 ![Filters](imgs/toolbar1_pnl.png)
 
@@ -59,7 +76,7 @@ The table covers the following fields:
 
 ![Filters](imgs/toolbar4_pnl.png)
 
-`Settings` - Select the columns that you want to view in this settings option
+`Settings` - Select the columns that you want to view in this settings option.
 
 ![Filters](imgs/toolbar5_pnl.png)
 
@@ -67,4 +84,3 @@ The table covers the following fields:
 
 ![Filters](imgs/toolbar6_pnl.png)
 
----

@@ -36,13 +36,13 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`.
 
 [ ![Kotak](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
-* Select the `KOTAK SECURITIES` broker
+* Select the `KOTAK SECURITIES` broker.
 
 [ ![Kotak](imgs/kotak/kotak_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_login.png)
 
@@ -54,42 +54,31 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Kotak](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker
+* Now go to `Broking Details` and click add broker.
 
 [ ![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-* choose the broker 
+* Choose the broker.
 
-#change
 [ ![Acagarwal](imgs/kotak/kotak_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_selectbroker.png)
 
 * Now Provide data for the following fields:
 
-(1). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker.
 
-(2). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker.
 
-(3). Consumer Key: The consumer key given to you by the broker
+(3). Consumer Key: The consumer key given to you by the broker.
 
-(4). Access Token: The access token given to you by the broker
+(4). Access Token: The access token given to you by the broker.
 
-Get your Consumer Key and Access Token from [here](docs/access_token_process.pdf)
+Get your Consumer Key and Access Token from [here](docs/access_token_process.pdf).
 
 [ ![Kotak](imgs/kotak/kotak_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_credentials.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![Kotak](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![Kotak](imgs/kotak/kotak_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotak/kotak_4.png)
 
 ## Support
 ---

@@ -31,18 +31,18 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on 'Ac Agarwal' under `Login with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on 'Ac Agarwal' under `Login with your Broking Account`.
 
 
-* If you do not see your broker name, then click on `+ x more` where x is the number of brokers
+* If you do not see your broker name, then click on `+ x more` where x is the number of brokers.
 
 [ ![Acagarwal](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type `Ac Agarwal` in the Search Box. and then click on the Broker Link that is shown in the search results
+* Type `Ac Agarwal` in the Search Box. and then click on the Broker Link that is shown in the search results.
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login.png)
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button.
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -50,37 +50,27 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_3.png)
 
-* Now go to `Broking Details` and click add broker
+* Now go to `Broking Details` and click add broker.
 
 [ ![Acagarwal](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-* choose the broker 
+* Choose the broker.
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_selectbroker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_selectbroker.png)
 
 * Now Provide data for the following fields:
 
-(1). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker.
 
-(2). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker.
 
-(3). 2FA Answers: The 2-factor authentication answer you have given (your DOB in ddmmyyyy format)
+(3). 2FA Answers: The 2-factor authentication answer you have given (your DOB in ddmmyyyy format).
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_4.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_5.png)
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![Acagarwal](imgs/acagarwal/acagarwal_login_6.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_6.png)
 
 ## Support
 ---

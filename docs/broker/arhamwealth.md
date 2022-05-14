@@ -6,6 +6,10 @@
 
 * Markets Supported: India
 
+## Important Point(s) to Note
+---
+* It is required to login **once** daily (at the start of the trading day).
+
 ## Login and Setup your Arham Wealth Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
@@ -30,23 +34,60 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`.
 
 [ ![ArhamWealth](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
-* Select the `ARHAMWEALTH OAuth` broker
+* Select the `ARHAMWEALTH OAuth` broker.
 
 [ ![ArhamWealth](imgs/arhamwealth/arhamwealth_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arhamwealth_login.png)
 
 * You will be re-directed to the Verification Page. Provide data for the following fields:
 
-(1). User ID: The ID given to you by your broker
+(1). User ID: The ID given to you by your broker.
 
-(2). Password: The password given to you by the broker
+(2). Password: The password given to you by the broker.
 
-(3). Click the `Sign In` button
+(3). Click the `Sign In` button.
+
+[ ![ArhamWealth](imgs/arhamwealth/arham_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_2.png)
+
+(4). PIN: The PIN given to you by the broker.
+
+(5). Click the `Submit` button.
+
+[ ![ArhamWealth](imgs/arhamwealth/arham_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_3.png)
+
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website.
+
+### Another Way to Bind the Broker
+---
+
+Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+
+* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
+
+* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
+
+[ ![ArhamWealth](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+
+* Now go to `Broking Details` and click add broker.
+
+[ ![ArhamWealth](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+
+* Choose the broker .
+
+[ ![ArhamWealth](imgs/arhamwealth/arham_wealth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_wealth.png)
+
+* You will be re-directed to the Verification Page. Provide data for the following fields:
+
+(1). User ID: The ID given to you by your broker.
+
+(2). Password: The password given to you by the broker.
+
+(3). Click the `Sign In` button.
 
 [ ![ArhamWealth](imgs/arhamwealth/arham_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_2.png)
 
@@ -56,15 +97,9 @@ Keep the following information available before you start:
 
 [ ![ArhamWealth](imgs/arhamwealth/arham_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/arhamwealth/arham_3.png)
 
-* If the sign-in is successful, you will re-directed back to the AlgoBulls website
+* If the verification is successful, you will see the following message:
 
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
+[ ![ArhamWealth](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
 ## Support
 ---

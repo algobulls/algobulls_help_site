@@ -12,7 +12,7 @@ The table covers the following fields:
 
 * `Last Activity At` - Shows last time the strategy was run.
 * `Code` - Code of the Strategy.
-* `Strategy` - Name of the Strategy
+* `Strategy` - Name of the Strategy.
 * `Tag` - User defined tag for the strategy. User can tag different strategies under different tags from Tweak.
 * `Source` - Type of the Strategy viz. Build, Tweak or Develop.
 * `Instrument(s)` - Instrument on which the strategy is being run.

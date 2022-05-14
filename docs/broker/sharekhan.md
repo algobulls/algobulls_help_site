@@ -7,6 +7,10 @@
 
 * Markets Supported: India
 
+## Important Point(s) to Note
+---
+* It is required to login **once** daily (at the start of the trading day).
+
 ## Login and Set up your ShareKhan Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
@@ -31,17 +35,32 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`.
 
 [ ![ShareKhan](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type the first few characters of your Broker Name
+* Type the first few characters of your Broker Name.
 
-* Select the `SHAREKHAN` broker
+* Select the `SHAREKHAN` broker.
 
 [ ![ShareKhan](imgs/sharekhan/sharekhan_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_login.png)
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+* You will be re-directed to the Verification Page. Provide data for the following fields:
+
+(1). Login ID: The ID given to you by your broker.
+
+(2). Membership Password: The Membership Password given to you by the broker.
+
+(3). Trading Password: The Trading Password given to you by the broker.
+
+[ ![ShareKhan](imgs/sharekhan/sharekhan_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_credentials.png)
+
+* If the login is successful, you will re-directed back to the AlgoBulls website.
+
+### Another Way to Bind the Broker
+---
+
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button.
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -49,33 +68,27 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![ShareKhan](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker
+* Now go to `Broking Details` and click add broker.
 
-[ ![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+[ ![ShareKhan](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+
+* Choose the broker .
+
+[ ![ShareKhan](imgs/sharekhan/sharekhan.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan.png)
 
 * Now Provide data for the following fields:
 
-(1). Login ID: The ID given to you by your broker
+(1). Login ID: The ID given to you by your broker.
 
-(2). Membership Password: The Membership Password given to you by the broker
+(2). Membership Password: The Membership Password given to you by the broker.
 
-(3). Trading Password: The Trading Password given to you by the broker 
+(3). Trading Password: The Trading Password given to you by the broker .
 
 [ ![ShareKhan](imgs/sharekhan/sharekhan_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_2.png)
 
-* If the verification is successful, you will see the following message
+* If the verification is successful, you will see the following message:
 
 [ ![ShareKhan](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
-
-## Bind your Broking Account
----
-The following steps will help you to make sure you have binded your broker account
-
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
-
-* Bind your account using the Toggle button marked below
-
-[ ![ShareKhan](imgs/sharekhan/sharekhan_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_3.png)
 
 ## Support
 ---

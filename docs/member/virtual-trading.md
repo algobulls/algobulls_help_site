@@ -1,22 +1,43 @@
 # Virtual Trading
 
-Virtual Trading is for Back tesing and paper trading
+The Test or Virtual trading mode is a virtual simulation of the real markets.Switch the toggle button on the bottom left side of the website to Test Mode. 
 
-Backtesting is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try Paper trading. 
+* Test any strategy in live markets without risking any money through Paper Trading. 
+* Modify strategies using the Tweak option.
+* Test past performance data for any strategy through Backtesting. 
+* Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now! 
 
-## Steps to backtest or paper trade a strategy on AlgoBulls
+## Introduction
+---
+![Portfolio](imgs/portfolio1.png)
 
-You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to Test Mode by using the toggle button on the bottom left side of the sidebar navigation.
+## What is Virtual Trading? ( Backtesting & Paper Trading)
+---
 
-![PTB](imgs/ptb1.png)
+The Virtual or Test Mode on AlgoBulls is a virtual simulation of real markets. 
 
-![PTB](imgs/ptb2.png)
+In the Virtual Mode you can Backtest, Paper Trade and modify strategies using the Tweak option
 
-Also ensure that you’ve added a strategy from the [ChooseStrategy](choose-strategy.md) marketplace. 
+`Backtesting` is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try `Paper trading`. 
+
+Ensure the toggle button on the bottom left side of the website is switched to Test Mode. 
+
+![test_and_live](imgs/test_and_live2.png)
+
+![test_and_live](imgs/test_and_live4.png)
+
+## How to begin Virtual Trading?
+---
+
+You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to `Virtual/Test Mode` by using the toggle button on the bottom left side of the sidebar navigation.
 
 ![PTB](imgs/ptb3.png)
 
-`Step 1`: In the [MyPortfolio](live-trading.md) section click on the 'Start' button in the Action column. 
+Also ensure that you’ve added a strategy from the [ChooseStrategy](choose-strategy.md) marketplace.
+
+### Step 1
+
+In the [MyPortfolio](live-trading.md) section click on the 'Start' button in the Action column. 
 
 ![PTB](imgs/ptb4.png)
 
@@ -24,7 +45,8 @@ A pop-up window will appear. The AlgoBulls virtual Broker is the default broker 
 
 ![PTB](imgs/ptb5.png)
 
-`Step 2`: In the Customizations' section choose Back Data for backtesting OR Live Data for paper trading. 
+### Step 2
+In the Customizations section choose Back Data for backtesting OR Live Data for paper trading. 
 
 ![PTB](imgs/ptb6.png)
 
@@ -34,18 +56,22 @@ Select the duration option in the customizations section. Add the desired date a
 
 In paper trading you only need to add the start and end time. 
 
-`Step 3`: Once you scroll below you will see the P&L tracker. Switch the P&L tracker ‘ON’ and enter your desired profit and risk appetite. 
+### Step 3
+
+Once you scroll below you will see the P&L tracker. Switch the P&L tracker ‘ON’ and enter your desired profit and risk appetite. 
 
 ![PTB](imgs/ptb8.png)
 
-`Step 4`: Ensure you read the terms and conditions and then check the ‘I agree to the Terms and conditions’ box. Save & Start the strategy.
+### Step 4
+
+Ensure you read the terms and conditions and then check the ‘I agree to the Terms and conditions’ box. Save & Start the strategy.
 
 ![PTB](imgs/ptb9.png)
 
 Please note that in both Backtesting and Paper Trading you will be charged if you don’t have an active AlgoBulls package. To avoid these charges you can buy the AlgoBulls package. 
 
 
-You will be able to track the Backtesting or Paper Trading status in the Progress section 
+You will be able to track the Backtesting or Paper Trading status in the Progress section.
 
 ![PTB](imgs/ptb10.png)
 
@@ -53,34 +79,114 @@ You can check the status details in the View Details feature in the Progress sec
 
 ![PTB](imgs/ptb11.png)
 
-Once this process is complete, you will be able to view the strategies Past Performance (Backtesting) or Live Market Performance (Paper trading)
+Once this process is complete, you will be able to view the strategies Past Performance (Backtesting) or Live Market Performance (Paper trading).
 
-## Steps to apply backtested or paper traded strategies to Real Trading/Live Trading
+## How to Tweak a Strategy on AlgoBulls?
+---
 
-If you are happy with the strategy after the backtesting or paper trading results you can begin real money trading by simply switching to Live Mode. You can begin real trading in 3 simple steps:  
+If you'd like to tweak the strategies for Backtesting or Paper Trading , AlgoBulls also has a Tweak option. 
 
-`Step 1`: The backtested/Paper traded will be added to your My strategies section where you can simply switch them to Live Trading from the toggle button. The strategy will be added to your portfolio in Live Mode
+Before you tweak a strategy, switch to the Test Mode on AlgBulls.
 
-![PTB](imgs/ptb12.png)
+[ ![Tweak](imgs/tweak1.png "Click to Enlarge") ](imgs/tweak1.png)
 
-`Step 2`: Switch to Live Mode & go to the [My Portfolio](live-trading.md) section in the sidebar menu. To start the chosen strategy click the start button from the Action field.
+To tweak a strategy, click the tweak button on the strategy. 
 
-![PTB](imgs/ptb13.png)
+[ ![Tweak](imgs/tweak2.png "Click to Enlarge") ](imgs/tweak2.png)
 
-Select a broker, add the start and end time and Quantity/Lots. 
+You can change the parameters as per your choice.
 
-![PTB](imgs/ptb14.png)
+[ ![Tweak](imgs/tweak3.png "Click to Enlarge") ](imgs/tweak3.png)
 
-`Step 3`: Use the toggle button to activate the P&L tracker. Add the profit desired and Risk appetite here. Click on save & start.  
+These parameters include `Instrument, Strategy Settings and Order Settings`.
 
-![PTB](imgs/ptb15.png)
+In the instrument parameter, you can select the exchange or search the instrument in the search bar.
 
-Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead. 
+[ ![Tweak](imgs/tweak4.png "Click to Enlarge") ](imgs/tweak4.png)
 
-You can view the strategy status in the progress section. Once the strategy has begun the status will change to started and will change to stopped once the strategy has stopped in the Progress section. 
+In strategy settings, you can select the candle duration, strategy mode, Target%, Stop Loss % and Trailing stop loss. 
 
-![PTB](imgs/ptb16.png)
+[ ![Tweak](imgs/tweak5.png "Click to Enlarge") ](imgs/tweak5.png)
 
-The strategy may stop due to various reasons such as market closure, P&L achieved, or if there are any errors. To check errors, in the ‘Progress’ field click on ‘view details’ option and then click  ‘detailed logs’ on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
+In Order settings you can tweak Resume, Exit & Misc/miscellaneous parameters. 
 
-![PTB](imgs/ptb17.png)
+You can also add the Instrument max order count,Crossover accuracy decimals & credit exposure factor.
+
+[ ![Tweak](imgs/tweak6.png "Click to Enlarge") ](imgs/tweak6.png)
+
+Once you are convinced and happy with the tweak, click Save As New Entry. You will get a confirmation pop-up, click `yes` if you wish to continue. 
+
+[ ![Tweak](imgs/tweak7.png "Click to Enlarge") ](imgs/tweak7.png)
+
+A new entry will appear with the changes. You can see this entry in the `My Strategies` section.
+
+## Summary Bar
+---
+
+The `summary bar` in the portfolio section includes the following: 
+
+`Choose Strategy` - Number of strategies from the Marketplace in your portfolio added by you.
+
+`Tweak Strategy` -  Number of strategies that have been tweaked by you.
+
+`Build Strategy` - Number of custom strategies that have been built by the AlgoBulls developer team for you. 
+
+`Total Running Strategies` - The number of strategies that are currently active on your portfolio, especially from the ones mentioned above (During the market hours).
+
+`Today’s P&L` - The total P&L value.
+
+![Portfolio](imgs/portfolio2.png)
+
+## Fields
+---
+
+My Portfolio includes the following fields: 
+
+* `Strategy` - This field displays the strategy name and code.
+* `Instrument(s)` - This includes the instrument on which the strategy is being run. 
+* `Tag` - This is a user defined tag for the strategy. Users can tag different strategies under different tags.
+* `Volume` - This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook.
+
+![Portfolio](imgs/portfolio3.png)
+
+![Portfolio](imgs/portfolio4.png)
+
+* `Tweak` - You can Tweak parameters and other configuration settings here. 
+The strategy configuration field includes Instrument and Strategy Settings such as general settings, strategy parameters, resume, exit and misc options. 
+
+![Portfolio](imgs/portfolio5.png)
+
+* `Progress` - This includes the strategy progress status. You can view if the strategy is about to begin, has begun or has stopped here. You can also click on the view details section to get a real time progress update. 
+
+![Portfolio](imgs/portfolio6.png)
+
+* `Logs` - The log feature allows you to view the complete details of an order placed. In the ‘Progress’ field click on the ‘view details’ option and then click  ‘detailed logs’ on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
+
+![Portfolio](imgs/portfolio6.1.png)
+
+* `Action` - The action field allows you to start or stop a strategy. To execute a strategy click start. When you click on the start you will be able to choose multiple brokers and run the strategies simultaneously too.
+
+![Portfolio](imgs/portfolio7.png)
+
+## Toolbar
+---
+The Dashboard toolbar includes the refresh, density, settings and full screen tools. 
+
+![Filters](imgs/toolbar1.png)
+
+`Refresh` - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
+
+![Filters](imgs/toolbar3.png)
+
+`Density` - View data comfortably by choosing the density. The options include Larger, Middle and Compact. 
+
+![Filters](imgs/toolbar4.png)
+
+`Settings` - Select the columns that you want to view in this settings option.
+
+![Filters](imgs/toolbar5_portfolio.png)
+
+`Full Screen` - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
+
+![Filters](imgs/toolbar6.png)
+

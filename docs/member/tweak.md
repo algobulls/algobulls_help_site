@@ -2,7 +2,7 @@
 
 If you'd like to tweak the strategies for Backtesting or Paper Trading , AlgoBulls also has a Tweak option. 
 
-Before you tweak a strategy switch to the Test Mode on AlgBulls 
+Before you tweak a strategy switch to the Test Mode on AlgBulls .
 
 [ ![Tweak](imgs/tweak1.png "Click to Enlarge") ](imgs/tweak1.png)
 
@@ -10,13 +10,13 @@ To tweak a strategy, click the tweak button on the strategy.
 
 [ ![Tweak](imgs/tweak2.png "Click to Enlarge") ](imgs/tweak2.png)
 
-You can change the parameters as per your choice
+You can change the parameters as per your choice.
 
 [ ![Tweak](imgs/tweak3.png "Click to Enlarge") ](imgs/tweak3.png)
 
-These parameters include ‘Instrument, 'strategy settings’ and ‘order settings’ 
+These parameters include ‘Instrument, 'strategy settings’ and ‘order settings’.
 
-In the instrument parameter, you can select the exchange or search the instrument in the search bar 
+In the instrument parameter, you can select the exchange or search the instrument in the search bar. 
 
 [ ![Tweak](imgs/tweak4.png "Click to Enlarge") ](imgs/tweak4.png)
 

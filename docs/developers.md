@@ -23,7 +23,7 @@ You can use the Developer Options offered by the AlgoBulls Platform to **create*
 
 <font size=4>✅</font> - Create your strategy using the [pyalgotrading](https://github.com/algobulls/pyalgotrading/) package or choose a readymade strategy from the [pyalgostrategypool](https://github.com/algobulls/pyalgostrategypool) package.
 
-<font size=4>✅</font> - Pick up the API Token from Developer Options Menu on the [General Settings](https://app.algobulls.com/account/settings) page of your account. [Learn More](member/settings.md)
+<font size=4>✅</font> - Pick up the API Token from Developer Options Menu on the [General Settings](https://app.algobulls.com/settings) page of your account. [Learn More](member/settings.md)
 
 <font size=4>✅</font> - [Upload](https://algobulls.github.io/pyalgotrading/upload/) your strategy into your account.
 
@@ -39,11 +39,11 @@ Now you can perform Backtesting and Paper Trading for your strategy using Python
 
 <font size=4>✅</font> - All points from the `Checklist for Backtesting and Paper Trading` mentioned above **and**
 
-<font size=4>✅</font> - Add and Bind a broker on the [Broker Settings](https://app.algobulls.com/account/broking) page of your account. [Learn More](/member/Settings/broking-settings)
+<font size=4>✅</font> - Add and Bind a broker on the [Broker Settings](https://app.algobulls.com/broking) page of your account. [Learn More](member/broking-details.md)
 
-<font size=4>✅</font> - Add the Aadhar and PAN details of the person to whom the broker account belongs to, on the [General Settings](https://app.algobulls.com/account/settings) page of your account.
+<font size=4>✅</font> - Add the Aadhar and PAN details of the person to whom the broker account belongs to, on the [General Settings](https://app.algobulls.com/settings) page of your account.
 
-<font size=4>✅</font> - Set up the Risk Management values, `Max Drawdown Limit` and `Desired Profit` on the [General Settings](https://app.algobulls.com/account/settings) page of your account. [Learn More](/member/Settings/general-settings/#risk-management)
+<font size=4>✅</font> - Set up the Risk Management values, `Max Drawdown Limit` and `Desired Profit` on the [General Settings](https://app.algobulls.com/settings) page of your account. [Learn More](member/settings.md)
 
 !!! Note
     * AlgoBulls reserves the right to suspend or deactivate your account without notice if your Aadhar and PAN details are not valid.

@@ -20,9 +20,7 @@ Visit [the site](https://www.algobulls.com/) and sign-up to the AlgoBulls platfo
 Click [here](member/wallet.md) to know more about your Wallet. All pricing, packages and adding funds into your AlgoBulls account are covered here.
 
 ## 3) General Settings
-After signing up to the platform, visit [here](member/settings.md) to know more about updating your KYC details.
-
-Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental regulations for trading online.
+After signing up to the platform, visit [here](member/settings.md) to know more.
 
 !!! Note
     * You can skip this step if you are looking to do Backtesting and Paper Trading (**but not Real Trading**)
@@ -31,7 +29,7 @@ Your KYC details like Aadhar ID, PAN, etc. are required as per the governmental 
 
 Before you begin algorithmic trading with AlgoBulls, you must have a valid functional broking account. Multiple brokers are supported by the AlgoBulls platform. 
 
-You can select your broker from the Add Broker button in the [Broking Details](https://app.algobulls.com/broking) section
+You can select your broker from the Add Broker button in the [Broking Details](https://app.algobulls.com/broking) section.
 
 ![Logo](imgs/select_broker.png)
 
@@ -49,9 +47,9 @@ If you're unable to trade, consider the factors listed below. If you believe the
     
     * Your broker account may not have sufficient funds
     
-    * Currency Segment in your broker account is not yet activated. (This happens with new accounts, and though some brokers activate this by default, others may take takes 24 hours or more to do so)
+    * Any specific segment in your broker account is not yet activated. (This happens with new accounts, and though some brokers activate this by default, others may take 24 hours or more to do so)
     
-    * Due to market volatility, your broker may have stopped taking bracket order requests. (Any bracket order strategies currently running in your platform account will stop showing any new orders)
+    * Due to market volatility, your broker may have stopped taking certain order requests on some of the scripts or stock.(If any such order type with such script/stock strategies currently running in your platform account will stop showing any new orders)
     
     * Certain order types don't work with certain brokers. So your binded broker account should allow those particular order to be fired
     
