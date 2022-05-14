@@ -6,9 +6,22 @@ Track the Profit and Loss of your trades in the P&L Book.
 * Filter your activities using filters such as Strategies, Instrument and Date range.
 * View data in heatmaps.
 
+## What is a P&L Book?
+---
+
+This page shows the Profit and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range.
+
+![PnLBook](imgs/pnl.png)
+
+## Summary Bar
+---
+
 The P&L Book shows the `Gross Profit & Loss`, which is your total profit and loss, the `Trading Volume`, which is the maximum traded volume to date, and the `Total Trades`, which is the total number of trades made to date.
 
 ![PnLBook](imgs/pnl1.png)
+
+## P&L Book Heat Maps
+---
 
 Your P&L data is segregated in shades of green and red. Data can be viewed daily, weekly, monthly, and yearly. Dark green denotes highest profit and red denotes maximum loss.
 
@@ -47,7 +60,7 @@ The table covers the following fields:
 
 [ ![PnLBook](imgs/pnl7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/pnl7.png)
 
-## Toolbar
+## The Toolbar
 ---
 ![Filters](imgs/toolbar1_pnl.png)
 
@@ -71,4 +84,3 @@ The table covers the following fields:
 
 ![Filters](imgs/toolbar6_pnl.png)
 
----
