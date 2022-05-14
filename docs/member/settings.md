@@ -1,5 +1,7 @@
 # Settings
 
+## Introduction
+
 Add or edit your basic profile, set your trading risk, grant access to your trading manager, and explore your developer options.
 
 ![Settings](imgs/settings1.png)

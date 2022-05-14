@@ -6,6 +6,16 @@ The Fund Book displays all the charges that have been applied to your account. Y
 * Check plans that are currently active. 
 * View total AlgoBulls money that has been used & your current wallet balance. 
 
+## What is a Fund Book?
+---
+
+The Fund Book section shows all of the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. You can select your transactions by category and/or examine your transactions within a date range to gain a better understanding.
+
+![Fundbook](imgs/fb.png)
+
+## Summary Bar
+---
+
 The Fund Book displays the `Number of Transactions` made, `Total AlgoBulls Money` that has been used, `plans` that are currently active and your `current wallet balance`. 
 
 ![Fundbook](imgs/fb1.png)
@@ -16,11 +26,15 @@ The Filter option allows you to narrow down your search further. The following f
 
 ![Filters](imgs/fb2.png)
 
-`Category` - From the category search filter you can choose from upto 8 categories such as the AlgoBulls Money, Credit from Parent, Transactional Charges, Tweak Charges, Backtesting Charges, Build Real Trading Charges and Strategy Build Charges. 
+### Category
+
+From the category search filter you can choose from upto 8 categories such as the AlgoBulls Money, Credit from Parent, Transactional Charges, Tweak Charges, Backtesting Charges, Build Real Trading Charges and Strategy Build Charges. 
 
 ![Filters](imgs/fb3.png)
 
-`Date Range (Start to End Date)` - Here you can select a date range to view the table for the selected category (if any).
+### Date Range (Start to End Date)
+
+Here you can select a date range to view the table for the selected category (if any).
 
 ![Filters](imgs/fb4.png)
 

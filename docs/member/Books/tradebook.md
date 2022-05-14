@@ -6,15 +6,30 @@ All strategies executed in your account are updated real-time as and when the tr
 * Segregate trades as per day/week/month/year.
 * View data in heatmaps.
 
+## What is a Trade Book?
+---
+
+This section displays chosen strategy activities in your account. All strategies executed in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range.
+
+![Tradebook](imgs/tradebook.png)
+
+## Summary Bar
+---
+
 TheTrade Book shows the `Trading Volume` , which is the maximum traded volume to date, and the `Total Trades`, which is the total number of trades made to date.
 
 ![Tradebook](imgs/tradebook1.png)
+
+## Trade Book Heatmaps
+---
 
 Your trades are segregated in shades of blue and white. Data can be viewed in colour on a daily, weekly, monthly, and yearly basis. Dark blue denotes the highest number of trades and white denotes no trades made on that particular day/week/month/year.
 
 ![Tradebook](imgs/tradebook2.png)
 
 ## Filters
+---
+
 Filters will allow you to selectively search for a specific entry or multiple entries.
 
 ![Tradebook](imgs/tradebook3.png)
@@ -44,7 +59,7 @@ The table covers the following fields:
 
 [![TradebookInstruments](imgs/tradebook7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/tradebook7.png)
 
-## Toolbar
+## The Toolbar
 ---
 
 ![Filters](imgs/toolbar1.png)
