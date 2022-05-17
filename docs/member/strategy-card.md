@@ -1,40 +1,63 @@
 # Strategy Card
 
-## Introduction
----
+## Table of contents: 
+1. Introduction 
+2. Summary Bar 
+3. Fields 
+4. Records 
+Sub- section:  
+   1. Trade Summary 
+   2. Heat map 
+   3. Backtested Data 
+5. Analytics
 
-A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your [My Portfolio](live-trading.md) page. 
+    Sub-section:
+   1. Stats 
+   2. P&L(INR) 
+   3. P&L% 
+   4. ROI (INR) 
+   5. ROI% 
+   6. Equity Curve (INR) 
+   7. Drawdown% 
+6. Graph toolbar 
+7. Net ROI Analysis 
+8. Strategy Details 
+9. Returns 
+10. Toolbar 
+
+## Introduction:
+
+A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your <a href="https://help.algobulls.com/member/my-portfolio.html">My Portfolio</a> page. 
 
 ![StrategyCard](imgs/sc1.png)
 
 ## Summary Bar
----
 
-You can check the `Minimum Capital required in Demat, Transaction Fee with Package, Transaction Fee without the package, recommended duration, Risk Appetite per day, Desired Profit per day`  and `strategy code`. 
+You can check the **minimum capital required in demat, transaction fee with pack and without the package, recommended duration** and **strategy code**.  
 
 ![StrategyCard](imgs/sc2.png)
 
 ## Fields
----
 
 You can also check the Strategy, Instrument, Capital Required, Hit Ratio, Risk, ROI and Growth here. You can use the Action column to execute a strategy. 
 
 ![StrategyCard](imgs/sc3.png)
 
-By selecting the All time, 1 month, 14 days, or 3 days tab, you may view the strategies' past performance or back-tested data based on duration.
+**By selecting the All time, 1 month, 14 days, or 3 days tab, you may view the strategies' past performance or back-tested data based on duration.**
 
 ![StrategyCard](imgs/sc4.png)
 
-The strategy card is divided into 3 sections - `Records, Analytics & Returns`.
+The strategy card is divided into 3 sections - **Records, Analytics & Returns**.
 
 ![StrategyCard](imgs/sc_3types.png)
 
 ## Records
----
 
 ### Trade Summary
 
 The records section includes the Gross Profit/Loss, Trading Volume & Total Trades. 
+
+![StrategyCard](imgs/gross_profit_loss.png)
 
 ### Heat Map
 
