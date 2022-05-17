@@ -66,7 +66,6 @@ A heatmap of your tradebook is also displayed here.
 ![StrategyCard](imgs/sc_records.png)
 
 ## Analytics
----
 
 This section includes a detailed analysis of the strategy.
 
