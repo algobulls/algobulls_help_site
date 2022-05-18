@@ -1,56 +1,53 @@
 # Broking Details
 
-Add your broker details and bind your broking account to begin algo trading with AlgoBulls
+## Table of contents: 
+### 1. Introduction 
+### 2. How to add your broking account? 
+### 3. How to edit or remove a broker from your AlgoBulls account?
 
-* Add and Bind new broker.
-* Choose from multiple brokers. 
-* 100% safe & secure.
+## Introduction
+To begin algo trading with AlgoBulls, it is necessary to add your broker details and bind your broking account. 
 
-From the AlgoBulls sidebar navigation select Broking Details in Live Mode. 
+## How to add your broking account? 
 
-![Broking](imgs/broker1.png)
+To add a broker account follow these steps: 
+From the AlgoBulls sidebar navigation select `Broking Details` in `Live Mode`
 
-Click the Add Broker button. 
+![Broking](imgs/broker_details.png)
 
-![Broking](imgs/broker2.png)
+Click the <a href="https://app.algobulls.com/broking?addBroker=true">Add Broker</a> button. 
 
-From the Add New Broker list select your broker.
+![Broking](imgs/add_broker.png)
 
-![Broking](imgs/broker3.png)
+From the `Add New Broker` list select your broker
 
-Add the User ID, Password and Date of Birth. Click on Confirm. 
+![Broking](imgs/select_broker.png)
+
+Add your broking account credentials. Click on `Confirm`.
 
 ![Broking](imgs/broker4.png)
 
-Once confirmed the broker will be added to your account. 
 
-![Broking](imgs/broker5.png)
+Once confirmed the broker will be added to your account.
 
-The Broker will now be added to your Broking Details page. If you have multiple broker accounts you can choose which one you would like to add as a Primary account by switching the toggle button in the primary column. 
+![Broking](imgs/broker_added.png)
 
-![Broking](imgs/broker6.png)
+The Broker will now be added to your `Broking Details` page. If you have multiple broker accounts you can choose which one you would like to add as a Primary account by switching the toggle button in the `primary column`.
 
-If you wish to edit details click on Login/Edit option.
+![Broking](imgs/primary_broker.png)
 
-![Broking](imgs/broker7.png)
+### How to edit or remove a broker from your AlgoBulls account?
 
-Edit the Broker Details and click on Update. 
+If you wish to edit details click on Login/Edit option
 
-![Broking](imgs/broker8.png)
+![Broking](imgs/login_edit_broker_details.png)
 
-You will get a confirmation once the details have been updated successfully. 
+Edit the `Broker Details` and click on `Update`. If you wish to remove the broker, click on the cross sign on the top right side.
 
-![Broking](imgs/broker9.png)
+![Broking](imgs/update_broker_details.png)
 
-You can also check the help site to view your broker requirements. To view your broker information now [click here](../member/faq.md). 
+You will get a confirmation once the details have been updated successfully.
 
-!!! note
-     
-    Any one broker at a given time can be binded. Binding a broker will automatically remove the bind of any other broker, if the current binded broker is not being used by the platform.
-    
-    If no broker is present, all trading will be stopped.
-    
-    If no broker is binded, all trading will be stopped.
-    
-    If a broker is binded but the platform trading limit has matched the funds in your broker account, all trading will be stopped.
+![Broking](imgs/update_broker_details_success.png)
 
+If you haven't added your broker yet, <a href="https://app.algobulls.com/broking?addBroker=true">add now</a>.
