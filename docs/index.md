@@ -8,13 +8,13 @@ Welcome to AlgoBulls! An algo trading platform that is completely automated. Alg
 Before you start Algo Trading with AlgoBulls, here's a quick website tour to enable you to navigate the website easily.
 
 
-## Registering with AlgoBulls:
+## Sign Up with AlgoBulls:
 
-1. `Sign up with Google -` You can now register with AlgoBulls within a minute with the Login with google option
+1. `Sign Up with Google -` You can now register with AlgoBulls within a minute with the Login with google option
 
 ![HomePage](member/imgs/goggle_login.png)
 
-2. Sign up in 3 simple steps:
+2. `Sign Up in 3 simple steps:`
 
    `Step 1: Profile` - Add your Name, Email & Phone Number. Click on `Get Otp`
 
@@ -27,7 +27,8 @@ Before you start Algo Trading with AlgoBulls, here's a quick website tour to ena
    `Step 3: Status -` You can view the status of your registration here.
 
    Haven't registered with AlgoBulls yet? <a href="https://app.algobulls.com/user/register">Register now!</a>
-   `Log in with AlgoBulls`
+ 
+## Log in with AlgoBulls
 
    If you are already have an AlgoBulls account, simply log in using the following options:  
 
@@ -79,7 +80,7 @@ For more information on adding, removing and editing the broker details, <a href
 To visit the broker details page, <a href="https://app.algobulls.com/broking">click here</a>. 
 
 
-* `Add money in the AlgoBulls account in 3 simple steps:`
+## Add money in the AlgoBulls account in 3 simple steps:
 
 After adding your broker with AlgoBulls, you can then <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">add money in the AlgoBulls account</a> and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation 
 
