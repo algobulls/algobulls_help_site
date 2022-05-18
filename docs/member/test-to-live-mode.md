@@ -20,26 +20,27 @@ Follow the below step to switch modes:
 ### Switch to Test Mode for Virtual Trading
 ---
 
-Ensure the toggle button on the bottom left side of the website is switched to `Test Mode`. 
-
-![test_and_live](imgs/test_and_live2.png)
-
-A pop-up appears, click `Yes` if you would like to confirm the changes. 
+Ensure the toggle button on the bottom left side of the website is switched to `Test Mode`.
 
 ![test_and_live](imgs/test_and_live4.png)
+
+A pop-up appears, click `Yes` if you would like to confirm the changes.
+
+![test_and_live](imgs/test_and_live2.png)
 
 In the test mode, you can backtest or paper trade in 4 simple steps. To understand how to begin Virtual Trading, [click here](virtual-trading.md). 
 
 ### Switch to Live Mode for Real Trading
+
 ---
 
-Switch the toggle button on the bottom left side of the website to `Live Mode`. 
-
-![test_and_live](imgs/test_and_live3.png)
-
-A pop-up appears, click `Yes` if you would like to confirm the changes. 
+Switch the toggle button on the bottom left side of the website to `Live Mode`.
 
 ![test_and_live](imgs/test_and_live5.png)
+
+A pop-up appears, click `Yes` if you would like to confirm the changes.
+
+![test_and_live](imgs/test_and_live3.png)
 
 To avoid additional charges for services used in Real Trading, ensure you subscribe to a plan from the [Plans & Wallet](https://app.algobulls.com/wallet?defaultCategory=smartPlans) section.
 

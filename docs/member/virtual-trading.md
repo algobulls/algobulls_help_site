@@ -1,5 +1,7 @@
 # Virtual Trading
 
+## Introduction
+
 The Test or Virtual trading mode is a virtual simulation of the real markets.Switch the toggle button on the bottom left side of the website to Test Mode. 
 
 * Test any strategy in live markets without risking any money through Paper Trading. 
@@ -7,33 +9,22 @@ The Test or Virtual trading mode is a virtual simulation of the real markets.Swi
 * Test past performance data for any strategy through Backtesting. 
 * Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now! 
 
-## Introduction
----
-![Portfolio](imgs/portfolio1.png)
 
-## What is Virtual Trading? ( Backtesting & Paper Trading)
----
-
-The Virtual or Test Mode on AlgoBulls is a virtual simulation of real markets. 
-
-In the Virtual Mode you can Backtest, Paper Trade and modify strategies using the Tweak option
-
-`Backtesting` is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try `Paper trading`. 
-
-Ensure the toggle button on the bottom left side of the website is switched to Test Mode. 
-
-![test_and_live](imgs/test_and_live2.png)
+Ensure the toggle button on the bottom left side of the website is switched to Test Mode.
 
 ![test_and_live](imgs/test_and_live4.png)
 
+![test_and_live](imgs/test_and_live2.png)
+
 ## How to begin Virtual Trading?
+
 ---
 
 You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to `Virtual/Test Mode` by using the toggle button on the bottom left side of the sidebar navigation.
 
 ![PTB](imgs/ptb3.png)
 
-Also ensure that you’ve added a strategy from the [ChooseStrategy](choose-strategy.md) marketplace.
+Also ensure that you’ve added a strategy from the [Choose Strategy](choose-strategy.md) marketplace by clicking on `execute` button.
 
 ### Step 1
 

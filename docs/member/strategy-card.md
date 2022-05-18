@@ -28,19 +28,19 @@ The strategy card is divided into 3 sections - `Records, Analytics & Returns`.
 
 ## Records
 
-### Trade Summary
+### * Trade Summary
 
 The records section includes the Gross Profit/Loss, Trading Volume & Total Trades. 
 
 ![StrategyCard](imgs/gross_profit_loss.png)
 
-### Heat Map
+### * Heat Map
 
 A heatmap of your tradebook is also displayed here. The heatmap is segregated in shades of green and red. Data can be viewed daily, weekly, monthly, and yearly. Dark green denotes highest profit and red denotes maximum loss.
 
 ![StrategyCard](imgs/sc_records.png)
 
-## Backtesting Data:
+## * Backtesting Data:
 ![StrategyCard](imgs/backtesting_data.png)
 
 This is the trade report. You will be able to see the strategy's instrument, entry, and exit details. By using the toggle button, you can also analyse your P&L and ROI in % or INR.

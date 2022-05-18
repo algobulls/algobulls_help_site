@@ -1,19 +1,20 @@
 # Fundbook
 
+## What is a Fund Book?
+
+---
 The Fund Book displays all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
 
 * View all transactions made. 
 * Check plans that are currently active. 
 * View total AlgoBulls money that has been used & your current wallet balance. 
 
-## What is a Fund Book?
----
 
-The Fund Book section shows all of the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. You can select your transactions by category and/or examine your transactions within a date range to gain a better understanding.
 
 ![Fundbook](imgs/fb.png)
 
 ## Summary Bar
+
 ---
 
 The Fund Book displays the `Number of Transactions` made, `Total AlgoBulls Money` that has been used, `plans` that are currently active and your `current wallet balance`. 
@@ -21,6 +22,7 @@ The Fund Book displays the `Number of Transactions` made, `Total AlgoBulls Money
 ![Fundbook](imgs/fb1.png)
 
 ## Filters
+
 ---
 The Filter option allows you to narrow down your search further. The following filters are available in the fund book:
 
@@ -39,6 +41,7 @@ Here you can select a date range to view the table for the selected category (if
 ![Filters](imgs/fb4.png)
 
 ## Fields
+
 ---
 The fund book includes the following fields: 
 
@@ -52,6 +55,7 @@ The fund book includes the following fields:
 [ ![Fundbook](imgs/fb5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fb5.png)
 
 ## Toolbar
+
 ---
 ![Filters](imgs/toolbar1.png)
 

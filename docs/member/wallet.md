@@ -30,31 +30,33 @@ Here’s a quick explainer on how you can subscribe to a package of your choice.
 
 To subscribe to a plan, you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period.
 
-### Here’s an example to help you understand better:\
+### Here’s an example to help you understand better:
 If you activate a smart plan in Real Trading for equity strategy services for 1180 INR for 30 days, you will be able to use the service without incurring any further expenses for the next 30 days.\
 If you wish to Backtest a strategy, the subscription selected  by you does not include Virtual services. This means Virtual Trading services will continue to be charged and you will have to subscribe to virtual trading plans or  pay-as-you-go to use these services. 
 
-Ensure you keep a track of the usage costs by checking the Fund Book. You can add money or subscribe to a plan from the Plans and Wallet section. 
+Ensure you keep a track of the usage costs by checking the [Fund Book](https://app.algobulls.com/book/fund). You can add money or subscribe to a plan from the Plans and Wallet section. 
 
 AlgoBulls also offers a range of free plans - Try a <a href="https://app.algobulls.com/wallet?defaultCategory=freehttps://app.algobulls.com/wallet?defaultCategory=free">Free Plan</a> now! 
 
 Other services that you can use without any additional charges:  
 * Adding a strategy from the Choose Strategy Marketplace 
-* Viewing backtesting reports for a strategy from the Choose Strategy Marketplace 
+
+* Viewing backtesting reports for a strategy from the Choose Strategy Marketplace
+
 * Tweaking (Change parameters of) a strategy 
 
 ### Subscription plans: 
 
 ![Nav](imgs/pw4.png)
 
-###Plans - 
+###- Plans 
 A list of platform's available packages organised by category. The current category of plans include <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">Backtesting & Papertrading</a>, <a href="https://app.algobulls.com/wallet?defaultCategory=developers">Developers</a>, <a href="https://app.algobulls.com/wallet?defaultCategory=free">Free</a>, <a href="https://app.algobulls.com/wallet?defaultCategory=offers">Offers</a> & <a href="https://app.algobulls.com/wallet?defaultCategory=smartPlans">Smart Plans</a>. 
 Try our <a href="https://app.algobulls.com/wallet?defaultCategory=free">free plan</a> now! 
 
-###Active Plans - 
+###- Active Plans 
 Plans that are active in your account currently. This includes the category, validity, description, amount, purchase date and end date. 
 
-###History - 
+###- History 
 A list of all the amounts you've added to your wallet in the past. This includes the transaction ID, plan created & updated, status and amount. 
 
 To subscribe to a plan, click on the amount button for that plan. 

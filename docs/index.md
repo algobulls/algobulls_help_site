@@ -180,7 +180,7 @@ In Settings, you can add/edit your basic profile, update your KYC information, s
 Learn more about settings <a href="https://help.algobulls.com/member/settings.html">here</a>
 . 
 
-For FAQs and other help related videos and documents you can check the Resources section from the AlgoBulls sidebar navigation. 
+For [FAQs](member/faq.md) and other help related videos and documents you can check the Resources section from the AlgoBulls sidebar navigation. 
 
 For further information regarding the AlgoBulls platform you can always reach out to our customer service team at <a href="mailto:support@algobulls.com">support@algobulls.com</a> OR call us on +91 8069 230 300
 
