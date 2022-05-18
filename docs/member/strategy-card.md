@@ -28,19 +28,19 @@ The strategy card is divided into 3 sections - `Records, Analytics & Returns`.
 
 ## Records
 
-* ###  Trade Summary
+### i. Trade Summary
 
 The records section includes the Gross Profit/Loss, Trading Volume & Total Trades. 
 
 ![StrategyCard](imgs/gross_profit_loss.png)
 
-* ###  Heat Map
+### ii. Heat Map
 
 A heatmap of your tradebook is also displayed here. The heatmap is segregated in shades of green and red. Data can be viewed daily, weekly, monthly, and yearly. Dark green denotes highest profit and red denotes maximum loss.
 
 ![StrategyCard](imgs/sc_records.png)
 
-* ## Backtesting Data:
+### iii. Backtesting Data:
 ![StrategyCard](imgs/backtesting_data.png)
 
 This is the trade report. You will be able to see the strategy's instrument, entry, and exit details. By using the toggle button, you can also analyse your P&L and ROI in % or INR.
@@ -51,37 +51,37 @@ This section includes a detailed analysis of the strategy.
 
 In the Analytics section you can check the past performance in a graphical representation. 
 
-### Stats
+### i. Stats
 
 In this section you can see the Hit Ratio, Number of Trades, Average Trades per day. 
 
 ![StrategyCard](imgs/sc5.png)
 
-### P&L
+### ii. P&L
 
 The cumulative backtesting P&L.
 
 ![StrategyCard](imgs/sc6.png)
 
-### P&L%
+### iii. P&L%
 
 The cumulative backtesting P&L percentage. 
 
 ![StrategyCard](imgs/sc7.png)
 
-### ROI (INR)
+### iv. ROI (INR)
 
 Cumulative P&L absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed.
 
 ![StrategyCard](imgs/sc8.png)
 
-### ROI%
+### v. ROI%
 
 You will be able to view the ROI in percentage here 
 
 ![StrategyCard](imgs/sc9.png)
 
-### Equity Curve (INR)
+### vi. Equity Curve (INR)
 
 Find the Equity Curve here, Formula used:   
 
@@ -89,7 +89,7 @@ Find the Equity Curve here, Formula used:
 
 ![StrategyCard](imgs/sc10.png)
 
-### Drawdown %
+### vii. Drawdown %
 
 The maximum loss your strategy has encountered during the execution in percentage.
 
