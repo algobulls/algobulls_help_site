@@ -9,7 +9,8 @@ Welcome! We think you should go through the list below and see that you have und
 1. `Sign up with Google -` You can now register with AlgoBulls within a minute with the Login with google option
 
 ![HomePage](member/imgs/goggle_login.png)
-2. Sign up in 3 simple steps:\
+2. Sign up in 3 simple steps:
+
    Step 1: Profile - Add your Name, Email & Phone Number. Click on `Get Otp`
 
 ![HomePage](member/imgs/sign_up.png)
@@ -18,7 +19,8 @@ Welcome! We think you should go through the list below and see that you have und
 
 ![HomePage](member/imgs/get_otp.png)
 
-   `Step 3: Status -` You can view the status of your registration here.\
+   `Step 3: Status -` You can view the status of your registration here.
+
    Haven't registered with AlgoBulls yet? <a href="https://app.algobulls.com/user/register">Register now!</a>
    `Log in with AlgoBulls`
 
@@ -28,6 +30,7 @@ Welcome! We think you should go through the list below and see that you have und
 
    ![HomePage](member/imgs/goggle_login.png)
 
+
    2. <a href="https://app.algobulls.com/user/login">Login with mobile number:</a> Use your mobile number and the password to Login
 
    ![HomePage](member/imgs/mobile_login.png)
@@ -36,12 +39,14 @@ Welcome! We think you should go through the list below and see that you have und
    3. <a href="https://app.algobulls.com/user/login?method=mobile">Login with OTP:</a> You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number.
    
    ![HomePage](member/imgs/otp_login.png)
+
    
    4. `Login with your Broking Account:` You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
    
    ![HomePage](member/imgs/login_with_broking_acc.png)
    
-`Forgot password?`\
+`Forgot password?`
+
 If you have forgotten your password, you can reset it <a href="https://app.algobulls.com/user/login?method=forgot_password">here</a> 
 
 Want to begin trading? <a href="https://app.algobulls.com/user/login">Login</a> now
@@ -52,6 +57,7 @@ Want to begin trading? <a href="https://app.algobulls.com/user/login">Login</a> 
 The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html">Live & Test mode</a> is a feature that allows you to switch between live and virtual trading. The Test Mode on AlgoBulls is a virtual simulation of the real markets. Whereas the ‘Live Mode’ is where you can execute strategies to begin real trading.
 
 ![HomePage](member/imgs/test_and_live5.png)
+
 
 * `How to add a broker to your AlgoBulls account?`
 
@@ -76,9 +82,11 @@ After adding your broker with AlgoBulls, you can then <a href="https://app.algob
 
 ![HomePage](member/imgs/add_money.png)
 
+
 `Step 2`: Enter your phone number & email address and click on proceed.
 
 ![HomePage](member/imgs/add_money2.png)
+
 
 `Step 3`: Choose your preferred payment method. Once the payment is successful the balance will be added in your AlgoBulls account. 
 
