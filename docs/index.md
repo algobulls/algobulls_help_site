@@ -10,21 +10,22 @@ Before you start Algo Trading with AlgoBulls, here's a quick website tour to ena
 
 ## Sign Up with AlgoBulls:
 
-1. `Sign Up with Google -` You can now register with AlgoBulls within a minute with the Login with google option
+### 1. **Sign Up with Google -** 
+You can now register with AlgoBulls within a minute with the Login with google option
 
 ![HomePage](member/imgs/goggle_login.png)
 
-2. `Sign Up in 3 simple steps:`
+### 2. **Sign Up in 3 simple steps:**
 
-   `Step 1: Profile` - Add your Name, Email & Phone Number. Click on `Get Otp`
+   **Step 1: Profile:** Add your Name, Email & Phone Number. Click on `Get Otp`
 
 ![HomePage](member/imgs/sign_up.png)
 
-   `Step 2: Credentials -` Add the OTP & other credentials such as password
+   **Step 2: Credentials:** Add the OTP & other credentials such as password
 
 ![HomePage](member/imgs/get_otp.png)
 
-   `Step 3: Status -` You can view the status of your registration here.
+   **Step 3: Status:** You can view the status of your registration here.
 
    Haven't registered with AlgoBulls yet? <a href="https://app.algobulls.com/user/register">Register now!</a>
  
@@ -32,7 +33,7 @@ Before you start Algo Trading with AlgoBulls, here's a quick website tour to ena
 
    If you are already have an AlgoBulls account, simply log in using the following options:  
 
-   1. `Login with Google -` Use your google account to `Login with google` option
+   1. **Login with Google:** Use your google account to `Login with google` option
 
    ![HomePage](member/imgs/goggle_login.png)
 
@@ -47,17 +48,17 @@ Before you start Algo Trading with AlgoBulls, here's a quick website tour to ena
    ![HomePage](member/imgs/otp_login.png)
 
    
-   4. `Login with your Broking Account:` You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
+   4. **Login with your Broking Account:** You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
    
    ![HomePage](member/imgs/login_with_broking_acc.png)
    
-`Forgot password?`
+##  Forgot password?
 
 If you have forgotten your password, you can reset it <a href="https://app.algobulls.com/user/login?method=forgot_password">here</a> 
 
 Want to begin trading? <a href="https://app.algobulls.com/user/login">Login</a> now
 
-* `What is Live and Test mode on AlgoBulls?`
+* **What is Live and Test mode on AlgoBulls?**
 
 
 The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html">Live & Test mode</a> is a feature that allows you to switch between live and virtual trading. The Test Mode on AlgoBulls is a virtual simulation of the real markets. Whereas the ‘Live Mode’ is where you can execute strategies to begin real trading.
@@ -65,15 +66,15 @@ The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html"
 ![HomePage](member/imgs/test_and_live5.png)
 
 
-* `How to add a broker to your AlgoBulls account?`
+* **How to add a broker to your AlgoBulls account?**
 
 To begin trading, it is necessary to add your broker details and add your broking account. To add a broker account follow these 3 simple steps: 
 
-`Step 1:` From the AlgoBulls sidebar navigation select <a href="https://help.algobulls.com/member/broking-details.html">Broking Details</a> in Live Mode and click on the <a href="https://app.algobulls.com/broking?addBroker=true">Add Broker</a> button.
+**Step 1:** From the AlgoBulls sidebar navigation select <a href="https://help.algobulls.com/member/broking-details.html">Broking Details</a> in Live Mode and click on the <a href="https://app.algobulls.com/broking?addBroker=true">Add Broker</a> button.
 
-`Step 2:` Select your broker and fill in the necessary information. Click on `Confirm`
+**Step 2:** Select your broker and fill in the necessary information. Click on `Confirm`
 
-`Step 3:` Once confirmed the broker will be added to your account. 
+**Step 3:** Once confirmed the broker will be added to your account. 
 
 For more information on adding, removing and editing the broker details, <a href="https://help.algobulls.com/member/broking-details.html">click here</a>. 
 
@@ -84,17 +85,17 @@ To visit the broker details page, <a href="https://app.algobulls.com/broking">cl
 
 After adding your broker with AlgoBulls, you can then <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">add money in the AlgoBulls account</a> and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation 
 
-`Step 1`: In the plans & wallets section, enter the amount and click on + Add Money
+**Step 1:** In the plans & wallets section, enter the amount and click on + Add Money
 
 ![HomePage](member/imgs/add_money.png)
 
 
-`Step 2`: Enter your phone number & email address and click on proceed.
+**Step 2:** Enter your phone number & email address and click on proceed.
 
 ![HomePage](member/imgs/add_money2.png)
 
 
-`Step 3`: Choose your preferred payment method. Once the payment is successful the balance will be added in your AlgoBulls account. 
+**Step 3:** Choose your preferred payment method. Once the payment is successful the balance will be added in your AlgoBulls account. 
 
 Running out of balance? <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">Add money now!</a> 
 

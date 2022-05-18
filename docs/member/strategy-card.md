@@ -40,7 +40,7 @@ A heatmap of your tradebook is also displayed here. The heatmap is segregated in
 
 ![StrategyCard](imgs/sc_records.png)
 
-### iii. Backtesting Data:
+### iii. Backtesting Data
 ![StrategyCard](imgs/backtesting_data.png)
 
 This is the trade report. You will be able to see the strategy's instrument, entry, and exit details. By using the toggle button, you can also analyse your P&L and ROI in % or INR.
