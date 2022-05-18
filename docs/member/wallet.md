@@ -1,11 +1,4 @@
 # Plans and Wallet
-## Table of contents:
-
-1. Introduction\
-2. How to add money to your AlgoBulls account?\
-3. How to subscribe to a plan on AlgoBulls?\
-4. Subscription plans\
-5. Pay as you go 
 
 ### Introduction:
 To begin trading with AlgoBulls, you must have a sufficient balance in your account. This sum can be deposited into your wallet via the plans and wallets page. Certain services that you use on AlgoBulls have charges involved, but to ensure that you can start trading without worrying about the charges, we have a range of plans that you can subscribe to.

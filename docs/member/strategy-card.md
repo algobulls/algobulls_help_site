@@ -1,29 +1,5 @@
 # Strategy Card
 
-## Table of contents: 
-1. Introduction 
-2. Summary Bar 
-3. Fields 
-4. Records\
-Sub- section:  
-   1. Trade Summary 
-   2. Heat map 
-   3. Backtested Data 
-5. Analytics\
-    Sub-section:
-   1. Stats 
-   2. P&L(INR) 
-   3. P&L% 
-   4. ROI (INR) 
-   5. ROI% 
-   6. Equity Curve (INR) 
-   7. Drawdown% 
-6. Graph toolbar 
-7. Net ROI Analysis 
-8. Strategy Details 
-9. Returns 
-10. Toolbar 
-
 ## Introduction:
 
 A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your <a href="https://help.algobulls.com/member/my-portfolio.html">My Portfolio</a> page. 

@@ -1,10 +1,5 @@
 # Broking Details
 
-## Table of contents: 
-### 1. Introduction 
-### 2. How to add your broking account? 
-### 3. How to edit or remove a broker from your AlgoBulls account?
-
 ## Introduction
 To begin algo trading with AlgoBulls, it is necessary to add your broker details and bind your broking account. 
 

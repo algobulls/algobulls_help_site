@@ -1,4 +1,4 @@
-    # Frequently Asked Questions
+# Frequently Asked Questions
 
 ## 1. What is AlgoBulls? How does AlgoBulls work?
 AlgoBulls is a state-of-the-art trading platform that provides 100% automated trading algorithms and has the ability to deploy multiple trading strategies for various asset classes like Equity, Commodities, Futures & Options, Currency across multiple exchanges like NSE, BSE, MCX, etc. Clients can select which algorithm strategies they want to follow and auto trade, or they can get their customised trading strategies developed as algorithms and get it deployed in live markets with the help of the AlgoBulls platform. AlgoBulls platform supports multiple brokers. You can get your broker integrated if it is not listed already.
