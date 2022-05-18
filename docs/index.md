@@ -6,13 +6,14 @@
 Welcome! We think you should go through the list below and see that you have understood and ticked off all the points!
 
 ## Registering with AlgoBulls:
+
 1. `Sign up with Google -` You can now register with AlgoBulls within a minute with the Login with google option
 
 ![HomePage](member/imgs/goggle_login.png)
 
 2. Sign up in 3 simple steps:
 
-   Step 1: Profile - Add your Name, Email & Phone Number. Click on `Get Otp`
+   `Step 1: Profile` - Add your Name, Email & Phone Number. Click on `Get Otp`
 
 ![HomePage](member/imgs/sign_up.png)
 
