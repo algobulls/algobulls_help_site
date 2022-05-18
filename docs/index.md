@@ -3,7 +3,10 @@
 ![Logo](imgs/logo_large.svg)
 
 ## Introduction
-Welcome! We think you should go through the list below and see that you have understood and ticked off all the points!
+Welcome to AlgoBulls! An algo trading platform that is completely automated. AlgoBulls, which is loaded with trading algorithms and fantastic strategies, can deploy several trading strategies for various asset classes such as equity, commodities, and futures and options. You can trade in live markets or virtual markets, the choice is yours! 
+
+Before you start Algo Trading with AlgoBulls, here's a quick website tour to enable you to navigate the website easily.
+
 
 ## Registering with AlgoBulls:
 
