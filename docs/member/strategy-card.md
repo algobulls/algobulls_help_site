@@ -1,18 +1,18 @@
 # Strategy Card
 
-## Introduction:
+## 1. Introduction
 
 A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your <a href="https://help.algobulls.com/member/my-portfolio.html">My Portfolio</a> page. 
 
 ![StrategyCard](imgs/sc1.png)
 
-## Summary Bar
+## 2. Summary Bar
 
 You can check the `minimum capital required in demat, transaction fee with pack and without the package, recommended duration` and `strategy code`.  
 
 ![StrategyCard](imgs/sc2.png)
 
-## Fields
+## 3. Fields
 
 You can also check the Strategy, Instrument, Capital Required, Hit Ratio, Risk, ROI and Growth here. You can use the Action column to execute a strategy. 
 
@@ -26,7 +26,7 @@ The strategy card is divided into 3 sections - `Records, Analytics & Returns`.
 
 ![StrategyCard](imgs/sc_3types.png)
 
-## Records
+## 4. Records
 
 ### i. Trade Summary
 
@@ -45,7 +45,7 @@ A heatmap of your tradebook is also displayed here. The heatmap is segregated in
 
 This is the trade report. You will be able to see the strategy's instrument, entry, and exit details. By using the toggle button, you can also analyse your P&L and ROI in % or INR.
 
-## Analytics
+## 5. Analytics
 
 This section includes a detailed analysis of the strategy.
 
@@ -95,7 +95,7 @@ The maximum loss your strategy has encountered during the execution in percentag
 
 ![StrategyCard](imgs/sc11.png)
 
-## Graph Toolbar
+## 6. Graph Toolbar
 
 ![StrategyCard](imgs/sc12.png)
 
@@ -129,7 +129,7 @@ The maximum loss your strategy has encountered during the execution in percentag
 
 ![StrategyCard](imgs/sc20.png)
 
-## NET ROI Analysis
+## 7. NET ROI Analysis
 ---
 
 In the Net ROI Analysis, view the details in a graphical representation or % by using the toggle button on the top right corner. 
@@ -149,19 +149,19 @@ In the `Data mode`, you can view the Broker, Broker Charges, Govt.Charges, Gross
 
 ![StrategyCard](imgs/sc24.png)
 
-## Strategy Details
+## 8. Strategy Details
 
 Get a detailed overview of the strategy and its parameters. 
 
 ![StrategyCard](imgs/sc29.png)
 
-## Returns
+## 9. Returns
 
 You can view a strategy’s ROI in the returns section. The returns duration and the ROI% is displayed here. 
 
 ![StrategyCard](imgs/sc_returns.png)
 
-## Toolbar
+## 10. Toolbar
 
 `Refresh` - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
 
