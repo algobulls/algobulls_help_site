@@ -23,85 +23,87 @@ We have provided backtesting data for all of our strategies on the marketplace s
 ## Registration & Login: 
 
 ### 1. How can I register? 
-You <a href="https://app.algobulls.com/user/register">register</a> with AlgoBulls in 3 simple steps:\
-`Step 1: Profile` - Add your Name, Email & Phone Number. Click on ‘Get Otp’\
-`Step 2: Credentials` - Add the OTP & other credentials such as password\
-`Step 3: Status` - You can view the status of your registration here.\
-You can also register with AlgoBulls by clicking on the <a href="https://app.algobulls.com/user/login">Login with Google</a> option. 
+You [register](https://app.algobulls.com/user/register) with AlgoBulls in 3 simple steps:\
+**Step 1: Profile** - Add your Name, Email & Phone Number. Click on ‘Get Otp’\
+**Step 2: Credentials** - Add the OTP & other credentials such as password\
+**Step 3: Status** - You can view the status of your registration here.\
+You can also register with AlgoBulls by clicking on the [Login with Google](https://app.algobulls.com/user/login)option. 
 
 
 ### 2. Is there an AlgoBulls App that I can use? 
 Yes, you can download the AlgoBulls fast, secure and easy-to-use app for android phones. Download now: 
 
 ### 3. Is there any registration fee to join AlgoBulls?
-No, there is no additional fee to join AlgoBulls. You can join AlgoBulls for free, <a href="https://app.algobulls.com/user/register">join now!</a> 
+No, there is no additional fee to join AlgoBulls. You can join AlgoBulls for free, [join now!](https://app.algobulls.com/user/register) 
 
 
 ### 4. How can I login with my broking account?
-You can login with your broking account. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. <a href="https://app.algobulls.com/user/login">Login with your broker</a>. 
+You can login with your broking account. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. [Login with your broker](https://app.algobulls.com/user/login). 
 
 ### 5. How can I Login using google?
-Use your google account to `Login with google` option. 
+Use your google account to **Login with google** option. 
 
 ### 6. What is Login with OTP?
-You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number. <a href="https://app.algobulls.com/user/login">Login with OTP now</a>
+You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number. [Login with OTP now](https://app.algobulls.com/user/login).
 
 ### 7. I have forgotten my password, how can I login now?
-If you have forgotten your password, you can reset it <a href="https://app.algobulls.com/user/login?method=forgot_password">here</a> 
+If you have forgotten your password, you can reset it [here](https://app.algobulls.com/user/login?method=forgot_password) 
 
 ##  Broker:
 ### 1 . Do I have to leave my existing broker to join algobulls? 
-No, the AlgoBulls system should be viewed as a diversification investment. The golden rule for investing is to never put all your money into one (investment) basket. Only a portion of your investment capital should be used with any investment strategy. So you can keep the majority of your capital with your advisor and broker and have the AlgoBulls platform trade a portion of your capital with the brokerage firm that supports our system. We support multiple brokers, to add or view our broker list, <a href="https://app.algobulls.com/broking?addBroker=true">click here</a>. 
+No, the AlgoBulls system should be viewed as a diversification investment. The golden rule for investing is to never put all your money into one (investment) basket. Only a portion of your investment capital should be used with any investment strategy. So you can keep the majority of your capital with your advisor and broker and have the AlgoBulls platform trade a portion of your capital with the brokerage firm that supports our system. We support multiple brokers, to add or view our broker list, [click here](https://app.algobulls.com/broking?addBroker=true). 
 
 ### 2. How can I add my existing broker to AlgoBulls? 
 To begin trading, it is necessary to add your broker details and add your broking account. To add a broker account follow these 3 simple steps:\
-**Step 1:** From the AlgoBulls sidebar navigation select <a href="https://help.algobulls.com/member/broking-details.html">Broking Details</a> in `Live Mode` and click on the <a href="https://app.algobulls.com/broking?addBroker=true">Add Broker</a> button.\
-**Step 2:** Select your broker and fill in the necessary information. Click on `Confirm`\
+**Step 1:** From the AlgoBulls sidebar navigation select [Broking Details](https://help.algobulls.com/member/broking-details.html) in **Live Mode** and click on the [Add Broker](https://app.algobulls.com/broking?addBroker=true) button.
+
+**Step 2:** Select your broker and fill in the necessary information. Click on **Confirm**\
 Step 3: Once confirmed the broker will be added to your account. 
-To visit the broker details page, <a href="https://app.algobulls.com/broking">click here</a>.
+To visit the broker details page, [click here](https://app.algobulls.com/broking).
 
 ### 3. How do I edit or remove a broker?
-You can remove and edit broker information from the broking details page. For more information on adding, removing and editing the broker details, <a href="https://help.algobulls.com/member/broking-details.html">click here</a>. 
+You can remove and edit broker information from the broking details page. For more information on adding, removing and editing the broker details, [click here](https://help.algobulls.com/member/broking-details.html). 
 
 ### 4. Are there additional charges to add a broker?
-No, there are no additional charges to <a href="https://app.algobulls.com/broking?addBroker=true">add a broker</a> to your AlgoBulls account. You can add a new or an existing broker that is supported by the AlgoBulls platform for free.
+No, there are no additional charges to [add a broker](https://app.algobulls.com/broking?addBroker=true) to your AlgoBulls account. You can add a new or an existing broker that is supported by the AlgoBulls platform for free.
 
 ### 5. Which Brokers are supported on AlgoBulls?
-AlgoBulls supports multiple brokers, you can check the <a href="https://app.algobulls.com/broking?addBroker=true">broker list here</a>. 
+AlgoBulls supports multiple brokers, you can check the [broker list here](https://app.algobulls.com/broking?addBroker=true). 
 
 ### 6. Why is my broker not in the AlgoBulls integrated broker list? 
-While we are working hard to integrate additional broking houses in India with our platform in the near future, it is possible that your broker is not on our <a href="https://app.algobulls.com/broking?addBroker=true">list of brokers</a>. If you are interested in running the algo strategies on a broker that is not on our broker list, please contact us on support@algobulls.com. You can also choose to add a new broker that is integrated in our system. 
+While we are working hard to integrate additional broking houses in India with our platform in the near future, it is possible that your broker is not on our [list of brokers](https://app.algobulls.com/broking?addBroker=true). If you are interested in running the algo strategies on a broker that is not on our broker list, please contact us on support@algobulls.com. You can also choose to add a new broker that is integrated in our system. 
 
 ##Plans & Wallet:
 ### 1. How can I add money to my AlgoBulls wallet?
-After adding your broker with AlgoBulls, you can then <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">add money in the AlgoBulls account</a> and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation.
+After adding your broker with AlgoBulls, you can then [add money in the AlgoBulls account](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation.
 **Step 1:** In the plans & wallets section, enter the amount and click on + Add Money\  
 **Step 2:** Enter your phone number & email address and click on proceed.\
 **Step 3:** Choose your preferred payment method. Once the payment is successful the balance will be added in your AlgoBulls account.\
-Running out of balance? <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">Add money now!</a>\
-Know more about the <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallet section</a> 
+Running out of balance? [Add money now!](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading)
+
+Know more about the [Plans & Wallet section](https://help.algobulls.com/member/wallet.html) 
  
 ### 2. Can I trade without subscribing to a plan?
 Trading without a subscription is possible, however you will be charged for each service used as pay as you go. It is essential to have sufficient AlgoBulls money in your account. Once the balance is exhausted the strategy will stop. Know more about Plans & Wallets 
 Subscribe to a plan now
 
 ### 3. How to subscribe to a plan? 
-To <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">subscribe to a plan</a>, you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
-Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallets</a>.\
-AlgoBulls also offers a range of free plans - Subscribe for a <a href="https://app.algobulls.com/wallet?defaultCategory=free">Free Plan</a> now! 
+To [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
+Know more about [Plans & Wallets](https://help.algobulls.com/member/wallet.html).\
+AlgoBulls also offers a range of free plans - Subscribe for a [Free Plan](https://app.algobulls.com/wallet?defaultCategory=free) now! 
 
 ### 4. What is Pay as you go? 
-On AgoBulls, you are charged for various services that you use.This may include backtesting, paper trading, live trading etc. This is called Pay as you go. You can avoid incurring extra charges by <a href="https://app.algobulls.com/wallet?defaultCategory=smartPlans">subscribing to AlgoBulls plans</a>. To keep a track of the usage costs, always check your Fund Book in the Live reports section
+On AgoBulls, you are charged for various services that you use.This may include backtesting, paper trading, live trading etc. This is called Pay as you go. You can avoid incurring extra charges by [subscribing to AlgoBulls plans](https://app.algobulls.com/wallet?defaultCategory=smartPlans). To keep a track of the usage costs, always check your Fund Book in the Live reports section
 
 ### 5. Are there any free plans on AlgoBulls?
-Yes, AlgoBulls offers various free plans. Subscribe for a <a href="https://app.algobulls.com/wallet?defaultCategory=free">Free Plan</a> now
+Yes, AlgoBulls offers various free plans. Subscribe for a [Free Plan](https://app.algobulls.com/wallet?defaultCategory=free) now
 
 ##Choose Strategy Marketplace: 
 
 ### 1. What is Retail marketplace?
-The <a href="https://app.algobulls.com/marketplace/category/retail">Retail Marketplace</a> includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The `Retail section` includes `Equity, Futures & Commodities` cash segment strategies. <a href="https://help.algobulls.com/member/choose-strategy.html">Know more</a> about the Retail Marketplace.
+The [Retail Marketplace](https://app.algobulls.com/marketplace/category/retail) includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The **Retail section** includes **Equity, Futures & Commodities** cash segment strategies. [Know more](https://help.algobulls.com/member/choose-strategy.html) about the Retail Marketplace.
 
-Select a strategy from the AlgoBulls <a href="https://app.algobulls.com/marketplace/category/retail">Retail Marketplace now</a>! 
+Select a strategy from the AlgoBulls [Retail Marketplace now](https://app.algobulls.com/marketplace/category/retail)! 
 
 ### 2. What is the premium marketplace? 
 **Trade with** our intelligent and powerful Index Option Strategies in the Premium Marketplace. <a href="https://help.algobulls.com/member/choose-strategy.html">Read more</a> about the Premium Marketplace. Begin trading with a <a href="https://app.algobulls.com/marketplace/category/premium">Premium Marketplace strategy now</a>. 
@@ -134,17 +136,17 @@ In the Virtual Mode you can Backtest, Paper Trade and modify strategies using th
 
 ### 2. How to begin virtual trading? 
 ####You can begin Virtual Trading in 4 simple steps: 
-You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to `Virtual/Test Mode` by using the toggle button on the bottom left side of the sidebar navigation.
+You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to **Virtual/Test Mode** by using the toggle button on the bottom left side of the sidebar navigation.
 
-Also ensure that you’ve added a strategy from the `Choose strategy` marketplace.\
-**Step 1:** In the `My portfolio` section click on the `Start` button in the `Action Column`.\
-A pop-up window will appear. The AlgoBulls virtual Broker is the default broker selected in the `Choose Broker` option.\
-**Step 2:** In the `Customizations` section choose `Back Data` for backtesting OR `Live Data` for paper trading. Select the `duration` option in the `customizations` section. Add the desired `date and time`, as well as the `quantity/lots`. In `backtesting` you will need to put the `start date and end date along with time`. In `paper trading` you only need to add the `start and end time`.\
-**Step 3:** Once you scroll below you will see the P&L tracker. Switch the `P&L tracker` ‘ON’ and enter your desired profit and risk appetite.\
+Also ensure that you’ve added a strategy from the **Choose strategy** marketplace.\
+**Step 1:** In the **My portfolio** section click on the **Start** button in the **Action Column**.\
+A pop-up window will appear. The AlgoBulls virtual Broker is the default broker selected in the **Choose Broker** option.\
+**Step 2:** In the **Customizations** section choose **Back Data** for backtesting OR **Live Data** for paper trading. Select the **duration** option in the **customizations** section. Add the desired **date and time**, as well as the **quantity/lots**. In **backtesting** you will need to put the **start date and end date along with time**. In **paper trading** you only need to add the **start and end time**.\
+**Step 3:** Once you scroll below you will see the P&L tracker. Switch the **P&L tracker** ‘ON’ and enter your desired profit and risk appetite.\
 Step 4: Ensure you read the terms and conditions and then check the ‘I agree to the Terms and conditions’ box. Save & Start the strategy.
 
 ### 3. What is backtesting & paper trading? 
-**Backtesting** is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try `Paper trading`. Ensure the toggle button on the bottom left side of the website is switched to Test Mode. 
+**Backtesting** is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try **Paper trading**. Ensure the toggle button on the bottom left side of the website is switched to Test Mode. 
 
 ### 4. How accurate is virtual trading in comparison to real trading?
 The only difference between virtual trading and real trading is that it does not involve real money or real markets, but it is as accurate as real trading. 
@@ -164,18 +166,18 @@ AlgoBulls is currently offering a free backtesting & paper trading service. <a h
 
 
 ### 1. What is Live Mode & Live Trading? 
-The `Live Mode` is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. The choose strategy marketplace includes more than 100+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
+The **Live Mode** is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. The choose strategy marketplace includes more than 100+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
 To avoid additional charges for services used in Real Trading, ensure you <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">subscribe to a plan</a> from the Plans & Wallet section.
 
 ### 2. How to begin Live Trading? 
 You can begin Real Trading on AlgoBulls with these 4 simple steps:\  
-**Step 1:** Switch to `Live Mode`
+**Step 1:** Switch to **Live Mode**
 
-**Step 2:** Select a strategy from the `choose strategy section` and click on `execute`. The strategy will be added to the portfolio & you will be redirected to the <a href="https://app.algobulls.com/portfolio">My Portfolio</a> page
+**Step 2:** Select a strategy from the **choose strategy section** and click on **execute**. The strategy will be added to the portfolio & you will be redirected to the <a href="https://app.algobulls.com/portfolio">My Portfolio</a> page
 
-**Step 3:** To start the chosen strategy click the start button from the Action field.  Select a broker, add the `start and end time` and `Quantity/Lots`. 
+**Step 3:** To start the chosen strategy click the start button from the Action field.  Select a broker, add the **start and end time** and **Quantity/Lots**. 
 
-**Step 4:** Use the toggle button to activate the `P&L Tracker`. Add the `Desired Profit` and `Risk Appetite` here. Click on `Save & Start`.  
+**Step 4:** Use the toggle button to activate the **P&L Tracker**. Add the **Desired Profit** and **Risk Appetite** here. Click on **Save & Start**.  
 
 **Note** - Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead. 
 
@@ -194,7 +196,7 @@ Other services that you can use without any additional charges:
 ### 4. How can I use a virtual trading strategy in live trading?
 If you are happy with the strategy after its virtual trading results you can begin real money trading by simply switching to Live Mode. 
 
-The backtested/Paper traded strategy will be added to your <a href="https://help.algobulls.com/member/my-strategies.html">My Strategies</a> section where you can simply switch them to `Live Trading` from the toggle button. The strategy will be added to your portfolio in `Live Mode`. Start the strategy to begin trading!
+The backtested/Paper traded strategy will be added to your <a href="https://help.algobulls.com/member/my-strategies.html">My Strategies</a> section where you can simply switch them to **Live Trading** from the toggle button. The strategy will be added to your portfolio in **Live Mode**. Start the strategy to begin trading!
 
 ##Live Reports: 
 

@@ -10,7 +10,7 @@ From the AlgoBulls sidebar navigation select **Broking Details** in **Live Mode*
 
 ![Broking](imgs/broker_details.png)
 
-Click the <a href="https://app.algobulls.com/broking?addBroker=true">Add Broker</a> button. 
+Click the [Add Broker](https://app.algobulls.com/broking?addBroker=true) button. 
 
 ![Broking](imgs/add_broker.png)
 
@@ -45,4 +45,4 @@ You will get a confirmation once the details have been updated successfully.
 
 ![Broking](imgs/update_broker_details_success.png)
 
-If you haven't added your broker yet, <a href="https://app.algobulls.com/broking?addBroker=true">add now</a>.
+If you haven't added your broker yet, [add now](https://app.algobulls.com/broking?addBroker=true).

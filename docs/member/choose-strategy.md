@@ -17,7 +17,7 @@ Choose from a wide range of advanced, AI-driven strategies developed with cuttin
 ## Retail Marketplace
 ---
 
-The [Retail Marketplace]((https://app.algobulls.com/marketplace/category/retail)) includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes `Equity, Futures & Commodities` cash segment strategies.
+The [Retail Marketplace]((https://app.algobulls.com/marketplace/category/retail)) includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes **Equity, Futures & Commodities** cash segment strategies.
 
 ![ChooseStrategy](imgs/retail_marketplace.png)
 
@@ -35,7 +35,7 @@ AI-driven trading algos tailored for the HNI clientele's individual needs and ri
 
 ![ChooseStrategy](imgs/hni_marketplace.png)
 
-Before adding strategies to your `My Portfolio` section, you can explore the strategy details, parameters and back testing reports to evaluate the strategy's performance in the Choose Strategy section. Know more about the [Strategy Card](strategy-card.md).
+Before adding strategies to your **My Portfolio** section, you can explore the strategy details, parameters and back testing reports to evaluate the strategy's performance in the Choose Strategy section. Know more about the [Strategy Card](strategy-card.md).
 
 ![ChooseStrategy](imgs/cs2.png)
 
@@ -51,13 +51,13 @@ Use this to type in the Strategy Name or Code .
 
 ### Fitlers
 
-You can filter your view as per the ROI%, Risk %, Capital Required & Hit Ratio. You can also use the filter option for Brokers, Exchanges,Segments, Modes, Candle Types, Candle Sizes and Tags. Click on the `Apply Filters` button to see the results.
+You can filter your view as per the ROI%, Risk %, Capital Required & Hit Ratio. You can also use the filter option for Brokers, Exchanges,Segments, Modes, Candle Types, Candle Sizes and Tags. Click on the **Apply Filters** button to see the results.
 
 ![ChooseStrategy](imgs/cs4.png)
 
 ### Favourites
 
-You can also switch the favourites toggle button `On` to view the strategies marked as Favourite (<font size=3>☆</font>).
+You can also switch the favourites toggle button **On** to view the strategies marked as Favourite (<font size=3>☆</font>).
 
 ![ChooseStrategy](imgs/cs5.png)
 
@@ -69,13 +69,13 @@ You can sort the strategies into the following:
 * Transaction Charges 
 * Recent Transactions 
 
-Click on the `Apply Sort` button to categorise the strategies. 
+Click on the **Apply Sort** button to categorise the strategies. 
 
 ![ChooseStrategy](imgs/cs6.png)
 
 ### Duration
 
-This option allows you to search for strategies that have been added to the marketplace in the last 3 days, 14 days, 30 days and All Time. Click on `Apply Duration` to save the changes. 
+This option allows you to search for strategies that have been added to the marketplace in the last 3 days, 14 days, 30 days and All Time. Click on **Apply Duration** to save the changes. 
 
 ![ChooseStrategy](imgs/cs7.png)
 

@@ -1,5 +1,7 @@
 # Live Trading
 
+## Introduction
+
 You can execute strategies to begin real trading in the Live/Real Trading Mode. Switch the toggle button on the bottom left side of the website to Live Mode.
 
 * Begin real trading with 100% automation in Live/Real Trading Mode.
@@ -8,17 +10,13 @@ You can execute strategies to begin real trading in the Live/Real Trading Mode. 
 * Start & Stop your algo strategies in one click. Charges may be applicable for START and STOP. [More details here](https://help.algobulls.com/)
 * Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now! 
 
-## Introduction
 ---
-
-My Portfolio section consists of a complete overview of the strategies availed by you. 
-
-![Portfolio](imgs/portfolio1.png)
 
 ## What is Live Mode?
+
 ---
 
-The `Live Mode` is where you can execute strategies to begin real trading. Switch the toggle button on the bottom left side of the website to Live Mode. 
+The **Live Mode** is where you can execute strategies to begin real trading. Switch the toggle button on the bottom left side of the website to Live Mode. 
 
 ![test_and_live](imgs/test_and_live5.png)
 
@@ -27,6 +25,7 @@ The choose strategy marketplace includes more than 100+ strategies that you can 
 To avoid additional charges for services used in Real Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
 
 ## How to begin Real Trading?
+
 ---
 Begin Real Trading on AlgoBulls with these 4 simple steps:   
 
@@ -73,6 +72,7 @@ If you are happy with the strategy after its virtual trading results you can beg
 The backtested/Paper traded strategy will be added to your [My Strategies](my-strategies.md) section where you can simply switch them to `Live Trading` from the toggle button. The strategy will be added to your portfolio in ` Live Mode`.
 
 ## Summary Bar
+
 ---
 
 The `summary bar` in the portfolio section includes the following: 
@@ -90,6 +90,7 @@ The `summary bar` in the portfolio section includes the following:
 ![Portfolio](imgs/portfolio2.png)
 
 ## Fields
+
 ---
 
 My Portfolio includes the following fields: 
@@ -122,6 +123,7 @@ The strategy configuration field includes Instrument and Strategy Settings such 
 
 
 ## Toolbar
+
 ---
 The Dashboard toolbar includes the refresh, density, settings and full screen tools. 
 
