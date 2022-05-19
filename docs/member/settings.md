@@ -1,6 +1,6 @@
 # Settings
 
-## Introduction
+## 1. Introduction
 
 Add or edit your basic profile, set your trading risk, grant access to your trading manager, and explore your developer options.
 
@@ -8,7 +8,7 @@ Add or edit your basic profile, set your trading risk, grant access to your trad
 
 The Settings section is divided into 4 parts: 
 
-## Personal Info
+## 2. Personal Info
 
 ![Settings](imgs/settings2.png)
 
@@ -36,14 +36,14 @@ You add or edit your personal details here
     
 `Education` - If we know whether you have any past financial background, our specialists will be able to connect with you more effectively over the phone/email. (For example, Commerce, MBA Finance, and so on.)
 
-## Password & Security
+## 3. Password & Security
 
 ![Settings](imgs/settings3.png)
 
 You can edit your password and check other security options here .
 
 
-## Trade Manager
+## 4. Trade Manager
 
 ![Settings](imgs/settings4.png)
 
@@ -55,7 +55,7 @@ Enter your agent's details here if your AlgoBulls platform account will be manag
     
     AlgoBulls will not be responsible for any issues occurring because of deliberate or leaked credentials of your account.
 
-## Developer Options
+## 5. Developer Options
 
 ![Settings](imgs/settings5.png)
 

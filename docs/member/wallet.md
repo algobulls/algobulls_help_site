@@ -31,7 +31,8 @@ Here’s a quick explainer on how you can subscribe to a package of your choice.
 To subscribe to a plan, you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period.
 
 ## Here’s an example to help you understand better:
-If you activate a smart plan in Real Trading for equity strategy services for 1180 INR for 30 days, you will be able to use the service without incurring any further expenses for the next 30 days.\
+If you activate a smart plan in Real Trading for equity strategy services for 1180 INR for 30 days, you will be able to use the service without incurring any further expenses for the next 30 days.
+
 If you wish to Backtest a strategy, the subscription selected  by you does not include Virtual services. This means Virtual Trading services will continue to be charged and you will have to subscribe to virtual trading plans or  pay-as-you-go to use these services. 
 
 Ensure you keep a track of the usage costs by checking the [Fund Book](https://app.algobulls.com/book/fund). You can add money or subscribe to a plan from the Plans and Wallet section. 

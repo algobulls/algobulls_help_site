@@ -1,9 +1,9 @@
 # Broking Details
 
-## Introduction
+## 1. Introduction
 To begin algo trading with AlgoBulls, it is necessary to add your broker details and bind your broking account. 
 
-## How to add your broking account? 
+## 2. How to add your broking account? 
 
 To add a broker account follow these steps: 
 From the AlgoBulls sidebar navigation select **Broking Details** in **Live Mode**
@@ -31,7 +31,7 @@ The Broker will now be added to your **Broking Details** page. If you have multi
 
 ![Broking](imgs/primary_broker.png)
 
-## How to edit or remove a broker from your AlgoBulls account?
+## 3. How to edit or remove a broker from your AlgoBulls account?
 
 If you wish to edit details click on Login/Edit option
 

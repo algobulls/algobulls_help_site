@@ -1,26 +1,28 @@
 # Dashboard
 
-## Introduction 
+## 1. Introduction 
 ---
 The AlgoBulls [Dashboard](https://app.algobulls.com/dashboard) gives you an overview of your account and trades. 
 
 [ ![Dashboard](imgs/dashboard1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard1.png)
 
-## AlgoBulls Money
+## 2. AlgoBulls Money
 ---
 ![Dashboard](imgs/dashboard2.png)
 
 You can view your current balance in your AlgoBulls Dashboard. To add money in your AlgoBulls account click on the Add Money button in the dashboard. You will be directed to the [Plans & Wallet](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) section where you can add money. 
 
 
-## The Action Bar
+## 3. The Action Bar
+
 ---
 
 The action bar displays your AlgoBulls Funds, Subscription Plan Status, Broker Account and Portfolio Strategy. You can also [add funds](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), connect to another broker account and add more strategies to your portfolio page from the action bar. 
 
 ![Dashboard](imgs/dashboard4.png)
 
-## Strategy Analytics
+## 4. Strategy Analytics
+
 ---
 
 You can see the overall trading volume, profit and loss, and your AlgoBulls current balance in this section. On the left side of the page, you can see the data in a graphical representation, and on the right side, you can see strategy details such as strategy name, total transactions, Volume, and P&L.
@@ -37,7 +39,8 @@ You can narrow down your search by selecting the following options:
 
 ![Dashboard](imgs/dashboard6.png)
 
-## Fields
+## 5. Fields
+
 ---
 The Dashboard fields include: 
 
@@ -48,7 +51,8 @@ The Dashboard fields include:
 
 [ ![Dashboard](imgs/dashboard7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard7.png)
 
-## The Toolbar
+## 6. The Toolbar
+
 ---
 The Dashboard toolbar includes the refresh, density, settings and full screen tools. 
 

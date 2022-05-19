@@ -87,7 +87,7 @@ nav:
       - 'ANGELBROKING': 'broker/angelbroking.md'
       - 'ARHAM WEALTH': 'broker/arhamwealth.md'
       - 'EDELWEISS': 'broker/edelweiss.md'
-      - 'ICICI SECURITIES': 'broker/icicisecurities.md'
+#      - 'ICICI SECURITIES': 'broker/icicisecurities.md'
       - 'IIFL SECURITIES': 'broker/iifl.md'
       - 'INDIRA SECURITIES': 'broker/indirasecurities.md'
       - 'JAINAM DUCK': 'broker/jainamduck.md'

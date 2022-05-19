@@ -29,36 +29,36 @@ You can now register with AlgoBulls within a minute with the Login with google o
 
    Haven't registered with AlgoBulls yet? <a href="https://app.algobulls.com/user/register">Register now!</a>
  
-## Log in with AlgoBulls
+## 3. Log in with AlgoBulls
 
    If you are already have an AlgoBulls account, simply log in using the following options:  
 
-###   1. **Login with Google:** Use your google account to `Login with google` option
+###  i. **Login with Google:** Use your google account to `Login with google` option
 
    ![HomePage](member/imgs/goggle_login.png)
 
 
-###   2. <a href="https://app.algobulls.com/user/login">Login with mobile number:</a> Use your mobile number and the password to Login
+### ii. <a href="https://app.algobulls.com/user/login">Login with mobile number:</a> Use your mobile number and the password to Login
 
    ![HomePage](member/imgs/mobile_login.png)
 
 
-###   3. <a href="https://app.algobulls.com/user/login?method=mobile">Login with OTP:</a> You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number.
+### iii. <a href="https://app.algobulls.com/user/login?method=mobile">Login with OTP:</a> You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number.
    
    ![HomePage](member/imgs/otp_login.png)
 
    
-###   4. **Login with your Broking Account:** You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
+### iv. **Login with your Broking Account:** You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
    
    ![HomePage](member/imgs/login_with_broking_acc.png)
    
-##  Forgot password?
+## 4. Forgot password?
 
 If you have forgotten your password, you can reset it <a href="https://app.algobulls.com/user/login?method=forgot_password">here</a> 
 
 Want to begin trading? <a href="https://app.algobulls.com/user/login">Login</a> now
 
-## **What is Live and Test mode on AlgoBulls?**
+## 4. What is Live and Test mode on AlgoBulls?
 
 
 The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html">Live & Test mode</a> is a feature that allows you to switch between live and virtual trading. The Test Mode on AlgoBulls is a virtual simulation of the real markets. Whereas the ‘Live Mode’ is where you can execute strategies to begin real trading.
@@ -66,7 +66,7 @@ The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html"
 ![HomePage](member/imgs/test_and_live5.png)
 
 
-## **How to add a broker to your AlgoBulls account?**
+## 5. How to add a broker to your AlgoBulls account?
 
 To begin trading, it is necessary to add your broker details and add your broking account. To add a broker account follow these 3 simple steps: 
 
@@ -81,7 +81,7 @@ For more information on adding, removing and editing the broker details, <a href
 To visit the broker details page, <a href="https://app.algobulls.com/broking">click here</a>. 
 
 
-## Add money in the AlgoBulls account in 3 simple steps:
+## 6. Add money in the AlgoBulls account in 3 simple steps:
 
 After adding your broker with AlgoBulls, you can then <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">add money in the AlgoBulls account</a> and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation 
 
@@ -103,7 +103,7 @@ Running out of balance? <a href="https://app.algobulls.com/wallet?defaultCategor
 Know more about the <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallet section</a> 
 
 
-## How to Subscribe to a package on AlgoBulls? 
+## 7. How to Subscribe to a package on AlgoBulls? 
 To <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">subscribe to a plan</a>, you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
 
 Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallets</a> 
@@ -111,7 +111,7 @@ Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & 
 AlgoBulls also offers a range of free plans - Subscribe for a <a href="https://app.algobulls.com/wallet?defaultCategory=free">Free Plan</a> now! 
 
 
-## How to select a strategy from the Choose Strategy Marketplace?
+## 8. How to select a strategy from the Choose Strategy Marketplace?
 
 
 After subscribing to a package you can now choose the Algo Strategy of your choice from the Choose Strategy section. This Marketplace has more than 150+ Algo Strategies created by industry leading experts. It is divided into 3 segments - Retail, Premium & HNI Marketplace 
@@ -124,12 +124,12 @@ After subscribing to a package you can now choose the Algo Strategy of your choi
 
 Select a strategy from the AlgoBulls <a href="https://app.algobulls.com/marketplace/category/retail">Choose Strategy Marketplace now!</a> 
 
-## The Strategy Card: 
+## 9. The Strategy Card: 
 A strategy card has all the information you need about a strategy. To view these details, select a marketplace in the <a href="https://app.algobulls.com/marketplace/category/retail">Choose Strategy Marketplace</a>, search for the strategy you would like to view and click on the strategy card. 
 
 A detailed view of the strategy card will open. To begin trading with a particular strategy, click on the execute button to add it to your <a href="https://help.algobulls.com/member/my-portfolio.html">My Portfolio</a> page. To know more about the strategy card, <a href="https://help.algobulls.com/member/strategy-card.html">click here</a>. 
 
-## My Portfolio: 
+## 10. My Portfolio: 
 
 In the My Portfolio section you can execute strategies in the real markets with Real Trading in the <a href=""></a>Live Mode.
 
@@ -142,7 +142,7 @@ The portfolio also includes some fantastic features such as the P&L Tracker and 
 
 The <a href="https://help.algobulls.com/member/pnltracker.html">P&L Tracker feature</a> allows you to gain profit or limit losses at (or near) predefined values for your plan. You can access the P&L Tracker when you start a strategy in the My Portfolio section in Test or Live Mode. <a href="https://help.algobulls.com/member/pnltracker.html">Know more about the P&L Tracker</a>
 
-## My Strategies: 
+## 11. My Strategies: 
 
 The My Strategies page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Virtual Trading (Backtesting/Paper Trading). 
 
@@ -153,7 +153,7 @@ You can also add strategies and manage them <a href="https://app.algobulls.com/m
 <a href="https://help.algobulls.com/member/my-strategies.html">Learn more</a> about the My Strategies page on AlgoBulls. 
 
 
-## Live Reports: 
+## 12. Live Reports: 
 
 The Live Reports section is divided into 3 parts - <a href="https://app.algobulls.com/book/pl">P&L Book</a>, <a href="https://app.algobulls.com/book/trade">Trade Book</a> & <a href="https://app.algobulls.com/book/fund">Fund Book</a>. 
 
@@ -164,12 +164,12 @@ The Fund Book section shows all of the charges that have been applied to your ac
 
 Want to check Live Reports for your Strategies? Visit the <a href="https://app.algobulls.com/book/pl">P&L Book</a>, <a href="https://app.algobulls.com/book/trade">Trade Book</a> & <a href="https://app.algobulls.com/book/fund">Fund Book</a> now! 
 
-## The Dashboard
+## 13. The Dashboard
 Once you have successfully registered with AlgoBulls, you will be redirected to the <a href="https://help.algobulls.com/member/dashboard.html">AlgoBulls Dashboard</a>. The AlgoBulls Dashboard gives you an overview of your account and trades.
 
 Go to <a href="https://app.algobulls.com/dashboard">my dashboard</a>
 
-## Settings
+## 14. Settings
 In Settings, you can add/edit your basic profile, update your KYC information, set your trading risk, grant access to your trading manager, and explore your developer options.
 
 

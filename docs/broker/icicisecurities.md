@@ -1,315 +1,315 @@
-[//]: # (# ICICI Securities)
+# ICICI Securities
 
-[//]: # (---)
+---
 
-[//]: # ()
-[//]: # (* Official Website: [https://www.icicidirect.com/]&#40;https://www.icicidirect.com/&#41;)
 
-[//]: # ()
-[//]: # (* Trading Website: [https://www.icicidirect.com/]&#40;https://www.icicidirect.com/&#41;)
+* Official Website: [https://www.icicidirect.com/](https://www.icicidirect.com/)
 
-[//]: # ()
-[//]: # (* Developer Website: [https://api.icicidirect.com/apiuser/home]&#40;https://api.icicidirect.com/apiuser/home&#41;)
 
-[//]: # ()
-[//]: # (* Markets Supported: India)
+* Trading Website: [https://www.icicidirect.com/](https://www.icicidirect.com/)
 
-[//]: # ()
-[//]: # (## Important Points to Note)
 
-[//]: # (---)
+* Developer Website: [https://api.icicidirect.com/apiuser/home](https://api.icicidirect.com/apiuser/home)
 
-[//]: # (* It is required to log in **once** daily &#40;at the start of the trading day&#41;)
 
-[//]: # ()
-[//]: # (## Login and Set up your ICICI Securities Account )
+* Markets Supported: India
 
-[//]: # (---)
 
-[//]: # (This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.)
+## Important Points to Note
 
-[//]: # ()
-[//]: # (### Before you Start)
+---
 
-[//]: # (---)
+* It is required to log in **once** daily (at the start of the trading day)
 
-[//]: # (Keep the following information available before you start:)
 
-[//]: # ()
-[//]: # (1&#41; Account Credentials)
+## Login and Set up your ICICI Securities Account 
 
-[//]: # ()
-[//]: # (* User ID)
+---
 
-[//]: # ()
-[//]: # (* Password)
+This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
-[//]: # ()
-[//]: # (* PAN No./ DOB )
 
-[//]: # ()
-[//]: # (### One-Time Activity)
+### Before you Start
 
-[//]: # (---)
+---
 
-[//]: # (This activity will help you to link your broking account to the AlgoBulls account via the oauth method.)
+Keep the following information available before you start:
 
-[//]: # ()
-[//]: # (!!! Note)
 
-[//]: # (    * If you have done this activity once before, then you can directly skip to the [Daily Activity]&#40;#daily-activity-login&#41; section)
+1) Account Credentials
 
-[//]: # ()
-[//]: # (* Visit [https://api.icicidirect.com/apiuser/home]&#40;https://api.icicidirect.com/apiuser/home&#41;.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/home.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/home.png&#41;)
+* User ID
 
-[//]: # ()
-[//]: # (* Enter your User ID, Password and PAN No./DOB. Click the `Login` button.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/login.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/login.png&#41;)
+* Password
 
-[//]: # ()
-[//]: # (* Click the `Register an app` button.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/register_an_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/register_an_app.png&#41;)
+* PAN No./ DOB 
 
-[//]: # ()
-[//]: # (* On the `Register an app` page, fill the following fields:)
 
-[//]: # ()
-[//]: # (    * App name: Give the app name. Example: `algobulls_icici`.)
+### One-Time Activity
 
-[//]: # (    * Redirect URL: Give the value `https://app.algobulls.com/loading`.)
+---
 
-[//]: # (    )
-[//]: # (* Click the `Submit` button.)
+This activity will help you to link your broking account to the AlgoBulls account via the oauth method.
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/submit.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/submit.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (* Now Copy and Save the App key.)
+!!! Note
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/app_key.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/app_key.png&#41;)
+    * If you have done this activity once before, then you can directly skip to the [Daily Activity](#daily-activity-login) section
 
-[//]: # ()
-[//]: # ()
-[//]: # (* Now click on the 'View Apps' button.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/view_apps.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/view_apps.png&#41;)
+* Visit [https://api.icicidirect.com/apiuser/home](https://api.icicidirect.com/apiuser/home).
 
-[//]: # ()
-[//]: # ()
-[//]: # (* Current App Status is 'Deactive'. Click on it to activate the app.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/deactive.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/deactive.png&#41;)
+[ ![isec](imgs/icici_securities/home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/home.png)
 
-[//]: # ()
-[//]: # ()
-[//]: # (* Click 'Yes' to confirm.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/yes.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/yes.png&#41;)
+* Enter your User ID, Password and PAN No./DOB. Click the `Login` button.
 
-[//]: # ()
-[//]: # ()
-[//]: # (* Ensure that the App status has changed to 'Active'.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/active.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/active.png&#41;)
+[ ![isec](imgs/icici_securities/login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login.png)
 
-[//]: # ()
-[//]: # ()
-[//]: # (* Now visit [https://www.urlencoder.org/]&#40;https://www.urlencoder.org/&#41; to Encode your key.)
 
-[//]: # ()
-[//]: # (* Type your 'APP key' in the box.)
+* Click the `Register an app` button.
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/encode.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/encode.png&#41;)
 
-[//]: # ()
-[//]: # (* Click on `Encode` and encoded key will appear in box below .)
+[ ![isec](imgs/icici_securities/register_an_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/register_an_app.png)
 
-[//]: # ()
-[//]: # (* Copy and Save the Encoded key.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/encode_two.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/encode_two.png&#41;)
+* On the `Register an app` page, fill the following fields:
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Daily Activity &#40;Login&#41;)
 
-[//]: # (---)
+    * App name: Give the app name. Example: `algobulls_icici`.
 
-[//]: # ()
-[//]: # (!!! Note)
+    * Redirect URL: Give the value `https://app.algobulls.com/loading`.
 
-[//]: # (    * Perform the following steps at the start of every trading day)
+    
+* Click the `Submit` button.
 
-[//]: # ()
-[//]: # (* Visit the AlgoBulls [Login Page]&#40;https://app.algobulls.com/user/login&#41; and click on `Login with your Broking Account`)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/algo_home.png&#41;)
+[ ![isec](imgs/icici_securities/submit.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/submit.png)
 
-[//]: # ()
-[//]: # (&#40;1&#41;. Type the first few characters of your Broker Name.)
 
-[//]: # ()
-[//]: # (&#40;2&#41;. Select the `ICICI Securities` broker.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/select_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/select_broker.png&#41;)
+* Now Copy and Save the App key.
 
-[//]: # ()
-[//]: # (Now paste your saved Encoded key in the following URL)
 
-[//]: # ()
-[//]: # (Example: If the Encoded APP key is uS3r@ppKey and the URL is:)
+[ ![isec](imgs/icici_securities/app_key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/app_key.png)
 
-[//]: # ()
-[//]: # (```html)
 
-[//]: # (https://api.icicidirect.com/apiuser/login?api_key=placeappkeyhere)
 
-[//]: # (```)
+* Now click on the 'View Apps' button.
 
-[//]: # (then the new URL will be:)
 
-[//]: # ()
-[//]: # (```html)
+[ ![isec](imgs/icici_securities/view_apps.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/view_apps.png)
 
-[//]: # (https://api.icicidirect.com/apiuser/login?api_key=uS3r@ppKey)
 
-[//]: # (```)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/key.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/key.png&#41;)
+* Current App Status is 'Deactive'. Click on it to activate the app.
 
-[//]: # ()
-[//]: # (Press Enter after modifying the URL with your APP key.)
 
-[//]: # ()
-[//]: # (Now provide data for the following fields:)
+[ ![isec](imgs/icici_securities/deactive.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/deactive.png)
 
-[//]: # ()
-[//]: # (&#40;3&#41;. User ID: The ID given to you by your broker.)
 
-[//]: # ()
-[//]: # (&#40;4&#41;. Password: The password given to you by the broker.)
 
-[//]: # ()
-[//]: # (&#40;5&#41;. DOB/PAN: Add Date Of Birth or PAN number.)
+* Click 'Yes' to confirm.
 
-[//]: # ()
-[//]: # (&#40;6&#41;. Agree to terms and conditions.)
 
-[//]: # ()
-[//]: # (&#40;7&#41;. Click `Submit` button.)
+[ ![isec](imgs/icici_securities/yes.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/yes.png)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/login_again.png&#41;)
 
-[//]: # ()
-[//]: # (* If the sign-in is successful, you will re-directed back to the AlgoBulls website.)
 
-[//]: # ()
-[//]: # (### Another Way to Bind the Broker)
+* Ensure that the App status has changed to 'Active'.
 
-[//]: # (---)
 
-[//]: # ()
-[//]: # (Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button)
+[ ![isec](imgs/icici_securities/active.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/active.png)
 
-[//]: # ()
-[//]: # (* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.)
 
-[//]: # ()
-[//]: # (* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/sign-in-2.png&#41;)
+* Now visit [https://www.urlencoder.org/](https://www.urlencoder.org/) to Encode your key.
 
-[//]: # ()
-[//]: # (* Now go to `Broking Details` and click add broker.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/brokingdetails.png&#41;)
+* Type your 'APP key' in the box.
 
-[//]: # ()
-[//]: # (&#40;1&#41; & &#40;2&#41; Choose the broker and click 'Next'.)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/icici.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/icici.png&#41;)
+[ ![isec](imgs/icici_securities/encode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode.png)
 
-[//]: # ()
-[//]: # (Now paste your saved Encoded key in the following URL)
 
-[//]: # ()
-[//]: # (Example: If the Encoded APP key is uS3r@ppKey and the URL is:)
+* Click on `Encode` and encoded key will appear in box below .
 
-[//]: # ()
-[//]: # (```html)
 
-[//]: # (https://api.icicidirect.com/apiuser/login?api_key=placeappkeyhere)
+* Copy and Save the Encoded key.
 
-[//]: # (```)
 
-[//]: # (then the new URL will be:)
+[ ![isec](imgs/icici_securities/encode_two.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/encode_two.png)
 
-[//]: # ()
-[//]: # (```html)
 
-[//]: # (https://api.icicidirect.com/apiuser/login?api_key=uS3r@ppKey)
 
-[//]: # (```)
+### Daily Activity (Login)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/key.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/key.png&#41;)
+---
 
-[//]: # ()
-[//]: # (Press Enter after modifying the URL with your APP key)
 
-[//]: # ()
-[//]: # (Now provide data for the following fields:)
+!!! Note
 
-[//]: # ()
-[//]: # (&#40;3&#41;. User ID: The ID given to you by your broker.)
+    * Perform the following steps at the start of every trading day
 
-[//]: # ()
-[//]: # (&#40;4&#41;. Password: The password given to you by the broker.)
 
-[//]: # ()
-[//]: # (&#40;5&#41;. DOB/PAN: Add Date Of Birth or PAN number.)
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`
 
-[//]: # ()
-[//]: # (&#40;6&#41;. Agree to terms and conditions.)
 
-[//]: # ()
-[//]: # (&#40;7&#41;. Click `Submit` button.)
+[ ![isec](imgs/icici_securities/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/algo_home.png)
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/icici_securities/login_again.png&#41;)
 
-[//]: # ()
-[//]: # (* If the verification is successful, you will see the following message:)
+(1). Type the first few characters of your Broker Name.
 
-[//]: # ()
-[//]: # ([ ![isec]&#40;imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41; ]&#40;imgs/success_login.png&#41;)
 
-[//]: # ()
-[//]: # (## Support)
+(2). Select the `ICICI Securities` broker.
 
-[//]: # (---)
 
-[//]: # (For Help and Support, contact us on +91 80692 30300 or [email us]&#40;mailto:support@algobulls.com&#41;.)
+[ ![isec](imgs/icici_securities/select_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/select_broker.png)
+
+
+Now paste your saved Encoded key in the following URL
+
+
+Example: If the Encoded APP key is uS3r@ppKey and the URL is:
+
+
+```html
+
+https://api.icicidirect.com/apiuser/login?api_key=placeappkeyhere
+
+```
+
+then the new URL will be:
+
+
+```html
+
+https://api.icicidirect.com/apiuser/login?api_key=uS3r@ppKey
+
+```
+
+
+[ ![isec](imgs/icici_securities/key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/key.png)
+
+
+Press Enter after modifying the URL with your APP key.
+
+
+Now provide data for the following fields:
+
+
+(3). User ID: The ID given to you by your broker.
+
+
+(4). Password: The password given to you by the broker.
+
+
+(5). DOB/PAN: Add Date Of Birth or PAN number.
+
+
+(6). Agree to terms and conditions.
+
+
+(7). Click `Submit` button.
+
+
+[ ![isec](imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login_again.png)
+
+
+* If the sign-in is successful, you will re-directed back to the AlgoBulls website.
+
+
+### Another Way to Bind the Broker
+
+---
+
+
+Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+
+
+* Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
+
+
+* Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
+
+
+[ ![isec](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+
+
+* Now go to `Broking Details` and click add broker.
+
+
+[ ![isec](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+
+
+(1) & (2) Choose the broker and click 'Next'.
+
+
+[ ![isec](imgs/icici_securities/icici.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/icici.png)
+
+
+Now paste your saved Encoded key in the following URL
+
+
+Example: If the Encoded APP key is uS3r@ppKey and the URL is:
+
+
+```html
+
+https://api.icicidirect.com/apiuser/login?api_key=placeappkeyhere
+
+```
+
+then the new URL will be:
+
+
+```html
+
+https://api.icicidirect.com/apiuser/login?api_key=uS3r@ppKey
+
+```
+
+
+[ ![isec](imgs/icici_securities/key.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/key.png)
+
+
+Press Enter after modifying the URL with your APP key
+
+
+Now provide data for the following fields:
+
+
+(3). User ID: The ID given to you by your broker.
+
+
+(4). Password: The password given to you by the broker.
+
+
+(5). DOB/PAN: Add Date Of Birth or PAN number.
+
+
+(6). Agree to terms and conditions.
+
+
+(7). Click `Submit` button.
+
+
+[ ![isec](imgs/icici_securities/login_again.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login_again.png)
+
+
+* If the verification is successful, you will see the following message:
+
+
+[ ![isec](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
+
+
+## Support
+
+---
+
+For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

@@ -1,18 +1,22 @@
 # Home Page - Demo
 
-## Registering with AlgoBulls:
-1. `Sign up with Google -` You can now register with AlgoBulls within a minute with the Login with google option
+## 1. Registering with AlgoBulls:
+
+i. **Sign up with Google -** You can now register with AlgoBulls within a minute with the Login with google option
 ![HomePage](imgs/goggle_login.png)
-2. Sign up in 3 simple steps:\
-   Step 1: Profile - Add your Name, Email & Phone Number. Click on `Get Otp`
+
+ii. Sign up in 3 simple steps
+
+   **Step 1: Profile -** Add your Name, Email & Phone Number. Click on `Get Otp`
 
 ![HomePage](imgs/sign_up.png)
 
-   `Step 2: Credentials -` Add the OTP & other credentials such as password
+   **Step 2: Credentials -** Add the OTP & other credentials such as password
 
 ![HomePage](imgs/get_otp.png)
 
-   `Step 3: Status -` You can view the status of your registration here.\
+   **Step 3: Status -** You can view the status of your registration here.
+
    Haven't registered with AlgoBulls yet? <a href="https://app.algobulls.com/user/register">Register now!</a>
    `Log in with AlgoBulls`
 
@@ -35,7 +39,8 @@
    
    ![HomePage](imgs/login_with_broking_acc.png)
    
-`Forgot password?`\
+`Forgot password?`
+
 If you have forgotten your password, you can reset it <a href="https://app.algobulls.com/user/login?method=forgot_password">here</a> 
 
 Want to begin trading? <a href="https://app.algobulls.com/user/login">Login</a> now
