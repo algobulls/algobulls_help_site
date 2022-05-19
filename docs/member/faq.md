@@ -1,11 +1,6 @@
 # Frequently Asked Questions
 
-<details>
-<summary>
-
 ## 1. General
-
-</summary>
 
 ### i. What is AlgoBulls? How does AlgoBulls work?
 AlgoBulls is a state-of-the-art trading platform that provides 100% automated trading algorithms and has the ability to deploy multiple trading strategies for various asset classes like Equity, Commodities, Futures & Options, Currency across multiple exchanges like NSE, BSE, MCX, etc. Clients can select which algorithm strategies they want to follow and auto trade, or they can get their customised trading strategies developed as algorithms and get it deployed in live markets with the help of the AlgoBulls platform. AlgoBulls platform supports multiple brokers. You can get your broker integrated if it is not listed already.
@@ -25,13 +20,7 @@ Each method will provide information on the minimum capital required for that sp
 ### vi. What are the risk-to-reward ratio and accuracy rates?
 We have provided backtesting data for all of our strategies on the marketplace so that you may evaluate the strategy's performance. The summary section contains information on the number of trades, profit, losses, hit ratio, and many other factors.
 
-</details>
-
-<details>
-<summary>
-
 ## 2. Registration & Login:
-</summary>
 
 ### i. How can I register? 
 You [register](https://app.algobulls.com/user/register) with AlgoBulls in 3 simple steps:
@@ -64,15 +53,8 @@ You can select the Login with OTP option too. Enter your phone number and an OTP
 ### vii. I have forgotten my password, how can I login now?
 If you have forgotten your password, you can reset it [here](https://app.algobulls.com/user/login?method=forgot_password) 
 
-</details>
-
-
-<details>
-<summary>
-
 ## 3. Broker:
 
-</summary>
 ### i. Do I have to leave my existing broker to join algobulls? 
 No, the AlgoBulls system should be viewed as a diversification investment. The golden rule for investing is to never put all your money into one (investment) basket. Only a portion of your investment capital should be used with any investment strategy. So you can keep the majority of your capital with your advisor and broker and have the AlgoBulls platform trade a portion of your capital with the brokerage firm that supports our system. We support multiple brokers, to add or view our broker list, [click here](https://app.algobulls.com/broking?addBroker=true). 
 
@@ -97,16 +79,8 @@ AlgoBulls supports multiple brokers, you can check the [broker list here](https:
 ### vi. Why is my broker not in the AlgoBulls integrated broker list? 
 While we are working hard to integrate additional broking houses in India with our platform in the near future, it is possible that your broker is not on our [list of brokers](https://app.algobulls.com/broking?addBroker=true). If you are interested in running the algo strategies on a broker that is not on our broker list, please contact us on support@algobulls.com. You can also choose to add a new broker that is integrated in our system. 
 
-</details>
-
-
-<details>
-
-<summary> 
-
 ## 4. Plans & Wallet:
 
-</summary>
 
 ### i. How can I add money to my AlgoBulls wallet?
 After adding your broker with AlgoBulls, you can then [add money in the AlgoBulls account](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation.
@@ -135,15 +109,7 @@ On AgoBulls, you are charged for various services that you use.This may include 
 ### v. Are there any free plans on AlgoBulls?
 Yes, AlgoBulls offers various free plans. Subscribe for a [Free Plan](https://app.algobulls.com/wallet?defaultCategory=free) now
 
-</details>
-
-<details>
-
-<summary>
-
 ## 5. Choose Strategy Marketplace: 
-
-</summary>
 
 ### i. What is Retail marketplace?
 The [Retail Marketplace](https://app.algobulls.com/marketplace/category/retail) includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The **Retail section** includes **Equity, Futures & Commodities** cash segment strategies. [Know more](https://help.algobulls.com/member/choose-strategy.html) about the Retail Marketplace.
@@ -161,15 +127,7 @@ A strategy card has all the information you need about a strategy. To view these
 
 A detailed view of the strategy card will open. To begin trading with a particular strategy, click on the execute button to add it to your <a href="https://app.algobulls.com/portfolio">My Portfolio</a> page. To know more about the strategy card, <a href="https://help.algobulls.com/member/strategy-card.html">click here</a>. 
 
-</details>
-
-<details>
-
-<summary>
-
 ## 6. Build Strategy: 
-
-</summary>
 
 ### i. What is the build strategy? 
 AlgoBulls offers build services, so if you know how to code, you can create your own strategy. And if you do not know how to code, we will code and design your strategy for you. 
@@ -180,15 +138,7 @@ No, you don’t need to know how to code. Our team of tech experts will develop 
 ### iii. What language are strategies built in?
 Strategies are built in Python 3x. You can code in a Jupyter Notebook or a local IDE like Pycharm. It is entirely up to you which IDE you would like to use.
 
-</details>
-
-<details>
-
-<summary>
-
 ## 7. My Portfolio - Virtual Trading: 
-
-</summary>
 
 ### i. What is Virtual Trading?
 The Virtual or Test Mode on AlgoBulls is a virtual simulation of real markets. 
@@ -221,16 +171,9 @@ Yes all virtual trading services such as backtesting, Paper Trading and tweaking
 
 AlgoBulls is currently offering a free backtesting & paper trading service. <a href="https://app.algobulls.com/wallet?defaultCategory=free">Subscribe to this free plan</a> now. 
 
-</details>
-
-
-<details>
-
-<summary>
 
 ## 8. My Portfolio - Live Trading: 
 
-</summary>
 
 ### i. What is Live Mode & Live Trading? 
 The **Live Mode** is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. The choose strategy marketplace includes more than 100+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
@@ -265,16 +208,7 @@ If you are happy with the strategy after its virtual trading results you can beg
 
 The backtested/Paper traded strategy will be added to your <a href="https://help.algobulls.com/member/my-strategies.html">My Strategies</a> section where you can simply switch them to **Live Trading** from the toggle button. The strategy will be added to your portfolio in **Live Mode**. Start the strategy to begin trading!
 
-</details>
-
-
-<details>
-
-<summary>
-
 ## 9. Live Reports: 
-
-</summary>
 
 ### i. Where can I find my profit & loss reports?
 The <a href="https://help.algobulls.com/member/Books/pnl.html">P&L Book</a> shows the Profit and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range. <a href="https://app.algobulls.com/book/pl">View P&L Book</a>
@@ -285,15 +219,8 @@ The <a href="https://help.algobulls.com/member/Books/fundbook.html">Fund Book</a
 ### iii. Where can I see the trades made on my account? 
 The <a href="https://help.algobulls.com/member/Books/tradebook.html">Trade Book</a> displays chosen strategy activities in your account. All strategies executed in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range. <a href="https://app.algobulls.com/book/trade">Visit Trade Book</a>
 
-</details>
-
-<details>
-
-<summary>
-
 ## 10. My Strategies: 
 
-</summary>
 ### i. What are My Strategies?
 The My Strategies page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Virtual Trading (Backtesting/Paper Trading). You can add and manage all the strategies from the My Strategies page. <a href="https://help.algobulls.com/member/my-strategies.html">Know more</a>
 
@@ -303,5 +230,3 @@ To add strategy from the My Strategies section, click the Add strategy button an
 ### iii. How to add or remove strategies from Live & Virtual Trading mode?
 To begin trading in live markets, switch the Live Trading toggle button ON and add a strategy. If you want to remove the strategy from the live markets, use the same toggle button to do so.
 To begin Virtual Trading (Backtesting/Paper Trading),add the strategy using the Virtual Trading button and disable it to remove the strategy from virtual trading. <a href="https://help.algobulls.com/member/my-strategies.html">Know more</a>
-
-</details>
