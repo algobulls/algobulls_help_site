@@ -1,9 +1,9 @@
 # Findoc
 
 ---
-* Official Website: [https://aliceblueonline.com/](https://www.myfindoc.com/)
+* Official Website: [https://www.myfindoc.com/](https://www.myfindoc.com/)
 
-* Trading Website: [https://ant.aliceblueonline.com/](https://fintrader.myfindoc.com/)
+* Trading Website: [https://fintrader.myfindoc.com/](https://fintrader.myfindoc.com/)
 
 * Markets Supported: India
 

@@ -2,9 +2,9 @@
 
 ---
 
-* Official Website: [https://aliceblueonline.com/](https://aliceblueonline.com/)
+* Official Website: [www.finvasia.com](www.finvasia.com)
 
-* Trading Website: [https://ant.aliceblueonline.com/](https://ant.aliceblueonline.com/)
+* Trading Website: [https://shoonya.finvasia.com/#/](https://shoonya.finvasia.com/#/)
 
 * Markets Supported: India
 
