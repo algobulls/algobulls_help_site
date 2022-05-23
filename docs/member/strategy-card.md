@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your <a href="https://help.algobulls.com/member/my-portfolio.html">My Portfolio</a> page. 
+A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your [My Portfolio](https://help.algobulls.com/member/my-portfolio.html) page. 
 
 ![StrategyCard](imgs/sc1.png)
 

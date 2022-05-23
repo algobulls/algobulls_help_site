@@ -1,6 +1,7 @@
 # Choose Strategy
 
 ## 1. Introduction
+---
 
 Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology. 
 

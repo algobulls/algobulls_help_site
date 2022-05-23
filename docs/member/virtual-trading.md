@@ -17,7 +17,6 @@ Ensure the toggle button on the bottom left side of the website is switched to T
 ![test_and_live](imgs/test_and_live2.png)
 
 ## 2. How to begin Virtual Trading?
-
 ---
 
 You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to `Virtual/Test Mode` by using the toggle button on the bottom left side of the sidebar navigation.

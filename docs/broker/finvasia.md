@@ -1,5 +1,4 @@
 # Finvasia
-
 ---
 
 * Official Website: [www.finvasia.com](https://www.finvasia.com)
@@ -9,13 +8,11 @@
 * Markets Supported: India
 
 ## 1. Login and Set up your Finvasia Account
-
 ---
 
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
 ### i. Before you Start
-
 ---
 
 Keep the following information available before you start:
@@ -35,7 +32,6 @@ Keep the following information available before you start:
 * PAN/DOB
 
 ### ii. Let's Start
-
 ---
 
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on ‘Finvasia’ under Login with your Broking Account
@@ -81,12 +77,13 @@ Keep the following information available before you start:
 [ ![AliceBlue](imgs/finvasia/finvasia_broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/finvasia/finvasia_broker_added.png)
 
 ## 3. Bind your Broking Account
+---
+
 The following steps will help you to make sure you have binded your broker account
 * Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking)
 * Bind your account using the Toggle button marked below
 
 
 ## 4. Support
-
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

@@ -2,20 +2,20 @@
 
 ![Logo](imgs/logo_large.svg)
 
-## Introduction
+## 1. Introduction
 Welcome to AlgoBulls! An algo trading platform that is completely automated. AlgoBulls, which is loaded with trading algorithms and fantastic strategies, can deploy several trading strategies for various asset classes such as equity, commodities, and futures and options. You can trade in live markets or virtual markets, the choice is yours! 
 
 Before you start Algo Trading with AlgoBulls, here's a quick website tour to enable you to navigate the website easily.
 
 
-## Sign Up with AlgoBulls:
+## 2. Sign Up with AlgoBulls:
 
-### 1. **Sign Up with Google** 
+### i. **Sign Up with Google** 
 You can now register with AlgoBulls within a minute with the Login with google option
 
 ![HomePage](member/imgs/goggle_login.png)
 
-### 2. **Sign Up in 3 simple steps**
+### ii. **Sign Up in 3 simple steps**
 
    **Step 1: Profile:** Add your Name, Email & Phone Number. Click on `Get Otp`
 
@@ -27,28 +27,32 @@ You can now register with AlgoBulls within a minute with the Login with google o
 
    **Step 3: Status:** You can view the status of your registration here.
 
-   Haven't registered with AlgoBulls yet? <a href="https://app.algobulls.com/user/register">Register now!</a>
+   Haven't registered with AlgoBulls yet? [Register now!](https://app.algobulls.com/user/register)
  
 ### 3. Log in with AlgoBulls
 
    If you are already have an AlgoBulls account, simply log in using the following options:  
 
-####  i. **Login with Google:** Use your google account to `Login with google` option
+####  i. Login with Google:
+Use your google account to `Login with google` option
 
    ![HomePage](member/imgs/goggle_login.png)
 
 
-#### ii. <a href="https://app.algobulls.com/user/login">Login with mobile number:</a> Use your mobile number and the password to Login
+#### ii. [Login with mobile number:](https://app.algobulls.com/user/login) 
+Use your mobile number and the password to Login
 
    ![HomePage](member/imgs/mobile_login.png)
 
 
-#### iii. <a href="https://app.algobulls.com/user/login?method=mobile">Login with OTP:</a> You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number.
+#### iii. [Login with OTP:](https://app.algobulls.com/user/login?method=mobile) 
+You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number.
    
    ![HomePage](member/imgs/otp_login.png)
 
    
-#### iv. **Login with your Broking Account:** You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
+#### iv. Login with your Broking Account:
+You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
    
    ![HomePage](member/imgs/login_with_broking_acc.png)
    

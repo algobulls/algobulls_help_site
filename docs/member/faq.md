@@ -45,7 +45,7 @@ No, there is no additional fee to join AlgoBulls. You can join AlgoBulls for fre
 You can login with your broking account. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. [Login with your broker](https://app.algobulls.com/user/login). 
 
 ### v. How can I Login using google?
-Use your google account to **Login with google** option. 
+Use your Google account to **Login with google** option. 
 
 ### vi. What is Login with OTP?
 You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number. [Login with OTP now](https://app.algobulls.com/user/login).
@@ -80,7 +80,6 @@ AlgoBulls supports multiple brokers, you can check the [broker list here](https:
 While we are working hard to integrate additional broking houses in India with our platform in the near future, it is possible that your broker is not on our [list of brokers](https://app.algobulls.com/broking?addBroker=true). If you are interested in running the algo strategies on a broker that is not on our broker list, please contact us on support@algobulls.com. You can also choose to add a new broker that is integrated in our system. 
 
 ## 4. Plans & Wallet:
-
 
 ### i. How can I add money to my AlgoBulls wallet?
 After adding your broker with AlgoBulls, you can then [add money in the AlgoBulls account](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation.
@@ -117,15 +116,15 @@ The [Retail Marketplace](https://app.algobulls.com/marketplace/category/retail) 
 Select a strategy from the AlgoBulls [Retail Marketplace now](https://app.algobulls.com/marketplace/category/retail)! 
 
 ### ii. What is the premium marketplace? 
-**Trade with** our intelligent and powerful Index Option Strategies in the Premium Marketplace. <a href="https://help.algobulls.com/member/choose-strategy.html">Read more</a> about the Premium Marketplace. Begin trading with a <a href="https://app.algobulls.com/marketplace/category/premium">Premium Marketplace strategy now</a>. 
+**Trade with** our intelligent and powerful Index Option Strategies in the Premium Marketplace. [Read more](https://help.algobulls.com/member/choose-strategy.html) about the Premium Marketplace. Begin trading with a [Premium Marketplace strategy now](https://app.algobulls.com/marketplace/category/premium). 
 
 ### iii. What is HNI marketplace?
-AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace also includes Index Option Strategies. <a href="https://help.algobulls.com/member/choose-strategy.html">Learn more</a> about the HNI Marketplace. <a href="https://app.algobulls.com/marketplace/category/hni">Check the HNI Marketplace now</a>. 
+AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace also includes Index Option Strategies. [Learn more](https://help.algobulls.com/member/choose-strategy.html) about the HNI Marketplace. [Check the HNI Marketplace now](https://app.algobulls.com/marketplace/category/hni). 
 
 ### iv. What is a strategy card?
-A strategy card has all the information you need about a strategy. To view these details, select a marketplace in the <a href="https://app.algobulls.com/marketplace/category/retail">Choose Strategy Marketplace</a>, search for the strategy you would like to view and click on the strategy card.
+A strategy card has all the information you need about a strategy. To view these details, select a marketplace in the [Choose Strategy Marketplace](https://app.algobulls.com/marketplace/category/retail), search for the strategy you would like to view and click on the strategy card.
 
-A detailed view of the strategy card will open. To begin trading with a particular strategy, click on the execute button to add it to your <a href="https://app.algobulls.com/portfolio">My Portfolio</a> page. To know more about the strategy card, <a href="https://help.algobulls.com/member/strategy-card.html">click here</a>. 
+A detailed view of the strategy card will open. To begin trading with a particular strategy, click on the execute button to add it to your [My Portfolio](https://app.algobulls.com/portfolio) page. To know more about the strategy card, [click here](https://help.algobulls.com/member/strategy-card.html). 
 
 ## 6. Build Strategy: 
 
@@ -169,7 +168,7 @@ The backtested/Paper traded strategy will be added to your My Strategies section
 ### vi. Will I be charged for virtual trading? 
 Yes all virtual trading services such as backtesting, Paper Trading and tweaking a strategy have additional charges. However if you have subscribed to a package that covers these services, no additional charges will be involved. 
 
-AlgoBulls is currently offering a free backtesting & paper trading service. <a href="https://app.algobulls.com/wallet?defaultCategory=free">Subscribe to this free plan</a> now. 
+AlgoBulls is currently offering a free backtesting & paper trading service. [Subscribe to this free plan](https://app.algobulls.com/wallet?defaultCategory=free) now. 
 
 
 ## 8. My Portfolio - Live Trading: 
@@ -177,13 +176,13 @@ AlgoBulls is currently offering a free backtesting & paper trading service. <a h
 
 ### i. What is Live Mode & Live Trading? 
 The **Live Mode** is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. The choose strategy marketplace includes more than 100+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
-To avoid additional charges for services used in Real Trading, ensure you <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">subscribe to a plan</a> from the Plans & Wallet section.
+To avoid additional charges for services used in Real Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
 
 ### ii. How to begin Live Trading? 
 You can begin Real Trading on AlgoBulls with these 4 simple steps:  
 **Step 1:** Switch to **Live Mode**
 
-**Step 2:** Select a strategy from the **choose strategy section** and click on **execute**. The strategy will be added to the portfolio & you will be redirected to the <a href="https://app.algobulls.com/portfolio">My Portfolio</a> page
+**Step 2:** Select a strategy from the **choose strategy section** and click on **execute**. The strategy will be added to the portfolio & you will be redirected to the [My Portfolio](https://app.algobulls.com/portfolio) page
 
 **Step 3:** To start the chosen strategy click the start button from the Action field.  Select a broker, add the **start and end time** and **Quantity/Lots**. 
 
@@ -191,10 +190,10 @@ You can begin Real Trading on AlgoBulls with these 4 simple steps:
 
 **Note** - Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead. 
 
-Start Live Trading on AlgoBulls, <a href="https://app.algobulls.com/marketplace/category/retail">explore strategies</a>!
+Start Live Trading on AlgoBulls, [explore strategies](https://app.algobulls.com/marketplace/category/retail)!
 
 ### iii. Will I be charged for Live trading? 
-Yes, Live Trading services on AlgoBulls are chargeable. To ensure you don’t incur additional charges, you can subscribe to one of our <a href="https://app.algobulls.com/wallet?defaultCategory=smartPlans">AlgoBulls packages</a>. 
+Yes, Live Trading services on AlgoBulls are chargeable. To ensure you don’t incur additional charges, you can subscribe to one of our [AlgoBulls packages](https://app.algobulls.com/wallet?defaultCategory=smartPlans). 
 
 Other services that you can use without any additional charges:  
 * Adding a strategy from the Choose Strategy Marketplace 
@@ -206,27 +205,27 @@ Other services that you can use without any additional charges:
 ### iv. How can I use a virtual trading strategy in live trading?
 If you are happy with the strategy after its virtual trading results you can begin real money trading by simply switching to Live Mode. 
 
-The backtested/Paper traded strategy will be added to your <a href="https://help.algobulls.com/member/my-strategies.html">My Strategies</a> section where you can simply switch them to **Live Trading** from the toggle button. The strategy will be added to your portfolio in **Live Mode**. Start the strategy to begin trading!
+The backtested/Paper traded strategy will be added to your [My Strategies](https://help.algobulls.com/member/my-strategies.html) section where you can simply switch them to **Live Trading** from the toggle button. The strategy will be added to your portfolio in **Live Mode**. Start the strategy to begin trading!
 
 ## 9. Live Reports: 
 
 ### i. Where can I find my profit & loss reports?
-The <a href="https://help.algobulls.com/member/Books/pnl.html">P&L Book</a> shows the Profit and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range. <a href="https://app.algobulls.com/book/pl">View P&L Book</a>
+The [P&L Book](https://help.algobulls.com/member/Books/pnl.html) shows the Profit and Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range. [View P&L Book](https://app.algobulls.com/book/pl)
 
 ### ii. Where can I see charges applied on my account? 
-The <a href="https://help.algobulls.com/member/Books/fundbook.html">Fund Book</a> section shows all of the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. You can select your transactions by category and/or examine your transactions within a date range to gain a better understanding. <a href="https://app.algobulls.com/book/fund">Visit Fund Book</a>
+The [Fund Book](https://help.algobulls.com/member/Books/fundbook.html) section shows all of the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. You can select your transactions by category and/or examine your transactions within a date range to gain a better understanding. [Visit Fund Book](https://app.algobulls.com/book/fund)
 
 ### iii. Where can I see the trades made on my account? 
-The <a href="https://help.algobulls.com/member/Books/tradebook.html">Trade Book</a> displays chosen strategy activities in your account. All strategies executed in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range. <a href="https://app.algobulls.com/book/trade">Visit Trade Book</a>
+The [Trade Book](https://help.algobulls.com/member/Books/tradebook.html) displays chosen strategy activities in your account. All strategies executed in your account are updated real-time as and when the transactions take place. You can filter your activities using filters such as Strategies, Instrument and Date range. [Visit Trade Book](https://app.algobulls.com/book/trade)
 
 ## 10. My Strategies: 
 
 ### i. What are My Strategies?
-The My Strategies page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Virtual Trading (Backtesting/Paper Trading). You can add and manage all the strategies from the My Strategies page. <a href="https://help.algobulls.com/member/my-strategies.html">Know more</a>
+The My Strategies page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Virtual Trading (Backtesting/Paper Trading). You can add and manage all the strategies from the My Strategies page. [Know more](https://help.algobulls.com/member/my-strategies.html)
 
 ### ii. How to add a strategy from my strategies?
-To add strategy from the My Strategies section, click the Add strategy button and choose from the <a href="https://app.algobulls.com/marketplace/category/retail">Retail</a>, <a href="https://app.algobulls.com/marketplace/category/premium">Premium</a> and <a href="https://app.algobulls.com/marketplace/category/hni">HNI</a> marketplace. Once you choose your marketplace, select the strategy of your choice and click execute. In this way you can add the strategy to your <a href="https://app.algobulls.com/manage-strategies">My Strategies</a> and Portfolio page. 
+To add strategy from the My Strategies section, click the Add strategy button and choose from the [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) and [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace. Once you choose your marketplace, select the strategy of your choice and click execute. In this way you can add the strategy to your [My Strategies](https://app.algobulls.com/manage-strategies) and Portfolio page. 
 
 ### iii. How to add or remove strategies from Live & Virtual Trading mode?
 To begin trading in live markets, switch the Live Trading toggle button ON and add a strategy. If you want to remove the strategy from the live markets, use the same toggle button to do so.
-To begin Virtual Trading (Backtesting/Paper Trading),add the strategy using the Virtual Trading button and disable it to remove the strategy from virtual trading. <a href="https://help.algobulls.com/member/my-strategies.html">Know more</a>
+To begin Virtual Trading (Backtesting/Paper Trading),add the strategy using the Virtual Trading button and disable it to remove the strategy from virtual trading.[Know more][https://help.algobulls.com/member/my-strategies.html]
