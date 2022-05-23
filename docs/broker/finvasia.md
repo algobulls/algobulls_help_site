@@ -2,7 +2,7 @@
 
 ---
 
-* Official Website: [www.finvasia.com](www.finvasia.com)
+* Official Website: [www.finvasia.com](https://www.finvasia.com)
 
 * Trading Website: [https://shoonya.finvasia.com/#/](https://shoonya.finvasia.com/#/)
 
