@@ -1,5 +1,7 @@
 # Virtual Trading
 
+## 1. Introduction
+
 The Test or Virtual trading mode is a virtual simulation of the real markets.Switch the toggle button on the bottom left side of the website to Test Mode. 
 
 * Test any strategy in live markets without risking any money through Paper Trading. 
@@ -7,35 +9,24 @@ The Test or Virtual trading mode is a virtual simulation of the real markets.Swi
 * Test past performance data for any strategy through Backtesting. 
 * Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now! 
 
-## Introduction
----
-![Portfolio](imgs/portfolio1.png)
 
-## What is Virtual Trading? ( Backtesting & Paper Trading)
----
-
-The Virtual or Test Mode on AlgoBulls is a virtual simulation of real markets. 
-
-In the Virtual Mode you can Backtest, Paper Trade and modify strategies using the Tweak option
-
-`Backtesting` is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try `Paper trading`. 
-
-Ensure the toggle button on the bottom left side of the website is switched to Test Mode. 
-
-![test_and_live](imgs/test_and_live2.png)
+Ensure the toggle button on the bottom left side of the website is switched to Test Mode.
 
 ![test_and_live](imgs/test_and_live4.png)
 
-## How to begin Virtual Trading?
+![test_and_live](imgs/test_and_live2.png)
+
+## 2. How to begin Virtual Trading?
+
 ---
 
 You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to `Virtual/Test Mode` by using the toggle button on the bottom left side of the sidebar navigation.
 
 ![PTB](imgs/ptb3.png)
 
-Also ensure that you’ve added a strategy from the [ChooseStrategy](choose-strategy.md) marketplace.
+Also ensure that you’ve added a strategy from the [Choose Strategy](choose-strategy.md) marketplace by clicking on `execute` button.
 
-### Step 1
+### i. Step 1
 
 In the [MyPortfolio](live-trading.md) section click on the 'Start' button in the Action column. 
 
@@ -45,7 +36,7 @@ A pop-up window will appear. The AlgoBulls virtual Broker is the default broker 
 
 ![PTB](imgs/ptb5.png)
 
-### Step 2
+### ii. Step 2
 In the Customizations section choose Back Data for backtesting OR Live Data for paper trading. 
 
 ![PTB](imgs/ptb6.png)
@@ -56,13 +47,13 @@ Select the duration option in the customizations section. Add the desired date a
 
 In paper trading you only need to add the start and end time. 
 
-### Step 3
+### iii. Step 3
 
 Once you scroll below you will see the P&L tracker. Switch the P&L tracker ‘ON’ and enter your desired profit and risk appetite. 
 
 ![PTB](imgs/ptb8.png)
 
-### Step 4
+### iv. Step 4
 
 Ensure you read the terms and conditions and then check the ‘I agree to the Terms and conditions’ box. Save & Start the strategy.
 
@@ -81,7 +72,7 @@ You can check the status details in the View Details feature in the Progress sec
 
 Once this process is complete, you will be able to view the strategies Past Performance (Backtesting) or Live Market Performance (Paper trading).
 
-## How to Tweak a Strategy on AlgoBulls?
+## 3. How to Tweak a Strategy on AlgoBulls?
 ---
 
 If you'd like to tweak the strategies for Backtesting or Paper Trading , AlgoBulls also has a Tweak option. 
@@ -120,7 +111,7 @@ Once you are convinced and happy with the tweak, click Save As New Entry. You wi
 
 A new entry will appear with the changes. You can see this entry in the `My Strategies` section.
 
-## Summary Bar
+## 4. Summary Bar
 ---
 
 The `summary bar` in the portfolio section includes the following: 
@@ -137,7 +128,7 @@ The `summary bar` in the portfolio section includes the following:
 
 ![Portfolio](imgs/portfolio2.png)
 
-## Fields
+## 5. Fields
 ---
 
 My Portfolio includes the following fields: 
@@ -168,7 +159,7 @@ The strategy configuration field includes Instrument and Strategy Settings such 
 
 ![Portfolio](imgs/portfolio7.png)
 
-## Toolbar
+## 6. Toolbar
 ---
 The Dashboard toolbar includes the refresh, density, settings and full screen tools. 
 
