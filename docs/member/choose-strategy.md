@@ -49,7 +49,7 @@ Use this to type in the Strategy Name or Code .
 
 [ ![Marketplace](imgs/cs3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/cs3.png)
 
-### ii. Fitlers
+### ii. Filters
 
 You can filter your view as per the ROI%, Risk %, Capital Required & Hit Ratio. You can also use the filter option for Brokers, Exchanges,Segments, Modes, Candle Types, Candle Sizes and Tags. Click on the **Apply Filters** button to see the results.
 
