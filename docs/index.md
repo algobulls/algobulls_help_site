@@ -2,20 +2,20 @@
 
 ![Logo](imgs/logo_large.svg)
 
-## Introduction
+## 1. Introduction
 Welcome to AlgoBulls! An algo trading platform that is completely automated. AlgoBulls, which is loaded with trading algorithms and fantastic strategies, can deploy several trading strategies for various asset classes such as equity, commodities, and futures and options. You can trade in live markets or virtual markets, the choice is yours! 
 
 Before you start Algo Trading with AlgoBulls, here's a quick website tour to enable you to navigate the website easily.
 
 
-## Sign Up with AlgoBulls:
+## 2. Sign Up with AlgoBulls:
 
-### 1. **Sign Up with Google** 
+### i. **Sign Up with Google** 
 You can now register with AlgoBulls within a minute with the Login with google option
 
 ![HomePage](member/imgs/goggle_login.png)
 
-### 2. **Sign Up in 3 simple steps**
+### ii. **Sign Up in 3 simple steps**
 
    **Step 1: Profile:** Add your Name, Email & Phone Number. Click on `Get Otp`
 
@@ -27,28 +27,32 @@ You can now register with AlgoBulls within a minute with the Login with google o
 
    **Step 3: Status:** You can view the status of your registration here.
 
-   Haven't registered with AlgoBulls yet? <a href="https://app.algobulls.com/user/register">Register now!</a>
+   Haven't registered with AlgoBulls yet? [Register now!](https://app.algobulls.com/user/register)
  
 ### 3. Log in with AlgoBulls
 
    If you are already have an AlgoBulls account, simply log in using the following options:  
 
-####  i. **Login with Google:** Use your google account to `Login with google` option
+####  i. Login with Google:
+Use your google account to `Login with google` option
 
    ![HomePage](member/imgs/goggle_login.png)
 
 
-#### ii. <a href="https://app.algobulls.com/user/login">Login with mobile number:</a> Use your mobile number and the password to Login
+#### ii. [Login with mobile number:](https://app.algobulls.com/user/login) 
+Use your mobile number and the password to Login
 
    ![HomePage](member/imgs/mobile_login.png)
 
 
-#### iii. <a href="https://app.algobulls.com/user/login?method=mobile">Login with OTP:</a> You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number.
+#### iii. [Login with OTP:](https://app.algobulls.com/user/login?method=mobile) 
+You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number.
    
    ![HomePage](member/imgs/otp_login.png)
 
    
-#### iv. **Login with your Broking Account:** You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
+#### iv. Login with your Broking Account:
+You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
    
    ![HomePage](member/imgs/login_with_broking_acc.png)
    
@@ -58,7 +62,7 @@ If you have forgotten your password, you can reset it <a href="https://app.algob
 
 Want to begin trading? <a href="https://app.algobulls.com/user/login">Login</a> now
 
-## 5. What is Live and Test mode on AlgoBulls?
+## 5. What is Live and Test mode?
 
 
 The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html">Live & Test mode</a> is a feature that allows you to switch between live and virtual trading. The Test Mode on AlgoBulls is a virtual simulation of the real markets. Whereas the ‘Live Mode’ is where you can execute strategies to begin real trading.
@@ -66,7 +70,7 @@ The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html"
 ![HomePage](member/imgs/test_and_live5.png)
 
 
-## 6. How to add a broker to your AlgoBulls account?
+## 6. How to add a broking account?
 
 To begin trading, it is necessary to add your broker details and add your broking account. To add a broker account follow these 3 simple steps: 
 
@@ -81,7 +85,7 @@ For more information on adding, removing and editing the broker details, <a href
 To visit the broker details page, <a href="https://app.algobulls.com/broking">click here</a>. 
 
 
-## 7. Add money in the AlgoBulls account in 3 simple steps:
+## 7. Add money in Algobulls walltet:
 
 After adding your broker with AlgoBulls, you can then <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">add money in the AlgoBulls account</a> and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation 
 
@@ -103,7 +107,7 @@ Running out of balance? <a href="https://app.algobulls.com/wallet?defaultCategor
 Know more about the <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallet section</a> 
 
 
-## 8. How to Subscribe to a package on AlgoBulls? 
+## 8. How to Subscribe to a package? 
 To <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">subscribe to a plan</a>, you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
 
 Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallets</a> 
@@ -111,7 +115,7 @@ Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & 
 AlgoBulls also offers a range of free plans - Subscribe for a <a href="https://app.algobulls.com/wallet?defaultCategory=free">Free Plan</a> now! 
 
 
-## 9. How to select a strategy from the Choose Strategy Marketplace?
+## 9. How to select a strategy?
 
 
 After subscribing to a package you can now choose the Algo Strategy of your choice from the Choose Strategy section. This Marketplace has more than 150+ Algo Strategies created by industry leading experts. It is divided into 3 segments - Retail, Premium & HNI Marketplace 

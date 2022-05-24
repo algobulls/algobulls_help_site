@@ -1,6 +1,6 @@
 # Tradebook
 
-## What is a Trade Book?
+## 1. What is a Trade Book?
 
 ---
 All strategies executed in your account are updated real-time as and when the transactions take place. 
@@ -13,7 +13,7 @@ All strategies executed in your account are updated real-time as and when the tr
 
 ![Tradebook](imgs/tradebook.png)
 
-## Summary Bar
+## 2. Summary Bar
 
 ---
 
@@ -21,7 +21,7 @@ TheTrade Book shows the **Trading Volume** , which is the maximum traded volume 
 
 ![Tradebook](imgs/tradebook1.png)
 
-## Trade Book Heatmaps
+## 3. Trade Book Heatmaps
 
 ---
 
@@ -29,7 +29,7 @@ Your trades are segregated in shades of blue and white. Data can be viewed in co
 
 ![Tradebook](imgs/tradebook2.png)
 
-## Filters
+## 4. Filters
 
 ---
 
@@ -50,7 +50,7 @@ These entries are populated as per the strategies chosen by you.
 
 ![Tradebook](imgs/tradebook6.png)
 
-## Fields
+## 5. Fields
 
 ---
 The table covers the following fields:
@@ -63,7 +63,7 @@ The table covers the following fields:
 
 [![TradebookInstruments](imgs/tradebook7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/tradebook7.png)
 
-## The Toolbar
+## 6. The Toolbar
 
 ---
 

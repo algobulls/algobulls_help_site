@@ -9,17 +9,17 @@
 
 * Markets Supported: India
 
-## Important Points to Note
+## 1. Important Points to Note
 ---
 * It is required to log in **once** daily (at the start of the trading day) using the steps given in the [Daily Activity](#daily-activity-login) section.
 
 * TOTP is required (mandatory) in order to place trades in your account.
 
-## Login and Set up your Zerodha Account 
+## 2. Login and Set up your Zerodha Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
-### Before you Start
+### i. Before you Start
 ---
 Keep the following information available before you start:
 
@@ -37,7 +37,7 @@ Keep the following information available before you start:
 
 * PIN
 
-### One-Time Activity
+### ii. One-Time Activity
 ---
 This activity will help you to link your broking account to the AlgoBulls account via the oauth method.
 
@@ -94,7 +94,7 @@ https://app.algobulls.com/loading?st=zerodha&k=uS3r@piKey&s=uS3r@pis3cr3t
 
 [ ![Zerodha](imgs/zerodha/change_redirect_url.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/change_redirect_url.png)
 
-### Daily Activity (Login)
+### iii. Daily Activity (Login)
 ---
 
 !!! Note
@@ -164,6 +164,6 @@ Now provide data for the following fields:
 
     * Perform steps (1). to (5). again.
     
-## Support
+## 3. Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

@@ -7,11 +7,11 @@
 
 * Markets Supported: India
 
-## Login and Set up your Indira Securities Account 
+## 1. Login and Set up your Indira Securities Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
-### Before you Start
+### i. Before you Start
 ---
 Keep the following information available before you start:
 
@@ -29,7 +29,7 @@ Keep the following information available before you start:
 
 * 2FA Answers (your PAN Card number)
 
-### Let's Start
+### ii. Let's Start
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`.
 
@@ -71,6 +71,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Indira](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
-## Support
+## 2. Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

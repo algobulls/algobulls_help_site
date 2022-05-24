@@ -1,6 +1,7 @@
 # My Strategies
 
 ## 1. Introduction
+---
 
 This page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Virtual Trading (Test Mode/ Paper Trading & Backtesting). You can also add strategies and manage them here.
 
@@ -8,10 +9,7 @@ This page displays a list of all your strategies that you may set as Real Tradin
 * Add strategies to Live trading to begin real trading .
 * Add strategies to Virtual Trading to begin backtesting, Paper Trading & Tweaking .
 
----
-
 ## 2. How to add a strategy to My Strategies?
-
 ---
 
 To add strategy from the My Strategies section, click the Add strategy button and choose from the [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace.
@@ -23,7 +21,6 @@ To add strategy from the My Strategies section, click the Add strategy button an
 Once you choose your marketplace, select the strategy of your choice and click `execute`. In this way you can add the strategy to your [My Strategies](https://app.algobulls.com/manage-strategies) and Portfolio page. 
 
 ## 3. Add or Remove strategies from the Live or Virtual Trading Mode
-
 ---
 
 ![Custom Strategies](imgs/ms6.png)
@@ -38,6 +35,7 @@ To begin Virtual Trading (Backtesting/Paper Trading),add the strategy using the 
 
 ## 4. Fields
 ---
+
 My Strategies section includes the following fields: 
 
 * `Strategy` - This field displays the strategy name, code, date and time.

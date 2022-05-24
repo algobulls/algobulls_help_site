@@ -17,7 +17,7 @@ The Live Mode is where you can execute strategies to begin real trading. These s
 The [Choose Strategy Marketplace](https://app.algobulls.com/marketplace/category/retail) includes more than 100+ strategies that you can choose from and begin trading. However, in order to achieve the desired results, the appropriate mode must be selected. 
 Follow the below step to switch modes: 
 
-### i. Switch to Test Mode for Virtual Trading
+### i. Switch to Test Mode
 ---
 
 Ensure the toggle button on the bottom left side of the website is switched to `Test Mode`.
@@ -30,7 +30,7 @@ A pop-up appears, click `Yes` if you would like to confirm the changes.
 
 In the test mode, you can backtest or paper trade in 4 simple steps. To understand how to begin Virtual Trading, [click here](virtual-trading.md). 
 
-### ii. Switch to Live Mode for Real Trading
+### ii. Switch to Live Mode
 
 ---
 

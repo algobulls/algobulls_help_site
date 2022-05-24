@@ -6,11 +6,11 @@
 
 * Markets Supported: USA
 
-## Login and Set up your Alpaca Account
+## 1. Login and Set up your Alpaca Account
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
-### Before you Start
+### i. Before you Start
 ---
 Keep the following information available before you start:
 
@@ -26,7 +26,7 @@ Keep the following information available before you start:
 
 * Password
 
-### Let's Start
+### ii. Let's Start
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`.
 
@@ -44,7 +44,7 @@ As seen here, Alpaca supports 2 ways of logging in:
 
 Both are explained below
 
-### Login with Alpaca Paper (OAuth) Method
+### iii. Login with Alpaca Paper (OAuth) Method
 ---
 * Type the first few characters of your Broker Name.
 
@@ -73,7 +73,7 @@ Both are explained below
 [ ![Alpaca](imgs/alpaca/alpaca_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_4.png)
 
 
-### Login with Alpaca Real (OAuth) Method
+### iv. Login with Alpaca Real (OAuth) Method
 ---
 
 !!! Note
@@ -106,7 +106,7 @@ Both are explained below
 [ ![Alpaca](imgs/alpaca/alpaca_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_4.png)
 
 
-### After any of the above 2 methods...
+### v. After any of the above 2 methods...
 ---
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
@@ -117,6 +117,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Alpaca](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-## Support
+## 2. Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

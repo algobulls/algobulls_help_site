@@ -15,21 +15,21 @@
 * Markets Supported: India
 
 
-## Important Points to Note
+## 1. Important Points to Note
 
 ---
 
 * It is required to log in **once** daily (at the start of the trading day)
 
 
-## Login and Set up your ICICI Securities Account 
+## 2. Login and Set up your ICICI Securities Account 
 
 ---
 
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
 
-### Before you Start
+### i. Before you Start
 
 ---
 
@@ -48,7 +48,7 @@ Keep the following information available before you start:
 * PAN No./ DOB 
 
 
-### One-Time Activity
+### ii. One-Time Activity
 
 ---
 
@@ -147,7 +147,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 
 
-### Daily Activity (Login)
+### iii. Daily Activity (Login)
 
 ---
 
@@ -224,7 +224,7 @@ Now provide data for the following fields:
 * If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
 
-### Another Way to Bind the Broker
+### iv. Another Way to Bind the Broker
 
 ---
 
@@ -308,7 +308,7 @@ Now provide data for the following fields:
 [ ![isec](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
 
-## Support
+## 2. Support
 
 ---
 

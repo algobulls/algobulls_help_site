@@ -1,6 +1,7 @@
 # Choose Strategy
 
 ## 1. Introduction
+---
 
 Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology. 
 
@@ -39,7 +40,7 @@ Before adding strategies to your **My Portfolio** section, you can explore the s
 
 ![ChooseStrategy](imgs/cs2.png)
 
-## 5. Exploring strategies on Choose Strategy Marketplace
+## 5. Explore strategies
 ---
 You can find strategies using the following options: 
 
