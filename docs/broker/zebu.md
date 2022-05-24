@@ -7,15 +7,15 @@
 
 * Markets Supported: India
 
-## Important Points to Note
+## 1. Important Points to Note
 ---
 * It is required to log in **once** daily (at the start of the trading day) using the link [https://zebull.in](https://zebull.in) before executing any strategy. Also, do not logout, but it is ok to close the tab directly.
 
-## Login and Set up your Zebu Account 
+## 2. Login and Set up your Zebu Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
-### Before you Start
+### i. Before you Start
 ---
 Keep the following information available before you start:
 
@@ -33,7 +33,7 @@ Keep the following information available before you start:
 
 * API Key
 
-### Let's Start
+### ii. Let's Start
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`.
 
@@ -43,7 +43,7 @@ Keep the following information available before you start:
 
 [ ![Zebu](imgs/zebu/zebu_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_login.png)
 
-### Login
+### iii. Login
 ---
 * Type the first few characters of your Broker Name.
 
@@ -63,7 +63,7 @@ Keep the following information available before you start:
 
 * If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
-### Another Way to Bind the Broker
+### iv. Another Way to Bind the Broker
 ---
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
@@ -96,6 +96,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Zebu](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
-## Support
+## 3. Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

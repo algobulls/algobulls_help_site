@@ -31,7 +31,7 @@ The Broker will now be added to your **Broking Details** page. If you have multi
 
 ![Broking](imgs/primary_broker.png)
 
-## 3. How to edit or remove a broker from your AlgoBulls account?
+## 3. How to edit or remove your broking account?
 
 If you wish to edit details click on Login/Edit option
 
