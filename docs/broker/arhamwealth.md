@@ -6,15 +6,15 @@
 
 * Markets Supported: India
 
-## Important Point(s) to Note
+## 1. Important Point(s) to Note
 ---
 * It is required to login **once** daily (at the start of the trading day).
 
-## Login and Setup your Arham Wealth Account 
+## 2. Login and Setup your Arham Wealth Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
-### Before you Start
+### i. Before you Start
 ---
 Keep the following information available before you start:
 
@@ -32,7 +32,7 @@ Keep the following information available before you start:
       
 * PIN
 
-### Let's Start
+### ii. Let's Start
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`.
 
@@ -62,7 +62,7 @@ Keep the following information available before you start:
 
 * If the sign-in is successful, you will re-directed back to the AlgoBulls website.
 
-### Another Way to Bind the Broker
+### iii. Another Way to Bind the Broker
 ---
 
 Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
@@ -101,6 +101,6 @@ Login to your AlgoBulls account. Provide data for the following fields and then 
 
 [ ![ArhamWealth](imgs/success_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/success_login.png)
 
-## Support
+## 2. Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

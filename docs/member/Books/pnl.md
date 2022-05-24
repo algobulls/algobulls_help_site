@@ -1,6 +1,6 @@
 # P & L
 
-## What is a P&L Book?
+## 1. What is a P&L Book?
 
 ---
 Track the Profit and Loss of your trades in the P&L Book.
@@ -12,7 +12,7 @@ Track the Profit and Loss of your trades in the P&L Book.
 
 ![PnLBook](imgs/pnl.png)
 
-## Summary Bar
+## 2. Summary Bar
 
 ---
 
@@ -20,7 +20,7 @@ The P&L Book shows the `Gross Profit & Loss`, which is your total profit and los
 
 ![PnLBook](imgs/pnl1.png)
 
-## P&L Book Heat Maps
+## 3. P&L Book Heat Maps
 
 ---
 
@@ -28,7 +28,7 @@ Your P&L data is segregated in shades of green and red. Data can be viewed daily
 
 ![PnLBook](imgs/pnl2.png)
 
-## Filters
+## 4. Filters
 
 ---
 Filters will allow you to selectively search for a specific entry or multiple entries.
@@ -49,7 +49,7 @@ These entries are populated as per the instruments on the strategies that were e
 
 ![PnLBook](imgs/pnl6.png)
 
-## Fields
+## 5. Fields
 
 ---
 The table covers the following fields:
@@ -63,7 +63,7 @@ The table covers the following fields:
 
 [ ![PnLBook](imgs/pnl7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/pnl7.png)
 
-## The Toolbar
+## 6. The Toolbar
 
 ---
 ![Filters](imgs/toolbar1_pnl.png)

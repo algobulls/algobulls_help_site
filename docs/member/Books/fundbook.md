@@ -1,6 +1,6 @@
 # Fundbook
 
-## What is a Fund Book?
+## 1. What is a Fund Book?
 
 ---
 The Fund Book displays all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
@@ -13,7 +13,7 @@ The Fund Book displays all the charges that have been applied to your account. Y
 
 ![Fundbook](imgs/fb.png)
 
-## Summary Bar
+## 2. Summary Bar
 
 ---
 
@@ -21,26 +21,26 @@ The Fund Book displays the **Number of Transactions** made, **Total AlgoBulls Mo
 
 ![Fundbook](imgs/fb1.png)
 
-## Filters
+## 3. Filters
 
 ---
 The Filter option allows you to narrow down your search further. The following filters are available in the fund book:
 
 ![Filters](imgs/fb2.png)
 
-### Category
+### 4. Category
 
 From the category search filter you can choose from upto 8 categories such as the AlgoBulls Money, Credit from Parent, Transactional Charges, Tweak Charges, Backtesting Charges, Build Real Trading Charges and Strategy Build Charges. 
 
 ![Filters](imgs/fb3.png)
 
-### Date Range (Start to End Date)
+### 5. Date Range (Start to End Date)
 
 Here you can select a date range to view the table for the selected category (if any).
 
 ![Filters](imgs/fb4.png)
 
-## Fields
+## 6. Fields
 
 ---
 The fund book includes the following fields: 
@@ -54,7 +54,7 @@ The fund book includes the following fields:
 
 [ ![Fundbook](imgs/fb5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fb5.png)
 
-## Toolbar
+## 7. Toolbar
 
 ---
 ![Filters](imgs/toolbar1.png)

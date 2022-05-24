@@ -60,7 +60,7 @@ The strategy may stop due to various reasons such as market closure, P&L achieve
 
 ![PTB](imgs/ptb17.png)
 
-## 4. How do I apply backtested or paper traded strategies in Real Trading?
+## 4. How to apply tweaked strategy in Real Trading?
 ---
 
 If you are happy with the strategy after its virtual trading results you can begin real money trading by simply switching to Live Mode. 

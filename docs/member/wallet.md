@@ -5,7 +5,7 @@ To begin trading with AlgoBulls, you must have a sufficient balance in your acco
 
 Let’s understand how you can add money to your Algobulls wallet, subscribe to plans and use the pay-as-you-go model.
 
-## 2. How to add money to your AlgoBulls account? 
+## 2. How to add money? 
 To add money to your AlgoBulls account. Choose [Plans & Wallet](https://app.algobulls.com/wallet?defaultCategory=smartPlans) from sidebar navigation. Enter the amount and click on **+ Add Money**
 
 ![Nav](imgs/pw1.png)
@@ -26,11 +26,11 @@ You can consider opting for [subscription packages](https://app.algobulls.com/wa
 
 Here’s a quick explainer on how you can subscribe to a package of your choice. 
 
-## 3. How to subscribe to a plan on AlgoBulls?
+## 3. How to subscribe to a plan?
 
 To subscribe to a plan, you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period.
 
-## 4. Here’s an example to help you understand better:
+## 4. Example
 If you activate a smart plan in Real Trading for equity strategy services for 1180 INR for 30 days, you will be able to use the service without incurring any further expenses for the next 30 days.
 
 If you wish to Backtest a strategy, the subscription selected  by you does not include Virtual services. This means Virtual Trading services will continue to be charged and you will have to subscribe to virtual trading plans or  pay-as-you-go to use these services. 
