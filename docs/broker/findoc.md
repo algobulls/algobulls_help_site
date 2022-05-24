@@ -1,4 +1,5 @@
-# Findoc
+# FinDoc
+
 ---
 * Official Website: [https://www.myfindoc.com/](https://www.myfindoc.com/)
 
@@ -31,7 +32,7 @@ Keep the following information available before you start:
 ### ii. Let's Start
 ---
 
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on ‘Findoc’ under Login with your Broking Account.
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on ‘FinDoc’ under Login with your Broking Account.
 
 [ ![AliceBlue](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
