@@ -35,8 +35,13 @@ The P&L Scan Frequency for Real Trading and Paper Trading is currently refreshed
 
 This feature is available for:
 
-#### i. Test Mode -  [Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting & Paper Trading)
-#### ii. Live Mode - [Real Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) in Live Markets 
+#### i. Test Mode
+
+[Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting & Paper Trading)
+
+#### ii. Live Mode
+
+[Real Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) in Live Markets 
 
 * AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite.
 

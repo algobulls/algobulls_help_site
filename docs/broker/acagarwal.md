@@ -7,11 +7,11 @@
 
 * Markets Supported: India
 
-## Login and Setup your AC Agarwal Account 
+## 1. Login and Setup your AC Agarwal Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
-### Before you Start
+### i. Before you Start
 ---
 Keep the following information available before you start:
 
@@ -29,7 +29,7 @@ Keep the following information available before you start:
 
 * 2FA Answers (your DOB in ddmmyyyy format)
 
-### Let's Start
+### ii. Let's Start
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on 'Ac Agarwal' under `Login with your Broking Account`.
 
@@ -72,6 +72,6 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_5.png)
 
-## Support
+## 2. Support
 ---
 For Help and Support, contact us on +91 80692 30300 or [email us](mailto:support@algobulls.com).

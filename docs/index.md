@@ -62,7 +62,7 @@ If you have forgotten your password, you can reset it <a href="https://app.algob
 
 Want to begin trading? <a href="https://app.algobulls.com/user/login">Login</a> now
 
-## 5. What is Live and Test mode on AlgoBulls?
+## 5. What is Live and Test mode?
 
 
 The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html">Live & Test mode</a> is a feature that allows you to switch between live and virtual trading. The Test Mode on AlgoBulls is a virtual simulation of the real markets. Whereas the ‘Live Mode’ is where you can execute strategies to begin real trading.
@@ -70,7 +70,7 @@ The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html"
 ![HomePage](member/imgs/test_and_live5.png)
 
 
-## 6. How to add a broker to your AlgoBulls account?
+## 6. How to add a broking account?
 
 To begin trading, it is necessary to add your broker details and add your broking account. To add a broker account follow these 3 simple steps: 
 
@@ -85,7 +85,7 @@ For more information on adding, removing and editing the broker details, <a href
 To visit the broker details page, <a href="https://app.algobulls.com/broking">click here</a>. 
 
 
-## 7. Add money in the AlgoBulls account in 3 simple steps:
+## 7. Add money in Algobulls walltet:
 
 After adding your broker with AlgoBulls, you can then <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">add money in the AlgoBulls account</a> and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation 
 
@@ -107,7 +107,7 @@ Running out of balance? <a href="https://app.algobulls.com/wallet?defaultCategor
 Know more about the <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallet section</a> 
 
 
-## 8. How to Subscribe to a package on AlgoBulls? 
+## 8. How to Subscribe to a package? 
 To <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">subscribe to a plan</a>, you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
 
 Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallets</a> 
@@ -115,7 +115,7 @@ Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & 
 AlgoBulls also offers a range of free plans - Subscribe for a <a href="https://app.algobulls.com/wallet?defaultCategory=free">Free Plan</a> now! 
 
 
-## 9. How to select a strategy from the Choose Strategy Marketplace?
+## 9. How to select a strategy?
 
 
 After subscribing to a package you can now choose the Algo Strategy of your choice from the Choose Strategy section. This Marketplace has more than 150+ Algo Strategies created by industry leading experts. It is divided into 3 segments - Retail, Premium & HNI Marketplace 
