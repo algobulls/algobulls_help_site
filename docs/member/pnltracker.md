@@ -14,9 +14,7 @@ In the Test or Live mode, select a strategy from the chosen marketplace and clic
 
 Turn the P&L toggle button **ON** after adding the date, duration, and lots in the customization section, then enter the desired profit and risk appetite in the **P&L Tracker**.
 
-![pnltracker](imgs/pnl_tracker_4.png)
-
-![pnltracker](imgs/pnl_tracker1_5.png)
+![pnltracker](imgs/pnl_tracker_6.png)
 
 Click on **Save & Start** after agreeing to the terms and conditions. The strategy will begin. 
 
