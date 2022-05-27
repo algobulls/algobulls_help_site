@@ -35,13 +35,13 @@ Keep the following information available before you start:
 
 ### ii. Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`.
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **login with your Broking Account**.
 
 [ ![5PAISA](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
 * Type the first few characters of your Broker Name.
 
-* Select the `5PAISA` broker.
+* Select the **5PAISA** broker.
 
 [ ![5PAISA](imgs/fivepaisa/5paisa1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fivepaisa/5paisa1.png)
 
@@ -60,7 +60,7 @@ Keep the following information available before you start:
 ### iii. Another Way to Bind the Broker
 ---
 
-Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -68,7 +68,7 @@ Login to your AlgoBulls account. Provide data for the following fields and then 
 
 [ ![5PAISA](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker.
+* Now go to **Broking Details** and click add broker.
 
 [ ![5PAISA](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 

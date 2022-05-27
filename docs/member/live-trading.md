@@ -65,22 +65,22 @@ The strategy may stop due to various reasons such as market closure, P&L achieve
 
 If you are happy with the strategy after its virtual trading results you can begin real money trading by simply switching to Live Mode. 
 
-The backtested/Paper traded strategy will be added to your [My Strategies](my-strategies.md) section where you can simply switch them to `Live Trading` from the toggle button. The strategy will be added to your portfolio in ` Live Mode`.
+The backtested/Paper traded strategy will be added to your [My Strategies](my-strategies.md) section where you can simply switch them to **Live Trading** from the toggle button. The strategy will be added to your portfolio in **Live Mode**.
 
 ## 5. Summary Bar
 ---
 
-The `summary bar` in the portfolio section includes the following: 
+The **summary bar** in the portfolio section includes the following: 
 
-`Choose Strategy` - Number of strategies from the Marketplace in your portfolio added by you.
+**Choose Strategy** - Number of strategies from the Marketplace in your portfolio added by you.
 
-`Tweak Strategy` -  Number of strategies that have been tweaked by you.
+**Tweak Strategy** -  Number of strategies that have been tweaked by you.
 
-`Build Strategy` - Number of custom strategies that have been built by the AlgoBulls developer team for you. 
+**Build Strategy** - Number of custom strategies that have been built by the AlgoBulls developer team for you. 
 
-`Total Running Strategies` - The number of strategies that are currently active on your portfolio, especially from the ones mentioned above (During the market hours).
+**Total Running Strategies** - The number of strategies that are currently active on your portfolio, especially from the ones mentioned above (During the market hours).
 
-`Today’s P&L` - The total P&L value.
+**Today’s P&L** - The total P&L value.
 
 ![Portfolio](imgs/portfolio2.png)
 
@@ -89,16 +89,16 @@ The `summary bar` in the portfolio section includes the following:
 
 My Portfolio includes the following fields: 
 
-* `Strategy` - This field displays the strategy name and code.
-* `Instrument(s)` - This includes the instrument on which the strategy is being run. 
-* `Tag` - This is a user defined tag for the strategy. Users can tag different strategies under different tags.
-* `Volume` - This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook.
+* **Strategy** - This field displays the strategy name and code.
+* **Instrument(s)** - This includes the instrument on which the strategy is being run. 
+* **Tag** - This is a user defined tag for the strategy. Users can tag different strategies under different tags.
+* **Volume** - This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook.
 
 ![Portfolio](imgs/portfolio3.png)
 
 ![Portfolio](imgs/portfolio4.png)
 
-* `Config` - You can view parameters and other configuration settings here. 
+* **Config** - You can view parameters and other configuration settings here. 
 The strategy configuration field includes Instrument and Strategy Settings such as general settings, strategy parameters, resume, exit and misc options. 
 
 ![Portfolio](imgs/portfolio5.png)

@@ -17,7 +17,7 @@ All strategies executed in your account are updated real-time as and when the tr
 
 ---
 
-TheTrade Book shows the **Trading Volume** , which is the maximum traded volume to date, and the  **`Total Trades**, which is the total number of trades made to date.
+TheTrade Book shows the **Trading Volume** , which is the maximum traded volume to date, and the  **Total Trades**, which is the total number of trades made to date.
 
 ![Tradebook](imgs/tradebook1.png)
 

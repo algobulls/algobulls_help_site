@@ -30,7 +30,7 @@ Keep the following information available before you start:
 
 ### ii. Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`.
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **login with your Broking Account**.
 
 [ ![AliceBlue](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
@@ -50,11 +50,11 @@ Both are explained below
 ---
 * Type the first few characters of your Broker Name.
 
-* Select the `ALICEBLUE` broker under `other available brokers`.
+* Select the **ALICEBLUE** broker under **other available brokers**.
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_login_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login_nonoauth.png)
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button.
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button.
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -62,7 +62,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![AliceBlue](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker.
+* Now go to **Broking Details** and click add broker.
 
 [ ![AliceBlue](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
@@ -78,7 +78,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 (3). Year of Birth: The year of birth you have given while creating the broker account.
 
-(4). Click `Confirm`.
+(4). Click **Confirm**.
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_credentials.png)
 
@@ -90,7 +90,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 ---
 * Type the first few characters of your Broker Name.
 
-* Select the `ALICEBLUE` broker.
+* Select the **ALICEBLUE** broker.
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_login_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login_oauth.png)
 
@@ -100,13 +100,13 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 (2). Password: The password given to you by the broker.
 
-(3). Click `SIGN IN`.
+(3). Click **SIGN IN**.
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_2_oauth.png)
 
 (4). Year of Birth: The year of birth you have given while creating the broker account
 
-(5). Click `Submit`
+(5). Click **Submit**
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_3_oauth.png)
 

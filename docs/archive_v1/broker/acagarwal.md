@@ -31,17 +31,17 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on 'Ac Agarwal' under `Login with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on 'Ac Agarwal' under **Login with your Broking Account**
 
-* If you do not see your broker name, then click on `+ x more` where x is the number of brokers
+* If you do not see your broker name, then click on **+ x more** where x is the number of brokers
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_1.png)
 
-* Type `Ac Agarwal` in the Search Box. and then click on the Broker Link that is shown in the search results
+* Type **Ac Agarwal** in the Search Box. and then click on the Broker Link that is shown in the search results
 
 [ ![Acagarwal](imgs/acagarwal/acagarwal_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/acagarwal/acagarwal_login_2.png)
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 

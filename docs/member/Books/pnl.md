@@ -16,7 +16,7 @@ Track the Profit and Loss of your trades in the P&L Book.
 
 ---
 
-The P&L Book shows the `Gross Profit & Loss`, which is your total profit and loss, the `Trading Volume`, which is the maximum traded volume to date, and the `Total Trades`, which is the total number of trades made to date.
+The P&L Book shows the **Gross Profit & Loss**, which is your total profit and loss, the **Trading Volume**, which is the maximum traded volume to date, and the `Total Trades`, which is the total number of trades made to date.
 
 ![PnLBook](imgs/pnl1.png)
 
@@ -35,7 +35,7 @@ Filters will allow you to selectively search for a specific entry or multiple en
 
 ![PnLBook](imgs/pnl3.png)
 
-* `Strategies` - Choose one or more strategies to display them in the table below. 
+* **Strategies** - Choose one or more strategies to display them in the table below. 
 These entries are populated as per the strategies chosen by you.
 
 ![PnLBook](imgs/pnl4.png)

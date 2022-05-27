@@ -30,7 +30,7 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **Sign In with your Broking Account**
 
 [ ![AliceBlue](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
 
@@ -51,13 +51,13 @@ Both are explained below
 ---
 (1). Type the first few characters of your Broker Name
 
-(2). Select the `ALICEBLUE` broker
+(2). Select the **ALICEBLUE** broker
 
-(3). Click on the `Login & Connect with ALICEBLUE` button
+(3). Click on the **Login & Connect with ALICEBLUE** button
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_login.png)
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -83,9 +83,9 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 ---
 (1). Type the first few characters of your Broker Name
 
-(2). Select the `ALICEBLUE OAuth` broker
+(2). Select the **ALICEBLUE OAuth** broker
 
-(3). Click on the `Login with ALICEBLUE` button
+(3). Click on the **Login with ALICEBLUE** button
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_oauth.png)
 
@@ -95,13 +95,13 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 (5). Password: The password given to you by the broker
 
-(6). Click `SIGN IN`
+(6). Click **SIGN IN**
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_2_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_2_oauth.png)
 
 (7). Year of Birth: The year of birth you have given while creating the broker account
 
-(8). Click `Submit`
+(8). Click **Submit**
 
 [ ![AliceBlue](imgs/aliceblue/aliceblue_3_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/aliceblue/aliceblue_3_oauth.png)
 

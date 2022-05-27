@@ -17,7 +17,7 @@ You can now register with AlgoBulls within a minute with the Login with google o
 
 ### ii. **Sign Up in 3 simple steps**
 
-   **Step 1: Profile:** Add your Name, Email & Phone Number. Click on `Get Otp`
+   **Step 1: Profile:** Add your Name, Email & Phone Number. Click on **Get Otp**.
 
 ![HomePage](member/imgs/sign_up.png)
 
@@ -29,12 +29,12 @@ You can now register with AlgoBulls within a minute with the Login with google o
 
    Haven't registered with AlgoBulls yet? [Register now!](https://app.algobulls.com/user/register)
  
-### 3. Log in with AlgoBulls
+## 3. Log in with AlgoBulls
 
-   If you are already have an AlgoBulls account, simply log in using the following options:  
+   If you already have an AlgoBulls account, simply log in using the following options:  
 
 ####  i. Login with Google:
-Use your google account to `Login with google` option
+Use your google account to **Login with google**
 
    ![HomePage](member/imgs/goggle_login.png)
 
@@ -65,7 +65,7 @@ Want to begin trading? <a href="https://app.algobulls.com/user/login">Login</a> 
 ## 5. What is Live and Test mode?
 
 
-The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html">Live & Test mode</a> is a feature that allows you to switch between live and virtual trading. The Test Mode on AlgoBulls is a virtual simulation of the real markets. Whereas the ‘Live Mode’ is where you can execute strategies to begin real trading.
+The AlgoBulls <a href="https://help.algobulls.com/member/test-to-live-mode.html">Live & Test mode</a> is a feature that allows you to switch between live and virtual trading. The Test Mode on AlgoBulls is a virtual simulation of the real markets. Whereas the ‘Live Mode’ is where you can execute strategies to begin live trading.
 
 ![HomePage](member/imgs/test_and_live5.png)
 
@@ -76,7 +76,7 @@ To begin trading, it is necessary to add your broker details and add your brokin
 
 **Step 1:** From the AlgoBulls sidebar navigation select <a href="https://help.algobulls.com/member/broking-details.html">Broking Details</a> in Live Mode and click on the <a href="https://app.algobulls.com/broking?addBroker=true">Add Broker</a> button.
 
-**Step 2:** Select your broker and fill in the necessary information. Click on `Confirm`
+**Step 2:** Select your broker and fill in the necessary information. Click on **Confirm**
 
 **Step 3:** Once confirmed the broker will be added to your account. 
 
@@ -85,11 +85,11 @@ For more information on adding, removing and editing the broker details, <a href
 To visit the broker details page, <a href="https://app.algobulls.com/broking">click here</a>. 
 
 
-## 7. Add money in Algobulls walltet:
+## 7. Add money in Algobulls Plans and Wallet:
 
-After adding your broker with AlgoBulls, you can then <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">add money in the AlgoBulls account</a> and subscribe to a package of your choice from the Plans & Wallets section in the sidebar navigation 
+After adding your broker with AlgoBulls, you can then <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">add money in the AlgoBulls account</a> and subscribe to a package of your choice from the Plans & Wallet section in the sidebar navigation 
 
-**Step 1:** In the plans & wallets section, enter the amount and click on + Add Money
+**Step 1:** In the plans & wallet section, enter the amount and click on + Add Money
 
 ![HomePage](member/imgs/add_money.png)
 
@@ -107,10 +107,11 @@ Running out of balance? <a href="https://app.algobulls.com/wallet?defaultCategor
 Know more about the <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallet section</a> 
 
 
-## 8. How to Subscribe to a package? 
-To <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">subscribe to a plan</a>, you can choose a package of your choice from the plans & wallets section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
+## 8. How to Subscribe to a Plan? 
 
-Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallets</a> 
+To <a href="https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading">subscribe to a plan</a>, you can choose a package of your choice from the plans & wallet section, these plans are active for a specific time duration. Hence all services included in the package will not incur any additional charges for that period. 
+
+Know more about <a href="https://help.algobulls.com/member/wallet.html">Plans & Wallet</a> 
 
 AlgoBulls also offers a range of free plans - Subscribe for a <a href="https://app.algobulls.com/wallet?defaultCategory=free">Free Plan</a> now! 
 
@@ -135,20 +136,21 @@ A detailed view of the strategy card will open. To begin trading with a particul
 
 ## 11. My Portfolio: 
 
-In the My Portfolio section you can execute strategies in the real markets with Real Trading in the <a href=""></a>Live Mode.
+In the My Portfolio section you can execute strategies in the real markets with Live Trading in the <a href=""></a>Live Mode.
 
 In the <a href="https://help.algobulls.com/member/test-to-live-mode.html">Test Mode</a>, you can test a strategy in live markets without risking any money through Paper Trading, modify strategies using the <a href="https://help.algobulls.com/member/tweak.html">Tweak option</a> and test the past performance data for that strategy through Backtesting.
 
-In order to begin real trading or virtual trading you can switch the toggle button on the bottom left side of the website to Live Mode/Test Mode. Learn more about the Portfolio in Virtual & Live Trading mode.  
+In order to begin live trading or virtual trading you can switch the toggle button on the bottom left side of the website to Live Mode/Test Mode. Learn more about the Portfolio in Virtual & Live Trading mode.  
 
-<a href="https://app.algobulls.com/portfolio">Begin Trading now!</a> 
+<a href="https://app.algobulls.com/portfolio">Begin Trading now!</a>
+
 The portfolio also includes some fantastic features such as the P&L Tracker and <a href="https://help.algobulls.com/member/tweak.html">Tweak strategy feature</a>. 
 
 The <a href="https://help.algobulls.com/member/pnltracker.html">P&L Tracker feature</a> allows you to gain profit or limit losses at (or near) predefined values for your plan. You can access the P&L Tracker when you start a strategy in the My Portfolio section in Test or Live Mode. <a href="https://help.algobulls.com/member/pnltracker.html">Know more about the P&L Tracker</a>
 
 ## 12. My Strategies: 
 
-The My Strategies page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Virtual Trading (Backtesting/Paper Trading). 
+The My Strategies page displays a list of all your strategies that you may set as Live Trading (Live Mode) or Virtual Trading (Backtesting/Paper Trading). 
 
 To add strategy from the My Strategies section, click the Add strategy button and choose from the <a href="https://app.algobulls.com/marketplace/category/retail">Retail</a>, <a href="https://app.algobulls.com/marketplace/category/premium">Premium</a> and <a href="https://app.algobulls.com/marketplace/category/hni">HNI</a> marketplace. 
 
@@ -159,14 +161,16 @@ You can also add strategies and manage them <a href="https://app.algobulls.com/m
 
 ## 13. Live Reports: 
 
-The Live Reports section is divided into 3 parts - <a href="https://app.algobulls.com/book/pl">P&L Book</a>, <a href="https://app.algobulls.com/book/trade">Trade Book</a> & <a href="https://app.algobulls.com/book/fund">Fund Book</a>. 
+The Live Reports section is divided into 3 parts - <a href="https://app.algobulls.com/book/pl">P&L Book</a>, <a href="https://app.algobulls.com/book/trade">Trade Book</a>, and <a href="https://app.algobulls.com/book/fund">Fund Book</a>. 
 
 
-The P&L Book displays the Profit & Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. <a href="https://help.algobulls.com/member/Books/pnl.html">Know more</a>.
-The Trade Book displays the chosen strategy’s activities in your account. <a href="https://help.algobulls.com/member/Books/tradebook.html">Read more</a>.
-The Fund Book section shows all of the charges that have been applied to your account. <a href="https://help.algobulls.com/member/Books/fundbook.html">Learn more</a>.
+* The P&L Book displays the Profit & Loss of your trades in your account. All trades/orders in your account are updated real-time as and when the transactions take place. <a href="https://help.algobulls.com/member/Books/pnl.html">Know more</a>.
 
-Want to check Live Reports for your Strategies? Visit the <a href="https://app.algobulls.com/book/pl">P&L Book</a>, <a href="https://app.algobulls.com/book/trade">Trade Book</a> & <a href="https://app.algobulls.com/book/fund">Fund Book</a> now! 
+* The Trade Book displays the chosen strategy’s activities in your account. <a href="https://help.algobulls.com/member/Books/tradebook.html">Read more</a>.
+
+* The Fund Book section shows all of the charges that have been applied to your account. <a href="https://help.algobulls.com/member/Books/fundbook.html">Learn more</a>.
+
+Want to check Live Reports for your Strategies? Visit the <a href="https://app.algobulls.com/book/pl">P&L Book</a>, <a href="https://app.algobulls.com/book/trade">Trade Book</a>, and <a href="https://app.algobulls.com/book/fund">Fund Book</a> now! 
 
 ## 14. The Dashboard
 Once you have successfully registered with AlgoBulls, you will be redirected to the <a href="https://help.algobulls.com/member/dashboard.html">AlgoBulls Dashboard</a>. The AlgoBulls Dashboard gives you an overview of your account and trades.
@@ -189,25 +193,26 @@ For [FAQs](member/faq.md) and other help related videos and documents you can ch
 
 For further information regarding the AlgoBulls platform you can always reach out to our customer service team at <a href="mailto:support@algobulls.com">support@algobulls.com</a> OR call us on +91 8069 230 300
 
-!!! Note
-    * If you want to perform backtesting and paper trading, you can skip this step (Mandatory for Real Trading)
+>!!! Note
+>
+ >  * If you want to perform backtesting and paper trading, you can skip this step (Mandatory for Live Trading)
 ---
 If you're unable to trade, consider the factors listed below. If you believe there is another reason why your trade has not begun, please contact your relationship manager. Alternatively, you can [email us](mailto:support@algobulls.com)
 
 !!! warning
-    Even after completing the all the points mentioned above, trading might not start because of the following reasons:
+    Even after completing all of the preceding steps mentioned above, trading may not begin for the following reasons:
     
-    * Your broker account may not have sufficient funds
+    * Your broker account may be insufficiently funded.
     
-    * Any specific segment in your broker account is not yet activated. (This happens with new accounts, and though some brokers activate this by default, others may take 24 hours or more to do so)
+    * A particular segment in your broker account has not yet been activated (This happens with new accounts, and though some brokers activate this by default, others may take 24 hours or more to do so).
     
-    * Due to market volatility, your broker may have stopped taking certain order requests on some of the scripts or stock.(If any such order type with such script/stock strategies currently running in your platform account will stop showing any new orders)
+    * Due to market volatility, your broker may have stopped accepting certain order requests on some of the scripts or stocks (If any such order type with such script/stock strategy is currently running in your AlgoBulls account, new orders for the same won't be displayed).
     
-    * Certain order types don't work with certain brokers. So your binded broker account should allow those particular order to be fired
+    * Certain order types are incompatible with certain brokers.
     
-    * Every strategy may not run with every broker. This is due to permission issues at the broker end
-    
-    * Once your trading starts, the AlgoBulls platform has no control over the brokerage charges levied by your broker. Please have a look at all charges on the broker side before going ahead
+    * It's essential for your linked broker account to allow you to execute those orders. Not all strategies are accepted/allowed by every broker. This is because of broker permission issues.
+
+    * The AlgoBulls platform has no control over the brokerage charges imposed by your broker once your trading begins. Before proceeding, please review all charges on the broker's end.
 
 !!! info
     You can help us improve this site by submitting updates on our GitHub repository. 

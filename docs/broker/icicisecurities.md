@@ -66,7 +66,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 [ ![isec](imgs/icici_securities/home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/home.png)
 
 
-* Enter your User ID, Password and PAN No./DOB. Click the `Login` button.
+* Enter your User ID, Password and PAN No./DOB. Click the **Login** button.
 
 
 [ ![isec](imgs/icici_securities/login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/icici_securities/login.png)

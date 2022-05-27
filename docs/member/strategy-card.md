@@ -8,7 +8,7 @@ A strategy card has all the information you need about a strategy before you beg
 
 ## 2. Summary Bar
 
-You can check the `minimum capital required in demat, transaction fee with pack and without the package, recommended duration` and `strategy code`.  
+You can check the **minimum capital required in demat, transaction fee with pack and without the package, recommended duration** and **strategy code**.  
 
 ![StrategyCard](imgs/sc2.png)
 
@@ -22,7 +22,7 @@ You can also check the Strategy, Instrument, Capital Required, Hit Ratio, Risk, 
 
 ![StrategyCard](imgs/sc4.png)
 
-The strategy card is divided into 3 sections - `Records, Analytics & Returns`.
+The strategy card is divided into 3 sections - **Records, Analytics & Returns**.
 
 ![StrategyCard](imgs/sc_3types.png)
 
@@ -99,31 +99,31 @@ The maximum loss your strategy has encountered during the execution in percentag
 
 ![StrategyCard](imgs/sc12.png)
 
-`Snapshot Tool` - This tool helps you take a screenshot. Download the plot as PNG by using the snapshot tool from the Toolbar.
+**Snapshot Tool** - This tool helps you take a screenshot. Download the plot as PNG by using the snapshot tool from the Toolbar.
 
 ![StrategyCard](imgs/sc13.png)
 
-`Zoom Tool` - Zoom in to the plot by using the magnifying glass tool.
+**Zoom Tool** - Zoom in to the plot by using the magnifying glass tool.
 
 ![StrategyCard](imgs/sc14.png)
 
-`Pan Tool` - The Pan tool enables you to move the view vertically or horizontally.
+**Pan Tool** - The Pan tool enables you to move the view vertically or horizontally.
 
 ![StrategyCard](imgs/sc15.png)
 
-`Zoom in/Zoom Out` - Magnify or reduce the view of your image with the Zoom in/Zoom out tool.
+**Zoom in/Zoom Out** - Magnify or reduce the view of your image with the Zoom in/Zoom out tool.
 
 ![StrategyCard](imgs/sc16.png)
 
-`Autoscale Tool` - Use this tool to automatically scale the image.
+**Autoscale Tool** - Use this tool to automatically scale the image.
 
 ![StrategyCard](imgs/sc17.png)
 
-`Reset axes` - Reset the axes by using the ‘Reset axes’ tool.
+**Reset axes** - Reset the axes by using the ‘Reset axes’ tool.
 
 ![StrategyCard](imgs/sc18.png)
 
-`Download as SVG/JPWG` - Download the plot as an SVG or JPEG using these tool. 
+**Download as SVG/JPWG** - Download the plot as an SVG or JPEG using these tool. 
 
 ![StrategyCard](imgs/sc19.png)
 
@@ -134,18 +134,19 @@ The maximum loss your strategy has encountered during the execution in percentag
 
 In the Net ROI Analysis, view the details in a graphical representation or % by using the toggle button on the top right corner. 
 
-`The Net ROI is the total amount gained from a strategy after all brokerage and government charges are deducted.`
+**The Net ROI is the total amount gained from a strategy after all brokerage and government charges are deducted.**
+
 ![StrategyCard](imgs/sc21.png)
 
 You can also switch the data from % to INR with the toggle button from the toolbar
 
 ![StrategyCard](imgs/sc22.png)
 
-The broker, split charges for the strategy, Gross ROI, Total Charges and Net ROI are displayed in the `graph mode`
+The broker, split charges for the strategy, Gross ROI, Total Charges and Net ROI are displayed in the **graph mode**
 
 ![StrategyCard](imgs/sc23.png)
 
-In the `Data mode`, you can view the Broker, Broker Charges, Govt.Charges, Gross ROI, Total Charges & Net ROI. 
+In the **Data mode**, you can view the Broker, Broker Charges, Govt.Charges, Gross ROI, Total Charges & Net ROI. 
 
 ![StrategyCard](imgs/sc24.png)
 
@@ -163,19 +164,19 @@ You can view a strategy’s ROI in the returns section. The returns duration and
 
 ## 10. Toolbar
 
-`Refresh` - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
+**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
 
 ![StrategyCard](imgs/sc25.png)
 
-`Density` - View data comfortably by choosing the density. The options include Larger, Middle and Compact.
+**Density** - View data comfortably by choosing the density. The options include Larger, Middle and Compact.
 
 ![StrategyCard](imgs/sc26.png)
 
-`Settings` - Select the columns that you want to view in this settings option.
+**Settings** - Select the columns that you want to view in this settings option.
 
 ![StrategyCard](imgs/sc27.png)
 
-`Full Screen` - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
+**Full Screen** - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
 
 ![StrategyCard](imgs/sc28.png)
 

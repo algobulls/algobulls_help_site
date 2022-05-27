@@ -14,27 +14,27 @@ The Settings section is divided into 4 parts:
 
 You add or edit your personal details here 
 
-`Name` - Your full name. Preferably, in accordance with a legal document, such as an Aadhar Card.
+**Name** - Your full name. Preferably, in accordance with a legal document, such as an Aadhar Card.
 
-`Avatar` – The 'Change Avatar' button allows you to upload or change your profile picture.
+**Avatar** – The 'Change Avatar' button allows you to upload or change your profile picture.
  
-`E-mail` - Your relationship manager or an AlgoBulls representative will reach out to you via email or phone.
+**E-mail** - Your relationship manager or an AlgoBulls representative will reach out to you via email or phone.
     
-`Phone Number` - This displays the phone number you registered with. This field is not editable.
+**Phone Number** - This displays the phone number you registered with. This field is not editable.
     
-`Date of Birth` - Set up your date of birth.
+**Date of Birth** - Set up your date of birth.
     
-`Aadhar Card` - Your Aadhar ID number.
+**Aadhar Card** - Your Aadhar ID number.
     
-`PAN Card Number` – This is the number on your PAN Card. 
+**PAN Card Number** – This is the number on your PAN Card. 
     
-`Title` - A suitable one liner description for your bio.
+**Title** - A suitable one liner description for your bio.
     
-`Bio` - A short About Me section that allows us to learn more about you and interact with you suitably. Any links to your LinkedIn profile or other social media accounts are also beneficial.
+**Bio** - A short About Me section that allows us to learn more about you and interact with you suitably. Any links to your LinkedIn profile or other social media accounts are also beneficial.
     
-`Experience` - If we know the degree of your market knowledge, our experts will be able to connect with you more effectively over the phone/email.
+**Experience** - If we know the degree of your market knowledge, our experts will be able to connect with you more effectively over the phone/email.
     
-`Education` - If we know whether you have any past financial background, our specialists will be able to connect with you more effectively over the phone/email. (For example, Commerce, MBA Finance, and so on.)
+**Education** - If we know whether you have any past financial background, our specialists will be able to connect with you more effectively over the phone/email. (For example, Commerce, MBA Finance, and so on.)
 
 ## 3. Password & Security
 
