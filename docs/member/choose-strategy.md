@@ -10,24 +10,33 @@ The Choose strategy marketplace is divided into 3 parts - [Retail](https://app.a
 
 ![ChooseStrategy](imgs/cs1.png)
 
-## 2. Retail Marketplace
----
-
-The [Retail Marketplace]((https://app.algobulls.com/marketplace/category/retail)) includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes **Equity, Futures & Commodities** cash segment strategies.
+## 2. Retail Marketplace 
+The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The **Retail section** includes **Equity, Futures & Commodities** cash segment strategies 
+* Filter strategies by name or strategy code 
+* Search strategies using the Sort or Duration filter 
+* Add strategies to your favourites list.
+* To add strategy to your 'My portfolio' page, click on execute.
+* Click on 'know more' to get more information about any strategy.
 
 ![ChooseStrategy](imgs/retail_marketplace.png)
 
-## 3. Premium Marketplace
----
-
-With our intelligent and powerful trading algos, we enable you to trade through Index Option Strategies in the [Premium Marketplace](https://app.algobulls.com/marketplace/category/premium). 
+## 3. Premium Marketplace  
+With our intelligent and powerful trading algos, we enable you to trade through Index Options Strategies. Choose from this wide range of advanced, AI-driven strategies developed with cutting-edge technology. 
+* Filter strategies by name or strategy code 
+* Search strategies using the Sort or Duration filter 
+* Add strategies to your favourites list.
+* To add strategy to your 'My portfolio' page, click on execute.
+* Click on 'know more' to get more information about any strategy.
 
 ![ChooseStrategy](imgs/premium_marketplace.png)
 
-## 4. HNI Marketplace
----
-
-AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.The [HNI Marketplace](https://app.algobulls.com/marketplace/category/hni) includes Index Option Strategies.
+## 4. HNI Marketplace 
+AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace includes Index Option Strategies 
+* Filter strategies by name or strategy code 
+* Search strategies using the Sort or Duration filter 
+* Add strategies to your favourites list.
+* To add strategy to your 'My portfolio' page, click on execute.
+* Click on 'know more' to get more information about any strategy.
 
 ![ChooseStrategy](imgs/hni_marketplace.png)
 
