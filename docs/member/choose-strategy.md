@@ -85,19 +85,19 @@ You can click the < and > for changing pages. You can also choose to view 4/8/12
 
 Adjust the density by choosing the Compact, Regular or List Mode.
 
-### ix. Compact Mode
+* Compact Mode
 
 In this mode the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.
 
 ![ChooseStrategy](imgs/compact_mode.png)
 
-### x. Regular Mode 
+* Regular Mode 
 
 This is the AlgoBulls' default mode. In comparison to any other mode, the strategy card in regular mode has the most information.
 
 ![ChooseStrategy](imgs/regular_mode.png)
 
-### xi. List Mode
+* List Mode
 
 This mode displays all the strategies in the marketplace in a list view.
 
