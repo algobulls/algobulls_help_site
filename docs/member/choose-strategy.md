@@ -85,15 +85,11 @@ You can click the < and > for changing pages. You can also choose to view 4/8/12
 
 Adjust the density by choosing the Compact, Regular or List Mode.
 
-![ChooseStrategy](imgs/cs9.png)
-
-![ChooseStrategy](imgs/cs10.png)
-
 ### ix. Compact Mode
 
 In this mode the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.
 
-![ChooseStrategy](imgs/compact_mode_2.png)
+![ChooseStrategy](imgs/compact_mode.png)
 
 ### x. Regular Mode 
 
