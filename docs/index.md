@@ -214,10 +214,6 @@ If you're unable to trade, consider the factors listed below. If you believe the
 
     * The AlgoBulls platform has no control over the brokerage charges imposed by your broker once your trading begins. Before proceeding, please review all charges on the broker's end.
 
-!!! info
-    You can help us improve this site by submitting updates on our GitHub repository. 
-    Just click on the edit button on the top, and it will take you to GitHub directly.
-
 ------------
 Visit [algobulls.com](https://algobulls.com/).
 
