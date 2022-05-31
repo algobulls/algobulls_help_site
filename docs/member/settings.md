@@ -8,7 +8,7 @@ Add or edit your basic profile, set your trading risk, grant access to your trad
 
 ### The settings section is divided into 4 parts: 
 
-### **i. Personal Info**
+### i. Personal Info
 
 ![Settings](imgs/settings2.png)
 
@@ -36,7 +36,7 @@ You can add or edit your [personal details here](https://app.algobulls.com/setti
 
 You can also link your social media accounts such as Linkedin, Twitter, Facebook, Instagram & YouTube.
 
-### **ii. Password & Security**
+### ii. Password & Security
 
 ![Settings](imgs/settings3.png)
 
