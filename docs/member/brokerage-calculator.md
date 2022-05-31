@@ -6,6 +6,8 @@ A brokerage calculator is an AlgoBulls feature that estimates the amount of brok
 
 Majority of traders underestimate the amount of brokerage they might pay for a trade, a brokerage calculator can help a trader estimate and compare brokerage paid with different brokers for each strategy. A brokerage calculator can give you a realistic estimate of your net income from each strategy.
 
+## 2. Brokerage Charges
+
 Broker charges will differ depending on the fees charged by each broker.
 **For example**, 0.01% of each trade value or flat Rs.10 per trade for Equity.
 
@@ -21,30 +23,30 @@ The brokerage calculator helps you calculate the [NET ROI](https://algobulls.git
 
 The below brokerage charges are subject to change by the broker. 
 
-| Broker Name       | Equity                                      | Future                                      | MCX                                         | Options         |
-|-------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|-----------------|
-| 5Paisa            | 10                                          | 10                                          | 10                                          | 10              |
-| AC Agarwal        | 0.02% per trade                             | 0.02% per trade                             | 0.02% per trade                             | 10              |
-| AliceBlue         | Rs.15 Per Trade or 0.05% whichever is lower | Rs.15 Per Trade or 0.05% whichever is lower | Rs.15 Per Trade or 0.05% whichever is lower | 15              |
-| Angelbroking      | 20                                          | 20                                          | 20                                          | 20              |
-| Arham             | 0.03% per trade                             | 0.03% per trade                             | 0.03% per trade                             | 0.03% per trade |
-| Edelwiss          | 10                                          | 10                                          | 10                                          | 10              |
-| Findoc            | 0.02% per trade                             | 0.01% per trade                             | 0.01% per trade                             | 5               |
-| Finvasia          | Zero                                        | Zero                                        | Zero                                        | Zero            |
-| Hem Securities    | 0.03%                                       | 20                                          | 20                                          | 20              |
-| IIFL              | 0.02% per trade                             | 0.02% per trade                             | 0.02% per trade                             | 15              |
-| Indira Securities | 0.02% per trade                             | 0.02% per trade                             | 0.02% per trade                             | 10              |
-| Jainam Duck       | 10                                          | 10                                          | 10                                          | 10              |
-| Kotak Securitues  | Zero                                        | Zero                                        | Zero                                        | Zero            |
-| Master Trust      | 20                                          | 20                                          | 20                                          | 20              |
-| Motilal Oswal     | 0.02% per trade                             | 0.02% per trade                             | 0.02% per trade                             | 15              |
-| Rmoney            | 9                                           | 9                                           | 9                                           | 9               |
-| Rudra             | 0.01% per trade                             | 0.01% per trade                             | 0.01% per trade                             | 15              |
-| Sharekhan         | 0.02% per trade                             | 0.02% per trade                             | 0.02% per trade                             | 10              |
-| Zebu              | 0.02% per trade                             | 0.02% per trade                             | 0.02% per trade                             | 20              |
-| Zerodha           | 20                                          | 20                                          | 20                                          | 20              |
+| Broker Name       | Equity                                     | Future                                     | MCX                                        | Options         |
+|-------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|-----------------|
+| 5Paisa            | ₹.10                                       | ₹.10                                       | ₹.10                                       | ₹.10            |
+| AC Agarwal        | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.10            |
+| AliceBlue         | ₹.15 Per Trade or 0.05% whichever is lower | ₹.15 Per Trade or 0.05% whichever is lower | ₹.15 Per Trade or 0.05% whichever is lower | ₹.15            |
+| Angelbroking      | ₹.20                                       | ₹.20                                       | ₹.20                                       | ₹.20            |
+| Arham             | 0.03% per trade                            | 0.03% per trade                            | 0.03% per trade                            | 0.03% per trade |
+| Edelwiss          | ₹.10                                       | ₹.10                                       | ₹.10                                       | ₹.10            |
+| Findoc            | 0.02% per trade                            | 0.01% per trade                            | 0.01% per trade                            | ₹.5             |
+| Finvasia          | Zero                                       | Zero                                       | Zero                                       | Zero            |
+| Hem Securities    | 0.03%                                      | ₹.20                                       | ₹.20                                       | ₹.20            |
+| IIFL              | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.15            |
+| Indira Securities | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.10            |
+| Jainam Duck       | ₹.10                                       | ₹.10                                       | ₹.10                                       | ₹.10            |
+| Kotak Securitues  | Zero                                       | Zero                                       | Zero                                       | Zero            |
+| Master Trust      | ₹.20                                       | ₹.20                                       | ₹.20                                       | ₹.20            |
+| Motilal Oswal     | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.15            |
+| Rmoney            | ₹.9                                        | ₹.9                                        | ₹.9                                        | ₹.9             |
+| Rudra             | 0.01% per trade                            | 0.01% per trade                            | 0.01% per trade                            | ₹.15            |
+| Sharekhan         | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.10            |
+| Zebu              | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.20            |
+| Zerodha           | ₹.20                                       | ₹.20                                       | ₹.20                                       | ₹.20            |
 
-## 2. Government Charges
+## 3. Government Charges
 
 |                                                       |         |     | Flat % per trade |
 |-------------------------------------------------------|---------|-----|------------------|
