@@ -118,7 +118,7 @@ nav:
     - 'Features':
         - 'P&L Tracker': 'archive_v1/member/pnltracker.md'
         - 'Tweak': 'archive_v1/member/tweak.md'
-        - 'Broker Calculator': 'docs/member/brokerage-calculator.md'
+        - 'Broker Calculator': 'archive_v1/member/brokerage-calculator.md'
     - 'Broker Information':
         - '5PAISA': 'archive_v1/broker/fivepaisa.md'
         - 'AC AGARWAL': 'archive_v1/broker/acagarwal.md'
