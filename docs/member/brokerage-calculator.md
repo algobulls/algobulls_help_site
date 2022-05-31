@@ -1,6 +1,6 @@
 # Brokerage Calculator 
 
-## Introduction
+## 1. Introduction
 
 A brokerage calculator is an AlgoBulls feature that estimates the amount of brokerage to be paid for a trade. The brokerage calculator can calculate **duty costs, transaction fees, SEBI turnover fees, and securities transaction tax**. 
 
@@ -44,7 +44,7 @@ The below brokerage charges are subject to change by the broker.
 | Zebu              | 0.02% per trade                             | 0.02% per trade                             | 0.02% per trade                             | 20              |
 | Zerodha           | 20                                          | 20                                          | 20                                          | 20              |
 
-Government Charges:
+## 2. Government Charges
 
 |                                                       |         |     | Flat % per trade |
 |-------------------------------------------------------|---------|-----|------------------|
