@@ -79,7 +79,7 @@ nav:
       - 'P&L Tracker': 'member/pnltracker.md'
       - 'Tweak': 'member/tweak.md'
       - 'Test & Live Mode': 'member/test-to-live-mode.md'
-        - - 'Broker Calculator': 'member/brokerage-calculator.md'
+      - 'Broker Calculator': 'member/brokerage-calculator.md'
   - 'Broker Information':
       - '5PAISA': 'broker/fivepaisa.md'
       - 'AC AGARWAL': 'broker/acagarwal.md'
