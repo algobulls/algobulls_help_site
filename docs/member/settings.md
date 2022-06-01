@@ -20,19 +20,21 @@ You can add or edit your [personal details here](https://app.algobulls.com/setti
 
 **E-mail** - Your relationship manager or an AlgoBulls representative will reach out to you via email or phone.
 
-**Mobile Number** - This displays the phone number you have registered with. This field is not editable.
+**Mobile Number** - Your registered mobile number is displayed here. This field is non editable.
 
 **Personal Info:**
 
 **Title** - A suitable one liner description for your bio.
 
-**Bio** - A short **about me** section that allows us to learn more about you and interact with you suitably. Any links to your LinkedIn profile or other social media accounts are also beneficial.
+**Bio** - A short **about me** section that allows us to learn more about you and interact with you suitably.
 
 **Date of Birth** - Set up your date of birth.
 
 **Experience** - If we know the degree of your market knowledge, our experts will be able to connect with you more effectively over the phone/email.
 
 **Education** - If we know whether you have any past financial background, our specialists will be able to connect with you more effectively over the phone/email. (For example, Commerce, MBA Finance, and so on.)
+
+**Link Social Media Accounts:**
 
 You can also link your social media accounts such as Linkedin, Twitter, Facebook, Instagram & YouTube.
 
