@@ -3,14 +3,9 @@
 ## 1. Introduction
 ---
 
-Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology. 
-
-* This Marketplace has more than 100+ Algo Strategies created by industry leading experts. 
-
-* The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
-
-* The Choose strategy marketplace is divided into 3 parts - [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace.
-
+Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology.
+This Marketplace has more than 100+ Algo Strategies created by industry leading experts. The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
+The Choose strategy marketplace is divided into 3 parts - [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace.
 
 
 ![ChooseStrategy](imgs/cs1.png)
@@ -88,8 +83,26 @@ You can click the < and > for changing pages. You can also choose to view 4/8/12
 
 ### vii. Density
 
-You can adjust the density by choosing the Compact mode, Regular Mode & List Mode.
+Adjust the density by choosing the Compact, Regular or List Mode.
 
 ![ChooseStrategy](imgs/cs9.png)
 
 ![ChooseStrategy](imgs/cs10.png)
+
+### ix. Compact Mode
+
+In this mode the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.
+
+![ChooseStrategy](imgs/compact_mode_2.png)
+
+### x. Regular Mode 
+
+This is the AlgoBulls' default mode. In comparison to any other mode, the strategy card in regular mode has the most information.
+
+![ChooseStrategy](imgs/regular_mode.png)
+
+### xi. List Mode
+
+This mode displays all the strategies in the marketplace in a list view.
+
+![ChooseStrategy](imgs/list_mode.png)

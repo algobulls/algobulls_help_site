@@ -44,27 +44,27 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 !!! Note
     * If you have done this activity once before, then you can directly skip to the [Daily Activity](#daily-activity-login) section
 
-* Visit [https://kite.trade](https://kite.trade) and click on `Login`.
+* Visit [https://kite.trade](https://kite.trade) and click on **Login**.
 
 [ ![Zerodha](imgs/zerodha/visit.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/visit.png)
 
-* Enter your EMail ID and Password. Click the `Login` button.
+* Enter your EMail ID and Password. Click the **Login** button.
 
 [ ![Zerodha](imgs/zerodha/login_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/login_app.png)
 
-* Click the `Create new app` button.
+* Click the **Create new app** button.
 
 [ ![Zerodha](imgs/zerodha/create_app_button.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/create_app_button.png)
 
-* On the `Create a new app` page, fill the following fields:
+* On the **Create a new app** page, fill the following fields:
 
-    * Type: Select `Connect`.
+    * Type: Select **Connect**.
     * App name: Give the app name. Example: AlgoBulls Login.
     * Zerodha CLient ID: Give your Zerodha User ID.
     * Redirect URL: Give the value `https://127.0.0.1`.
     * Description: Give the description. Example: App for AlgoBulls Login.
     
-* Click the `Create` button.
+* Click the **Create** button.
 
 [ ![Zerodha](imgs/zerodha/create_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/create_app.png)
     
@@ -76,7 +76,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
 
 [ ![Zerodha](imgs/zerodha/click_here.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/click_here.png)
 
-* Copy the API key and save it separately for later use. Click on `Show API secret` and copy it too.
+* Copy the API key and save it separately for later use. Click on **Show API secret** and copy it too.
 
 [ ![Zerodha](imgs/zerodha/show_api_secret.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zerodha/show_api_secret.png)
 

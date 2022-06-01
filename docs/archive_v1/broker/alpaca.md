@@ -28,7 +28,7 @@ Keep the following information available before you start:
 
 ### Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Sign In with your Broking Account`
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **Sign In with your Broking Account**
 
 [ ![Alpaca](imgs/siwyba.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/siwyba.png)
 
@@ -49,15 +49,15 @@ Both are explained below
 ---
 (1). Type the first few characters of your Broker Name
 
-(2). Select the `ALPACA PAPER` broker
+(2). Select the **ALPACA PAPER** broker
 
-(3). Click on the `Login with ALPACA PAPER` button
+(3). Click on the **Login with ALPACA PAPER** button
 
 [ ![Alpaca](imgs/alpaca/alpaca_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-(4). Click `Log In`
+(4). Click **Log In**
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_2.png)
 
@@ -67,11 +67,11 @@ Both are explained below
 
 (6). Password: The password you have set
 
-(7). Click `Login`
+(7). Click **Login**
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_3.png)
 
-(8). Click `Allow` if asked for authorization
+(8). Click **Allow** if asked for authorization
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_4.png)
 
@@ -84,15 +84,15 @@ Both are explained below
 
 (1). Type the first few characters of your Broker Name
 
-(2). Select the `ALPACA REAL` broker
+(2). Select the **ALPACA REAL** broker
 
-(3). Click on the `Login with ALPACA REAL` button
+(3). Click on the **Login with ALPACA REAL** button
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_5.png)
 
 * You will be re-directed to the broker login page. Provide data for the following fields:
 
-(4). Click `Log In`
+(4). Click **Log In**
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_2.png)
 
@@ -102,11 +102,11 @@ Both are explained below
 
 (6). Password: The password you have set
 
-(7). Click `Login`
+(7). Click **Login**
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_3.png)
 
-(8). Click `Allow` if asked for authorization
+(8). Click **Allow** if asked for authorization
 
 [ ![Alpaca](imgs/alpaca/alpaca_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/alpaca/alpaca_login_4.png)
 
@@ -114,7 +114,7 @@ Both are explained below
 ### After any of the above 2 methods...
 ---
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 

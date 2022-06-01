@@ -30,13 +30,13 @@ Keep the following information available before you start:
 
 ### ii. Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `login with your Broking Account`.
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **login with your Broking Account**.
 
 [ ![RudraShares](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
 * Type the first few characters of your Broker Name.
 
-* Select the `RUDRA SHARES OAuth` broker.
+* Select the **RUDRA SHARES OAuth** broker.
 
 [ ![RudraShares](imgs/rudrashares/rudra_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_login.png)
 
@@ -46,13 +46,13 @@ Keep the following information available before you start:
 
 (2). Password: The password given to you by the broker.
 
-(3). Click the `Sign In` button.
+(3). Click the **Sign In** button.
 
 [ ![RudraShares](imgs/rudrashares/rudra_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_2.png)
 
 (4). PIN: The PIN given to you by the broker.
 
-(5). Click the `Submit` button.
+(5). Click the **Submit** button.
 
 [ ![RudraShares](imgs/rudrashares/rudra_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_3.png)
 
@@ -61,7 +61,7 @@ Keep the following information available before you start:
 ### iii. Another Way to Bind the Broker
 ---
 
-Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -69,7 +69,7 @@ Login to your AlgoBulls account. Provide data for the following fields and then 
 
 [ ![RudraShares](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker.
+* Now go to **Broking Details** and click add broker.
 
 [ ![RudraShares](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
@@ -83,13 +83,13 @@ Login to your AlgoBulls account. Provide data for the following fields and then 
 
 (2). Password: The password given to you by the broker.
 
-(3). Click the `Sign In` button.
+(3). Click the **Sign In** button.
 
 [ ![RudraShares](imgs/rudrashares/rudra_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_2.png)
 
 (4). PIN: The PIN given to you by the broker.
 
-(5). Click the `Submit` button.
+(5). Click the **Submit** button.
 
 [ ![RudraShares](imgs/rudrashares/rudra_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/rudrashares/rudra_3.png)
 

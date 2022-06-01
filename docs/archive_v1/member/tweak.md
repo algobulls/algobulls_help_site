@@ -15,7 +15,7 @@ This feature is available and live for:
 ---
 All general parameters are listed.
 
-* `Duration` - This parameter is relevant only for backtesting. User can give custom duration for backtesting. The Strategy will perform backtesting on the given user defined period.
+* **Duration** - This parameter is relevant only for backtesting. User can give custom duration for backtesting. The Strategy will perform backtesting on the given user defined period.
 
 [ ![Tweak](imgs/tweak-2.gif "Click to Enlarge") ](imgs/tweak-2.gif)
 
@@ -24,7 +24,7 @@ All general parameters are listed.
 
 All strategy related parameters are listed here.
 
-* -`Candle` - Strategy will be performed on user defined candle. User can change candle size from here and can customize trading for his/her preferred candle size. User can choose either of below candle sizes:
+* -**Candle** - Strategy will be performed on user defined candle. User can change candle size from here and can customize trading for his/her preferred candle size. User can choose either of below candle sizes:
 ·  1 minute
 ·  3 minutes
 ·  5 minutes
@@ -33,15 +33,15 @@ All strategy related parameters are listed here.
 ·  30 minutes
 ·  1 hour
 ·  1day
-* -`Strategy Mode` - User can select if he/she wants to run strategy on Intraday or Delivery mode. Other defaults will change accordingly on selection of either of this option.
-* -`Parameters` - Strategy specific editable parameters are available for change here. Short EMA period, Long EMA period, Buy RSI Threshold, Sell RSI Threshold, Aroon Up period, Aroon Down period are amongst others which are available here for editing based on the strategy being tweaked.
+* -**Strategy Mode**` - User can select if he/she wants to run strategy on Intraday or Delivery mode. Other defaults will change accordingly on selection of either of this option.
+* -**Parameters** - Strategy specific editable parameters are available for change here. Short EMA period, Long EMA period, Buy RSI Threshold, Sell RSI Threshold, Aroon Up period, Aroon Down period are amongst others which are available here for editing based on the strategy being tweaked.
 
 [ ![Tweak](imgs/tweak-3.gif "Click to Enlarge") ](imgs/tweak-3.gif)
 
 ## Instruments
 ---
 
-* `Add` - User can add instrument here for performing backtesting, paper trading and real trading.
+* **Add** - User can add instrument here for performing backtesting, paper trading and real trading.
  
 [ ![Tweak](imgs/tweak-4.gif "Click to Enlarge") ](imgs/tweak-4.gif)
 

@@ -37,9 +37,9 @@ Keep the following information available before you start:
 
 (1). Type the first few characters of your Broker Name
 
-(2). Select the `SHAREKHAN` broker
+(2). Select the **SHAREKHAN** broker
 
-(3). Click on the `Login & Connect with SHAREKHAN` button
+(3). Click on the **Login & Connect with SHAREKHAN** button
 
 [ ![ShareKhan](imgs/sharekhan/sharekhan_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sharekhan/sharekhan_1.png)
 

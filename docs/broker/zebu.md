@@ -35,7 +35,7 @@ Keep the following information available before you start:
 
 ### ii. Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on `Login with your Broking Account`.
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **Login with your Broking Account**.
 
 [ ![Zebu](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
@@ -47,7 +47,7 @@ Keep the following information available before you start:
 ---
 * Type the first few characters of your Broker Name.
 
-* Select the `ZEBU` broker.
+* Select the **ZEBU** broker.
 
 [ ![Zebu](imgs/zebu/zebu_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/zebu/zebu_login.png)
 
@@ -66,7 +66,7 @@ Keep the following information available before you start:
 ### iv. Another Way to Bind the Broker
 ---
 
-Now Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Now Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -74,7 +74,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Zebu](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker.
+* Now go to **Broking Details** and click add broker.
 
 [ ![Zebu](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 

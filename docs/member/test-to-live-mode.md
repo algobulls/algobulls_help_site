@@ -4,7 +4,7 @@
 ---
 
 The Test Mode on AlgoBulls is a virtual simulation of the real markets. 
-You can test a strategy in live markets without risking any money through `Paper Trading`, modify strategies using the `Tweak` option and test the past performance data for that strategy through `Backtesting`.
+You can test a strategy in live markets without risking any money through **Paper Trading**, modify strategies using the **Tweak** option and test the past performance data for that strategy through **Backtesting**.
 
 ## 2. What is Real Trading or Live Mode ?
 ---
@@ -20,11 +20,11 @@ Follow the below step to switch modes:
 ### i. Switch to Test Mode
 ---
 
-Ensure the toggle button on the bottom left side of the website is switched to `Test Mode`.
+Ensure the toggle button on the bottom left side of the website is switched to **Test Mode**.
 
 ![test_and_live](imgs/test_and_live4.png)
 
-A pop-up appears, click `Yes` if you would like to confirm the changes.
+A pop-up appears, click **Yes** if you would like to confirm the changes.
 
 ![test_and_live](imgs/test_and_live2.png)
 
@@ -34,11 +34,11 @@ In the test mode, you can backtest or paper trade in 4 simple steps. To understa
 
 ---
 
-Switch the toggle button on the bottom left side of the website to `Live Mode`.
+Switch the toggle button on the bottom left side of the website to **Live Mode**.
 
 ![test_and_live](imgs/test_and_live5.png)
 
-A pop-up appears, click `Yes` if you would like to confirm the changes.
+A pop-up appears, click **Yes** if you would like to confirm the changes.
 
 ![test_and_live](imgs/test_and_live3.png)
 

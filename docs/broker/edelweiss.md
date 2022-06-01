@@ -35,33 +35,33 @@ Keep the following information available before you start:
 
 ### ii. Let's Start
 ---
-* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on 'Edelweiss' under `Login with your Broking Account`.
+* Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on 'Edelweiss' under **Login with your Broking Account**.
 
-* If you do not see your broker name, then click on `+ x more` where x is the number of brokers.
+* If you do not see your broker name, then click on **+ x more** where x is the number of brokers.
 
 [ ![Edelweiss](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* Type `Edelweiss` in the Search Box. and then click on the Broker Link that is shown in the search results.
+* Type **Edelweiss** in the Search Box. and then click on the Broker Link that is shown in the search results.
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_search_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_search_login.png)
 
 (1). Type your Login ID.
 
-(2). Click on the `Proceed` button.
+(2). Click on the **Proceed** button.
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_2.png)
 
 (3). Type your Password.
 
-(4). Make sure that `Yes, This is my Security Image` is ticked.
+(4). Make sure that **Yes, This is my Security Image** is ticked.
 
-(5). Click on the `Proceed` button.
+(5). Click on the **Proceed** button.
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_3.png)
 
 (6). Type your Year of Birth.
 
-(7). Click on the `Continue` button.
+(7). Click on the **Continue** button.
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_4.png)
 
@@ -70,7 +70,7 @@ Keep the following information available before you start:
 ### iii. Another Way to Bind the Broker
 ---
 
-Login to your AlgoBulls account. Provide data for the following fields and then click the `Login` button
+Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button
 
 * Phone Number: The Phone Number you have used to Register/Sign-Up to the AlgoBulls website.
 
@@ -78,7 +78,7 @@ Login to your AlgoBulls account. Provide data for the following fields and then 
 
 [ ![Edelweiss](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
-* Now go to `Broking Details` and click add broker.
+* Now go to **Broking Details** and click add broker.
 
 [ ![Edelweiss](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
@@ -90,21 +90,21 @@ Login to your AlgoBulls account. Provide data for the following fields and then 
 
 (1). Type your Login ID.
 
-(2). Click on the `Proceed` button.
+(2). Click on the **Proceed** button.
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_2.png)
 
 (3). Type your Password.
 
-(4). Make sure that `Yes, This is my Security Image` is ticked.
+(4). Make sure that **Yes, This is my Security Image** is ticked.
 
-(5). Click on the `Proceed` button.
+(5). Click on the **Proceed** button.
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_3.png)
 
 (6). Type your Year of Birth.
 
-(7). Click on the `Continue` button.
+(7). Click on the **Continue** button.
 
 [ ![Edelweiss](imgs/edelweiss/edelweiss_login_4.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/edelweiss/edelweiss_login_4.png)
 

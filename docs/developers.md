@@ -37,13 +37,13 @@ Now you can perform Backtesting and Paper Trading for your strategy using Python
 ## Checklist for Real Trading
 ---
 
-<font size=4>✅</font> - All points from the `Checklist for Backtesting and Paper Trading` mentioned above **and**
+<font size=4>✅</font> - All points from the **Checklist for Backtesting and Paper Trading** mentioned above **and**
 
 <font size=4>✅</font> - Add and Bind a broker on the [Broker Settings](https://app.algobulls.com/broking) page of your account. [Learn More](member/broking-details.md)
 
 <font size=4>✅</font> - Add the Aadhar and PAN details of the person to whom the broker account belongs to, on the [General Settings](https://app.algobulls.com/settings) page of your account.
 
-<font size=4>✅</font> - Set up the Risk Management values, `Max Drawdown Limit` and `Desired Profit` on the [General Settings](https://app.algobulls.com/settings) page of your account. [Learn More](member/settings.md)
+<font size=4>✅</font> - Set up the Risk Management values, **Max Drawdown Limit** and **Desired Profit** on the [General Settings](https://app.algobulls.com/settings) page of your account. [Learn More](member/settings.md)
 
 !!! Note
     * AlgoBulls reserves the right to suspend or deactivate your account without notice if your Aadhar and PAN details are not valid.
