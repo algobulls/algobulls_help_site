@@ -2,13 +2,18 @@
 
 ## 1. Introduction
 ---
-You can execute strategies to begin real trading in the Live/Real Trading Mode. Switch the toggle button on the bottom left side of the website to Live Mode.
 
-* Begin real trading with 100% automation in Live/Real Trading Mode.
-* Choose from multiple brokers & execute trades directly in your Broking account.
-* Monitor Live Profit & Loss and fetch strategy execution Logs in real time. There are no charges for fetching Logs.
-* Start & Stop your algo strategies in one click. Charges may be applicable for START and STOP. [More details here](https://help.algobulls.com/)
-* Choose a strategy from [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI marketplace](https://app.algobulls.com/marketplace/category/hni) now!
+You can execute strategies to begin live trading in the Live Trading Mode. Switch the toggle button on the bottom left side of the website to Live Mode.
+
+* Begin live trading with 100% automation in the **live trading mode**.
+
+* Choose from multiple brokers & execute trades directly in your **broking** account.
+
+* Monitor **live profit & loss** and fetch strategy execution **logs** in real time. There are no charges for fetching **logs**.
+
+* Start & Stop your algo strategies in one click. Charges may be applicable for **start and stop**. [View details here](https://help.algobulls.com/).
+
+* Choose a strategy from the [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace now!
 
 ## 2. What is Live Mode?
 ---

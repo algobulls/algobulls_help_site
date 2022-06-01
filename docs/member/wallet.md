@@ -44,11 +44,11 @@ AlgoBulls also offers a range of free plans - Try a [Free Plan](https://app.algo
 
 Other services that you can use without any additional charges:  
 
-* Adding a strategy from the Choose Strategy Marketplace 
+* Adding a strategy from the Choose Strategy Marketplace.
 
-* Viewing backtesting reports for a strategy from the Choose Strategy Marketplace
+* Viewing backtesting reports for a strategy from the Choose Strategy Marketplace.
 
-* Tweaking (Change parameters of) a strategy 
+* Tweaking (Change parameters of) a strategy. 
 
 ## 4. Subscription plans: 
 

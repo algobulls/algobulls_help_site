@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your [My Portfolio](https://help.algobulls.com/member/my-portfolio.html) page. 
+A strategy card has all the information you need about a strategy before you begin Algo trading. To know about the strategy, select a marketplace, search for the strategy you would like to use and click execute to add it to your [My Portfolio](https://app.algobulls.com/portfolio) page. 
 
 ![StrategyCard](imgs/sc1.png)
 
@@ -34,7 +34,7 @@ The records section includes the **gross profit/loss, trading volume & total tra
 
 ![StrategyCard](imgs/gross_profit_loss.png)
 
-### ii. Heat Map
+### ii. Heatmap
 
 A heatmap of your tradebook is also displayed here. The heatmap is segregated in shades of green and red. Data can be viewed daily, weekly, monthly, and yearly. Dark green denotes highest profit and red denotes maximum loss.
 
@@ -134,15 +134,15 @@ The maximum loss your strategy has encountered during the execution in percentag
 
 In the Net ROI Analysis, view the details in a graphical representation or % by using the toggle button on the top right corner. 
 
-**The Net ROI is the total amount gained from a strategy after all brokerage and government charges are deducted.**
+**The total profit after all the brokerage and government charges are deducted is called the NET ROI.**
 
 ![StrategyCard](imgs/roi_analysis_percent.png)
 
-You can also switch the data from % to INR with the toggle button from the toolbar
+You can also switch the data from % to INR with the toggle button from the toolbar.
 
 ![StrategyCard](imgs/roi_analysis_inr.png)
 
-The broker, split charges for the strategy, gross ROI, total charges and net ROI are displayed in the **graph mode**
+The broker, split charges for the strategy, gross ROI, total charges and net ROI are displayed in the **graph mode**.
 
 ![StrategyCard](imgs/sc23.png)
 
@@ -158,7 +158,7 @@ Get a detailed overview of the strategy and its parameters.
 
 ## 9. Returns
 
-You can view a strategy’s ROI in the returns section. The returns duration and the ROI% is displayed here. 
+You can view a strategy’s ROI in the returns section. The returns duration and the ROI % is displayed here. 
 
 ![StrategyCard](imgs/sc_returns.png)
 

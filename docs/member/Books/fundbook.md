@@ -3,7 +3,7 @@
 ## 1. What is a Fund Book?
 ---
 
-The Fund Book displays all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
+The [Fund Book](https://app.algobulls.com/book/fund) displays all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
 
 * View all **transactions** made. 
 * Check plans that are currently **active**. 

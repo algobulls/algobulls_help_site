@@ -1,4 +1,4 @@
-# Choose Strategy
+# Choose Strategy Marketplace
 
 ## 1. Introduction
 ---
@@ -10,12 +10,12 @@ The Choose strategy marketplace is divided into 3 parts - [Retail](https://app.a
 
 ![ChooseStrategy](imgs/cs1.png)
 
-## 2. Retail Marketplace 
-The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The **retail section** includes **equity, futures & commodities** cash segment strategies 
+## 2. [Retail Marketplace](https://app.algobulls.com/marketplace/category/retail) 
+The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The **retail section** includes **equity, futures & commodities** cash segment strategies. 
 
-* Filter strategies by name or strategy code 
+* Filter strategies by name or strategy code. 
 
-* Search strategies using the **sort** or **duration** filter 
+* Search strategies using the **sort** or **duration** filter. 
 
 * Add strategies to your **favourites** list.
 
@@ -25,7 +25,7 @@ The retail marketplace includes carefully chosen trading algos, ideal for all le
 
 ![ChooseStrategy](imgs/retail_marketplace.png)
 
-## 3. Premium Marketplace  
+## 3. [Premium Marketplace](https://app.algobulls.com/marketplace/category/premium)  
 With our intelligent and powerful trading algos, we enable you to trade through **index options strategies**. Choose from this wide range of advanced, AI-driven strategies developed with cutting-edge technology. 
 
 * Filter strategies by name or strategy code 
@@ -40,7 +40,7 @@ With our intelligent and powerful trading algos, we enable you to trade through 
 
 ![ChooseStrategy](imgs/premium_marketplace.png)
 
-## 4. HNI Marketplace 
+## 4. [HNI Marketplace](https://app.algobulls.com/marketplace/category/hni) 
 AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace includes **index option strategies** 
 
 * Filter strategies by name or strategy code 
@@ -77,7 +77,7 @@ You can filter your view as per the **ROI %, risk %, capital required & hit rati
 
 ### iii. Favourites
 
-Use the toggle button to activate the Favourite Mode to view the strategies marked as **Favourite** (<font size=3>**☆**</font>)..
+Use the toggle button to activate the Favourite Mode to view the strategies marked as **Favourite** (<font size=3>**☆**</font>).
 
 ![ChooseStrategy](imgs/cs5.png)
 

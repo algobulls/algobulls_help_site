@@ -1,6 +1,6 @@
 # Trade Book
 
-## 1. What is a Trade Book?
+## 1. What is a [Trade Book](https://app.algobulls.com/book/trade)?
 ---
 
 All strategies executed in your account are updated real-time as and when the transactions take place. 
@@ -60,7 +60,7 @@ The table covers the following fields:
 
 * **AlgoBulls Order ID** - Unique AlgoBulls order ID. This helps in mapping correct entry/exit orders.
 
-* **Transaction** -  The transaction section includes the transaction type such as **buy or sell, quantity, price, date & time****.
+* **Transaction** -  The transaction section includes the transaction type such as **buy or sell, quantity, price, date & time**.
 
 
 [![TradebookInstruments](imgs/tradebook7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/tradebook7.png)

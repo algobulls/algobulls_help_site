@@ -33,7 +33,7 @@ The Broker will now be added to your **Broking Details** page. If you have multi
 
 ## 3. How to edit or remove your broking account?
 
-If you wish to edit details click on **Login/Edit** option
+If you wish to edit details click on **Login/Edit** option.
 
 ![Broking](imgs/login_edit_broker_details.png)
 
