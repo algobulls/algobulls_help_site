@@ -15,9 +15,10 @@ Government charges are levied by the government on each transaction which includ
 
 **Gross ROI** is a financial statistic that is commonly used to determine the profitability of the strategy. It's a proportion that compares an investment's profit or loss to the capital employed. It may be used to assess the probable return on a single strategy as well as to compare the returns of many investments. It does not include any charges. **Gross ROI is calculated on the basis of backtested data** and the results may or may not sustain in future. 
 
-* **Net ROI -**  The ratio of the net benefit to the capital. 
+* **Gross ROI**: The total profit earned from a strategy
 
-* **Gross ROI -** Total Charges (Brokerage + Other Transaction Charges) = Net ROI 
+* **Net ROI**: Gross ROI - Total Charges (Brokerage + Other charges) 
+
 
 The brokerage calculator helps you calculate the [NET ROI](https://algobulls.github.io/algobulls_help_site_dev/member/strategy-card.html#7-net-roi-analysis). Learn more abou Net ROI analysis. 
 
