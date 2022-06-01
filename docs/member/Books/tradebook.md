@@ -1,28 +1,28 @@
-# Tradebook
+# Trade Book
 
 ## 1. What is a Trade Book?
-
 ---
+
 All strategies executed in your account are updated real-time as and when the transactions take place. 
 
-* Check trading volume & total trades.
-* Segregate trades as per day/week/month/year.
-* View data in heatmaps.
+* Check trading **volume & total trades**.
+
+* Segregate trades as per **day/week/month/year**.
+
+* View data in **heatmaps**.
 
 
 
 ![Tradebook](imgs/tradebook.png)
 
 ## 2. Summary Bar
-
 ---
 
-TheTrade Book shows the **Trading Volume** , which is the maximum traded volume to date, and the  **Total Trades**, which is the total number of trades made to date.
+The Trade Book shows the **trading volume**, which is the maximum traded volume to date, and the  **total trades**, which is the total number of trades made to date.
 
 ![Tradebook](imgs/tradebook1.png)
 
-## 3. Trade Book Heatmaps
-
+## 3. Heatmaps
 ---
 
 Your trades are segregated in shades of blue and white. Data can be viewed in colour on a daily, weekly, monthly, and yearly basis. Dark blue denotes the highest number of trades and white denotes no trades made on that particular day/week/month/year.
@@ -30,7 +30,6 @@ Your trades are segregated in shades of blue and white. Data can be viewed in co
 ![Tradebook](imgs/tradebook2.png)
 
 ## 4. Filters
-
 ---
 
 Filters will allow you to selectively search for a specific entry or multiple entries.
@@ -51,14 +50,17 @@ These entries are populated as per the strategies chosen by you.
 ![Tradebook](imgs/tradebook6.png)
 
 ## 5. Fields
-
 ---
+
 The table covers the following fields:
 
 * **Strategy** - Name of strategy that placed the trade.
-* **Broker ID** - This includes a unique Broker order ID. This helps in mapping correct entry/exit orders.
+
+* **Broker ID** - This includes a **unique broker order ID**. This helps in mapping correct entry/exit orders.
+
 * **AlgoBulls Order ID** - Unique AlgoBulls order ID. This helps in mapping correct entry/exit orders.
-* **Transaction** -  The transaction section includes the transaction type such as buy or sell, quantity, price, date & time.
+
+* **Transaction** -  The transaction section includes the transaction type such as **buy or sell, quantity, price, date & time****.
 
 
 [![TradebookInstruments](imgs/tradebook7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/tradebook7.png)
@@ -69,15 +71,15 @@ The table covers the following fields:
 
 ![Filters](imgs/toolbar1.png)
 
-**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
+**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click **refresh** to check again.
 
 ![Filters](imgs/toolbar3.png)
 
-**Density** - View data comfortably by choosing the density. The options include Larger, Middle and Compact. 
+**Density** - View data comfortably by choosing the density. The options include **larger, middle and compact**. 
 
 ![Filters](imgs/toolbar4.png)
 
-**Settings** - Select the columns that you want to view in this settings option.
+**Settings** - Select the columns that you want to view in this **settings** option.
 
 ![Filters](imgs/toolbar5_tradebook.png)
 

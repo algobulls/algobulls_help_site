@@ -8,17 +8,17 @@ A strategy card has all the information you need about a strategy before you beg
 
 ## 2. Summary Bar
 
-You can check the **minimum capital required in demat, transaction fee with pack and without the package, recommended duration** and **strategy code**.  
+You can check the **minimum capital required in demat, transaction fee with and without the package, recommended duration** and **strategy code**.
 
 ![StrategyCard](imgs/sc2.png)
 
 ## 3. Fields
 
-You can also check the Strategy, Instrument, Capital Required, Hit Ratio, Risk, ROI and Growth here. You can use the Action column to execute a strategy. 
+You can also check the **strategy, instrument, capital required, hit ratio, risk, ROI** and **growth** here. You can use the Action column to execute a strategy. 
 
 ![StrategyCard](imgs/sc3.png)
 
-`By selecting the All time, 1 month, 14 days, or 3 days tab, you may view the strategies' past performance or back-tested data based on duration.`
+By selecting the All time, 1 month, 14 days, or 3 days tab, you may view the strategies' past performance or back-tested data based on duration.
 
 ![StrategyCard](imgs/sc4.png)
 
@@ -30,7 +30,7 @@ The strategy card is divided into 3 sections - **Records, Analytics & Returns**.
 
 ### i. Trade Summary
 
-The records section includes the Gross Profit/Loss, Trading Volume & Total Trades. 
+The records section includes the **gross profit/loss, trading volume & total trades**. 
 
 ![StrategyCard](imgs/gross_profit_loss.png)
 
@@ -43,7 +43,7 @@ A heatmap of your tradebook is also displayed here. The heatmap is segregated in
 ### iii. Backtesting Data
 ![StrategyCard](imgs/backtesting_data.png)
 
-This is the trade report. You will be able to see the strategy's instrument, entry, and exit details. By using the toggle button, you can also analyse your P&L and ROI in % or INR.
+This is the trade report. You will be able to see the strategy's **instrument**, **entry**, and **exit** details. By using the toggle button, you can also analyse your **P&L** and **ROI** in **%** or **INR**.
 
 ## 5. Analytics
 
@@ -53,7 +53,7 @@ In the Analytics section you can check the past performance in a graphical repre
 
 ### i. Stats
 
-In this section you can see the Hit Ratio, Number of Trades, Average Trades per day. 
+In this section you can see the **hit ratio, number of trades, average trades** per day. 
 
 ![StrategyCard](imgs/sc5.png)
 
@@ -71,21 +71,21 @@ The cumulative backtesting P&L percentage.
 
 ### iv. ROI (INR)
 
-Cumulative P&L absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed.
+Cumulative P&L absolute value divided by minimum capital required, ROI indicates a simulated yet accurate representation of return on capital employed.
 
 ![StrategyCard](imgs/sc8.png)
 
 ### v. ROI%
 
-You will be able to view the ROI in percentage here 
+You will be able to view the ROI in percentage here. 
 
 ![StrategyCard](imgs/sc9.png)
 
 ### vi. Equity Curve (INR)
 
-Find the Equity Curve here, Formula used:   
+Find the Equity Curve here, formula used:   
 
-      `Equity Curve = (Minimum Capital Required) + (P&L Cumulative)`
+**Equity Curve = (Minimum Capital Required) + (P&L Cumulative)**
 
 ![StrategyCard](imgs/sc10.png)
 
@@ -119,11 +119,11 @@ The maximum loss your strategy has encountered during the execution in percentag
 
 ![StrategyCard](imgs/sc17.png)
 
-**Reset axes** - Reset the axes by using the ‘Reset axes’ tool.
+**Reset axes** - Reset the axes by using the **reset axes** tool.
 
 ![StrategyCard](imgs/sc18.png)
 
-**Download as SVG/JPWG** - Download the plot as an SVG or JPEG using these tool. 
+**Download as SVG/JPEG** - Download the plot as an SVG or JPEG using these tool. 
 
 ![StrategyCard](imgs/sc19.png)
 
@@ -136,17 +136,17 @@ In the Net ROI Analysis, view the details in a graphical representation or % by 
 
 **The Net ROI is the total amount gained from a strategy after all brokerage and government charges are deducted.**
 
-![StrategyCard](imgs/sc21.png)
+![StrategyCard](imgs/roi_analysis_percent.png)
 
 You can also switch the data from % to INR with the toggle button from the toolbar
 
-![StrategyCard](imgs/sc22.png)
+![StrategyCard](imgs/roi_analysis_inr.png)
 
-The broker, split charges for the strategy, Gross ROI, Total Charges and Net ROI are displayed in the **graph mode**
+The broker, split charges for the strategy, gross ROI, total charges and net ROI are displayed in the **graph mode**
 
 ![StrategyCard](imgs/sc23.png)
 
-In the **Data mode**, you can view the Broker, Broker Charges, Govt.Charges, Gross ROI, Total Charges & Net ROI. 
+In the **Data mode**, you can view the **broker, broker charges, govt.charges, gross ROI, total charges & net ROI**. 
 
 ![StrategyCard](imgs/sc24.png)
 
@@ -164,15 +164,15 @@ You can view a strategy’s ROI in the returns section. The returns duration and
 
 ## 10. Toolbar
 
-**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
+**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click **refresh** to check again.
 
 ![StrategyCard](imgs/sc25.png)
 
-**Density** - View data comfortably by choosing the density. The options include Larger, Middle and Compact.
+**Density** - View data comfortably by choosing the density. The options include **larger**, **middle** and **compact**.
 
 ![StrategyCard](imgs/sc26.png)
 
-**Settings** - Select the columns that you want to view in this settings option.
+**Settings** - Select the columns that you want to view in this **settings** option.
 
 ![StrategyCard](imgs/sc27.png)
 

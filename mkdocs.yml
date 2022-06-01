@@ -62,12 +62,12 @@ nav:
   - 'FAQ': 'member/faq.md'
   - 'Website Manual':
       - 'Dashboard': 'member/dashboard.md'
+      - 'Choose Strategy': 'member/choose-strategy.md'
       - 'My Portfolio':
           - 'Live Trading': 'member/live-trading.md'
           - 'Virtual Trading': 'member/virtual-trading.md'
       - 'My Strategies': 'member/my-strategies.md'
       - 'Strategy Card': 'member/strategy-card.md'
-      - 'Choose Strategy': 'member/choose-strategy.md'
       - 'Live Reports':
           - 'P & L Book': 'member/Books/pnl.md'
           - 'Trade Book': 'member/Books/tradebook.md'
