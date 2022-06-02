@@ -36,6 +36,7 @@ A pop-up window will appear. The AlgoBulls **virtual broker** is the default bro
 ![PTB](imgs/ptb5.png)
 
 **Step 2**
+
 In the **customizations** section choose **back data for backtesting** or **live data for paper trading**. 
 
 ![PTB](imgs/ptb6.png)
