@@ -175,7 +175,7 @@ AlgoBulls is currently offering a free backtesting & paper trading service. [Sub
 
 
 ### i. What is Live Mode & Live Trading? 
-The **Live Mode** is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. The choose strategy marketplace includes more than 100+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
+The **Live Mode** is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. The choose strategy marketplace includes more than 150+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
 To avoid additional charges for services used in Live Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
 
 ### ii. How to begin Live Trading? 

@@ -22,7 +22,7 @@ The **Live Mode** is where you can execute strategies to begin live trading. Swi
 
 ![test_and_live](imgs/test_and_live5.png)
 
-The choose strategy marketplace includes more than 100+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
+The choose strategy marketplace includes more than 150+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
 
 To avoid additional charges for services used in Live Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
 
@@ -36,7 +36,7 @@ Switch to Live Mode
 
 **Step 2**
 
-Select a strategy from the choose strategy section and click on execute. The strategy will be added to the portfolio & you will be redirected to the [My Portfolio](https://app.algobulls.com/portfolio) page
+Select a strategy from the choose strategy section and click on execute. The strategy will be added to the portfolio & you will be redirected to the [My Portfolio](https://app.algobulls.com/portfolio) page.
 
 **Step 3**
 
