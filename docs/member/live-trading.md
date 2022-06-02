@@ -61,7 +61,23 @@ You can view the strategy status in the progress section. Once the strategy has 
 
 ![PTB](imgs/ptb16.png)
 
+!!! warning
+    Even after completing all of the preceding steps mentioned above, trading may not begin for the following reasons:
+    
+    * Your broker account may be insufficiently funded.
+    
+    * A particular segment in your broker account has not yet been activated (This happens with new accounts, and though some brokers activate this by default, others may take 24 hours or more to do so).
+    
+    * Due to market volatility, your broker may have stopped accepting certain order requests on some of the scripts or stocks (If any such order type with such script/stock strategy is currently running in your AlgoBulls account, new orders for the same won't be displayed).
+    
+    * Certain order types are incompatible with certain brokers.
+    
+    * It's essential for your linked broker account to allow you to execute those orders. Not all strategies are accepted/allowed by every broker. This is because of broker permission issues.
 
+    * The AlgoBulls platform has no control over the brokerage charges imposed by your broker once your trading begins. Before proceeding, please review all charges on the broker's end.
+
+------------
+Visit [algobulls.com](https://algobulls.com/).
 
 The strategy may stop due to various reasons such as market closure, p&l achieved, or if there are any errors. 
 To check errors, in the **progress field** click on the **view details** option and then click on **detailed logs** on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
@@ -147,21 +163,3 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 **Full Screen** - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
 
 ![Filters](imgs/toolbar6.png)
-
-!!! warning
-    Even after completing all of the preceding steps mentioned above, trading may not begin for the following reasons:
-    
-    * Your broker account may be insufficiently funded.
-    
-    * A particular segment in your broker account has not yet been activated (This happens with new accounts, and though some brokers activate this by default, others may take 24 hours or more to do so).
-    
-    * Due to market volatility, your broker may have stopped accepting certain order requests on some of the scripts or stocks (If any such order type with such script/stock strategy is currently running in your AlgoBulls account, new orders for the same won't be displayed).
-    
-    * Certain order types are incompatible with certain brokers.
-    
-    * It's essential for your linked broker account to allow you to execute those orders. Not all strategies are accepted/allowed by every broker. This is because of broker permission issues.
-
-    * The AlgoBulls platform has no control over the brokerage charges imposed by your broker once your trading begins. Before proceeding, please review all charges on the broker's end.
-
-------------
-Visit [algobulls.com](https://algobulls.com/).
