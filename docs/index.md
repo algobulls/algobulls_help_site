@@ -199,21 +199,5 @@ For further information regarding the AlgoBulls platform you can always reach ou
 
 If you're unable to trade, consider the factors listed below. If you believe there is another reason why your trade has not begun, please contact your relationship manager. Alternatively, you can [email us](mailto:support@algobulls.com)
 
-!!! warning
-    Even after completing all of the preceding steps mentioned above, trading may not begin for the following reasons:
-    
-    * Your broker account may be insufficiently funded.
-    
-    * A particular segment in your broker account has not yet been activated (This happens with new accounts, and though some brokers activate this by default, others may take 24 hours or more to do so).
-    
-    * Due to market volatility, your broker may have stopped accepting certain order requests on some of the scripts or stocks (If any such order type with such script/stock strategy is currently running in your AlgoBulls account, new orders for the same won't be displayed).
-    
-    * Certain order types are incompatible with certain brokers.
-    
-    * It's essential for your linked broker account to allow you to execute those orders. Not all strategies are accepted/allowed by every broker. This is because of broker permission issues.
 
-    * The AlgoBulls platform has no control over the brokerage charges imposed by your broker once your trading begins. Before proceeding, please review all charges on the broker's end.
-
-------------
-Visit [algobulls.com](https://algobulls.com/).
 
