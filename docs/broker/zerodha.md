@@ -61,7 +61,7 @@ This activity will help you to link your broking account to the AlgoBulls accoun
     * Type: Select **Connect**.
     * App name: Give the app name. Example: AlgoBulls Login.
     * Zerodha CLient ID: Give your Zerodha User ID.
-    * Redirect URL: Give the value `https://127.0.0.1`.
+    * Redirect URL: Give the value **https://127.0.0.1**.
     * Description: Give the description. Example: App for AlgoBulls Login.
     
 * Click the **Create** button.

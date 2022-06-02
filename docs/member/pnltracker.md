@@ -18,9 +18,9 @@ Turn the P&L toggle button **ON** after adding the **date, duration, and lots** 
 
 Click on **save & start** after agreeing to the terms and conditions. The strategy will begin. 
 
->!!! NOTE - 
+> **Note** 
 >
->The P&L **scan frequency** for **live trading and paper trading** is currently refreshed in **30 seconds**. This may change in the future.
+> * The P&L **scan frequency** for **live trading and paper trading** is currently refreshed in **30 seconds**. This may change in the future.
 
 [Choose a strategy](https://app.algobulls.com/marketplace) from the marketplace and begin trading now! 
 
@@ -30,9 +30,9 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
 
 **Risk Appetite** - Enter the risk appetite amount here. This is the most loss that you would like to bear in this strategy, after which you would like the strategy to stop.  If the strategy exceeds this amount, all positions will be squared off and the strategy will stop the execution. 
 
->!!! NOTE -  
+> **Note**  
 >
->This feature is available for:
+> * This feature is available for:
 >
 >#### i. Test Mode
 >

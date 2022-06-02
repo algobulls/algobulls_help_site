@@ -51,11 +51,11 @@ You can [edit your password](https://app.algobulls.com/settings?section=password
 
 Enter your [agent's details here](https://app.algobulls.com/settings?section=tradeManager) if your AlgoBulls platform account will be managed by them.
 
->!!! NOTE - 
+> **Note**  
 >
-> Please do not share your AlgoBulls credentials with your agent. Once you add your agent details here, the agent gets a separate set of credentials with limited account access to manage your trades.
+> * Please do not share your AlgoBulls credentials with your agent. Once you add your agent details here, the agent gets a separate set of credentials with limited account access to manage your trades.
 >    
->AlgoBulls will not be responsible for any issues occurring because of deliberate or leaked credentials of your account.
+> * AlgoBulls will not be responsible for any issues occurring because of deliberate or leaked credentials of your account.
 
 ### iv. Developer Options
 

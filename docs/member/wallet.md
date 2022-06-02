@@ -76,9 +76,9 @@ You are charged for various services that you use.This may include **backtesting
 
 Did you know? You can try backtesting and paper trading for free too, subscribe to this [free plan to begin backtesting or paper trading](https://app.algobulls.com/wallet?defaultCategory=free) at no additional cost. (For the free minutes, post which you will be charged)
 
-> !!! NOTE -
+> **Note**
 > 
-> Backtesting and paper trading would be charged at a rate of ₹ 1 per minute (execution time)
+> * Backtesting and paper trading would be charged at a rate of ₹ 1 per minute (execution time)
 
 ### Example 
 

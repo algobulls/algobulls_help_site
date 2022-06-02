@@ -157,10 +157,10 @@ Step 4: Ensure you read the terms and conditions and then check the ‘I agree t
 ### iii. What is backtesting & paper trading? 
 **Backtesting** is the method of testing the past performance of an existing or tweaked strategy. If you want to check how the strategies perform in the live markets without investing real money you can try **Paper trading**. Ensure the toggle button on the bottom left side of the website is switched to Test Mode. 
 
-### iv. How accurate is virtual trading in comparison to real trading?
-The only difference between virtual trading and real trading is that it does not involve real money or real markets, but it is as accurate as real trading. 
+### iv. How accurate is virtual trading in comparison to live trading?
+The only difference between virtual trading and live trading is that it does not involve real money or real markets, but it is as accurate as live trading. 
 
-### v. How to use a virtually traded strategy in real trading?
+### v. How to use a virtually traded strategy in live trading?
 If you are happy with a strategy after its virtual trading results you can begin real money trading by simply switching to Live Mode. 
 
 The backtested/Paper traded strategy will be added to your My Strategies section where you can simply switch them to Live Trading from the toggle button. The strategy will be added to your portfolio in Live Mode. You can Start the strategy and begin trading. 
@@ -176,10 +176,10 @@ AlgoBulls is currently offering a free backtesting & paper trading service. [Sub
 
 ### i. What is Live Mode & Live Trading? 
 The **Live Mode** is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. The choose strategy marketplace includes more than 100+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
-To avoid additional charges for services used in Real Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
+To avoid additional charges for services used in Live Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
 
 ### ii. How to begin Live Trading? 
-You can begin Real Trading on AlgoBulls with these 4 simple steps:  
+You can begin Live Trading on AlgoBulls with these 4 simple steps:  
 **Step 1:** Switch to **Live Mode**
 
 **Step 2:** Select a strategy from the **choose strategy section** and click on **execute**. The strategy will be added to the portfolio & you will be redirected to the [My Portfolio](https://app.algobulls.com/portfolio) page
@@ -188,7 +188,8 @@ You can begin Real Trading on AlgoBulls with these 4 simple steps:
 
 **Step 4:** Use the toggle button to activate the **P&L Tracker**. Add the **Desired Profit** and **Risk Appetite** here. Click on **Save & Start**.  
 
-**Note** - Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead. 
+> **Note** 
+> Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead. 
 
 Start Live Trading on AlgoBulls, [explore strategies](https://app.algobulls.com/marketplace/category/retail)!
 
@@ -221,7 +222,7 @@ The [Trade Book](https://help.algobulls.com/member/Books/tradebook.html) display
 ## 10. My Strategies: 
 
 ### i. What are My Strategies?
-The My Strategies page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Virtual Trading (Backtesting/Paper Trading). You can add and manage all the strategies from the My Strategies page. [Know more](https://help.algobulls.com/member/my-strategies.html)
+The My Strategies page displays a list of all your strategies that you may set as Live Trading (Live Mode) or Virtual Trading (Backtesting/Paper Trading). You can add and manage all the strategies from the My Strategies page. [Know more](https://help.algobulls.com/member/my-strategies.html)
 
 ### ii. How to add a strategy from my strategies?
 To add strategy from the My Strategies section, click the Add strategy button and choose from the [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) and [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace. Once you choose your marketplace, select the strategy of your choice and click execute. In this way you can add the strategy to your [My Strategies](https://app.algobulls.com/manage-strategies) and Portfolio page. 
