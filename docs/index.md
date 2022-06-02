@@ -193,11 +193,3 @@ For [FAQs](member/faq.md) and other help related videos and documents you can ch
 
 For further information regarding the AlgoBulls platform you can always reach out to our customer service team at <a href="mailto:support@algobulls.com">support@algobulls.com</a> OR call us on +91 8069 230 300
 
->!!! Note
->
-> * If you want to perform backtesting and paper trading, you can skip this step (Mandatory for Live Trading)
-
-If you're unable to trade, consider the factors listed below. If you believe there is another reason why your trade has not begun, please contact your relationship manager. Alternatively, you can [email us](mailto:support@algobulls.com)
-
-
-
