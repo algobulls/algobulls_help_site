@@ -42,7 +42,7 @@ Select a strategy from the choose strategy section and click on execute. The str
 
 To start the chosen strategy click the start button from the Action field.
 
-![PTB](imgs/ptb13.png)
+![PTB](imgs/my_portfolio.png)
 
 Select a broker, add the start and end time and Quantity/Lots. 
 
