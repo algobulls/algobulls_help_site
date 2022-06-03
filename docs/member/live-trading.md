@@ -54,10 +54,6 @@ Use the toggle button to activate the P&L Tracker. Add the Desired Profit and Ri
 
 ![PTB](imgs/ptb15.png)
 
-You can view the strategy status in the progress section. Once the strategy has begun the status will change to started and will change to stopped once the strategy has stopped in the Progress section.
-
-![PTB](imgs/ptb16.png)
-
 !!! note annotate "Note"
 
 * Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead.
