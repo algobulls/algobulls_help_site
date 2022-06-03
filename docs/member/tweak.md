@@ -5,6 +5,7 @@ If you'd like to tweak the strategies for **backtesting or paper trading**, Algo
 Before entering the live markets, you can tweak different parameters of a strategy to see how they function and what results are generated
 
 ## 2. How to tweak a strategy?
+
 **Step 1:** Before you tweak a strategy switch to the **test mode** on AlgBulls. 
 
 [![Tweak](imgs/tweak1.png "Click to Enlarge")](imgs/tweak1.png)

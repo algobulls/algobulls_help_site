@@ -3,7 +3,7 @@
 ## 1. What is a Fund Book?
 ---
 
-The Fund Book displays all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
+The [Fund Book](https://app.algobulls.com/book/fund) displays all the charges that have been applied to your account. Your most recent charges are displayed first, followed by earlier charges farther down the page. 
 
 * View all **transactions** made. 
 * Check plans that are currently **active**. 
@@ -27,7 +27,7 @@ The Filter option allows you to narrow down your search further. The following f
 
 ### 4. Category
 
-From the category search filter you can choose from upto 8 categories such as the AlgoBulls **money, credit from parent, transactional charges, tweak charges, backtesting charges, build real trading charges and strategy build charges**. 
+From the category search filter you can choose from upto 8 categories such as the AlgoBulls **money, credit from parent, transactional charges, tweak charges, backtesting charges, build live trading charges and strategy build charges**. 
 
 ![Filters](imgs/fb3.png)
 

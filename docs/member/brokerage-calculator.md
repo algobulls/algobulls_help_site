@@ -28,7 +28,7 @@ The below brokerage charges are subject to change by the broker.
 |-------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|-----------------|
 | 5Paisa            | ₹.10                                       | ₹.10                                       | ₹.10                                       | ₹.10            |
 | AC Agarwal        | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.10            |
-| AliceBlue         | ₹.15 Per Trade or 0.05% whichever is lower | ₹.15 Per Trade or 0.05% whichever is lower | ₹.15 Per Trade or 0.05% whichever is lower | ₹.15            |
+| AliceBlue         | ₹.15 per trade or 0.05% whichever is lower | ₹.15 per trade or 0.05% whichever is lower | ₹.15 per trade or 0.05% whichever is lower | ₹.15            |
 | Angelbroking      | ₹.20                                       | ₹.20                                       | ₹.20                                       | ₹.20            |
 | Arham             | 0.03% per trade                            | 0.03% per trade                            | 0.03% per trade                            | 0.03% per trade |
 | Edelwiss          | ₹.10                                       | ₹.10                                       | ₹.10                                       | ₹.10            |

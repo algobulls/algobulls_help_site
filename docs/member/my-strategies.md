@@ -3,16 +3,16 @@
 ## 1. Introduction
 ---
 
-This page displays a list of all your strategies that you may set as Real Trading (Live Mode) or Virtual Trading (Test Mode/ Paper Trading & Backtesting). You can also add strategies and manage them here.
+This page displays a list of all your strategies that you may set as **Live Trading** (Live Mode) or **Virtual Trading** (Test Mode/ Paper Trading & Backtesting). You can also add strategies and manage them here.
 
 * Add new strategies. 
-* Add strategies to Live trading to begin real trading .
-* Add strategies to Virtual Trading to begin backtesting, Paper Trading & Tweaking .
+* Add strategies to Live trading to begin live trading .
+* Add strategies to Virtual Trading to begin **backtesting or paper trading**.
 
 ## 2. How to add a strategy to My Strategies?
 ---
 
-To add strategy from the My Strategies section, click the Add strategy button and choose from the [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace.
+To add strategy from the My Strategies section, click the **add strategy button** and choose from the [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace.
 
 ![Custom Strategies](imgs/ms1.png)
 
@@ -27,11 +27,11 @@ Once you choose your marketplace, select the strategy of your choice and click *
 
 ![Custom Strategies](imgs/ms4.png)
 
-To begin trading in live markets, switch the Live Trading toggle button ON and add a strategy. If you want to remove the strategy from the live markets, use the same toggle button to do so.
+To begin trading in live markets, switch the **live trading** toggle button **ON** and add a strategy. If you want to remove the strategy from the live markets, use the same toggle button to do so.
 
 ![Custom Strategies](imgs/ms5.png)
 
-To begin Virtual Trading (Backtesting/Paper Trading),add the strategy using the Virtual Trading button and disable it to remove the strategy from virtual trading.
+To begin virtual trading (Backtesting/Paper Trading),add the strategy using the **virtual trading** button and disable it to remove the strategy from virtual trading.
 
 ## 4. Fields
 ---
@@ -49,9 +49,9 @@ The strategy configuration field includes Instrument and Strategy Settings such 
 
 ![Portfolio](imgs/portfolio5.png)
 
-* **Live Trading** - To add a particular strategy in the Live Trading section use the add Live Trading Toggle button. 
+* **Live Trading** - To add a particular strategy in the **live trading** section use the **add** toggle button. 
 
-* **Virtual Trading** - To add a strategy in the virtual trading environment use the add toggle button.
+* **Virtual Trading** - To add a strategy in the **virtual trading** environment use the **add** toggle button.
 
 [ ![Custom Strategies](imgs/ms3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/ms3.png)
 

@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The Test or Virtual trading mode is a virtual simulation of the real markets.Switch the toggle button on the bottom left side of the website to Test Mode. 
+The Test or Virtual trading mode is a virtual simulation of the real markets. Switch the toggle button on the bottom left side of the website to Test Mode. 
 
 * Test any strategy in live markets without risking any money through Paper Trading. 
 * Modify strategies using the Tweak option.
@@ -19,24 +19,25 @@ Ensure the toggle button on the bottom left side of the website is switched to T
 ## 2. How to begin Virtual Trading?
 ---
 
-You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to **Virtual/Test Mode** by using the toggle button on the bottom left side of the sidebar navigation.
+You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to the **Virtual/Test Mode** by using the toggle button on the bottom left side of the sidebar navigation.
 
 ![PTB](imgs/ptb3.png)
 
-Also ensure that you’ve added a strategy from the [Choose Strategy](choose-strategy.md) marketplace by clicking on **execute** button.
+Also ensure that you’ve added a strategy from the [Choose Strategy](choose-strategy.md) marketplace by clicking on the **execute** button.
 
-### i. Step 1
+**Step 1**
 
-In the [MyPortfolio](live-trading.md) section click on the 'Start' button in the Action column. 
+In the [MyPortfolio](live-trading.md) section click on the **Start** button in the Action column. 
 
 ![PTB](imgs/ptb4.png)
 
-A pop-up window will appear. The AlgoBulls virtual Broker is the default broker selected in the Choose Broker option.
+A pop-up window will appear. The AlgoBulls **virtual broker** is the default broker selected in the **choose broker** option.
 
 ![PTB](imgs/ptb5.png)
 
-### ii. Step 2
-In the Customizations section choose Back Data for backtesting OR Live Data for paper trading. 
+**Step 2**
+
+In the **customizations** section choose **back data for backtesting** or **live data for paper trading**. 
 
 ![PTB](imgs/ptb6.png)
 
@@ -46,30 +47,29 @@ Select the duration option in the customizations section. Add the desired date a
 
 In paper trading you only need to add the start and end time. 
 
-### iii. Step 3
+**Step 3**
 
-Once you scroll below you will see the P&L tracker. Switch the P&L tracker ‘ON’ and enter your desired profit and risk appetite. 
+Once you scroll below you will see the P&L tracker. Switch the P&L tracker **ON** and enter your desired profit and risk appetite. 
 
 ![PTB](imgs/ptb8.png)
 
-### iv. Step 4
+**Step 4**
 
-Ensure you read the terms and conditions and then check the ‘I agree to the Terms and conditions’ box. Save & Start the strategy.
+Ensure you read the terms and conditions and then check the **I agree to the Terms and conditions** box. Save & Start the strategy.
 
 ![PTB](imgs/ptb9.png)
 
-Please note that in both Backtesting and Paper Trading you will be charged if you don’t have an active AlgoBulls package. To avoid these charges you can buy the AlgoBulls package. 
-
+Please note that in both Backtesting and Paper Trading you will be charged if you don’t have an active AlgoBulls plan. To avoid these charges you can purchase an [AlgoBulls plan now](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading). 
 
 You will be able to track the Backtesting or Paper Trading status in the Progress section.
 
 ![PTB](imgs/ptb10.png)
 
-You can check the status details in the View Details feature in the Progress section. You can click on the view detailed logs option to get the logs. 
+You can check the status details in the **view details** feature in the **progress** section. You can click on the **view detailed logs** option to get the **logs**. 
 
 ![PTB](imgs/ptb11.png)
 
-Once this process is complete, you will be able to view the strategies Past Performance (Backtesting) or Live Market Performance (Paper trading).
+Once this process is complete, you will be able to view the strategy's **past performance** (Backtesting) or **live market performance** (Paper trading).
 
 ## 3. How to Tweak a Strategy on AlgoBulls?
 ---
@@ -88,23 +88,23 @@ You can change the parameters as per your choice.
 
 [ ![Tweak](imgs/tweak3.png "Click to Enlarge") ](imgs/tweak3.png)
 
-These parameters include `Instrument, Strategy Settings and Order Settings`.
+These parameters include **Instrument, Strategy Settings and Order Settings**.
 
 In the instrument parameter, you can select the exchange or search the instrument in the search bar.
 
 [ ![Tweak](imgs/tweak4.png "Click to Enlarge") ](imgs/tweak4.png)
 
-In strategy settings, you can select the candle duration, strategy mode, Target%, Stop Loss % and Trailing stop loss. 
+In strategy settings, you can select the **candle duration, strategy mode, target %, stop loss %** and **trailing stop loss**. 
 
 [ ![Tweak](imgs/tweak5.png "Click to Enlarge") ](imgs/tweak5.png)
 
-In Order settings you can tweak Resume, Exit & Misc/miscellaneous parameters. 
+In Order settings you can tweak **resume, exit & misc/miscellaneous** parameters. 
 
-You can also add the Instrument max order count,Crossover accuracy decimals & credit exposure factor.
+You can also add the **Instrument max order count, crossover accuracy decimals & credit exposure factor**.
 
 [ ![Tweak](imgs/tweak6.png "Click to Enlarge") ](imgs/tweak6.png)
 
-Once you are convinced and happy with the tweak, click Save As New Entry. You will get a confirmation pop-up, click **yes** if you wish to continue. 
+Once you are convinced and happy with the tweak, click **save as new entry**. You will get a confirmation pop-up, click **yes** if you wish to continue. 
 
 [ ![Tweak](imgs/tweak7.png "Click to Enlarge") ](imgs/tweak7.png)
 
@@ -133,8 +133,11 @@ The **summary bar** in the portfolio section includes the following:
 My Portfolio includes the following fields: 
 
 * **Strategy** - This field displays the strategy name and code.
+
 * **Instrument(s)** - This includes the instrument on which the strategy is being run. 
+
 * **Tag** - This is a user defined tag for the strategy. Users can tag different strategies under different tags.
+
 * **Volume** - This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook.
 
 ![Portfolio](imgs/portfolio3.png)
@@ -150,11 +153,11 @@ The strategy configuration field includes Instrument and Strategy Settings such 
 
 ![Portfolio](imgs/portfolio6.png)
 
-* **Logs** - The log feature allows you to view the complete details of an order placed. In the ‘Progress’ field click on the ‘view details’ option and then click  ‘detailed logs’ on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
+* **Logs** - The log feature allows you to view the complete details of an order placed. In the **progress** field click on the **view details** option and then click  **detailed logs** on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
 
 ![Portfolio](imgs/portfolio6.1.png)
 
-* **Action** - The action field allows you to start or stop a strategy. To execute a strategy click start. When you click on the start you will be able to choose multiple brokers and run the strategies simultaneously too.
+* **Action** - The action field allows you to start or stop a strategy. To execute a strategy click **start**. When you click on the start you will be able to choose multiple brokers and run the strategies simultaneously too.
 
 ![Portfolio](imgs/portfolio7.png)
 

@@ -18,9 +18,9 @@ Turn the P&L toggle button **ON** after adding the **date, duration, and lots** 
 
 Click on **save & start** after agreeing to the terms and conditions. The strategy will begin. 
 
->!!! NOTE - 
->
->The P&L **scan frequency** for **live trading and paper trading** is currently refreshed in **30 seconds**. This may change in the future.
+!!! note annotate "Note"
+
+ * The P&L **scan frequency** for **live trading and paper trading** is currently refreshed in **30 seconds**. This may change in the future.
 
 [Choose a strategy](https://app.algobulls.com/marketplace) from the marketplace and begin trading now! 
 
@@ -30,27 +30,27 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
 
 **Risk Appetite** - Enter the risk appetite amount here. This is the most loss that you would like to bear in this strategy, after which you would like the strategy to stop.  If the strategy exceeds this amount, all positions will be squared off and the strategy will stop the execution. 
 
->!!! NOTE -  
->
->This feature is available for:
->
->#### i. Test Mode
->
->[Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting & Paper Trading)
->
->#### ii. Live Mode
->
->[Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) in Live Markets 
->
-> * AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite.
->
-> * You can either enter both values or leave them blank. It is not allowed to enter one of the values while leaving the other value blank. In other words:
->
-> * This feature can be turned ON by giving both values.
->
-> * This feature can be turned OFF by keeping both values blank.
->
-> * Turn OFF this feature by using the toggle button, if you want to keep both the values blank 
->
-> * **For Live Trading** - These values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on. For P&L tracker to function effectively, please do not run multiple strategies on the same instrument(s).
+!!! note annotate "Note"
+
+ * This feature is available for:
+
+#### i. Test Mode
+
+[Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting & Paper Trading)
+
+#### ii. Live Mode
+
+[Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) in Live Markets 
+
+ * AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite.
+
+ * You can either enter both values or leave them blank. It is not allowed to enter one of the values while leaving the other value blank. In other words:
+
+ * This feature can be turned ON by giving both values.
+
+ * This feature can be turned OFF by keeping both values blank.
+
+ * Turn OFF this feature by using the toggle button, if you want to keep both the values blank 
+
+ * **For Live Trading** - These values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on. For P&L tracker to function effectively, please do not run multiple strategies on the same instrument(s).
 

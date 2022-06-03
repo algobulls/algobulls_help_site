@@ -16,20 +16,20 @@ You can view your current balance in your AlgoBulls Dashboard. To add money in y
 ## 3. The Action Bar
 ---
 
-The action bar displays your AlgoBulls Funds, Subscription Plan Status, Broker Account and Portfolio Strategy. You can also [add funds](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), connect to another broker account and add more strategies to your portfolio page from the action bar. 
+The action bar displays your AlgoBulls funds, subscription plan status, broker account and portfolio strategy. You can also [add funds](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), connect to another broker account and add more strategies to your portfolio page from the action bar. 
 
 ![Dashboard](imgs/dashboard4.png)
 
 ## 4. Strategy Analytics
 ---
 
-You can see the overall trading volume, profit and loss, and your AlgoBulls current balance in this section. On the left side of the page, you can see the data in a graphical representation, and on the right side, you can see strategy details such as strategy name, total transactions, Volume, and P&L.
+You can see the overall trading volume, profit and loss, and your AlgoBulls current balance in this section. On the left side of the page, you can see the data in a graphical representation, and on the right side, you can see strategy details such as strategy name, total transactions, volume, and P&L.
 
 [ ![Dashboard](imgs/dashboard5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard5.png)
 
 You can narrow down your search by selecting the following options: 
 
-* **Today**- Trades for the day.
+* **Today** - Trades for the day.
 * **This week** - Trades for the week.
 * **This month** - Trades placed in the month. 
 * **This year** - Trades placed this year.
@@ -41,9 +41,9 @@ You can narrow down your search by selecting the following options:
 ---
 The Dashboard fields include: 
 
-* Strategy Name - This consists of the strategy name and strategy code .
+* **Strategy Name** - This consists of the strategy name and strategy code .
 * **Total Txns** - This consists of the total number of transactions made by you for that strategy.
-* **Volume (₹)**- This includes the total volume in INR.
+* **Volume (₹)** - This includes the total volume in INR.
 * **P&L (₹)** - This field includes the total P&L.
 
 [ ![Dashboard](imgs/dashboard7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard7.png)
@@ -54,19 +54,19 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 
 ![Filters](imgs/toolbar1.png)
 
-**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
+**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click refresh to check again.
 
 ![Filters](imgs/toolbar3.png)
 
-**Density** - View data comfortably by choosing the density. The options include Larger, Middle and Compact. 
+**Density** - View data comfortably by choosing the density. The options include larger, middle and compact. 
 
 ![Filters](imgs/toolbar4.png)
 
-**Settings** - Select the columns that you want to view in this settings option.
+**Settings** - Select the columns that you want to view in this **settings** option.
 
 ![Filters](imgs/toolbar5_dashboard.png)
 
-**Full Screen** - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
+**Full Screen** - With this option you will be able to view your current tab on the browser in full screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
 
 ![Filters](imgs/toolbar6.png)
 

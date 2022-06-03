@@ -44,11 +44,11 @@ AlgoBulls also offers a range of free plans - Try a [Free Plan](https://app.algo
 
 Other services that you can use without any additional charges:  
 
-* Adding a strategy from the Choose Strategy Marketplace 
+* Adding a strategy from the Choose Strategy Marketplace.
 
-* Viewing backtesting reports for a strategy from the Choose Strategy Marketplace
+* Viewing backtesting reports for a strategy from the Choose Strategy Marketplace.
 
-* Tweaking (Change parameters of) a strategy 
+* Tweaking (Change parameters of) a strategy. 
 
 ## 4. Subscription plans: 
 
@@ -76,9 +76,9 @@ You are charged for various services that you use.This may include **backtesting
 
 Did you know? You can try backtesting and paper trading for free too, subscribe to this [free plan to begin backtesting or paper trading](https://app.algobulls.com/wallet?defaultCategory=free) at no additional cost. (For the free minutes, post which you will be charged)
 
-> !!! NOTE -
-> 
-> Backtesting and paper trading would be charged at a rate of ₹ 1 per minute (execution time)
+!!! note annotate "Note"
+ 
+* Backtesting and paper trading would be charged at a rate of ₹ 1 per minute (execution time)
 
 ### Example 
 
