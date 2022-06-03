@@ -10,7 +10,7 @@ The P&L Tracker feature allows you to gain profit or limit losses at (or near) p
 
 In the **test or live mode**, select a strategy from the chosen marketplace and click on execute. The strategy will be added to your AlgoBulls portfolio. Click **start** in the action bar to start the strategy. 
 
-![pnltracker](imgs/pnl_tracker1.png)
+![pnltracker](imgs/my_portfolio.png)
 
 Turn the P&L toggle button **ON** after adding the **date, duration, and lots** in the customization section, then enter the **desired profit and risk appetite** in the P&L Tracker.
 
