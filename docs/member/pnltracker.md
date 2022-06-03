@@ -10,7 +10,7 @@ The P&L Tracker feature allows you to gain profit or limit losses at (or near) p
 
 In the **test or live mode**, select a strategy from the chosen marketplace and click on execute. The strategy will be added to your AlgoBulls portfolio. Click **start** in the action bar to start the strategy. 
 
-![pnltracker](imgs/pnl_tracker1.png)
+![pnltracker](imgs/my_portfolio.png)
 
 Turn the P&L toggle button **ON** after adding the **date, duration, and lots** in the customization section, then enter the **desired profit and risk appetite** in the P&L Tracker.
 
@@ -34,13 +34,14 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
 
  * This feature is available for:
 
-#### i. Test Mode
+    i. Test Mode
 
-[Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting & Paper Trading)
+    [Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting & Paper Trading)
 
-#### ii. Live Mode
+    ii. Live Mode
 
-[Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) in Live Markets 
+    [Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) in Live Markets 
+
 
  * AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite.
 
@@ -54,3 +55,4 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
 
  * **For Live Trading** - These values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on. For P&L tracker to function effectively, please do not run multiple strategies on the same instrument(s).
 
+--------

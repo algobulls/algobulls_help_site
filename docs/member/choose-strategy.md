@@ -57,8 +57,6 @@ AI-driven trading algos tailored for the HNI clientele's individual needs and ri
 
 Before adding strategies to your **my portfolio** section, you can explore the strategy details, parameters and back testing reports to evaluate the strategy's performance in the **choose strategy** section. Know more about the [Strategy Card](strategy-card.md).
 
-![ChooseStrategy](imgs/cs2.png)
-
 ## 5. Explore Strategies
 ---
 You can find strategies using the following options: 
