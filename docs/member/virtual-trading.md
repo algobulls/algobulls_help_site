@@ -21,7 +21,7 @@ Ensure the toggle button on the bottom left side of the website is switched to T
 
 You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to the **Virtual/Test Mode** by using the toggle button on the bottom left side of the sidebar navigation.
 
-![PTB](imgs/ptb3.png)
+![PTB](imgs/virtual_mode_retail_marketplace.png)
 
 Also ensure that you’ve added a strategy from the [Choose Strategy](choose-strategy.md) marketplace by clicking on the **execute** button.
 
@@ -29,7 +29,7 @@ Also ensure that you’ve added a strategy from the [Choose Strategy](choose-str
 
 In the [MyPortfolio](live-trading.md) section click on the **Start** button in the Action column. 
 
-![PTB](imgs/ptb4.png)
+![PTB](imgs/virtual_mode_my_portfolio.png)
 
 A pop-up window will appear. The AlgoBulls **virtual broker** is the default broker selected in the **choose broker** option.
 

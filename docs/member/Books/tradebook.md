@@ -13,7 +13,7 @@ All strategies executed in your account are updated real-time as and when the tr
 
 
 
-![Tradebook](imgs/tradebook.png)
+![Tradebook](imgs/portfolio4.png)
 
 ## 2. Summary Bar
 ---

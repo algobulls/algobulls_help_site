@@ -19,7 +19,7 @@ You can now register with AlgoBulls within a minute with the Login with google o
 
    **Step 1: Profile:** Add your Name, Email & Phone Number. Click on **Get Otp**.
 
-![HomePage](member/imgs/sign_up.png)
+![HomePage](member/imgs/signup_1.png)
 
    **Step 2: Credentials:** Add the OTP & other credentials such as password.
 
