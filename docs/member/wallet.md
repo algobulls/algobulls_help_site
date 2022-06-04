@@ -78,7 +78,7 @@ Did you know? You can try backtesting and paper trading for free too, subscribe 
 
 !!! note annotate "Note"
  
-* Backtesting and paper trading would be charged at a rate of ₹ 1 per minute (execution time)
+    * Backtesting and paper trading would be charged at a rate of ₹ 1 per minute (execution time)
 
 ### Example 
 

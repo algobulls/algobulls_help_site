@@ -22,8 +22,8 @@ Government charges are levied by the government on each transaction which includ
 The brokerage calculator helps you calculate the [NET ROI](https://help.algobulls.com/member/strategy-card.html#7-net-roi-analysis). Learn more about Net ROI analysis. 
 
 !!! note annotate "Note"
-
-* The below brokerage charges are subject to change by the broker. 
+ 
+      * The below brokerage charges are subject to change by the broker. 
 
 | Broker Name       | Equity                                    | Future                                     | MCX                                        | Options         |
 |-------------------|-------------------------------------------|--------------------------------------------|--------------------------------------------|-----------------|

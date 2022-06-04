@@ -20,7 +20,7 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
 
 !!! note annotate "Note"
 
- * The P&L **scan frequency** for **live trading and paper trading** is currently refreshed in **30 seconds**. This may change in the future.
+    * The P&L **scan frequency** for **live trading and paper trading** is currently refreshed in **30 seconds**. This may change in the future.
 
 [Choose a strategy](https://app.algobulls.com/marketplace) from the marketplace and begin trading now! 
 
@@ -32,7 +32,7 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
 
 !!! note annotate "Note"
 
- * This feature is available for:
+    * This feature is available for:
 
     i. Test Mode
 
@@ -43,16 +43,16 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
     [Live Trading](https://help.algobulls.com/member/virtual-trading.html) in Live Markets 
 
 
- * AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite.
+    * AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite.
 
- * You can either enter both values or leave them blank. It is not allowed to enter one of the values while leaving the other value blank. In other words:
+    * You can either enter both values or leave them blank. It is not allowed to enter one of the values while leaving the other value blank. In other words:
 
- * This feature can be turned ON by giving both values.
+    * This feature can be turned ON by giving both values.
 
- * This feature can be turned OFF by keeping both values blank.
+    * This feature can be turned OFF by keeping both values blank.
 
- * Turn OFF this feature by using the toggle button, if you want to keep both the values blank 
+    * Turn OFF this feature by using the toggle button, if you want to keep both the values blank 
 
- * **For Live Trading** - These values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on. For P&L tracker to function effectively, please do not run multiple strategies on the same instrument(s).
+    * **For Live Trading** - These values are not guaranteed as there are various factors into play outside the control of AlgoBulls systems, like market liquidity, momentum, delays introduced due to network, and so on. For P&L tracker to function effectively, please do not run multiple strategies on the same instrument(s).
 
 --------
