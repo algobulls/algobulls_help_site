@@ -56,7 +56,7 @@ Use the toggle button to activate the P&L Tracker. Add the Desired Profit and Ri
 
 !!! note annotate "Note"
 
-* Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead.
+    * Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead.
 
 
 !!! warning
