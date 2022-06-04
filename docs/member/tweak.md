@@ -44,4 +44,4 @@ You can also add tags to the tweaked strategy as per your requirement.
 
 ## 3. How to apply the tweaked strategy in live trading? 
 
-To know more about applying your tweaked strategy in the live markets, [click here](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html#steps-to-apply-backtested-or-paper-traded-strategies-to-real-tradinglive-trading). 
+To know more about applying your tweaked strategy in the live markets, [click here](https://help.algobulls.com/member/virtual-trading.html#3-how-to-tweak-a-strategy-on-algobulls). 

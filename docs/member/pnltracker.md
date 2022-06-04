@@ -36,11 +36,11 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
 
     i. Test Mode
 
-    [Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting & Paper Trading)
+    [Virtual Trading](https://help.algobulls.com/member/live-trading.html) (Backtesting & Paper Trading)
 
     ii. Live Mode
 
-    [Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) in Live Markets 
+    [Live Trading](https://help.algobulls.com/member/virtual-trading.html) in Live Markets 
 
 
  * AlgoBulls Risk Management System will try its best to book your P&L at the given Profit Desired or limit it at the given Risk Appetite.

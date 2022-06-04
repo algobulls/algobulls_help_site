@@ -34,24 +34,28 @@ You can now register with AlgoBulls within a minute with the Login with google o
    If you already have an AlgoBulls account, simply log in using the following options:  
 
 ####  i. Login with Google:
+
 Use your google account to **Login with google**.
 
    ![HomePage](member/imgs/goggle_login.png)
 
 
 #### ii. [Login with mobile number:](https://app.algobulls.com/user/login) 
+
 Use your mobile number and the password to Login.
 
    ![HomePage](member/imgs/mobile_login.png)
 
 
 #### iii. [Login with OTP:](https://app.algobulls.com/user/login?method=mobile) 
+
 You can select the Login with OTP option too. Enter your phone number and an OTP will be sent to your registered mobile number.
    
    ![HomePage](member/imgs/otp_login.png)
 
    
 #### iv. Login with your Broking Account:
+
 You can login with your broking account too. It requires a one time set up where you will have to link your existing/new broker. Once that process is complete you can login using your broking account daily. 
    
    ![HomePage](member/imgs/login_with_broking_acc.png)
@@ -118,7 +122,6 @@ AlgoBulls also offers a range of free plans - Subscribe for a <a href="https://a
 
 ## 9. How to select a strategy?
 
-
 After subscribing to a plan you can now choose the Algo Strategy of your choice from the Choose Strategy section. This Marketplace has more than 150+ Algo Strategies created by industry leading experts. It is divided into 3 segments - Retail, Premium & HNI Marketplace 
 
 <a href="https://app.algobulls.com/marketplace/category/retail">Retail Marketplace</a> - The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes Equity, Futures & Commodities cash segment strategies. <a href="https://help.algobulls.com/member/choose-strategy.html#2-retail-marketplace">Know more</a> about the Retail Marketplace.
@@ -130,6 +133,7 @@ After subscribing to a plan you can now choose the Algo Strategy of your choice 
 Select a strategy from the AlgoBulls <a href="https://app.algobulls.com/marketplace/category/retail">Choose Strategy Marketplace now!</a> 
 
 ## 10. The Strategy Card: 
+
 A strategy card has all the information you need about a strategy. To view these details, select a marketplace in the <a href="https://app.algobulls.com/marketplace/category/retail">Choose Strategy Marketplace</a>, search for the strategy you would like to view and click on the strategy card. 
 
 A detailed view of the strategy card will open. To begin trading with a particular strategy, click on the execute button to add it to your <a href="https://help.algobulls.com/member/choose-strategy.html#4-hni-marketplace">My Portfolio</a> page. To know more about the strategy card, <a href="https://help.algobulls.com/member/strategy-card.html">click here</a>. 
@@ -140,7 +144,7 @@ In the My Portfolio section you can execute strategies in the real markets with 
 
 In the <a href="https://help.algobulls.com/member/test-to-live-mode.html">Test Mode</a>, you can test a strategy in live markets without risking any money through Paper Trading, modify strategies using the <a href="https://help.algobulls.com/member/tweak.html">Tweak option</a> and test the past performance data for that strategy through Backtesting.
 
-In order to begin live trading or virtual trading you can switch the toggle button on the bottom left side of the website to Live Mode/Test Mode. Learn more about the Portfolio in [Virtual](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) & [Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) mode.  
+In order to begin live trading or virtual trading you can switch the toggle button on the bottom left side of the website to Live Mode/Test Mode. Learn more about the Portfolio in [Virtual](https://help.algobulls.com/member/virtual-trading.html) & [Live Trading](https://help.algobulls.com/member/live-trading.html) mode.  
 
 <a href="https://app.algobulls.com/portfolio">Begin Trading now!</a>
 
@@ -150,14 +154,13 @@ The <a href="https://help.algobulls.com/member/pnltracker.html">P&L Tracker feat
 
 ## 12. My Strategies: 
 
-The My Strategies page displays a list of all your strategies that you may set as [Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) (Live Mode) or [Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting/Paper Trading). 
+The My Strategies page displays a list of all your strategies that you may set as [Live Trading](https://help.algobulls.com/member/live-trading.html) (Live Mode) or [Virtual Trading](https://help.algobulls.com/member/virtual-trading.html) (Backtesting/Paper Trading). 
 
 To add a strategy from the My Strategies section, click the Add strategy button and choose from the <a href="https://app.algobulls.com/marketplace/category/retail">Retail</a>, <a href="https://app.algobulls.com/marketplace/category/premium">Premium</a> and <a href="https://app.algobulls.com/marketplace/category/hni">HNI</a> marketplace. 
 
 You can also add strategies and manage them <a href="https://app.algobulls.com/manage-strategies">here</a>.
 
 <a href="https://help.algobulls.com/member/my-strategies.html">Learn more</a> about the My Strategies page on AlgoBulls. 
-
 
 ## 13. Live Reports: 
 
@@ -173,11 +176,13 @@ The Live Reports section is divided into 3 parts - <a href="https://app.algobull
 Want to check Live Reports for your Strategies? Visit the <a href="https://app.algobulls.com/book/pl">P&L Book</a>, <a href="https://app.algobulls.com/book/trade">Trade Book</a>, and <a href="https://app.algobulls.com/book/fund">Fund Book</a> now! 
 
 ## 14. The Dashboard
+
 Once you have successfully registered with AlgoBulls, you will be redirected to the <a href="https://help.algobulls.com/member/dashboard.html">AlgoBulls Dashboard</a>. The AlgoBulls Dashboard gives you an overview of your account and trades.
 
 Go to <a href="https://app.algobulls.com/dashboard">my dashboard</a>
 
 ## 15. Settings
+
 In Settings, you can add/edit your basic profile, set your trading risk, grant access to your trading manager, and explore your developer options.
 
 
