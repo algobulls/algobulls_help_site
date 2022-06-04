@@ -19,53 +19,52 @@ Government charges are levied by the government on each transaction which includ
 
 * **Net ROI**: Gross ROI - Total Charges (Brokerage + Other charges) 
 
-
-The brokerage calculator helps you calculate the [NET ROI](https://algobulls.github.io/algobulls_help_site_dev/member/strategy-card.html#7-net-roi-analysis). Learn more about Net ROI analysis. 
+The brokerage calculator helps you calculate the [NET ROI](https://help.algobulls.com/member/strategy-card.html#7-net-roi-analysis). Learn more about Net ROI analysis. 
 
 !!! note annotate "Note"
 
 * The below brokerage charges are subject to change by the broker. 
 
-| Broker Name       | Equity                                     | Future                                     | MCX                                        | Options         |
-|-------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|-----------------|
-| 5Paisa            | ₹.10                                       | ₹.10                                       | ₹.10                                       | ₹.10            |
-| AC Agarwal        | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.10            |
-| AliceBlue         | ₹.15 per trade or 0.05% whichever is lower | ₹.15 per trade or 0.05% whichever is lower | ₹.15 per trade or 0.05% whichever is lower | ₹.15            |
-| Angelbroking      | ₹.20                                       | ₹.20                                       | ₹.20                                       | ₹.20            |
-| Arham             | 0.03% per trade                            | 0.03% per trade                            | 0.03% per trade                            | 0.03% per trade |
-| Edelwiss          | ₹.10                                       | ₹.10                                       | ₹.10                                       | ₹.10            |
-| Findoc            | 0.02% per trade                            | 0.01% per trade                            | 0.01% per trade                            | ₹.5             |
-| Finvasia          | Zero                                       | Zero                                       | Zero                                       | Zero            |
-| Hem Securities    | 0.03%                                      | ₹.20                                       | ₹.20                                       | ₹.20            |
-| IIFL              | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.15            |
-| Indira Securities | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.10            |
-| Jainam Duck       | ₹.10                                       | ₹.10                                       | ₹.10                                       | ₹.10            |
-| Kotak Securitues  | Zero                                       | Zero                                       | Zero                                       | Zero            |
-| Master Trust      | ₹.20                                       | ₹.20                                       | ₹.20                                       | ₹.20            |
-| Motilal Oswal     | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.15            |
-| Rmoney            | ₹.9                                        | ₹.9                                        | ₹.9                                        | ₹.9             |
-| Rudra             | 0.01% per trade                            | 0.01% per trade                            | 0.01% per trade                            | ₹.15            |
-| Sharekhan         | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.10            |
-| Zebu              | 0.02% per trade                            | 0.02% per trade                            | 0.02% per trade                            | ₹.20            |
-| Zerodha           | ₹.20                                       | ₹.20                                       | ₹.20                                       | ₹.20            |
+| Broker Name       | Equity                                    | Future                                     | MCX                                        | Options         |
+|-------------------|-------------------------------------------|--------------------------------------------|--------------------------------------------|-----------------|
+| 5Paisa            | ₹ 10                                      | ₹ 10                                       | ₹ 10                                       | ₹ 10            |
+| AC Agarwal        | 0.02% per trade                           | 0.02% per trade                            | 0.02% per trade                            | ₹ 10            |
+| AliceBlue         | ₹15 per trade or 0.05% whichever is lower | ₹ 15 per trade or 0.05% whichever is lower | ₹ 15 per trade or 0.05% whichever is lower | ₹ 15            |
+| Angelbroking      | ₹ 20                                      | ₹ 20                                       | ₹ 20                                       | ₹ 20            |
+| Arham             | 0.03% per trade                           | 0.03% per trade                            | 0.03% per trade                            | 0.03% per trade |
+| Edelwiss          | ₹ 10                                      | ₹ 10                                       | ₹ 10                                       | ₹ 10            |
+| Findoc            | 0.02% per trade                           | 0.01% per trade                            | 0.01% per trade                            | ₹ 5             |
+| Finvasia          | Zero                                      | Zero                                       | Zero                                       | Zero            |
+| Hem Securities    | 0.03%                                     | ₹ 20                                       | ₹ 20                                       | ₹ 20            |
+| IIFL              | 0.02% per trade                           | 0.02% per trade                            | 0.02% per trade                            | ₹ 15            |
+| Indira Securities | 0.02% per trade                           | 0.02% per trade                            | 0.02% per trade                            | ₹ 10            |
+| Jainam Duck       | ₹ 10                                      | ₹ 10                                       | ₹ 10                                       | ₹ 10            |
+| Kotak Securitues  | Zero                                      | Zero                                       | Zero                                       | Zero            |
+| Master Trust      | ₹ 20                                      | ₹ 20                                       | ₹ 20                                       | ₹ 20            |
+| Motilal Oswal     | 0.02% per trade                           | 0.02% per trade                            | 0.02% per trade                            | ₹ 15            |
+| Rmoney            | ₹ 9                                       | ₹ 9                                        | ₹ 9                                        | ₹ 9             |
+| Rudra             | 0.01% per trade                           | 0.01% per trade                            | 0.01% per trade                            | ₹ 15            |
+| Sharekhan         | 0.02% per trade                           | 0.02% per trade                            | 0.02% per trade                            | ₹ 10            |
+| Zebu              | 0.02% per trade                           | 0.02% per trade                            | 0.02% per trade                            | ₹ 20            |
+| Zerodha           | ₹ 20                                      | ₹ 20                                       | ₹ 20                                       | ₹ 20            |
 
 ## 3. Government Charges
 
-|                                                       |         |     | Flat % per trade |
-|-------------------------------------------------------|---------|-----|------------------|
-| Security Transaction Tax - Commodity Futures          | MCX     | -   | 0.01             |
-| Security Transaction Tax Index - Equity/Index Futures | NFO     | -   | 0.01             |
-| Transaction Charges - Equity Intraday                 | NSE     | -   | 0.0035           |
-| Transaction Charges - Index Options                   | NSE_IDX | -   | 0.053            |
-| SEBI Charges Index Options                            | NSE_IDX | -   | 0.0001           |   
-| Transaction Charges - Commodity Futures               | MCX     | -   | 0.0026           |   
-| Stamp Duty - Equity/Index Futures                     | NFO     | -   | 0.002            |   
-| Stamp Duty - Index Options                            | NSE_IDX | -   | 0.003            |   
-| Stamp Duty - Equity Intraday                          | NSE     | -   | 0.003            |   
-| SEBI Charges - Equity Intraday                        | NSE     | -   | 0.0001           |   
-| SEBI Charges - Commodity Futures                      | MCX     | -   | 0.0001           |   
-| SEBI Charges - Equity/Index Futures                   | NFO     | -   | 0.0001           |   
-| Security Transaction Tax Index - Equity Intraday      | NSE     | -   | 0.025            |   
-| Stamp Duty - Commodity Futures                        | MCX     | -   | 0.002            |   
-| Transaction Charges - Equity/Index Futures            | NFO     | -   | 0.002            |   
-| Security Transaction Tax - Index Options              | NSE_IDX | -   | 0.05             |   
+| Type of Charges                                       | Segment/Exchange | Flat % per trade |
+|-------------------------------------------------------|------------------|------------------|
+| Security Transaction Tax - Commodity Futures          | MCX              | 0.01             |
+| Security Transaction Tax Index - Equity/Index Futures | NFO              | 0.01             |
+| Transaction Charges - Equity Intraday                 | NSE              | 0.0035           |
+| Transaction Charges - Index Options                   | NSE_IDX          | 0.053            |
+| SEBI Charges Index Options                            | NSE_IDX          | 0.0001           |   
+| Transaction Charges - Commodity Futures               | MCX              | 0.0026           |   
+| Stamp Duty - Equity/Index Futures                     | NFO              | 0.002            |   
+| Stamp Duty - Index Options                            | NSE_IDX          | 0.003            |   
+| Stamp Duty - Equity Intraday                          | NSE              | 0.003            |   
+| SEBI Charges - Equity Intraday                        | NSE              | 0.0001           |   
+| SEBI Charges - Commodity Futures                      | MCX              | 0.0001           |   
+| SEBI Charges - Equity/Index Futures                   | NFO              | 0.0001           |   
+| Security Transaction Tax Index - Equity Intraday      | NSE              | 0.025            |   
+| Stamp Duty - Commodity Futures                        | MCX              | 0.002            |   
+| Transaction Charges - Equity/Index Futures            | NFO              | 0.002            |   
+| Security Transaction Tax - Index Options              | NSE_IDX          | 0.05             |   

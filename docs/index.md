@@ -144,7 +144,7 @@ In the My Portfolio section you can execute strategies in the real markets with 
 
 In the <a href="https://help.algobulls.com/member/test-to-live-mode.html">Test Mode</a>, you can test a strategy in live markets without risking any money through Paper Trading, modify strategies using the <a href="https://help.algobulls.com/member/tweak.html">Tweak option</a> and test the past performance data for that strategy through Backtesting.
 
-In order to begin live trading or virtual trading you can switch the toggle button on the bottom left side of the website to Live Mode/Test Mode. Learn more about the Portfolio in [Virtual](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) & [Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) mode.  
+In order to begin live trading or virtual trading you can switch the toggle button on the bottom left side of the website to Live Mode/Test Mode. Learn more about the Portfolio in [Virtual](https://help.algobulls.com/member/virtual-trading.html) & [Live Trading](https://help.algobulls.com/member/live-trading.html) mode.  
 
 <a href="https://app.algobulls.com/portfolio">Begin Trading now!</a>
 
@@ -154,7 +154,7 @@ The <a href="https://help.algobulls.com/member/pnltracker.html">P&L Tracker feat
 
 ## 12. My Strategies: 
 
-The My Strategies page displays a list of all your strategies that you may set as [Live Trading](https://algobulls.github.io/algobulls_help_site_dev/member/live-trading.html) (Live Mode) or [Virtual Trading](https://algobulls.github.io/algobulls_help_site_dev/member/virtual-trading.html) (Backtesting/Paper Trading). 
+The My Strategies page displays a list of all your strategies that you may set as [Live Trading](https://help.algobulls.com/member/live-trading.html) (Live Mode) or [Virtual Trading](https://help.algobulls.com/member/virtual-trading.html) (Backtesting/Paper Trading). 
 
 To add a strategy from the My Strategies section, click the Add strategy button and choose from the <a href="https://app.algobulls.com/marketplace/category/retail">Retail</a>, <a href="https://app.algobulls.com/marketplace/category/premium">Premium</a> and <a href="https://app.algobulls.com/marketplace/category/hni">HNI</a> marketplace. 
 
