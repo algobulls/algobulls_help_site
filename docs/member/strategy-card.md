@@ -136,15 +136,15 @@ In the Net ROI Analysis, view the details in a graphical representation or % by 
 
 **The total profit after all the brokerage and government charges are deducted is called the NET ROI.**
 
+The broker, split charges for the strategy, gross ROI, total charges and net ROI are displayed in the **graph mode**.
+
 ![StrategyCard](imgs/roi_analysis_percent.png)
 
 You can also switch the data from % to INR with the toggle button from the toolbar.
 
 ![StrategyCard](imgs/roi_analysis_inr.png)
 
-The broker, split charges for the strategy, gross ROI, total charges and net ROI are displayed in the **graph mode**.
 
-![StrategyCard](imgs/sc23.png)
 
 In the **Data mode**, you can view the **broker, broker charges, govt.charges, gross ROI, total charges & net ROI**. 
 
