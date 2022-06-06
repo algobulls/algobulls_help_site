@@ -2,9 +2,10 @@
 
 ## 1. Introduction
 
-A brokerage calculator is an AlgoBulls feature that estimates the amount of brokerage to be paid for a trade. The brokerage calculator can calculate **duty costs, transaction fees, SEBI turnover fees, and securities transaction tax**. 
+A brokerage calculator is an AlgoBulls feature that displays the amount of brokerage to be paid for a trade. The brokerage calculator displays **brokerage charges, duty costs, transaction fees, SEBI turnover fees,** and **securities transaction tax**. 
 
-Majority of traders underestimate the amount of brokerage they might pay for a trade, a brokerage calculator can help a trader estimate and compare brokerage paid with different brokers for each strategy. A brokerage calculator can give you a realistic estimate of your net income from each strategy.
+Majority of traders underestimate the amount of brokerage they might pay for a trade, a brokerage calculator can help you view the brokerage amount paid to different brokers for each strategy. A brokerage calculator shows you a realistic estimate of your net income from each strategy.
+
 
 ## 2. Brokerage Charges
 
@@ -19,7 +20,11 @@ Government charges are levied by the government on each transaction which includ
 
 * **Net ROI**: Gross ROI - Total Charges (Brokerage + Other charges) 
 
-The brokerage calculator helps you calculate the [NET ROI](https://help.algobulls.com/member/strategy-card.html#7-net-roi-analysis). Learn more about Net ROI analysis. 
+The brokerage calculator displays the [NET ROI](https://help.algobulls.com/member/strategy-card.html#7-net-roi-analysis). 
+
+![StrategyCard](imgs/roi_analysis_percent.png)
+
+![StrategyCard](imgs/roi_analysis_inr.png)
 
 !!! note annotate "Note"
  

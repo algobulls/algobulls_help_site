@@ -27,7 +27,7 @@ Also ensure that you’ve added a strategy from the [Choose Strategy](choose-str
 
 **Step 1**
 
-In the [MyPortfolio](live-trading.md) section click on the **Start** button in the Action column. 
+In the [My Portfolio](live-trading.md) section click on the **Start** button in the Action column. 
 
 ![PTB](imgs/virtual_mode_my_portfolio.png)
 

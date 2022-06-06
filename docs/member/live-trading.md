@@ -11,7 +11,7 @@ You can execute strategies to begin live trading in the Live Trading Mode. Switc
 
 * Monitor **live profit & loss** and fetch strategy execution **logs** in real time. There are no charges for fetching **logs**.
 
-* Start & Stop your algo strategies in one click. Charges may be applicable for **start and stop**. [View details here](https://help.algobulls.com/).
+* Start & Stop your algo strategies in one click. Charges may be applicable for **start and stop**.
 
 * Choose a strategy from the [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace now!
 
