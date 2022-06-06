@@ -3,7 +3,7 @@
 ## 1. What is a P&L Book?
 ---
 
-Track the **profit and loss** of your trades in the P&L Book.
+Track the **profit and loss** of your trades in the [P&L Book](https://app.algobulls.com/book/pl).
 
 * All trades/orders in your account are updated real-time as and when the transactions take place. 
 * Filter your activities using filters such as **strategies, instrument and date range**.

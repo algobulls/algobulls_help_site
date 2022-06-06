@@ -2,9 +2,10 @@
 
 ## 1. Introduction
 
-A brokerage calculator is an AlgoBulls feature that estimates the amount of brokerage to be paid for a trade. The brokerage calculator can calculate **duty costs, transaction fees, SEBI turnover fees, and securities transaction tax**. 
+A brokerage calculator is an AlgoBulls feature that displays the amount of brokerage to be paid for a trade. The brokerage calculator displays duty costs, transaction fees, SEBI turnover fees, and securities transaction tax. 
 
-Majority of traders underestimate the amount of brokerage they might pay for a trade, a brokerage calculator can help a trader estimate and compare brokerage paid with different brokers for each strategy. A brokerage calculator can give you a realistic estimate of your net income from each strategy.
+Majority of traders underestimate the amount of brokerage they might pay for a trade, a brokerage calculator can help you view the brokerage amount paid to different brokers for each strategy. A brokerage calculator shows you a realistic estimate of your net income from each strategy.
+
 
 ## 2. Brokerage Charges
 
