@@ -20,7 +20,7 @@ Government charges are levied by the government on each transaction which includ
 
 * **Net ROI**: Gross ROI - Total Charges (Brokerage + Other charges) 
 
-The brokerage calculator displays the [NET ROI](https://help.algobulls.com/member/strategy-card.html#7-net-roi-analysis) 
+The brokerage calculator displays the [NET ROI](https://help.algobulls.com/member/strategy-card.html#7-net-roi-analysis). 
 
 ![StrategyCard](imgs/roi_analysis_percent.png)
 
