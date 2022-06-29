@@ -67,10 +67,12 @@ Select **Next**. You will be directed to the **Motilal Oswal Login Page**.
 
 * Click on Login.
 
-2. Bind your Broking Account
+## 2. Bind your Broking Account
+---
 
 The following steps will help you to make sure you have binded your broker account * Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking) * Bind your account using the Toggle button marked below.     
 
-3. Support
+## 3. Support
+---
 
 For further support related to adding your Motilal Oswal broker account, contact our helpful customer support team on +91 80692 30300 or email us at [support@algobulls.com](https://support@algobulls.com)
