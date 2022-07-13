@@ -17,11 +17,13 @@ You will be guided step-by-step through the process of logging in, setting up, a
 Keep the following information available before you start:
 
 (1). **AlgoBulls Account Credentials**
+
 * Phone Number
 
 * Password
 
 (2). **Broking Account Credentials**
+
 * User ID/ Client ID
 
 * Password
@@ -29,19 +31,19 @@ Keep the following information available before you start:
 ### ii. Let's Begin! 
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **PayTM Money** under the **Login with your Broking Account** section.
 
-[ ![MotilalOswal](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
+[ ![PayTMMoney](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
 * If the broker name is not visible in the list, click on + x more (where x is the number of brokers) on the bottom right corner of the page.
 
-[ ![MotilalOswal](imgs/search_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/search_broker.png)
+[ ![PayTMMoney](imgs/search_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/search_broker.png)
 
 * In the search box, enter **PayTM Money**, and then click on the broker link that appears in the list of results.
 
-[ ![MotilalOswal](imgs/motilaloswal/search_motilal_oswal.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/motilaloswal/search_motilal_oswal.png)
+[ ![PayTMMoney](imgs/motilaloswal/search_motilal_oswal.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/PayTMMoney/search_motilal_oswal.png)
 
 * Log in to your AlgoBulls account by entering your AlgoBulls credentials in the following fields before clicking on the login button.
 
-[ ![MotilalOswal](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+[ ![PayTMMoney](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
 (1). **Phone Number:** The phone number used to register/sign-up to the AlgoBulls website.
 
@@ -49,15 +51,15 @@ Keep the following information available before you start:
 
 * Click the **Add Broker** button under **Broking Details** now.
 
-[ ![MotilalOswal](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+[ ![PayTMMoney](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
 * Choose **PayTM Money** from the broker list.
 
-[ ![MotilalOswal](imgs/paytmmoney/search_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/paytmmoney/search_broker.png)
+[ ![PayTMMoney](imgs/paytmmoney/search_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/paytmmoney/search_broker.png)
 
 Select **Next**. You will be directed to the **PayTM Money Login Page**.
 
-[ ![MotilalOswal](imgs/paytmmoney/paytm_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/paytmmoney/paytm_login.png)
+[ ![PayTMMoney](imgs/paytmmoney/paytm_login.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/paytmmoney/paytm_login.png)
 
 * Enter the registered **Mobile Number or Email ID**.
 
@@ -67,14 +69,18 @@ Select **Next**. You will be directed to the **PayTM Money Login Page**.
 
 * Enter the **OTP** sent on your registered mobile number & click on next.
 
-[ ![MotilalOswal](imgs/paytmmoney/paytmmoney_passcode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/paytmmoney/paytmmoney_passcode.png)
+[ ![PayTMMoney](imgs/paytmmoney/paytmmoney_passcode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/paytmmoney/paytmmoney_passcode.png)
 
 ## 2. Bind your Broking Account
 ---
 
-The following steps will help you to make sure you have binded your broker account * Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking) * Bind your account using the Toggle button marked below.     
+The following steps will help you to make sure you have binded your broker account. 
+
+* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking). 
+
+* Bind your account using the Toggle button marked below.     
 
 ## 3. Support
 ---
 
-For further support related to adding your Motilal Oswal broker account, contact our helpful customer support team on +91 80692 30300 or email us at [support@algobulls.com](https://support@algobulls.com)
+For further support related to adding your PayTM Money broker account, contact our helpful customer support team on +91 80692 30300 or email us at [support@algobulls.com](https://support@algobulls.com)

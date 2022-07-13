@@ -17,16 +17,19 @@ You will be guided step-by-step through the process of logging in, setting up, a
 Keep the following information available before you start:
 
 (1). **AlgoBulls Account Credentials**
+
 * Phone Number
 
 * Password
 
 (2). **Broking Account Credentials**
+
 * User ID/ Client ID
 
 * Password
 
 ### ii. Let's Begin! 
+
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **Motilal Oswal** under the **Login with your Broking Account** section.
 
 [ ![MotilalOswal](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
@@ -70,7 +73,11 @@ Select **Next**. You will be directed to the **Motilal Oswal Login Page**.
 ## 2. Bind your Broking Account
 ---
 
-The following steps will help you to make sure you have binded your broker account * Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking) * Bind your account using the Toggle button marked below.     
+The following steps will help you to make sure you have binded your broker account. 
+
+* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking). 
+
+* Bind your account using the Toggle button marked below.     
 
 ## 3. Support
 ---
