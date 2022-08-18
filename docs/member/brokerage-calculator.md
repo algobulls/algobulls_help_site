@@ -52,6 +52,7 @@ The brokerage calculator displays the [NET ROI](https://help.algobulls.com/membe
 | Sharekhan         | 0.02% per trade                           | 0.02% per trade                            | 0.02% per trade                            | ₹ 10            |
 | Zebu              | 0.02% per trade                           | 0.02% per trade                            | 0.02% per trade                            | ₹ 20            |
 | Zerodha           | ₹ 20                                      | ₹ 20                                       | ₹ 20                                       | ₹ 20            |
+| Choice            | 0.02%                                     | 0.02%                                      | 0.02%                                      | 25 per lot      | 
 
 ## 3. Government Charges
 
