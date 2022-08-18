@@ -17,7 +17,7 @@ Go to **Build Strategy** in the sidebar navigation and select **Python Build** t
 
 **Strategies Saved:** This displays the number of strategies saved in your AlgoBulls account. 
 
-**Time Consumed:** You can view the number of minutes that have been used for backtesting strategies.
+**Execution Time Consumed:** You can view the number of minutes that have been used for backtesting strategies.
 
 !!! note "Note:"
 
@@ -109,7 +109,7 @@ Ensure you read the terms and conditions and then check the I agree to the Terms
 
 ![pythonbuild](imgs/python_build_terms_check.png)
 
-Step 6
+**Step 6**
 
 Go to the **Results** section to see how the strategy has performed.
 
