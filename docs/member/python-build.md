@@ -1,6 +1,6 @@
 # Python Build
 
-## 1. Introduction
+## **1. Introduction**
 ---
 
 Now you can code your own strategy easily using our Python Build service! Begin coding your own strategy from scratch, or modify some of our ready-made templates to suit your needs. Get access to our state-of-the-art AlgoBulls Core Trading Engine, which automatically leverages our infra so that you can access the latest historical data to gauge the performance of your strategies. Tweak the various parameters of your strategy to choose the ideal instrument, indicator values, and profit loss percentages as per your needs! View the performance of your strategy using our visual analytics feature and continue to tweak till you are satisfied with the performance. Get your strategy approved for live trading from our experts and deploy it on 30+ supported brokers without coding any broker integration logic.
@@ -9,7 +9,7 @@ Go to **Build Strategy** in the sidebar navigation and select **Python Build** t
 
 ![pythonbuild](imgs/python_build_select.png)
 
-## 2. An overview
+## **2. An overview**
 ---
 
 ![pythonbuild](imgs/python_build_dashboard.png)
@@ -42,7 +42,8 @@ Go to **Build Strategy** in the sidebar navigation and select **Python Build** t
 
 ![pythonbuild](imgs/python_build_help.png)
 
-## 3. **How to get started with Python Build?**
+## **3. How to get started with Python Build?**
+---
 
 To start developing your own strategy, you must first activate a plan from the **Plans & Wallet** section. Select the **Developers** option in the **Explore Plans** section and select a plan of your choice. There are currently two developer plans available:
 
@@ -55,7 +56,8 @@ To start developing your own strategy, you must first activate a plan from the *
 
 After selecting your preferred plan, you will be able to begin coding. You can either edit the preloaded **Ready templates** or use **My Coded Strategies** section to create your own strategies
 
-## 4. **How to code strategies using Ready Templates?**
+## **4. How to code strategies using Ready Templates?**
+---
 
 ![pythonbuild](imgs/python_build_ready_templates.png)
 
@@ -136,13 +138,15 @@ You can **rename** a strategy by clicking the edit symbol besides the strategy n
 !!! note "Note:" 
     The Analytics & Graph sections are only visible to premium plan users. If you are using a free plan, switch to a [premium developer plan now](https://devel.appv2.algobulls.com/wallet/checkout?packageType=PackageCombo&plan=5&type=renew).
 
-**How to view the Results?**
+## **5. How to view the Results?**
+---
 
 Once you start the strategy, it may take a while for it to complete the execution. You can Switch to the Results tab after you run your strategy.  Even if the strategy execution is not complete, you will still see intermediate results.
 
 Only Premium developer plans users will be able to view the strategy analytics values & graphs.
 
-## 5. How to view Analytics?
+## **6. How to view Analytics?**
+---
 
 **Statistics:** In the statistics section, you can view a strategy’s Stats & various other metrics in the form of graphs like P&L and ROI.
 
@@ -152,7 +156,7 @@ Only Premium developer plans users will be able to view the strategy analytics v
 
 **ii. P&L (INR):**  The trade by trade P&L in INR.
 
-![pythonbuild](imgs/python_build_pnl_2.png)
+![pythonbuild](imgs/python_build_pnl_inr.png)
 
 **iii. P&L %:** The trade by trade P&L in percentage form.
 
@@ -162,11 +166,12 @@ Only Premium developer plans users will be able to view the strategy analytics v
 
 ![pythonbuild](imgs/python_build_roi_inr.png)
 
-**v. ROI%:** You will be able to view the ROI in percentage here.
+[//]: # (**v. ROI%:** You will be able to view the ROI in percentage here.)
 
-![pythonbuild](imgs/python_build_roi_percent.png)
+[//]: # ()
+[//]: # (![pythonbuild]&#40;imgs/python_build_roi_percent.png&#41;)
 
-[**vi. The Graph Tool**](https://help.algobulls.com/member/strategy-card.html#6-graph-toolbar) 
+[**v. The Graph Tool**](https://help.algobulls.com/member/strategy-card.html#6-graph-toolbar) 
 
 ![pythonbuild](imgs/python_build_graph_tool_2.png)
 
@@ -186,7 +191,8 @@ Only Premium developer plans users will be able to view the strategy analytics v
 
 ![pythonbuild](imgs/python_build_order_history.png)
 
-## 6. **How to code a new strategy?**
+## **7. How to code a new strategy?**
+---
 
 If you want to create your own strategy, click on the **+ Sign** in the **Code New Strategy** option under the **My Coded Strategies** section.
 
@@ -204,7 +210,8 @@ You can rename a strategy by clicking the edit symbol besides the strategy name.
 
 ![pythonbuild](imgs/python_build_rename_new_strategy.png)
 
-## 7. **How to Configure Strategy Parameters?**
+## **8. How to Configure Strategy Parameters?**
+---
 
 ![pythonbuild](imgs/python_build_new_strategy_parameters.png)
 
@@ -214,3 +221,4 @@ To know more about the parameters, [click here](https://help.algobulls.com/membe
 
 ![pythonbuild](imgs/python_build_edit_configuration.png)
 
+**User Parameters:** In this section, you can customize/create your own parameters for the strategy. Click on **+Add New Parameter** to begin adding them. They should match with the parameters you have defined in your Python class.
