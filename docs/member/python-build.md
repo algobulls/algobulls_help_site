@@ -3,13 +3,14 @@
 ## 1. Introduction
 ---
 
-Now you can code your own strategy easily using our Python Build service! Begin coding your own strategy from scratch or modify some of our readymade templates to suit your needs. Get access to our state-of-the-art AlgoBulls Core Trading Engine, which automatically leverages our infra so that you can access latest historical data to gauge the performance of your strategies. Tweak the various parameters of your strategy to choose the ideal instrument, indicator values, and profit loss percentages as per your needs! View the performance of your strategy using our visual analytics feature and continue to tweak till you are satisfied with the performance. Get your strategy approved for live trading from our experts and deploy it on 30+ supported brokers without coding any broker integration logic.
+Now you can code your own strategy easily using our Python Build service! Begin coding your own strategy from scratch, or modify some of our ready-made templates to suit your needs. Get access to our state-of-the-art AlgoBulls Core Trading Engine, which automatically leverages our infra so that you can access the latest historical data to gauge the performance of your strategies. Tweak the various parameters of your strategy to choose the ideal instrument, indicator values, and profit loss percentages as per your needs! View the performance of your strategy using our visual analytics feature and continue to tweak till you are satisfied with the performance. Get your strategy approved for live trading from our experts and deploy it on 30+ supported brokers without coding any broker integration logic.
 
-Go to **Build Strategy** in the sidebar navigation and select **Python Build** to know more
+Go to **Build Strategy** in the sidebar navigation and select **Python Build** to know more.
 
 ![pythonbuild](imgs/python_build_select.png)
 
-**An overview:**
+## 2. An overview
+---
 
 ![pythonbuild](imgs/python_build_dashboard.png)
 
@@ -41,19 +42,20 @@ Go to **Build Strategy** in the sidebar navigation and select **Python Build** t
 
 ![pythonbuild](imgs/python_build_help.png)
 
-**How to get started with Python Build?**
+## 3. **How to get started with Python Build?**
+
+To start developing your own strategy, you must first activate a plan from the **Plans & Wallet** section. Select the **Developers** option in the **Explore Plans** section and select a plan of your choice. There are currently two developer plans available:
 
 ![pythonbuild](imgs/python_build_plans.png)
 
-To start developing your own strategy, you must first activate a plan from the **Plans & Wallet** section. Select the **Developers** option in the **Explore Plans** section and select a plan of your choice. There are currently two developer plans available:
 
 * **Premium Developer Plan** - Develop your own Algorithmic Trading Strategy with Analytics support, concurrent Strategy Executions, Professional Support, and more.
 
 * **Free Developer Plan** - Develop your own Algorithmic Trading Strategy for Free.
 
-After selecting your preferred plan, you will be able to begin coding. You can either edit the pre-loaded **Ready Template** or use the **My Coded Strategies** section to create your own strategies.
+After selecting your preferred plan, you will be able to begin coding. You can either edit the preloaded **Ready templates** or use **My Coded Strategies** section to create your own strategies
 
-**How to code strategies using Ready Templates?**
+## 4. **How to code strategies using Ready Templates?**
 
 ![pythonbuild](imgs/python_build_ready_templates.png)
 
@@ -73,7 +75,7 @@ To save the strategy, click the Save button. This strategy will be added to your
 
 ![pythonbuild](imgs/python_build_save_strategy.png)
 
-To test the strategy's performance, click the **Save & Start button**.
+Follow these simple steps to test the strategy's performance
 
 **Step 1**
 
@@ -95,17 +97,17 @@ In paper trading you only need to add the start and end time.
 
 **Step 3**
 
-Once you scroll below,below you will see the P&L tracker. Switch the P&L tracker ON and enter your desired profit and risk appetite.
+Once you scroll below, you will see the P&L tracker. Switch the P&L tracker ON and enter your desired profit and risk appetite. To keep things simple, you can also leave it turned off.
 
 ![pythonbuild](imgs/python_build_pnl.png)
 
 **Step 4**
 
-In the Configuration section,section you can check the parameters added or modified by you. You can only view the configuration and not change it. To configure the parameters, go to the top right corner of the code editor and click the config button.
+In the Configuration section, you can check the parameters added or modified by you.
  
 **Step 5**
 
-Ensure you read the terms and conditions and then check the I agree to the Terms and conditions box. Save & Start the strategy.
+To begin testing the strategy, click on Execute.
 
 ![pythonbuild](imgs/python_build_terms_check.png)
 
@@ -136,28 +138,31 @@ You can **rename** a strategy by clicking the edit symbol besides the strategy n
 
 **How to view the Results?**
 
-Switch to the Results tab after you run your strategy. Ensure that you have saved your strategy before switching tabs, as you may lose unsaved changes.
-Premium developer plans users will be able to view the strategy analytics values & graphs while the free developer plan users can view the analytics value only in the Results section.
+Once you start the strategy, it may take a while for it to complete the execution. You can Switch to the Results tab after you run your strategy.  Even if the strategy execution is not complete, you will still see intermediate results.
 
-**Statistics:** In the statistics section you can view a strategy’s Stats, P&L (INR), P&L%, ROI (INR) and ROI % 
+Only Premium developer plans users will be able to view the strategy analytics values & graphs.
 
-**i. Stats -** In this section you can see the **hit ratio, number of trades, average trades per day**.
+## 5. How to view Analytics?
+
+**Statistics:** In the statistics section, you can view a strategy’s Stats & various other metrics in the form of graphs like P&L and ROI.
+
+**i. Stats:** In this section you can see the **hit ratio, number of trades, average trades per day**.
 
 ![pythonbuild](imgs/python_build_stats.png)
 
-**ii. P&L (INR) -** The cumulative backtesting P&L.
+**ii. P&L (INR):**  The trade by trade P&L in INR.
 
 ![pythonbuild](imgs/python_build_pnl_2.png)
 
-**iii. P&L % -** The cumulative backtesting P&L percentage.
+**iii. P&L %:** The trade by trade P&L in percentage form.
 
 ![pythonbuild](imgs/python_build_pnl_percent.png)
 
-**iv. ROI (INR) -** Cumulative P&L absolute value divided by minimum capital required, ROI indicates a simulated yet accurate representation of return on capital employed.
+**iv. ROI (INR):** Cumulative P&L of all the trades.
 
 ![pythonbuild](imgs/python_build_roi_inr.png)
 
-**v. ROI% -** You will be able to view the ROI in percentage here.
+**v. ROI%:** You will be able to view the ROI in percentage here.
 
 ![pythonbuild](imgs/python_build_roi_percent.png)
 
@@ -165,7 +170,7 @@ Premium developer plans users will be able to view the strategy analytics values
 
 ![pythonbuild](imgs/python_build_graph_tool_2.png)
 
-**P&L Book:** You can view a strategy’s Gross Profit & Loss, Trading Volume & Total number of Trades. Premium users can view a heatmap for the same.
+**P&L Book:** View detailed trade by trade report. Premium users can analyse this data in the form of heatmaps for Gross Profit & Loss, Trading Volume & Total number of Trades.
 
 ![pythonbuild](imgs/python_build_pnl_book.png)
 
@@ -173,15 +178,15 @@ Premium developer plans users will be able to view the strategy analytics values
 
 ![pythonbuild](imgs/python_build_total_trade.png)
 
-**User Log:** Real time logs are displayed in this section. You can download the logs too.
+**User Log:**  Real time logs from strategy execution are displayed in this section. Use these logs to debug your strategy’s behaviour and performance.
 
 ![pythonbuild](imgs/python_build_user_log.png)
 
-**Order History:** Displays the order status with a timestamp. 
+**Order History:** View the order state transition for every order placed by your strategy in depth. 
 
 ![pythonbuild](imgs/python_build_order_history.png)
 
-**How to code a new strategy?**
+## 6. **How to code a new strategy?**
 
 If you want to create your own strategy, click on the **+ Sign** in the **Code New Strategy** option under the **My Coded Strategies** section.
 
@@ -191,15 +196,21 @@ A new blank code editor will open, allowing you to start coding your new strateg
 
 ![pythonbuild](imgs/python_build_code_new_strategy.png)
 
-If you wish to test the strategy’s performance click on **Save & Start**. The performance of the strategy will soon be available in the **Results** section.
+Next, you need to configure the strategy’s parameters by clicking on the settings symbol in the top right corner of the code editor. In this section you can add, view & edit the strategy parameters.
 
-You can rename a strategy by clicking the edit symbol besides the strategy name.
+To test the behaviour and performance of the strategy, click on **Save & Start** and follow the directions given earlier. The performance of the strategy will soon be available in the **Results** section.
+
+You can rename a strategy by clicking the edit symbol besides the strategy name. 
 
 ![pythonbuild](imgs/python_build_rename_new_strategy.png)
 
-**How to Configure Strategy Parameters?**
-You can only configure a strategy’s parameters when it is saved in the **My Coded Strategies** section.
+## 7. **How to Configure Strategy Parameters?**
 
 ![pythonbuild](imgs/python_build_new_strategy_parameters.png)
 
-You can configure the strategy’s parameters by clicking on the settings symbol on the top right corner of the code editor. In this section you can view a strategy’s parameters or edit these parameters too. 
+You can configure the strategy’s parameters by clicking on the settings symbol on the top right corner of the code editor. In this section you can view a strategy’s parameters or edit these parameters too.
+
+To know more about the parameters, [click here](https://help.algobulls.com/member/tweak.html).
+
+![pythonbuild](imgs/python_build_edit_configuration.png)
+
