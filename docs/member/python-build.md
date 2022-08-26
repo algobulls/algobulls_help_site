@@ -22,7 +22,7 @@ Go to **Build Strategy** in the sidebar navigation and select **[Python Build](h
 
 !!! note "Note:"
 
-    The use of backtesting is limited to one month. On weekends and after midnight (post 12 AM), you won't be able to backtest strategies.
+    The use of backtesting/paper trading is limited to one month. On weekends and after midnight (post 12 AM), you won't be able to backtest/paper trade strategies.
  
 **Analytics Support:** This shows whether or not your analytics support is active. Analytics support is not available to free plan users.
 
@@ -45,7 +45,7 @@ Go to **Build Strategy** in the sidebar navigation and select **[Python Build](h
 ## **3. How to get started with Python Build?**
 ---
 
-To start developing your own strategy, you must first activate a plan from the **Plans & Wallet** section. Select the **Developers** option in the **Explore Plans** section and select a plan of your choice. There are currently two developer plans available:
+To start developing your own strategy, you must first activate a plan from the **[Plans & Wallet](https://app.algobulls.com/wallet)** section. Select the **[Developers](https://app.algobulls.com/wallet?category=Developers)** option in the **Explore Plans** section and select a plan of your choice. There are currently two developer plans available:
 
 [![pythonbuild](imgs/python_build_plans.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_plans.png)
 
@@ -61,7 +61,7 @@ After selecting your preferred plan, you will be able to begin coding. You can e
 
 [![pythonbuild](imgs/python_build_ready_templates.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_ready_templates.png)
 
-Select a template that you would like to modify from the **Ready Template** section. To view all the ready-to-use templates click on **More**.
+Select a template that you would like to modify from the **Ready Template** section. To view all the ready-to-use templates click on **[More](https://app.algobulls.com/build/python?key=samplestrategies)**.
 
 [![pythonbuild](imgs/python_build_all_ready_templates.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_all_ready_templates.png)
 
@@ -87,7 +87,7 @@ After clicking **Save & Start**, a pop-up window will appear.
 
 **Step 2**
 
-In the **customizations** section choose **back data for backtesting** or **live data for paper trading**.
+In the **customizations** section choose **Backtesting** to back test or **Paper Trading** to paper trade a strategy.
 
 Select the duration option in the customizations section. Add the desired date and time, as well as the quantity/lots. In backtesting you will need to put the start date and end date along with time.
 
@@ -198,7 +198,7 @@ If you want to create your own strategy, click on the **+ Sign** in the **Code N
 
 [![pythonbuild](imgs/python_build_new_strategy.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_new_strategy.png)
 
-A new blank code editor will open, allowing you to start coding your new strategy. After you've finished coding, click **Save** to save this strategy in the **My Coded Strategies** section.
+A new blank code editor will open, allowing you to start coding your new strategy. You can check out the basic building blocks of a strategy [here](https://algobulls.github.io/pyalgotrading/structure/) to help you with your code structure. After you've finished coding, click **Save** to save this strategy in the **My Coded Strategies** section.
 
 [![pythonbuild](imgs/python_build_code_new_strategy.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_code_new_strategy.png)
 
