@@ -95,7 +95,7 @@ The maximum loss your strategy has encountered during the execution in percentag
 
 ![StrategyCard](imgs/sc11.png)
 
-## 6. Graph Toolbar
+## 6. Graph Tool
 
 ![StrategyCard](imgs/sc12.png)
 
