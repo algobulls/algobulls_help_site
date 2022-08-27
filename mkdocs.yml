@@ -64,6 +64,7 @@ nav:
       - 'Dashboard': 'member/dashboard.md'
       - 'Choose Strategy': 'member/choose-strategy.md'
       - 'Strategy Card': 'member/strategy-card.md'
+      - 'Python Build': 'member/python-build.md'
       - 'My Portfolio':
           - 'Live Trading': 'member/live-trading.md'
           - 'Virtual Trading': 'member/virtual-trading.md'
@@ -87,6 +88,7 @@ nav:
       - 'ALPACA': 'broker/alpaca.md'
       - 'ANGELBROKING': 'broker/angelbroking.md'
       - 'ARHAM WEALTH': 'broker/arhamwealth.md'
+      - 'CHOICE': 'broker/choice.md'
       - 'EDELWEISS': 'broker/edelweiss.md'
       - 'FINDOC': 'broker/findoc.md'
       - 'FINVASIA': 'broker/finvasia.md'
