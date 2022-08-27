@@ -22,7 +22,7 @@ Go to **Build Strategy** in the sidebar navigation and select **[Python Build](h
 
 !!! note "Note:"
 
-    The use of Backtesting/Paper Trading is limited to one month. On weekends and after midnight (post 12 AM), you won't be able to backtest/Paper Trade strategies.
+    The use of Backtesting/Paper Trading is limited to one month. This would be available from Monday - Friday (excluding NSE holidays) from 9 AM to 11:30 PM. You can code your strategy & analyse the strategy results 24x7.
  
 **Analytics Support:** This shows whether your analytics support is active. Analytics support is not available to free plan users.
 
@@ -119,7 +119,7 @@ Go to the **Results** section to see how the strategy has performed.
 
 !!! note "Note:" 
 
-    Backtesting/Paper Trading would be available from Monday - Friday (excluding NSE holidays) from 9 AM to 11:30 PM. You can code your strategy & analyse the strategy results 24x7.
+    The use of Backtesting/Paper Trading is limited to one month. This would be available from Monday - Friday (excluding NSE holidays) from 9 AM to 11:30 PM. You can code your strategy & analyse the strategy results 24x7.
 
 [![pythonbuild](imgs/python_build_results.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_results.png)
 
