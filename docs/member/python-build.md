@@ -168,7 +168,7 @@ iv. ROI (INR): Cumulative P&L of all the trades.
 [//]: # ()
 [//]: # (![pythonbuild]&#40;imgs/python_build_roi_percent.png&#41;)
 
-[**v. The Graph Tool**](https://help.algobulls.com/member/strategy-card.html#6-graph-toolbar) 
+[**v. The Graph Tool**](https://help.algobulls.com/member/strategy-card.html#6-graph-tool)
 
 [![pythonbuild](imgs/python_build_graph_tool_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab")]()
 
