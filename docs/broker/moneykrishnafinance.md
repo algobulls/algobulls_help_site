@@ -74,7 +74,7 @@ Keep the following information available before you start:
 
 [![MoneyKrishnaFinancialServices](imgs/search_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/search_broker.png)
 
-* In the search box, enter **MONEY KRISHNA FINANCE**, and then click on the broker link that appears in the list of results.
+* In the search box, enter **MONEY KRISHNA FINANCIAL SERVICES**, and then click on the broker link that appears in the list of results.
 
 [![MoneyKrishnaFinancialServices](imgs/moneykrishnafinance/search_mkf.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/moneykrishnafinance/search_mkf.png)
 
@@ -82,7 +82,7 @@ Keep the following information available before you start:
 ---
 * Type the first few characters of the broker's name.
 
-* Select the **MONEY KRISHNA FINANCE** broker.
+* Select the **MONEY KRISHNA FINANCIAL SERVICES** broker.
 
 [![MoneyKrishnaFinancialServices](imgs/moneykrishnafinance/search_mkf.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/moneykrishnafinance/search_mkf.png)
 
