@@ -39,7 +39,7 @@ Keep the following information available before you start:
 ---
 This activity will help you to link your broking account to the AlgoBulls account via the Non-OAuth method.
 
-* Visit the [https://hsconsole.hypertrade.in/login?brokerId=MKF](https://hsconsole.hypertrade.in/login?brokerId=MKF) 
+* Visit [https://hsconsole.hypertrade.in/login?brokerId=MKF](https://hsconsole.hypertrade.in/login?brokerId=MKF) 
 
 * Enter your **User ID** and **Password**.
 
