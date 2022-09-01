@@ -11,7 +11,7 @@
 
 ## 1. One-Time Activity
 ---
-This activity will help you to link your broking account to the AlgoBulls account via the Non-OAuth method.
+This is a pre-requisite activity to be done before you can link your broking account to the AlgoBulls account via the Non-OAuth method.
 
 * Visit [https://hsconsole.hypertrade.in/login?brokerId=MKF](https://hsconsole.hypertrade.in/login?brokerId=MKF) 
 
