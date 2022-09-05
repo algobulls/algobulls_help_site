@@ -14,17 +14,21 @@ Broker charges will differ depending on the fees charged by each broker.
 
 Government charges are levied by the government on each transaction which include **STT, transaction charges, SEBI charges, stamp duty, etc**.
 
-**Gross ROI** is a financial statistic that is commonly used to determine the profitability of the strategy. It's a proportion that compares an investment's profit or loss to the capital employed. It may be used to assess the probable return on a single strategy as well as to compare the returns of many investments. It does not include any charges. **Gross ROI is calculated on the basis of backtested data** and the results may or may not sustain in future. 
+[//]: # (**Gross ROI** is a financial statistic that is commonly used to determine the profitability of the strategy. It's a proportion that compares an investment's profit or loss to the capital employed. It may be used to assess the probable return on a single strategy as well as to compare the returns of many investments. It does not include any charges. **Gross ROI is calculated on the basis of backtested data** and the results may or may not sustain in future. )
 
-* **Gross ROI**: The total profit earned from a strategy
+[//]: # ()
+[//]: # (* **Gross ROI**: The total profit earned from a strategy)
 
-* **Net ROI**: Gross ROI - Total Charges (Brokerage + Other charges) 
+[//]: # ()
+[//]: # (* **Net ROI**: Gross ROI - Total Charges &#40;Brokerage + Other charges&#41; )
 
-The brokerage calculator displays the [NET ROI](https://help.algobulls.com/member/strategy-card.html#7-net-roi-analysis). 
+[//]: # (The brokerage calculator displays the [NET ROI]&#40;https://help.algobulls.com/member/strategy-card.html#7-net-roi-analysis&#41;. )
 
-![StrategyCard](imgs/roi_analysis_percent.png)
+[//]: # ()
+[//]: # (![StrategyCard]&#40;imgs/roi_analysis_percent.png&#41;)
 
-![StrategyCard](imgs/roi_analysis_inr.png)
+[//]: # ()
+[//]: # (![StrategyCard]&#40;imgs/roi_analysis_inr.png&#41;)
 
 !!! note annotate "Note"
  

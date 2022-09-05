@@ -99,10 +99,15 @@ The Left-hand Side of the expanded view shows the same details and the toolbar a
 In addition to that, the following details are visible:
 
  * `Strategy Code` - A unique identification code assigned to each strategy. You can search the strategy directly with the code.
+
  * `Minimum Capital Required` - Approximate margin as required by the brokers to buy or sell the instrument, this normally keeps fluctuating hence a max value is considered compared among the partnered brokers.
+
  * `Transaction Charges (in %)` - Indicative transaction charges strategy is expected to incur per trade.
+
  * `Recommended Duration (Days)` - Duration over which the strategy is expected to generate positive returns.
- * `Return on Investment` - Cumulative P&L absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed. 
+
+[//]: # ( * `Return on Investment` - Cumulative P&L absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed. )
+
  * `Drawdown on Investment` - Max DD absolute value divided by Minimum Capital Required, DDOI indicates a simulated yet accurate representation of drawdown on capital employed. 
  
 ### The RHS of the Expanded View for a Strategy Card
@@ -111,6 +116,7 @@ In addition to that, the following details are visible:
 The Right-hand Side of the expanded view has 2 tabs:
  
  * `Strategy Algorithm` - Gives an overview of functioning of the strategy. You will find key parameters and entire logic of how the strategy is designed and works.
+
  * `Backtesting Report` - Backtesting is very crucial before making trading any strategy live. You get the entire trade summary of how the strategy has performed over backtesting period along with various key data points such as Net P/L (Rs & %), No of profitable trades, Hit Ratio, etc.
 
 #### Strategy Algorithm
@@ -200,9 +206,10 @@ The Right-hand Side of the expanded view has 2 tabs:
 
       `Max DD. = minimum of ( ((Equity Curve) / (Max. Equity Curve)  - 1) x 100 )`
 
-* ROI:
+[//]: # (* ROI:)
 
-      `ROI =  (P&L Cumulative) / (Minimum Capital Required) x 100`
+[//]: # ()
+[//]: # (      `ROI =  &#40;P&L Cumulative&#41; / &#40;Minimum Capital Required&#41; x 100`)
 
 * Equity Curve:
 
