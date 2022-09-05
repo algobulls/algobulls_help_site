@@ -69,7 +69,8 @@ Use this to type in the **strategy name** or **code** .
 
 ### ii. Filters
 
-You can filter your view as per the **ROI %, risk %, capital required & hit ratio**. You can also use the filter option for **brokers, exchanges, segments, modes, candle types, candle sizes** and **tags**. Click on the **Apply Filters** button to see the results.
+[//]: # (You can filter your view as per the **ROI %, risk %, capital required & hit ratio**. You can also use the filter option for **brokers, exchanges, segments, modes, candle types, candle sizes** and **tags**. Click on the **Apply Filters** button to see the results.)
+You can filter your view as per the **risk %, capital required & hit ratio**. You can also use the filter option for **brokers, exchanges, segments, modes, candle types, candle sizes** and **tags**. Click on the **Apply Filters** button to see the results.
 
 ![ChooseStrategy](imgs/cs4.png)
 
@@ -83,7 +84,7 @@ Use the toggle button to activate the Favourite Mode to view the strategies mark
 
 You can sort the strategies into the following:
 
-* ROI
+[//]: # (* ROI)
 
 * Risk 
 
