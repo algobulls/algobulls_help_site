@@ -107,7 +107,7 @@ In addition to that, the following details are visible:
  * `Recommended Duration (Days)` - Duration over which the strategy is expected to generate positive returns.
 
 [//]: # ( * `Return on Investment` - Cumulative P&L absolute value divided by Minimum Capital Required, ROI indicates a simulated yet accurate representation of return on capital employed. )
- * `Return on Investment` - Cumulative P&L absolute value divided by Minimum Capital Required.
+[//]: # ( * `Return on Investment` - Cumulative P&L absolute value divided by Minimum Capital Required.)
 
  * `Drawdown on Investment` - Max DD absolute value divided by Minimum Capital Required, DDOI indicates a simulated yet accurate representation of drawdown on capital employed. 
  
