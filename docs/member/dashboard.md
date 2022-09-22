@@ -29,10 +29,10 @@ You can see the overall trading volume, profit and loss, and your AlgoBulls curr
 
 You can narrow down your search by selecting the following options: 
 
-* **Today** - Trades for the day.
-* **This week** - Trades for the week.
-* **This month** - Trades placed in the month. 
-* **This year** - Trades placed this year.
+* **Today:** Trades for the day.
+* **This week:** Trades for the week.
+* **This month:** Trades placed in the month. 
+* **This year:** Trades placed this year.
 *  You can also customise your search by using the date range option where you can put the start and end date for the selected period to get results.
 
 ![Dashboard](imgs/dashboard6.png)
@@ -41,10 +41,10 @@ You can narrow down your search by selecting the following options:
 ---
 The Dashboard fields include: 
 
-* **Strategy Name** - This consists of the strategy name and strategy code .
-* **Total Txns** - This consists of the total number of transactions made by you for that strategy.
-* **Volume (₹)** - This includes the total volume in INR.
-* **P&L (₹)** - This field includes the total P&L.
+* **Strategy Name:** This consists of the strategy name and strategy code .
+* **Total Txns:** This consists of the total number of transactions made by you for that strategy.
+* **Volume (₹):** This includes the total volume in INR.
+* **P&L (₹):** This field includes the total P&L.
 
 [ ![Dashboard](imgs/dashboard7.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard7.png)
 
@@ -54,19 +54,19 @@ The Dashboard toolbar includes the refresh, density, settings and full screen to
 
 ![Filters](imgs/toolbar1.png)
 
-**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click refresh to check again.
+**Refresh:** If you can't see an entry in the table (perhaps the most recent one), click refresh to check again.
 
 ![Filters](imgs/toolbar3.png)
 
-**Density** - View data comfortably by choosing the density. The options include larger, middle and compact. 
+**Density:** View data comfortably by choosing the density. The options include larger, middle and compact. 
 
 ![Filters](imgs/toolbar4.png)
 
-**Settings** - Select the columns that you want to view in this **settings** option.
+**Settings:** Select the columns that you want to view in this **settings** option.
 
 ![Filters](imgs/toolbar5_dashboard.png)
 
-**Full Screen** - With this option you will be able to view your current tab on the browser in full screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
+**Full Screen:** With this option you will be able to view your current tab on the browser in full screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
 
 ![Filters](imgs/toolbar6.png)
 

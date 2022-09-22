@@ -40,7 +40,7 @@ If you wish to **backtest a strategy**, the subscription selected  by you does n
 
 Ensure you keep a track of the usage costs by checking the [Fund Book](https://app.algobulls.com/book/fund). You can add money or subscribe to a plan from the Plans and Wallet section. 
 
-AlgoBulls also offers a range of free plans - Try a [Free Plan](https://app.algobulls.com/wallet?defaultCategory=freehttps://app.algobulls.com/wallet?defaultCategory=free) now! 
+AlgoBulls also offers a range of free plans: Try a [Free Plan](https://app.algobulls.com/wallet?defaultCategory=freehttps://app.algobulls.com/wallet?defaultCategory=free) now! 
 
 Other services that you can use without any additional charges:  
 

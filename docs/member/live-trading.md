@@ -20,7 +20,7 @@ You can execute strategies to begin live trading in the Live Trading Mode. Switc
 
 The **Live Mode** is where you can execute strategies to begin live trading. Switch the toggle button on the bottom left side of the website to Live Mode. 
 
-![test_and_live](imgs/test_and_live5.png)
+[![test_and_live](imgs/test_and_live5.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/test_and_live5.png)
 
 The choose strategy marketplace includes more than 150+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
 
@@ -42,17 +42,17 @@ Select a strategy from the choose strategy section and click on execute. The str
 
 To start the chosen strategy click the start button from the Action field.
 
-![PTB](imgs/my_portfolio.png)
+[![PTB](imgs/my_portfolio.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/my_portfolio.png)
 
 Select a broker, add the start and end time and Quantity/Lots. 
 
-![PTB](imgs/ptb14.png)
+[![PTB](imgs/ptb14.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/ptb14.png)
 
 **Step 4**
 
 Use the toggle button to activate the P&L Tracker. Add the Desired Profit and Risk Appetite here. Click on Save & Start. 
 
-![PTB](imgs/ptb15.png)
+[![PTB](imgs/ptb15.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/ptb15.png)
 
 !!! note annotate "Note"
 
@@ -80,7 +80,7 @@ Visit [algobulls.com](https://algobulls.com/).
 The strategy may stop due to various reasons such as market closure, p&l achieved, or if there are any errors. 
 To check errors, in the **progress field** click on the **view details** option and then click on **detailed logs** on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
 
-![PTB](imgs/ptb17.png)
+[![PTB](imgs/ptb17.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/ptb17.png)
 
 ## 4. How to apply tweaked strategy in Live Trading?
 ---
@@ -94,70 +94,70 @@ The backtested/paper traded strategy will be added to your [My Strategies](my-st
 
 The **summary bar** in the portfolio section includes the following: 
 
-**Choose Strategy** - Number of strategies from the Marketplace in your portfolio added by you.
+**Choose Strategy**: Number of strategies from the Marketplace in your portfolio added by you.
 
-**Tweak Strategy** -  Number of strategies that have been tweaked by you.
+**Tweak Strategy**:  Number of strategies that have been tweaked by you.
 
-**Build Strategy** - Number of custom strategies that have been built by the AlgoBulls developer team for you. 
+**Build Strategy**: Number of custom strategies that have been built by the AlgoBulls developer team for you. 
 
-**Total Running Strategies** - The number of strategies that are currently active on your portfolio, especially from the ones mentioned above (During the market hours).
+**Total Running Strategies**: The number of strategies that are currently active on your portfolio, especially from the ones mentioned above (During the market hours).
 
-**Today’s P&L** - The total P&L value.
+**Today’s P&L**: The total P&L value.
 
-![Portfolio](imgs/portfolio2.png)
+[![Portfolio](imgs/portfolio2.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio2.png)
 
 ## 6. Fields
 ---
 
 My Portfolio includes the following fields: 
 
-* **Strategy** - This field displays the strategy name and code.
+* **Strategy**: This field displays the strategy name and code.
 
-* **Instrument(s)** - This includes the instrument on which the strategy is being run. 
+* **Instrument(s)**: This includes the instrument on which the strategy is being run. 
 
-* **Tag** - This is a user defined tag for the strategy. Users can tag different strategies under different tags.
+* **Tag**: This is a user defined tag for the strategy. Users can tag different strategies under different tags.
 
-* **Volume** - This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook.
+* **Volume**: This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook.
 
-![Portfolio](imgs/portfolio3.png)
+[![Portfolio](imgs/portfolio3.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio3.png)
 
-![Portfolio](imgs/portfolio4.png)
+[![Portfolio](imgs/portfolio4.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio4.png)
 
-* **Config** - You can view parameters and other configuration settings here. 
+* **Config**: You can view parameters and other configuration settings here. 
 The strategy configuration field includes **instrument** and **strategy settings** such as general settings, strategy parameters, resume, exit and misc options. 
 
-![Portfolio](imgs/portfolio5.png)
+[![Portfolio](imgs/portfolio5.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio5.png)
 
-* **Progress** - This includes the strategy progress status. You can view if the strategy is about to begin, has begun or has stopped here. You can also click on the view details section to get a real time progress update. 
+* **Progress**: This includes the strategy progress status. You can view if the strategy is about to begin, has begun or has stopped here. You can also click on the view details section to get a real time progress update. 
 
-![Portfolio](imgs/portfolio6.png)
+[![Portfolio](imgs/portfolio6.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio6.png)
 
 * **Logs** - The log feature allows you to view the complete details of an order placed. In the **progress** field click on the **view details** option and then click  **detailed logs** on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
 
-![Portfolio](imgs/portfolio6.1.png)
+[![Portfolio](imgs/portfolio6.1.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio6.1.png)
 
 * **Action** - he action field allows you to start or stop a strategy. To execute a strategy, click on **start**. When you click on the **start button** you will be able to choose multiple brokers and run the strategies simultaneously too.
 
-![Portfolio](imgs/portfolio7.png)
+[![Portfolio](imgs/portfolio7.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio7.png)
 
 ## 7. Toolbar
 ---
 The Dashboard toolbar includes the refresh, density, settings and full screen tools. 
 
-![Filters](imgs/toolbar1.png)
+[![Filters](imgs/toolbar1.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/toolbar1.png)
 
 **Refresh** - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
 
-![Filters](imgs/toolbar3.png)
+[![Filters](imgs/sc25.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sc25.png)
 
 **Density** - View data comfortably by choosing the density. The options include Larger, Middle and Compact. 
 
-![Filters](imgs/toolbar4.png)
+[![Filters](imgs/sc26.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sc26.png)
 
 **Settings** - Select the columns that you want to view in this settings option.
 
-![Filters](imgs/toolbar5_portfolio.png)
+[![Filters](imgs/sc27.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sc27.png)
 
 **Full Screen** - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
 
-![Filters](imgs/toolbar6.png)
+[![Filters](imgs/sc28.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sc28.png)
