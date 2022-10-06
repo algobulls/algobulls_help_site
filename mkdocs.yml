@@ -74,7 +74,6 @@ nav:
           - 'Trade Book': 'member/Books/tradebook.md'
           - 'Fund Book': 'member/Books/fundbook.md'
       - 'Broking Details': 'member/broking-details.md'
-      - 'Fixed Income': 'member/fixed-income.md'
       - 'Plans & Wallet': 'member/wallet.md'
       - 'Settings': 'member/settings.md'
   - 'Features':
