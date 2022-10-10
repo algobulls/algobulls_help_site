@@ -139,7 +139,7 @@ nav:
         - 'INDIRA SECURITIES': 'archive_v1/broker/indirasecurities.md'
         - 'JAINAM DUCK': 'archive_v1/broker/jainamduck.md'
         - 'KOTAK SECURITIES': 'archive_v1/broker/kotaksecurities.md'
-        - 'MASTERTRUST': 'archive_v1/broker/mastertrust.md'
+  #     - 'MASTERTRUST': 'archive_v1/broker/mastertrust.md'
         - 'RUDRA SHARES': 'archive_v1/broker/rudrashares.md'
         - 'SHAREKHAN': 'archive_v1/broker/sharekhan.md'
   #      - 'TRADEBULLS': 'archive_v1/broker/tradebulls.md'
