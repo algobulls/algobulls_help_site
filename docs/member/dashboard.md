@@ -1,7 +1,10 @@
 # Dashboard
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HQry77QkoPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. Introduction 
 ---
+
 The AlgoBulls [Dashboard](https://app.algobulls.com/dashboard) gives you an overview of your account and trades. 
 
 [ ![Dashboard](imgs/dashboard1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard1.png)
