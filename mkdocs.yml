@@ -97,7 +97,7 @@ nav:
       - 'INDIRA SECURITIES': 'broker/indirasecurities.md'
       - 'JAINAM DUCK': 'broker/jainamduck.md'
       - 'KOTAK SECURITIES': 'broker/kotaksecurities.md'
-      - 'MASTERTRUST': 'broker/mastertrust.md'
+#      - 'MASTERTRUST': 'broker/mastertrust.md'
       - 'MONEY KRISHNA FINANCIAL SERVICES': 'broker/moneykrishnafinance.md'
       - 'MOTILAL OSWAL': 'broker/motilaloswal.md'
       - 'PAYTM MONEY': 'broker/paytmmoney.md'

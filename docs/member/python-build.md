@@ -50,9 +50,9 @@ To start developing your own strategy, you must first activate a plan from the *
 [![pythonbuild](imgs/python_build_plans.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_plans.png)
 
 
-* **Premium Developer Plan** - Develop your own Algorithmic Trading Strategy with Analytics support, concurrent Strategy Executions, Professional Support, and more.
+* **Premium Developer Plan**: Develop your own Algorithmic Trading Strategy with Analytics support, concurrent Strategy Executions, Professional Support, and more.
 
-* **Free Developer Plan** - Develop your own Algorithmic Trading Strategy for Free.
+* **Free Developer Plan**: Develop your own Algorithmic Trading Strategy for Free.
 
 After selecting your preferred plan, you will be able to begin coding. You can either edit the preloaded **Ready templates** or use **My Coded Strategies** section to create your own strategies
 
@@ -170,11 +170,11 @@ iii. P&L %: The trade by trade P&L in percentage form.
 [//]: # ()
 [//]: # (![pythonbuild]&#40;imgs/python_build_roi_percent.png&#41;)
 
-[**v. The Graph Tool**](https://help.algobulls.com/member/strategy-card.html#6-graph-tool)
+[**iv. The Graph Tool**](https://help.algobulls.com/member/strategy-card.html#6-graph-tool)
 
 [![pythonbuild](imgs/python_build_graph_tool_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab")]()
 
-iv. P&L Book: View detailed trade by trade report. Premium users can analyse this data in the form of heatmaps for Gross Profit & Loss, Trading Volume & Total number of Trades.
+v. P&L Book: View detailed trade by trade report. Premium users can analyse this data in the form of heatmaps for Gross Profit & Loss, Trading Volume & Total number of Trades.
 
 [![pythonbuild](imgs/python_build_pnl_book.png "Click to Enlarge or Ctrl+Click to open in a new Tab")]()
 
@@ -182,11 +182,11 @@ iv. P&L Book: View detailed trade by trade report. Premium users can analyse thi
 
 [![pythonbuild](imgs/python_build_total_trade.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_total_trade.png)
 
-v. User Log:  Real time logs from strategy execution are displayed in this section. Use these logs to debug your strategy’s behaviour and performance.
+vi. User Log:  Real time logs from strategy execution are displayed in this section. Use these logs to debug your strategy’s behaviour and performance.
 
 [![pythonbuild](imgs/python_build_user_log.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_user_log.png)
 
-vi. Order History: View the order state transition for every order placed by your strategy in depth. 
+vii. Order History: View the order state transition for every order placed by your strategy in depth. 
 
 [![pythonbuild](imgs/python_build_order_history.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/python_build_order_history.png)
 
