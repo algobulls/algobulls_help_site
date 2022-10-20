@@ -1,5 +1,7 @@
 # P&L Book
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxOBhWKBNIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. What is a P&L Book?
 ---
 
@@ -9,8 +11,12 @@ Track the **profit and loss** of your trades in the [P&L Book](https://app.algob
 * Filter your activities using filters such as **strategies, instrument and date range**.
 * View data in **heatmaps**.
 
+[![PnLBook](imgs/pnl_book.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/pnl.png)
 
+<<<<<<< HEAD
+=======
 [![PnLBook](imgs/pnl.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/pnl.png)
+>>>>>>> master
 
 ## 2. Summary Bar
 ---

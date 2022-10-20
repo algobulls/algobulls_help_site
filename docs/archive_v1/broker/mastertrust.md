@@ -77,7 +77,7 @@ The following steps will help you to make sure you have binded your broker accou
 
 ## Important Points to Note
 ---
-* Use the following link to login to your broking account - 
+* Use the following link to login to your broking account: 
     
     [https://masterswift-beta.mastertrust.co.in/](https://masterswift-beta.mastertrust.co.in/)
 

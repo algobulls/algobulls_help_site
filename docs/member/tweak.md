@@ -1,12 +1,14 @@
 # Tweak
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1CxSEgyjIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. Introduction
 If you'd like to tweak the strategies for **backtesting or paper trading**, AlgoBulls also has a **Tweak** option. 
 Before entering the live markets, you can tweak different parameters of a strategy to see how they function and what results are generated
 
 ## 2. How to tweak a strategy?
 
-**Step 1:** Before you tweak a strategy switch to the **test mode** on AlgBulls. 
+**Step 1:** Before you tweak a strategy switch to the **test mode** on AlgoBulls. 
 
 [![Tweak](imgs/tweak1.png "Click to Enlarge")](imgs/tweak1.png)
 

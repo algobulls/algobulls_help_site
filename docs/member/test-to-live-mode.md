@@ -1,5 +1,7 @@
 # Test & Live Mode
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SPSxxdqN1VE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. What is Virtual Trading or Test Mode ?
 ---
 

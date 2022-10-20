@@ -1,5 +1,7 @@
 # AlgoBulls Help Site
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iKkvgFcV9Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Logo](imgs/logo_large.svg)
 
 ## 1. Introduction
