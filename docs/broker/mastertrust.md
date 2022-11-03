@@ -9,7 +9,7 @@
 
 ## 1. Important Points to Note
 ---
-* Use the following link to login to your broking account - 
+* Use the following link to login to your broking account: 
     
     [https://masterswift-beta.mastertrust.co.in/](https://masterswift-beta.mastertrust.co.in/)
 

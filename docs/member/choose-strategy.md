@@ -106,7 +106,7 @@ This option allows you to search for strategies that have been added to the mark
 
 You can click the **<** and **>** for changing pages. You can also choose to view **4/8/12** strategies per page.
 
-[![ChooseStrategy](imgs/cs8.png "Click to Enlarge or Ctrl+Click to open in a new Tab")]((imgs/cs8.png))
+[![ChooseStrategy](imgs/cs8.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs8.png)
 
 ### vii. Density
 
@@ -116,7 +116,7 @@ Adjust the density by choosing the **compact, regular or list mode**.
 
 In this mode the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.
 
-[![ChooseStrategy](imgs/compact_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")]((imgs/compact_mode.png))
+[![ChooseStrategy](imgs/compact_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/compact_mode.png)
 
 * **Regular Mode** 
 

@@ -39,7 +39,7 @@ Keep the following information available before you start:
 
 * In the search box, enter **PayTM Money**, and then click on the broker link that appears in the list of results.
 
-[ ![PayTMMoney](imgs/motilaloswal/search_motilal_oswal.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/PayTMMoney/search_motilal_oswal.png)
+[ ![PayTMMoney](imgs/paytmmoney/search_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/paytmmoney/search_broker.png)
 
 * Log in to your AlgoBulls account by entering your AlgoBulls credentials in the following fields before clicking on the login button.
 
