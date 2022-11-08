@@ -29,11 +29,11 @@ After signing in, go to the Fixed Income section in the sidebar navigation. You 
 
 [![Fixed Income](imgs/fixed_income_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/bonds_marketplace_1fixed_income_1.png)
 
-**ii. Fixed Income Card:** Get complete details, such as the Bond & NCD name, price, rating, maturity date, yield per year % and more here. Click on the know more to view the expanded version.
+**ii. Fixed Income Card:** Get complete details, such as the Bond & NCD name, price, rating, maturity date, yield per year % and more here.
 
 [![Fixed Income](imgs/fixed_income_card.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/fixed_income_card.png)
 
-**iii. Search Bar:** To find a specific Security, enter its name or ISIN number into the search bar.
+**iii. Search Bar:** To find a specific Security, enter the name or ISIN number into the search bar.
 
 **iv. Filters, Sort & Duration:** You can filter your search, sort the categories, or look for a Security based on the duration and multiple other options.
 
@@ -101,7 +101,7 @@ Click on know more to get detailed information of the bond.
 
 ## 4. How To Buy a security?
 
-It's crucial to update your KYC, bank information, and demat account information in the Manage Account section in the sidebar navigation before you Buy a security.
+It is crucial to update your KYC, bank information, and demat account information in the Manage Account section in the sidebar navigation before you buy a security. in the sidebar navigation before you sell a security.
 
 After updating the above information, from the Marketplace, select a security that you would like to invest in and click on Buy.
 
@@ -112,7 +112,7 @@ You will be redirected to the Plans & Wallet section’s checkout page, where yo
 
 ## 5. How to Sell a Security?
 
-It's crucial to update your KYC, bank information, and demat account information in the Manage Account section in the sidebar navigation before you Sell a security.
+It is crucial to update your KYC, bank information, and demat account information in the Manage Account section in the sidebar navigation before you sell a security.
 
 After updating the above information, from the Marketplace, select a security that you would like to invest in and click on Sell.
 
