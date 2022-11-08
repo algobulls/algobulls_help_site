@@ -101,7 +101,7 @@ Click on know more to get detailed information of the bond.
 
 ## 4. How To Buy a security?
 
-It is crucial to update your KYC, bank information, and demat account information in the Manage Account section in the sidebar navigation before you buy a security. in the sidebar navigation before you sell a security.
+It is crucial to update your KYC, bank information, and demat account information in the Manage Account section in the sidebar navigation before you buy a security.
 
 After updating the above information, from the Marketplace, select a security that you would like to invest in and click on Buy.
 
