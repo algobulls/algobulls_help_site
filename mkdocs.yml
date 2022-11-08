@@ -65,6 +65,7 @@ nav:
       - 'Choose Strategy': 'member/choose-strategy.md'
       - 'Strategy Card': 'member/strategy-card.md'
       - 'Python Build': 'member/python-build.md'
+      - 'Fixed Income': 'member/fixed-income.md'
       - 'My Portfolio':
           - 'Live Trading': 'member/live-trading.md'
           - 'Virtual Trading': 'member/virtual-trading.md'
@@ -175,5 +176,6 @@ markdown_extensions:
   - admonition              # Add note, tip, question, warning, error, etc. Docs: https://squidfunk.github.io/mkdocs-material/extensions/admonition/
   - toc:                    # Docs: https://squidfunk.github.io/mkdocs-material/extensions/permalinks/
       permalink: true
-  - pymdownx.tabbed
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
