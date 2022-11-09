@@ -89,7 +89,7 @@ In the orders section you can sell any bond, search for your orders or get the c
 
 This is your Fixed Income portfolio you can sell any security, search or filter the securities and view the complete portfolio details.
 
-**ii. Sell Any Security:** To sell a security you will need details such as the ISIN, Settlement Date, Quantity, Settlement Amount or Principal Amount & Accrued Interest. Before you sell a security, ensure your KYC is completed.
+**i. Sell Any Security:** To sell a security you will need details such as the ISIN, Settlement Date, Quantity, Settlement Amount or Principal Amount & Accrued Interest. Before you sell a security, ensure your KYC is completed.
 
 **ii. Search Bar:** Search any order using the search bar.
 
