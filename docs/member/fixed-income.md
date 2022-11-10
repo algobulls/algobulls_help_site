@@ -1,6 +1,6 @@
 # Fixed Income
 
-## 1. Introduction:
+## 1. Introduction
 
 Fixed income is an investment that focuses on capital and income preservation. It frequently includes investments such as government and corporate bonds/NSDs/MLDs. Fixed income can provide a consistent stream of income while posing less risk than stocks.
 If you are just entering the world of **investment, bonds, NCDs & MLDs** can be a great place to begin!
@@ -19,7 +19,7 @@ MLDs are Market Linked Debentures. MLDs are non-convertible debentures with vari
 
 Now let’s understand how you can begin trading on the AlgoBulls Fixed Income marketplace.
 
-## 2. An Overview:
+## 2. An Overview
 
 To begin using the Fixed Income marketplace, download the AlgoBulls App or register on [www.algobulls.com](http://www.algobulls.com)
 
@@ -43,7 +43,7 @@ After signing in, go to the Fixed Income section in the sidebar navigation. You 
 
 [![Fixed Income](imgs/fixed_income_viewing_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/fixed_income_viewing_mode.png)
 
-## 3. Exploring the Fixed Income Card:
+## 3. Exploring the Fixed Income Card
 
 Get complete details, such as the Bond name, price, rating, maturity date, yield per year % and more here. Click on the bond card to view the expanded version.
 
@@ -71,35 +71,37 @@ Click on know more to get detailed information of the bond.
 
 [![Fixed Income](imgs/fixed_income_payment_cycle.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/fixed_income_payment_cycle.png)
 
-**v. Orders:** In the orders section you can sell any bond, search for your orders or get the complete order details.
+## 4. Orders
 
+In the orders section you can sell any bond, search for your orders or get the complete order details.
 
-* **Sell Any Security:** To sell a security you will need details such as the ISIN, Settlement Date, Quantity, Settlement Amount or Principal Amount & Accrued Interest. Before you sell a security, ensure your KYC is completed.
+**i. Sell Any Security:** To sell a security you will need details such as the ISIN, Settlement Date, Quantity, Settlement Amount or Principal Amount & Accrued Interest. Before you sell a security, ensure your KYC is completed.
 
-* **Search Bar:** Search any order using the search bar.
+**ii. Search Bar:** Search any order using the search bar.
 
-* **Filters & Sort:** Filter your orders by Issuer, IP Frequency, Taxation Criteria, Type & Status. You can Sort your orders by applying the Yield or Safety options.
+**iii. Filters & Sort:** Filter your orders by Issuer, IP Frequency, Taxation Criteria, Type & Status. You can Sort your orders by applying the Yield or Safety options.
 
-* **All Orders:** Check all your orders in this section. This includes the Issuer & security name, Settlement amount, Maturity Date, Status, Deal Sheet and more.
+**iv. All Orders:** Check all your orders in this section. This includes the Issuer & security name, Settlement amount, Maturity Date, Status, Deal Sheet and more.
 
 [![Fixed Income](imgs/fixed_income_orders.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/fixed_income_orders.png)
 
-**vi. Portfolio:** This is your Fixed Income portfolio you can sell any security, search or filter the securities and view the complete portfolio details.
+## 5. Portfolio
 
+This is your Fixed Income portfolio you can sell any security, search or filter the securities and view the complete portfolio details.
 
-* **Sell Any Security:** To sell a security you will need details such as the ISIN, Settlement Date, Quantity, Settlement Amount or Principal Amount & Accrued Interest. Before you sell a security, ensure your KYC is completed.
+**i. Sell Any Security:** To sell a security you will need details such as the ISIN, Settlement Date, Quantity, Settlement Amount or Principal Amount & Accrued Interest. Before you sell a security, ensure your KYC is completed.
 
-* **Search Bar:** Search any order using the search bar.
+**ii. Search Bar:** Search any order using the search bar.
 
-* **Filters & Sort:** Filter your orders by Issuer, IP Frequency, Taxation Criteria, Type & Status. You can sort your orders by applying the Yield or Safety options.
+**iii. Filters & Sort:** Filter your orders by Issuer, IP Frequency, Taxation Criteria, Type & Status. You can sort your orders by applying the Yield or Safety options.
 
-* **Portfolio:** This is your fixed income portfolio section where the security details, purchase date, Interest Payment Date, Total Cost Price, Total Current Value and Action are displayed.
+**iv. Portfolio:** This is your fixed income portfolio section where the security details, purchase date, Interest Payment Date, Total Cost Price, Total Current Value and Action are displayed.
 
 [![Fixed Income](imgs/fixed_income_portfolio.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/fixed_income_portfolio.png)
 
 **vii. Manage Accounts:** Manage your Fixed Income details such as add your Bank Account, Demat Details & KYC Information.
 
-## 4. How To Buy a security?
+## 6. How To Buy a security?
 
 It is crucial to update your KYC, bank information, and demat account information in the Manage Account section in the sidebar navigation before you buy a security.
 
@@ -110,7 +112,7 @@ You can now add the quantity in the Investment Calculator and click on Buy now.
 You will be redirected to the Plans & Wallet section’s checkout page, where you can pay the amount. Ensure that you check all the details before making a payment. Click on the total amount payable, you will be taken to a payment gateway page where you can enter your information and complete the payment.
 
 
-## 5. How to Sell a Security?
+## 7. How to Sell a Security?
 
 It is crucial to update your KYC, bank information, and demat account information in the Manage Account section in the sidebar navigation before you sell a security.
 
