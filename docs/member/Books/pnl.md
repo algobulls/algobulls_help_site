@@ -13,6 +13,7 @@ Track the **profit and loss** of your trades in the [P&L Book](https://app.algob
 
 [![PnLBook](imgs/pnl.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/pnl.png)
 
+
 ## 2. Summary Bar
 ---
 
@@ -35,7 +36,7 @@ Filters will allow you to selectively search for a specific entry or multiple en
 [![PnLBook](imgs/pnl3.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/pnl3.png)
 
 * **Instrument**: Select one or more instruments to display in the table below. 
-These entries are populated as per the instruments on the strategies that were executed. 
+These entries are populated as per the instruments on the strategies that were executed.
 
 [![PnLBook](imgs/pnl4.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/pnl4.png)
 

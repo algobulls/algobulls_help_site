@@ -38,7 +38,8 @@ You can also register with AlgoBulls by clicking on the [Login with Google](http
 
 
 ### ii. Is there an AlgoBulls App that I can use? 
-Yes, you can download the AlgoBulls fast, secure and easy-to-use app for android phones. Download now: 
+Yes, you can download the AlgoBulls fast, secure and easy-to-use app for android phones. [Download now](https://play.google.com/store/apps/details?id=com.trading.algobulls).
+
 
 ### iii. Is there any registration fee to join AlgoBulls?
 No, there is no additional fee to join AlgoBulls. You can join AlgoBulls for free, [join now!](https://app.algobulls.com/user/register) 
