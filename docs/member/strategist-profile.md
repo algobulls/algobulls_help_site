@@ -1,11 +1,11 @@
 # Strategist Profile
 
 ## Introduction
-AlgoBulls provides a variety of trading strategies, but the brains behind these strategies are market experts who work extremely hard to create complex yet simple strategies. The Strategist profile will help you recognize the strategist's work and strategies. Let’s take a look at what the strategist profile offers
+AlgoBulls provides a variety of trading strategies, but the brains behind these strategies are market experts who work extremely hard to create complex yet simple strategies. The Strategist profile will help you recognize the strategist's work and strategies. Let’s take a look at what the strategist profile offers.
 
 ## Strategist Details
 
-View the strategist's details such as Name, Bio & Contact Information.
+View the strategist's details such as Name, Bio and Contact Information.
 
 [![Strategist Profile](imgs/strategiest_profile_details.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_details.png)
 
@@ -15,19 +15,17 @@ Get the strategist’s profile summary details such as the total number of strat
 
 [![Strategist Profile](imgs/strategiest_profile_summary.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_summary.png)
 
-
-
 ## Explore the market experts’ strategies
 
-Explore the strategies developed by the strategist as per the marketplace. Analyze the growth, trading volume, and total trades of the strategists' strategy using the Heatmap. The marketplace is divided into 3 parts - Retail, Premium & HNI.
+Explore the strategies developed by the strategist as per the marketplace. Analyze the growth, trading volume, and total trades of the strategist's strategy using the Heatmap. The marketplace is divided into 3 parts - Retail, Premium and HNI.
 
 [![Strategist Profile](imgs/strategiest_profile_heat_map.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_heat_map.png)
 
-The Retail Marketplace displays all retail strategies. View the Premium Marketplace to see all premium strategies, and the HNI Marketplace features all HNI Strategies.
+The Retail Marketplace displays all retail strategies. View the Premium Marketplace to see all Premium Strategies, and the HNI Marketplace to see all HNI Strategies.
 
 ## Strategy Cards
 
-View the Strategy Cards created by the market expert here.
+View the Strategy Cards created by the strategist here.
 
 [![Strategist Profile](imgs/strategist_profile_strategy_card.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_strategy_card.png)
 
