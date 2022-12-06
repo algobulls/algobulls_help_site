@@ -1,7 +1,7 @@
 # Strategist Profile
 
 ## Introduction
-AlgoBulls provides a variety of trading strategies, but the brains behind these strategies are market experts who work extremely hard to create powerful yet simple strategies. The Strategist profile will help you recognize the strategist's work and strategies. Let’s take a look at what the strategist profile offers.
+AlgoBulls provides a variety of trading strategies, but the brains behind these strategies are strategists who work extremely hard to create powerful yet simple strategies. The Strategist profile will help you recognize the strategist's work and strategies. Let’s take a look at what the strategist profile offers.
 
 ## Strategist Details
 
