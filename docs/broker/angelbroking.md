@@ -6,6 +6,10 @@
 
 * Markets Supported: India
 
+## Important Points to Note
+
+To enable the TOTP please [click here](https://smartapi.angelbroking.com/enable-totp).
+
 ## 1. Login and Set up your Angel Broking Account 
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.

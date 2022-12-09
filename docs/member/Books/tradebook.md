@@ -15,6 +15,7 @@ All strategies executed in your account are updated real-time as and when the tr
 
 [![Tradebook](imgs/tradebook.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/tradebook.png)
 
+
 ## 2. Summary Bar
 ---
 
@@ -29,6 +30,7 @@ Your trades are segregated in shades of blue and white. Data can be viewed in co
 
 [![Tradebook](imgs/tradebook2.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/tradebook2.png)
 
+
 ## 4. Filters
 ---
 
@@ -40,10 +42,12 @@ Filters will allow you to selectively search for a specific entry or multiple en
 
 [![Tradebook](imgs/tradebook5.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/tradebook5.png)
 
+
 * **Strategies**: Choose one or more strategies to display them in the table below. 
 These entries are populated as per the strategies chosen by you.
 
 [![Tradebook](imgs/tradebook4.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/tradebook4.png)
+
 
 * **Brokers**: Choose one or more brokers to display them in the table below.
 These entries are populated as per the brokers selected by you.
@@ -53,6 +57,7 @@ These entries are populated as per the brokers selected by you.
 * **Date Range (Start Date & End Date)**: Give the date range to view the table for the selected  strategy and instrument (if any).
 
 [![Tradebook](imgs/tradebook6.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/tradebook6.png)
+
 
 ## 5. Fields
 ---
@@ -67,8 +72,8 @@ The table covers the following fields:
 
 * **Transaction**:  The transaction section includes the transaction type such as **buy or sell, quantity, price, date & time**.
 
-
 [![TradebookInstruments](imgs/tradebook7.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/tradebook7.png)
+
 
 ## 6. The Toolbar
 
