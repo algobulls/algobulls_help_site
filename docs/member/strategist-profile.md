@@ -7,19 +7,19 @@ AlgoBulls provides a variety of trading strategies, but the brains behind these 
 
 View the strategist's details such as Name, Bio and Contact Information.
 
-[![Strategist Profile](imgs/strategiest_profile_details.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_details.png)
+[![Strategist Profile](imgs/strategist_profile_details.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_details.png)
 
 ## Strategist Profile Summary
 
 Get the strategist’s profile summary details such as the total number of strategies, deployments, trades, wins, total loss, long trades, short trades, max gain, and more.
 
-[![Strategist Profile](imgs/strategiest_profile_summary.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_summary.png)
+[![Strategist Profile](imgs/strategist_profile_summary.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_summary.png)
 
 ## Explore the strategist’ strategies
 
 Explore the strategies developed by the strategist as per the marketplace. Analyze the growth, trading volume, and total trades of the strategist's strategy using the Heatmap. The marketplace is divided into 3 parts - Retail, Premium and HNI.
 
-[![Strategist Profile](imgs/strategiest_profile_heat_map.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_heat_map.png)
+[![Strategist Profile](imgs/strategist_profile_heat_map.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_heat_map.png)
 
 The Retail Marketplace displays all retail strategies. View the Premium Marketplace to see all Premium Strategies, and the HNI Marketplace to see all HNI Strategies.
 
@@ -33,7 +33,7 @@ View the Strategy Cards created by the strategist here.
 
 Use this search bar to look for strategies developed by the strategist. You can Filter or Sort these strategies. You can also search the strategies based on their duration.
 
-[![Strategist Profile](imgs/strategiest_profile_filters.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_filters.png)
+[![Strategist Profile](imgs/strategist_profile_filters.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_filters.png)
 
 ## Pagination
 
@@ -47,16 +47,16 @@ Adjust the density by choosing the compact, regular or list mode.
 
 In this mode, the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.
 
-[![Strategist Profile](imgs/strategiest_profile_compact_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_compact_mode.png)
+[![Strategist Profile](imgs/strategist_profile_compact_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_compact_mode.png)
 
 ### 2. Regular Mode
 
 This is the AlgoBulls' default mode. In comparison to any other mode, the strategy card in regular mode has the most information.
 
-[![Strategist Profile](imgs/strategiest_profile_regular_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_regular.png)
+[![Strategist Profile](imgs/strategist_profile_regular_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_regular.png)
 
 ### 3. List Mode
 
 This mode displays all the strategies in the marketplace in a list view.
 
-[![Strategist Profile](imgs/strategiest_profile_list_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategiest_profile_list_mode.png)
+[![Strategist Profile](imgs/strategist_profile_list_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_list_mode.png)
