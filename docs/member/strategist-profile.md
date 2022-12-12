@@ -15,13 +15,13 @@ Get the strategist’s profile summary details such as the total number of strat
 
 [![Strategist Profile](imgs/strategist_profile_summary.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_summary.png)
 
-## Explore the strategist’ strategies
+## Explore the strategies
 
 Explore the strategies developed by the strategist as per the marketplace. Analyze the growth, trading volume, and total trades of the strategist's strategy using the Heatmap. The marketplace is divided into 3 parts - Retail, Premium and HNI.
 
 [![Strategist Profile](imgs/strategist_profile_heat_map.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_heat_map.png)
 
-The Retail Marketplace displays all retail strategies. View the Premium Marketplace to see all Premium Strategies, and the HNI Marketplace to see all HNI Strategies.
+Retail strategies, Premium strategies and HNI strategies are displayed on the Retail Marketplace, Premium Marketplace and the HNI Marketplace respectively.
 
 ## Strategy Cards
 
