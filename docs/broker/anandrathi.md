@@ -54,11 +54,11 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 * Now go to **Broking Details** and click add broker.
 
-[![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+[![AnandRathi](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
 * Choose the broker.
 
-[ ![Acagarwal](imgs/anand_rathi/choose_anand_rathi.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/anand_rathi/choose_anand_rathi.png)
+[![AnandRathi](imgs/anand_rathi/choose_anand_rathi.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/anand_rathi/choose_anand_rathi.png)
 
 * Now Provide data for the following fields:
 
@@ -70,11 +70,11 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 Contact your broker to get your App Key and Secret Key.
 
-[ ![AnandRathi](imgs/anand_rathi/anand_rathi_creds.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/anand_rathi/anand_rathi_creds.png)
+[![AnandRathi](imgs/anand_rathi/anand_rathi_creds.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/anand_rathi/anand_rathi_creds.png)
 
 * If the verification is successful, you will see the following message:
 
-[ ![AnandRathi](imgs/anand_rathi/broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/anand_rathi/broker_added.png)
+[![AnandRathi](imgs/anand_rathi/broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/anand_rathi/broker_added.png)
 
 ## 2. Support
 ---
