@@ -62,13 +62,13 @@ Keep the following information available before you start:
 
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **Login with your Broking Account**.
 
-[ ![KotakNeoTrade](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
+[![KotakNeoTrade](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
 * Type the first few characters of your Broker Name.
 
 * Select the **Kotak Securities Neo Trade** broker.
 
-[ ![KotakNeoTrade](imgs/kotakneotrade/search_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotakneotrade/search_broker.png)
+[![KotakNeoTrade](imgs/kotakneotrade/search_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotakneotrade/search_broker.png)
 
 Now Login to your AlgoBulls account. Provide data for the following fields and then click the **Login** button
 
@@ -76,15 +76,15 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 * Password: The password you have given to Register/Sign-Up to the AlgoBulls website.
 
-[ ![KotakNeoTrade](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
+[![KotakNeoTrade](imgs/sign-in-2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/sign-in-2.png)
 
 * Now go to **Broking Details** and click add broker.
 
-[ ![IIFL](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
+[![KotakNeoTrade](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
 * Choose the broker.
 
-[ ![Acagarwal](imgs/kotakneotrade/select_kotak_neo_trade.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotakneotrade/select_kotak_neo_trade.png)
+[![KotakNeoTrade](imgs/kotakneotrade/select_kotak_neo_trade.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotakneotrade/select_kotak_neo_trade.png)
 
 * Now Provide data for the following fields:
 
@@ -105,11 +105,11 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 (8). MPIN: The Consumer Secret given to you by your broker.
 
 
-[ ![KotakNeoTrade](imgs/kotakneotrade/add_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotakneotrade/add_credentials.png)
+[![KotakNeoTrade](imgs/kotakneotrade/add_credentials.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotakneotrade/add_credentials.png)
 
 * If the verification is successful, you will see the following message:
 
-[ ![KotakNeoTrade](imgs/kotakneotrade/broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotakneotrade/broker_added.png)
+[![KotakNeoTrade](imgs/kotakneotrade/broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/kotakneotrade/broker_added.png)
 
 ## 2. Support
 ---
