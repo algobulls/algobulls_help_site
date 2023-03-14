@@ -28,6 +28,7 @@ Keep the following information available before you start:
 
 * Password
 
+
 ### ii. Let's Begin! 
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **PayTM Money** under the **Login with your Broking Account** section.
 
@@ -71,14 +72,17 @@ Select **Next**. You will be directed to the **PayTM Money Login Page**.
 
 [ ![PayTMMoney](imgs/paytmmoney/paytmmoney_passcode.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/paytmmoney/paytmmoney_passcode.png)
 
+!!! Note
+        Please do not log out of your PayTM Money account as this will cause the sessions to expire in your running strategies.
+
 ## 2. Bind your Broking Account
 ---
 
 The following steps will help you to make sure you have binded your broker account. 
 
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking). 
+* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/broking).
 
-* Bind your account using the Toggle button marked below.     
+* Bind your account using the Toggle button marked below.
 
 ## 3. Support
 ---

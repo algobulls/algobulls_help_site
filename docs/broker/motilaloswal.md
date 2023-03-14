@@ -73,9 +73,9 @@ Select **Next**. You will be directed to the **Motilal Oswal Login Page**.
 ## 2. Bind your Broking Account
 ---
 
-The following steps will help you to make sure you have binded your broker account. 
+The following steps will help you to make sure you have binded your broker account.
 
-* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/account/broking). 
+* Visit the AlgoBulls [Broker Settings Page](https://app.algobulls.com/broking).
 
 * Bind your account using the Toggle button marked below.     
 
