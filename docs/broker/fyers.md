@@ -35,7 +35,10 @@ Keep the following information available before you start:
 
 * Fyers Pin
 
-### ii. Let's Start
+!!! Note
+    To get get the App Key and Secret Key, you'll have to create an [App](https://myapi.fyers.in/docsv3#tag/App-Creation/Individual-Apps) in your Fyers account.
+
+### ii. One-Time Activity
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login).
 
@@ -65,10 +68,7 @@ Keep the following information available before you start:
 
 [![Fyers](imgs/fyers/non_oauth_broker_visible.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/non_oauth_broker_visible.png)
 
-!!! Note
-    This is a one time activity.
-
-### iii. OAuth binding
+### iii. Daily Activity (Login)
 
 * Now click on **Add Broker**, type **Fyers** in the search bar and select the broker.
 
@@ -95,9 +95,11 @@ Keep the following information available before you start:
     
     [![Fyers](imgs/fyers/login_page_select_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/login_page_select_oauth.png)
 
-    * You have to do the OAuth login everyday 
+    * You have to do the OAuth login everyday
 
 ### iv. Another way to login
+
+#### a. One-Time Activity
 
 * Login to your AlgoBulls account
 
@@ -119,15 +121,11 @@ Keep the following information available before you start:
 
 [![Fyers](imgs/fyers/non_oauth_broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/non_oauth_broker_added.png)
 
-* You can see the broker added in the Broking Details section.
-
-!!! Note
-    This is a one time activity
-
-
 [![Fyers](imgs/fyers/non_oauth_broker_visible.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/non_oauth_broker_visible.png)
 
-* Now click on **Add Broker**, type **Fyers** in the search bar and select the broker.
+#### b. Daily Actiity (Login)
+
+* Click on **Add Broker**, type **Fyers** in the search bar and select the broker.
 
 [![Fyers](imgs/fyers/select_oauth_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/select_oauth_broker.png)
 
@@ -153,3 +151,8 @@ Keep the following information available before you start:
     [![Fyers](imgs/fyers/login_page_select_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/login_page_select_oauth.png)
 
     * You have to do the OAuth login everyday 
+
+## 3. Support
+---
+
+For Help and Support, contact us on +91 80692 30300 or email us.
