@@ -116,7 +116,7 @@ Keep the following information available before you start:
 
 [![Fyers](imgs/fyers/non_oauth_broker_visible.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/non_oauth_broker_visible.png)
 
-#### b. Daily Actiity (Login)
+#### b. Daily Activity (Login)
 
 * Click on **Add Broker**, type **Fyers** in the search bar and select the broker.
 
