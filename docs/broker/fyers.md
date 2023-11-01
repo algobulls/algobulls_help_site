@@ -90,13 +90,6 @@ Keep the following information available before you start:
 
 [![Fyers](imgs/fyers/oauth_broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_broker_added.png)
 
-!!! Note
-    * Next time before logging in you can search for the broker and click on the Daily Login tab this will take to the broker login page.
-    
-    [![Fyers](imgs/fyers/login_page_select_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/login_page_select_oauth.png)
-
-    * You have to do the OAuth login everyday
-
 ### iv. Another way to login
 
 #### a. One-Time Activity
@@ -144,13 +137,6 @@ Keep the following information available before you start:
 * You'll be redirected back to the AlgoBulls Broking Details section where you can see the broker added.
 
 [![Fyers](imgs/fyers/oauth_broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_broker_added.png)
-
-!!! Note
-    * Next time before logging in you can search for the broker and click on the Daily Login tab this will take to the broker login page.
-    
-    [![Fyers](imgs/fyers/login_page_select_oauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/login_page_select_oauth.png)
-
-    * You have to do the OAuth login everyday 
 
 ## 3. Support
 ---
