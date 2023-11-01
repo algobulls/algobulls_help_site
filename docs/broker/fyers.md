@@ -1,14 +1,16 @@
-# Goodwill
+# Fyers
 ---
 
-* Official Website: [https://www.moneysukh.com/](https://login.fyers.in/)
+* Official Website: [https://login.fyers.in/](https://login.fyers.in/)
 
-* Trading Website: [https://www.moneysukh.com/](https://login.fyers.in/)
+* Trading Website: [https://login.fyers.in/](https://login.fyers.in/)
 
 * Markets Supported: India
 
 ## 1. Important Point(s) to Note
-===
+
+---
+
 * It is required to login **once** daily (at the start of the trading day).
 
 ## 2. Login and Set up your Fyers Account
