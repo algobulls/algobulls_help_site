@@ -36,13 +36,35 @@ Keep the following information available before you start:
 * Fyers Pin
 
 !!! Note
-    To get get the App Key and Secret Key, you'll have to create an [App](https://myapi.fyers.in/docsv3#tag/App-Creation/Individual-Apps) in your Fyers account.
+    To get get the App Key and Secret Key, you'll have to create an [App](https://myapi.fyers.in/docsv3#tag/App-Creation/Individual-Apps) in your Fyers account. Please follow the below steps to create an app in your Fyers account.
 
-### ii. One-Time Activity
+### ii. App Creation
+
+* Login to your Fyers account and click on the **Create App** button.
+
+[![Fyers](imgs/fyers/create_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/create_app.png)
+
+* In **App Name** field type **AlgoBulls** and in the **Redirect URL** field type **https://app.algobulls.com/loading** as shown in the image below.
+
+[![Fyers](imgs/fyers/app_creation_details.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/app_creation_details.png)
+
+a. Scroll down and delete the default **Webhook/Postbacks**.
+
+b. Check all the checkboxes in the **App Permission** section.
+
+c. Check the **Terms and Conditions** checkbox.
+
+d. Click on the **Create App** button at the bottom.
+
+[![Fyers](imgs/fyers/create_app_terms.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/create_app_terms.png)
+
+* Once the app gets created, copy the App ID and Secret ID for the next steps.
+
+[![Fyers](imgs/fyers/app_created_successfully.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/app_created_successfully.png)
+
+### iii. One-Time Activity
 ---
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login).
-
-[//]: # (* If you do not see your broker name, then click on **+ x more** where x is the number of brokers.)
 
 [![Fyers](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
@@ -68,7 +90,7 @@ Keep the following information available before you start:
 
 [![Fyers](imgs/fyers/non_oauth_broker_visible.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/non_oauth_broker_visible.png)
 
-### iii. Daily Activity (Login)
+### iv. Daily Activity (Login)
 
 * Now click on **Add Broker**, type **Fyers** in the search bar and select the broker.
 
@@ -90,7 +112,7 @@ Keep the following information available before you start:
 
 [![Fyers](imgs/fyers/oauth_broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_broker_added.png)
 
-### iv. Another way to login
+### v. Another way to login
 
 #### a. One-Time Activity
 
