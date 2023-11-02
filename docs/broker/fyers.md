@@ -29,14 +29,14 @@ Keep the following information available before you start:
 
 2) Broking Account Credentials
 
-* Fyers App Key
+* App ID
 
-* Fyers Secret Key
+* Secret ID
 
-* Fyers Pin
+* 4-digit Pin
 
 !!! Note
-    To get get the App Key and Secret Key, you'll have to create an [App](https://myapi.fyers.in/docsv3#tag/App-Creation/Individual-Apps) in your Fyers account. Please follow the below steps to create an app in your Fyers account.
+    To get the App ID and Secret ID, you'll have to create an [App](https://myapi.fyers.in/docsv3#tag/App-Creation/Individual-Apps) in your Fyers account. Please follow the below steps to create an app in your Fyers account.
 
 ### ii. App Creation
 
@@ -44,21 +44,22 @@ Keep the following information available before you start:
 
 [![Fyers](imgs/fyers/create_app.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/create_app.png)
 
-* In **App Name** field type **AlgoBulls** and in the **Redirect URL** field type **https://app.algobulls.com/loading** as shown in the image below.
+* Give the **App Name** as **AlgoBulls**
+* Give the **Redirect URL** as **https://app.algobulls.com/loading**
 
 [![Fyers](imgs/fyers/app_creation_details.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/app_creation_details.png)
 
-a. Scroll down and delete the default **Webhook/Postbacks**.
+1. Scroll down and delete the default **Webhook/Postbacks**.
 
-b. Check all the checkboxes in the **App Permission** section.
+2. Check all the checkboxes in the **App Permission** section.
 
-c. Check the **Terms and Conditions** checkbox.
+3. Check the **Terms and Conditions** checkbox.
 
-d. Click on the **Create App** button at the bottom.
+4. Click on the **Create App** button at the bottom.
 
 [![Fyers](imgs/fyers/create_app_terms.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/create_app_terms.png)
 
-* Once the app gets created, copy the App ID and Secret ID for the next steps.
+* Once the app is created, copy the App ID and Secret ID for the next steps.
 
 [![Fyers](imgs/fyers/app_created_successfully.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/app_created_successfully.png)
 
@@ -68,21 +69,21 @@ d. Click on the **Create App** button at the bottom.
 
 [![Fyers](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
 
-* If you do not see your broker name, then type **Fyers** in the Search Box. and then click on the Broker Link that shows **1-time-activity** when hovered over it.
+* If you do not see your broker name, then type **Fyers** in the Search Box. and then click on the Broker Link that shows **1-time-activity** as the tooltip.
 
 [![Fyers](imgs/fyers/one_time_activity.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/one_time_activity.png)
 
 * Login to your AlgoBulls account.
 
-* Once you login you'll be redirected to the with the Fyers one time activity selected. Click on **Next**.
+* Once you login you'll be redirected to the pane with the Fyers 1-time activity selected. Click on **Next**.
 
 [![Fyers](imgs/fyers/one_time_activity_selected.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/one_time_activity_selected.png)
 
-* Enter your Fyers App Key in the **CLIENT_API_KEY** field and Fyers Secret Key in the **CLIENT_SECRET_KEY** field. Click on **Confirm**.
+* Enter your App ID in the **CLIENT_API_KEY** field and your Secret ID in the **CLIENT_SECRET_KEY** field. Click on **Confirm**.
 
 [![Fyers](imgs/fyers/one_time_activity_creds.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/one_time_activity_creds.png)
 
-* Broker is binded to your account.
+* Your 1-time activity is complete.
 
 [![Fyers](imgs/fyers/non_oauth_broker_added.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/non_oauth_broker_added.png)
 
@@ -92,19 +93,19 @@ d. Click on the **Create App** button at the bottom.
 
 ### iv. Daily Activity (Login)
 
-* Now click on **Add Broker**, type **Fyers** in the search bar and select the broker.
+* Now click on **Add Broker**, type **Fyers** in the search bar and click on the Broker Link that shows **Daily Login** as the tooltip.
 
 [![Fyers](imgs/fyers/select_oauth_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/select_oauth_broker.png)
 
-* You'll be redirected to the **Fyers** login page, add your mobile number and click on **Continue**.
+* You'll be redirected to the **Fyers** login page. Enter your mobile number and click on **Continue**.
 
 [![Fyers](imgs/fyers/oauth_login_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_login_1.png)
 
-* Type the OTP you received and click on **Confirm OTP**.
+* Type the OTP that you receive and click on **Confirm OTP**.
 
 [![Fyers](imgs/fyers/oauth_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_login_2.png)
 
-* Enter your Fyers account four digit pin and click on **Sign in**.
+* Enter your 4-digit Pin and click on **Sign in**.
 
 [![Fyers](imgs/fyers/oauth_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_login_3.png)
 
@@ -128,7 +129,7 @@ d. Click on the **Create App** button at the bottom.
 
 [![Fyers](imgs/fyers/search_broker_nonoauth.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/search_broker_nonoauth.png)
 
-* Enter your Fyers App Key in the **CLIENT_API_KEY** field and Fyers Secret Key in the **CLIENT_SECRET_KEY** field. Click on **Confirm**.
+* Enter your App ID in the **CLIENT_API_KEY** field and Secret ID in the **CLIENT_SECRET_KEY** field. Click on **Confirm**.
 
 [![Fyers](imgs/fyers/one_time_activity_creds.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/one_time_activity_creds.png)
 
@@ -144,15 +145,15 @@ d. Click on the **Create App** button at the bottom.
 
 [![Fyers](imgs/fyers/select_oauth_broker.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/select_oauth_broker.png)
 
-* You'll be redirected to the **Fyers** login page, add your mobile number and click on **Continue**.
+* You'll be redirected to the **Fyers** login page, Enter your mobile number and click on **Continue**.
 
 [![Fyers](imgs/fyers/oauth_login_1.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_login_1.png)
 
-* Type the OTP you received and click on **Confirm OTP**.
+* Type the OTP that you receive and click on **Confirm OTP**.
 
 [![Fyers](imgs/fyers/oauth_login_2.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_login_2.png)
 
-* Enter your Fyers account four digit pin and click on **Sign in**.
+* Enter your 4-digit Pin and click on **Sign in**.
 
 [![Fyers](imgs/fyers/oauth_login_3.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/fyers/oauth_login_3.png)
 
