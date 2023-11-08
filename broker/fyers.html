@@ -898,28 +898,62 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#ii-lets-start" class="md-nav__link">
-    ii. Let's Start
+  <a href="#ii-app-creation" class="md-nav__link">
+    ii. App Creation
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#iii-oauth-binding" class="md-nav__link">
-    iii. OAuth binding
+  <a href="#iii-one-time-activity" class="md-nav__link">
+    iii. One-Time Activity
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#iv-another-way-to-login" class="md-nav__link">
-    iv. Another way to login
+  <a href="#iv-daily-activity-login" class="md-nav__link">
+    iv. Daily Activity (Login)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#v-another-way-to-login" class="md-nav__link">
+    v. Another way to login
+  </a>
+  
+    <nav class="md-nav" aria-label="v. Another way to login">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#a-one-time-activity" class="md-nav__link">
+    a. One-Time Activity
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#b-daily-activity-login" class="md-nav__link">
+    b. Daily Activity (Login)
   </a>
   
 </li>
         
       </ul>
     </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-support" class="md-nav__link">
+    3. Support
+  </a>
   
 </li>
       
@@ -1761,28 +1795,62 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#ii-lets-start" class="md-nav__link">
-    ii. Let's Start
+  <a href="#ii-app-creation" class="md-nav__link">
+    ii. App Creation
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#iii-oauth-binding" class="md-nav__link">
-    iii. OAuth binding
+  <a href="#iii-one-time-activity" class="md-nav__link">
+    iii. One-Time Activity
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#iv-another-way-to-login" class="md-nav__link">
-    iv. Another way to login
+  <a href="#iv-daily-activity-login" class="md-nav__link">
+    iv. Daily Activity (Login)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#v-another-way-to-login" class="md-nav__link">
+    v. Another way to login
+  </a>
+  
+    <nav class="md-nav" aria-label="v. Another way to login">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#a-one-time-activity" class="md-nav__link">
+    a. One-Time Activity
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#b-daily-activity-login" class="md-nav__link">
+    b. Daily Activity (Login)
   </a>
   
 </li>
         
       </ul>
     </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-support" class="md-nav__link">
+    3. Support
+  </a>
   
 </li>
       
@@ -1840,23 +1908,56 @@
 <p>2) Broking Account Credentials</p>
 <ul>
 <li>
-<p>Fyers App Key</p>
+<p>App ID</p>
 </li>
 <li>
-<p>Fyers Secret Key</p>
+<p>Secret ID</p>
 </li>
 <li>
-<p>Fyers Pin</p>
+<p>4-digit Pin</p>
 </li>
 </ul>
-<h3 id="ii-lets-start">ii. Let's Start<a class="headerlink" href="#ii-lets-start" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>To get the App ID and Secret ID, you'll have to create an <a href="https://myapi.fyers.in/docsv3#tag/App-Creation/Individual-Apps">App</a> in your Fyers account. Please follow the below steps to create an app in your Fyers account.</p>
+</div>
+<h3 id="ii-app-creation">ii. App Creation<a class="headerlink" href="#ii-app-creation" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Login to your Fyers account and click on the <strong>Create App</strong> button.</li>
+</ul>
+<p><a href="imgs/fyers/create_app.png"><img alt="Fyers" src="imgs/fyers/create_app.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<ul>
+<li>Give the <strong>App Name</strong> as <strong>AlgoBulls</strong></li>
+<li>Give the <strong>Redirect URL</strong> as <strong>https://app.algobulls.com/loading</strong></li>
+</ul>
+<p><a href="imgs/fyers/app_creation_details.png"><img alt="Fyers" src="imgs/fyers/app_creation_details.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<ol>
+<li>
+<p>Scroll down and delete the default <strong>Webhook/Postbacks</strong>.</p>
+</li>
+<li>
+<p>Check all the checkboxes in the <strong>App Permission</strong> section.</p>
+</li>
+<li>
+<p>Check the <strong>Terms and Conditions</strong> checkbox.</p>
+</li>
+<li>
+<p>Click on the <strong>Create App</strong> button at the bottom.</p>
+</li>
+</ol>
+<p><a href="imgs/fyers/create_app_terms.png"><img alt="Fyers" src="imgs/fyers/create_app_terms.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<ul>
+<li>Once the app is created, copy the App ID and Secret ID for the next steps.</li>
+</ul>
+<p><a href="imgs/fyers/app_created_successfully.png"><img alt="Fyers" src="imgs/fyers/app_created_successfully.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<h3 id="iii-one-time-activity">iii. One-Time Activity<a class="headerlink" href="#iii-one-time-activity" title="Permanent link">&para;</a></h3>
 <hr />
 <ul>
 <li>Visit the AlgoBulls <a href="https://app.algobulls.com/user/login">Login Page</a>.</li>
 </ul>
 <p><a href="imgs/algo_home.png"><img alt="Fyers" src="imgs/algo_home.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>If you do not see your broker name, then type <strong>Fyers</strong> in the Search Box. and then click on the Broker Link that shows <strong>1-time-activity</strong> when hovered over it.</li>
+<li>If you do not see your broker name, then type <strong>Fyers</strong> in the Search Box. and then click on the Broker Link that shows <strong>1-time-activity</strong> as the tooltip.</li>
 </ul>
 <p><a href="imgs/fyers/one_time_activity.png"><img alt="Fyers" src="imgs/fyers/one_time_activity.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
@@ -1864,58 +1965,45 @@
 <p>Login to your AlgoBulls account.</p>
 </li>
 <li>
-<p>Once you login you'll be redirected to the with the Fyers one time activity selected. Click on <strong>Next</strong>.</p>
+<p>Once you login you'll be redirected to the pane with the Fyers 1-time activity selected. Click on <strong>Next</strong>.</p>
 </li>
 </ul>
 <p><a href="imgs/fyers/one_time_activity_selected.png"><img alt="Fyers" src="imgs/fyers/one_time_activity_selected.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>Enter your Fyers App Key in the <strong>CLIENT_API_KEY</strong> field and Fyers Secret Key in the <strong>CLIENT_SECRET_KEY</strong> field. Click on <strong>Confirm</strong>.</li>
+<li>Enter your App ID in the <strong>CLIENT_API_KEY</strong> field and your Secret ID in the <strong>CLIENT_SECRET_KEY</strong> field. Click on <strong>Confirm</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/one_time_activity_creds.png"><img alt="Fyers" src="imgs/fyers/one_time_activity_creds.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>Broker is binded to your account.</li>
+<li>Your 1-time activity is complete.</li>
 </ul>
 <p><a href="imgs/fyers/non_oauth_broker_added.png"><img alt="Fyers" src="imgs/fyers/non_oauth_broker_added.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
 <li>You can see the broker added in the Broking Details section.</li>
 </ul>
 <p><a href="imgs/fyers/non_oauth_broker_visible.png"><img alt="Fyers" src="imgs/fyers/non_oauth_broker_visible.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>This is a one time activity.</p>
-</div>
-<h3 id="iii-oauth-binding">iii. OAuth binding<a class="headerlink" href="#iii-oauth-binding" title="Permanent link">&para;</a></h3>
+<h3 id="iv-daily-activity-login">iv. Daily Activity (Login)<a class="headerlink" href="#iv-daily-activity-login" title="Permanent link">&para;</a></h3>
 <ul>
-<li>Now click on <strong>Add Broker</strong>, type <strong>Fyers</strong> in the search bar and select the broker.</li>
+<li>Now click on <strong>Add Broker</strong>, type <strong>Fyers</strong> in the search bar and click on the Broker Link that shows <strong>Daily Login</strong> as the tooltip.</li>
 </ul>
 <p><a href="imgs/fyers/select_oauth_broker.png"><img alt="Fyers" src="imgs/fyers/select_oauth_broker.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>You'll be redirected to the <strong>Fyers</strong> login page, add your mobile number and click on <strong>Continue</strong>.</li>
+<li>You'll be redirected to the <strong>Fyers</strong> login page. Enter your mobile number and click on <strong>Continue</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/oauth_login_1.png"><img alt="Fyers" src="imgs/fyers/oauth_login_1.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>Type the OTP you received and click on <strong>Confirm OTP</strong>.</li>
+<li>Type the OTP that you receive and click on <strong>Confirm OTP</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/oauth_login_2.png"><img alt="Fyers" src="imgs/fyers/oauth_login_2.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>Enter your Fyers account four digit pin and click on <strong>Sign in</strong>.</li>
+<li>Enter your 4-digit Pin and click on <strong>Sign in</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/oauth_login_3.png"><img alt="Fyers" src="imgs/fyers/oauth_login_3.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
 <li>You'll be redirected back to the AlgoBulls Broking Details section where you can see the broker added.</li>
 </ul>
 <p><a href="imgs/fyers/oauth_broker_added.png"><img alt="Fyers" src="imgs/fyers/oauth_broker_added.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<ul>
-<li>Next time before logging in you can search for the broker and click on the Daily Login tab this will take to the broker login page.</li>
-</ul>
-<p><a href="imgs/fyers/login_page_select_oauth.png"><img alt="Fyers" src="imgs/fyers/login_page_select_oauth.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<ul>
-<li>You have to do the OAuth login everyday </li>
-</ul>
-</div>
-<h3 id="iv-another-way-to-login">iv. Another way to login<a class="headerlink" href="#iv-another-way-to-login" title="Permanent link">&para;</a></h3>
+<h3 id="v-another-way-to-login">v. Another way to login<a class="headerlink" href="#v-another-way-to-login" title="Permanent link">&para;</a></h3>
+<h4 id="a-one-time-activity">a. One-Time Activity<a class="headerlink" href="#a-one-time-activity" title="Permanent link">&para;</a></h4>
 <ul>
 <li>Login to your AlgoBulls account</li>
 </ul>
@@ -1923,64 +2011,51 @@
 <ul>
 <li>Go to the <strong>Broking Details</strong> section and click on <strong>Add Broker</strong>.</li>
 </ul>
-<p><a href="imgs/broking_details.png"><img alt="Fyers" src="imgs/broking_details.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<p><a href="imgs/brokingdetails.png"><img alt="Fyers" src="imgs/brokingdetails.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
 <li>Select the Non OAuth broker and click <strong>Next</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/search_broker_nonoauth.png"><img alt="Fyers" src="imgs/fyers/search_broker_nonoauth.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>Enter your Fyers App Key in the <strong>CLIENT_API_KEY</strong> field and Fyers Secret Key in the <strong>CLIENT_SECRET_KEY</strong> field. Click on <strong>Confirm</strong>.</li>
+<li>Enter your App ID in the <strong>CLIENT_API_KEY</strong> field and Secret ID in the <strong>CLIENT_SECRET_KEY</strong> field. Click on <strong>Confirm</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/one_time_activity_creds.png"><img alt="Fyers" src="imgs/fyers/one_time_activity_creds.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
 <li>Broker is binded to your account.</li>
 </ul>
 <p><a href="imgs/fyers/non_oauth_broker_added.png"><img alt="Fyers" src="imgs/fyers/non_oauth_broker_added.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<ul>
-<li>You can see the broker added in the Broking Details section.</li>
-</ul>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>This is a one time activity</p>
-</div>
 <p><a href="imgs/fyers/non_oauth_broker_visible.png"><img alt="Fyers" src="imgs/fyers/non_oauth_broker_visible.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
+<h4 id="b-daily-activity-login">b. Daily Activity (Login)<a class="headerlink" href="#b-daily-activity-login" title="Permanent link">&para;</a></h4>
 <ul>
-<li>Now click on <strong>Add Broker</strong>, type <strong>Fyers</strong> in the search bar and select the broker.</li>
+<li>Click on <strong>Add Broker</strong>, type <strong>Fyers</strong> in the search bar and select the broker.</li>
 </ul>
 <p><a href="imgs/fyers/select_oauth_broker.png"><img alt="Fyers" src="imgs/fyers/select_oauth_broker.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>You'll be redirected to the <strong>Fyers</strong> login page, add your mobile number and click on <strong>Continue</strong>.</li>
+<li>You'll be redirected to the <strong>Fyers</strong> login page, Enter your mobile number and click on <strong>Continue</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/oauth_login_1.png"><img alt="Fyers" src="imgs/fyers/oauth_login_1.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>Type the OTP you received and click on <strong>Confirm OTP</strong>.</li>
+<li>Type the OTP that you receive and click on <strong>Confirm OTP</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/oauth_login_2.png"><img alt="Fyers" src="imgs/fyers/oauth_login_2.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
-<li>Enter your Fyers account four digit pin and click on <strong>Sign in</strong>.</li>
+<li>Enter your 4-digit Pin and click on <strong>Sign in</strong>.</li>
 </ul>
 <p><a href="imgs/fyers/oauth_login_3.png"><img alt="Fyers" src="imgs/fyers/oauth_login_3.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
 <ul>
 <li>You'll be redirected back to the AlgoBulls Broking Details section where you can see the broker added.</li>
 </ul>
 <p><a href="imgs/fyers/oauth_broker_added.png"><img alt="Fyers" src="imgs/fyers/oauth_broker_added.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<ul>
-<li>Next time before logging in you can search for the broker and click on the Daily Login tab this will take to the broker login page.</li>
-</ul>
-<p><a href="imgs/fyers/login_page_select_oauth.png"><img alt="Fyers" src="imgs/fyers/login_page_select_oauth.png" title="Click to Enlarge or Ctrl+Click to open in a new Tab" /> </a></p>
-<ul>
-<li>You have to do the OAuth login everyday </li>
-</ul>
-</div>
+<h2 id="3-support">3. Support<a class="headerlink" href="#3-support" title="Permanent link">&para;</a></h2>
+<hr />
+<p>For Help and Support, contact us on +91 80692 30300 or email us.</p>
 
   <hr>
 <div class="md-source-file">
   <small>
     
       Last update:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2023-11-01T11:28:08+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-11-01</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2023-11-06T05:01:50+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-11-06</span>
       
     
   </small>
