@@ -61,4 +61,4 @@ Enter your [agent's details here](https://app.algobulls.com/settings?section=tra
 
 ![Settings](imgs/settings5.png)
 
-We offer the Python Build service to the developers through our platform. Developers can use the [pyalgotrading](https://github.com/algobulls/pyalgotrading/)  package to create and test their own strategies. To learn more, visit the [Developer Options](../developers.md) help page.
+We offer the Phoenix service to the developers through our platform. Developers can use the [pyalgotrading](https://github.com/algobulls/pyalgotrading/)  package to create and test their own strategies. To learn more, visit the [Developer Options](../developers.md) help page.
