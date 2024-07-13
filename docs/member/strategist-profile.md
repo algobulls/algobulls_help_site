@@ -38,34 +38,3 @@ Use this search bar to look for strategies developed by the strategist. You can 
 ## Pagination
 
 You can click the < and > for changing pages. You can also choose to view 4/8/12 strategies per page.
-
-[//]: # (## Density)
-
-[//]: # ()
-[//]: # (Adjust the density by choosing the compact, regular or list mode.)
-
-[//]: # ()
-[//]: # (### 1. Compact Mode)
-
-[//]: # ()
-[//]: # (In this mode, the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.)
-
-[//]: # ()
-[//]: # ([![Strategist Profile]&#40;imgs/strategist_profile_compact_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41;]&#40;imgs/strategist_profile_compact_mode.png&#41;)
-
-[//]: # ()
-[//]: # (### 2. Regular Mode)
-
-[//]: # ()
-[//]: # (This is the AlgoBulls' default mode. In comparison to any other mode, the strategy card in regular mode has the most information.)
-
-[//]: # ([![Strategist Profile]&#40;imgs/strategist_profile_regular_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41;]&#40;imgs/strategist_profile_regular.png&#41;)
-
-[//]: # ()
-[//]: # (### 3. List Mode)
-
-[//]: # ()
-[//]: # (This mode displays all the strategies in the marketplace in a list view.)
-
-[//]: # ()
-[//]: # ([![Strategist Profile]&#40;imgs/strategist_profile_list_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41;]&#40;imgs/strategist_profile_list_mode.png&#41;)
