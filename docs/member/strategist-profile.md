@@ -17,7 +17,7 @@ Get the strategist’s profile summary details such as the total number of strat
 
 ## Explore the strategies
 
-Explore the strategies developed by the strategist as per the marketplace. Analyze the growth, trading volume, and total trades of the strategist's strategy using the Heatmap. The marketplace is divided into 3 parts - Retail, Premium and HNI.
+Explore the strategies developed by the strategist as per the marketplace. Analyze the growth, trading volume, and total trades of the strategist's strategy using the Heatmap. Odyssey is divided into 3 parts - Retail, Premium and HNI.
 
 [![Strategist Profile](imgs/strategist_profile_heat_map.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_heat_map.png)
 
@@ -39,24 +39,33 @@ Use this search bar to look for strategies developed by the strategist. You can 
 
 You can click the < and > for changing pages. You can also choose to view 4/8/12 strategies per page.
 
-## Density
+[//]: # (## Density)
 
-Adjust the density by choosing the compact, regular or list mode.
+[//]: # ()
+[//]: # (Adjust the density by choosing the compact, regular or list mode.)
 
-### 1. Compact Mode
+[//]: # ()
+[//]: # (### 1. Compact Mode)
 
-In this mode, the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.
+[//]: # ()
+[//]: # (In this mode, the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.)
 
-[![Strategist Profile](imgs/strategist_profile_compact_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_compact_mode.png)
+[//]: # ()
+[//]: # ([![Strategist Profile]&#40;imgs/strategist_profile_compact_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41;]&#40;imgs/strategist_profile_compact_mode.png&#41;)
 
-### 2. Regular Mode
+[//]: # ()
+[//]: # (### 2. Regular Mode)
 
-This is the AlgoBulls' default mode. In comparison to any other mode, the strategy card in regular mode has the most information.
+[//]: # ()
+[//]: # (This is the AlgoBulls' default mode. In comparison to any other mode, the strategy card in regular mode has the most information.)
 
-[![Strategist Profile](imgs/strategist_profile_regular_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_regular.png)
+[//]: # ([![Strategist Profile]&#40;imgs/strategist_profile_regular_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41;]&#40;imgs/strategist_profile_regular.png&#41;)
 
-### 3. List Mode
+[//]: # ()
+[//]: # (### 3. List Mode)
 
-This mode displays all the strategies in the marketplace in a list view.
+[//]: # ()
+[//]: # (This mode displays all the strategies in the marketplace in a list view.)
 
-[![Strategist Profile](imgs/strategist_profile_list_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/strategist_profile_list_mode.png)
+[//]: # ()
+[//]: # ([![Strategist Profile]&#40;imgs/strategist_profile_list_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab"&#41;]&#40;imgs/strategist_profile_list_mode.png&#41;)

@@ -1,4 +1,4 @@
-# Marketplace
+# Odyssey
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KpnncgSfKXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -6,17 +6,13 @@ This is the AlgoBulls Platform Marketplace for strategies.
 
 [ ![Marketplace](imgs/mktplace_types.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/mktplace_types.png)
 
-The Marketplace is divided into the following categories:
+The Odyssey is divided into the following categories:
 
 * Retail - This marketplace is for traders having little to no experience in algorithmic trading
 
 * Premium - This marketplace consists of options strategies for high risk individuals
 
 * HNI - This marketplace is for High Networth Individuals
-
-* Ultra HNI - This marketplace is for High Networth Individuals having more capital than HNI
-
-* Institutional - This marketplace is for institutions and broking houses
 
 Before adding any strategy to your Portfolio, you can search for strategies here, look into the details for each strategy, and view the backtesting reports to evaluate the performance. 
 

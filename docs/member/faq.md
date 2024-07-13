@@ -15,7 +15,7 @@ Yes, AlgoBulls uses multiple trading strategies designed for falling prices that
 Each method will provide information on the minimum capital required for that specific stock. However, the amount of capital required is determined by two factors: the quantity you wish to trade and the leverage provided by your broker for that specific stock.
 
 ### v. What are the risk-to-reward ratio and accuracy rates?
-We have provided backtesting data for all of our strategies on the marketplace so that you may evaluate the strategy's performance. The summary section contains information on the number of trades, profit, losses, hit ratio, and many other factors.
+We have provided backtesting data for all of our strategies on the Odyssey so that you may evaluate the strategy's performance. The summary section contains information on the number of trades, profit, losses, hit ratio, and many other factors.
 
 ## 2. Registration & Login:
 
@@ -116,7 +116,7 @@ On AlgoBulls, you are charged for various services that you use.This may include
 ### v. Are there any free plans on AlgoBulls?
 Yes, AlgoBulls offers various free plans. Subscribe for a [Free Plan](https://app.algobulls.com/wallet?defaultCategory=free) now.
 
-## 5. Choose Strategy Marketplace: 
+## 5. Odyssey: 
 
 ### i. What is Retail marketplace?
 The [Retail Marketplace](https://app.algobulls.com/marketplace/category/retail) includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The **Retail section** includes **Equity, Futures & Commodities** cash segment strategies. [Know more](https://help.algobulls.com/member/choose-strategy.html) about the Retail Marketplace.
@@ -130,7 +130,7 @@ Select a strategy from the AlgoBulls [Retail Marketplace now](https://app.algobu
 AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace also includes Index Option Strategies. [Learn more](https://help.algobulls.com/member/choose-strategy.html) about the HNI Marketplace. [Check the HNI Marketplace now](https://app.algobulls.com/marketplace/category/hni). 
 
 ### iv. What is a strategy card?
-A strategy card has all the information you need about a strategy. To view these details, select a marketplace in the [Choose Strategy Marketplace](https://app.algobulls.com/marketplace/category/retail), search for the strategy you would like to view and click on the strategy card.
+A strategy card has all the information you need about a strategy. To view these details, select a marketplace in the [Odyssey](https://app.algobulls.com/marketplace/category/retail), search for the strategy you would like to view and click on the strategy card.
 
 A detailed view of the strategy card will open. To begin trading with a particular strategy, click on the execute button to add it to your [My Portfolio](https://app.algobulls.com/portfolio) page. To know more about the strategy card, [click here](https://help.algobulls.com/member/strategy-card.html). 
 
@@ -155,7 +155,7 @@ In the Virtual Mode you can Backtest, Paper Trade and modify strategies using th
 ####You can begin Virtual Trading in 4 simple steps: 
 You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin, switch to **Virtual/Test Mode** by using the toggle button on the bottom left side of the sidebar navigation.
 
-Also ensure that you’ve added a strategy from the **Choose strategy** marketplace.
+Also ensure that you’ve added a strategy from the **Odyssey**.
 
 **Step 1:** In the **My portfolio** section click on the **Start** button in the **Action Column**.
 A pop-up window will appear. The AlgoBulls virtual Broker is the default broker selected in the **Choose Broker** option.
@@ -187,7 +187,7 @@ AlgoBulls is currently offering a free backtesting & paper trading service. [Sub
 
 
 ### i. What is Live Mode & Live Trading? 
-The **Live Mode** is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. The choose strategy marketplace includes more than 150+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
+The **Live Mode** is where you can execute strategies to begin Live Trading. Switch the toggle button on the bottom left side of the website to Live Mode. Odyssey includes more than 150+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
 To avoid additional charges for services used in Live Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
 
 ### ii. How to begin Live Trading? 
@@ -210,9 +210,9 @@ Start Live Trading on AlgoBulls, [explore strategies](https://app.algobulls.com/
 Yes, Live Trading services on AlgoBulls are chargeable. To ensure you don’t incur additional charges, you can subscribe to one of our [AlgoBulls packages](https://app.algobulls.com/wallet?defaultCategory=smartPlans). 
 
 Other services that you can use without any additional charges:  
-* Adding a strategy from the Choose Strategy Marketplace 
+* Adding a strategy from the Odyssey 
 
-* Viewing backtesting reports for a strategy from the Choose Strategy Marketplace 
+* Viewing backtesting reports for a strategy from the Odyssey 
 
 * Tweaking (Change parameters of) a strategy 
 
