@@ -130,7 +130,7 @@ AlgoBulls also offers a range of free plans: Subscribe for a <a href="https://ap
 
 ## 9. How to select a strategy?
 
-After subscribing to a plan you can now choose the Algo Strategy of your choice from the Choose Strategy section. This Marketplace has more than 150+ Algo Strategies created by industry leading experts. It is divided into 3 segments: Retail, Premium & HNI Marketplace. 
+After subscribing to a plan you can now choose the Algo Strategy of your choice from the Odyssey section. This Marketplace has more than 150+ Algo Strategies created by industry leading experts. It is divided into 3 segments: Retail, Premium & HNI Marketplace. 
 
 <a href="https://app.algobulls.com/marketplace/category/retail">Retail Marketplace</a>: The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The Retail section includes Equity, Futures & Commodities cash segment strategies. <a href="https://help.algobulls.com/member/choose-strategy.html#2-retail-marketplace">Know more</a> about the Retail Marketplace.
 
@@ -138,11 +138,11 @@ After subscribing to a plan you can now choose the Algo Strategy of your choice 
 
 <a href="https://app.algobulls.com/marketplace/category/hni">HNI Marketplace</a>: AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace also includes Index Option Strategies. <a href="https://help.algobulls.com/member/choose-strategy.html#4-hni-marketplace">Learn more</a> about the HNI Marketplace.
 
-Select a strategy from the AlgoBulls <a href="https://app.algobulls.com/marketplace/category/retail">Choose Strategy Marketplace now!</a> 
+Select a strategy from the AlgoBulls <a href="https://app.algobulls.com/marketplace/category/retail">Odyssey now!</a> 
 
 ## 10. The Strategy Card
 
-A strategy card has all the information you need about a strategy. To view these details, select a marketplace in the <a href="https://app.algobulls.com/marketplace/category/retail">Choose Strategy Marketplace</a>, search for the strategy you would like to view and click on the strategy card. 
+A strategy card has all the information you need about a strategy. To view these details, select a marketplace in the <a href="https://app.algobulls.com/marketplace/category/retail">Odyssey</a>, search for the strategy you would like to view and click on the strategy card. 
 
 A detailed view of the strategy card will open. To begin trading with a particular strategy, click on the execute button to add it to your <a href="https://help.algobulls.com/member/choose-strategy.html#4-hni-marketplace">My Portfolio</a> page. To know more about the strategy card, <a href="https://help.algobulls.com/member/strategy-card.html">click here</a>.    
 
