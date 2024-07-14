@@ -24,7 +24,7 @@ The **Live Mode** is where you can execute strategies to begin live trading. Swi
 
 [![test_and_live](imgs/test_and_live5.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/test_and_live5.png)
 
-The choose strategy marketplace includes more than 150+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
+The Odyssey includes more than 150+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
 
 To avoid additional charges for services used in Live Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
 
@@ -96,7 +96,7 @@ The backtested/paper traded strategy will be added to your [My Strategies](my-st
 
 The **summary bar** in the portfolio section includes the following: 
 
-**Choose Strategy**: Number of strategies from the Marketplace in your portfolio added by you.
+**Choose Strategy**: Number of strategies from the Odyssey in your portfolio added by you.
 
 **Tweak Strategy**:  Number of strategies that have been tweaked by you.
 

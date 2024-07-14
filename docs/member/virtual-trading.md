@@ -25,7 +25,7 @@ You can backtest or paper trade on AlgoBulls in 4 simple steps. Before you begin
 
 [![PTB](imgs/virtual_mode_retail_marketplace.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/virtual_mode_retail_marketplace.png)
 
-Also ensure that you’ve added a strategy from the [Choose Strategy](choose-strategy.md) marketplace by clicking on the **execute** button.
+Also ensure that you’ve added a strategy from the [Odyssey](choose-strategy.md) by clicking on the **execute** button.
 
 **Step 1**
 

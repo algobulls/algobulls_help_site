@@ -24,7 +24,7 @@ Click on **save & start** after agreeing to the terms and conditions. The strate
 
     * The P&L **scan frequency** for **live trading and paper trading** is currently refreshed in **30 seconds**. This may change in the future.
 
-[Choose a strategy](https://app.algobulls.com/marketplace) from the marketplace and begin trading now! 
+[Choose a strategy](https://app.algobulls.com/marketplace) from the Odyssey and begin trading now! 
 
 ## 3. Fields
 

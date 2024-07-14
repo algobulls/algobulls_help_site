@@ -16,7 +16,7 @@ The **live mode** is where you can execute strategies to begin **live trading**.
 ## 3. How to switch between Live & Virtual Trading Modes?
 ---
 
-The [Choose Strategy Marketplace](https://app.algobulls.com/marketplace/category/retail) includes more than 150+ strategies that you can choose from and begin trading. However, in order to achieve the desired results, the appropriate mode must be selected. 
+The [Odyssey](https://app.algobulls.com/marketplace/category/retail) includes more than 150+ strategies that you can choose from and begin trading. However, in order to achieve the desired results, the appropriate mode must be selected. 
 Follow the below step to switch modes: 
 
 ### i. Switch to Test Mode

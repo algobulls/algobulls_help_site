@@ -1,11 +1,11 @@
-# Choose Strategy Marketplace
+# Odyssey
 
 ## 1. Introduction
 ---
 
 Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology.
-This Marketplace has more than 150+ Algo Strategies created by industry leading experts. The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
-The Choose strategy marketplace is divided into 3 parts: [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace.
+Odyssey has more than 150+ Algo Strategies created by industry leading experts. The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
+Odyssey is divided into 3 parts: [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace.
 
 
 ![ChooseStrategy](imgs/cs1.png)
