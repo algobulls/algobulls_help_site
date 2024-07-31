@@ -8,39 +8,39 @@ Before entering the live markets, you can tweak different parameters of a strate
 
 ## 2. How to tweak a strategy?
 
-**Step 1:** Before you tweak a strategy switch to the **test mode** on AlgoBulls. 
+**Step 1:** Go to my portfolio page. 
 
-[![Tweak](imgs/tweak1.png "Click to Enlarge")](imgs/tweak1.png)
+**Step 2:** To tweak a strategy, click the tweak button on the strategy from config column.
 
-**Step 2:** To tweak a strategy, click the tweak button on the strategy.
+[ ![Tweak](imgs/portfolio_strategy.png "Click to Enlarge") ](imgs/portfolio_strategy.png)
 
-[ ![Tweak](imgs/tweak_8.png "Click to Enlarge") ](imgs/tweak_8.png)
+**Step 3:** Tweak mode will open in view mode, but you can edit it by clicking on edit button from right side.
 
-**Step 3:** You can change the parameters as per your choice.
+[ ![Tweak Edit](imgs/tweak_edit_mode.png "Click to Enlarge") ](imgs/tweak_edit_mode.png)
 
-[ ![Tweak](imgs/tweak3.png "Click to Enlarge") ](imgs/tweak3.png)
+**Change Instruments** You can change the instruments as per your choice.
 
-These parameters include **instrument, strategy settings** and **order settings** 
-In the instrument parameter, you can select the **exchange or search the instrument** in the search bar
+[ ![Tweak](imgs/tweak_instruments.png "Click to Enlarge") ](imgs/tweak_instruments.png)
 
-[ ![Tweak](imgs/tweak4.png "Click to Enlarge") ](imgs/tweak4.png)
+**Order Settings** Change Order Settings
 
-In strategy settings, you can select the **candle duration, strategy mode, target %, stop loss % and trailing stop loss**. 
+[ ![Tweak](imgs/tweak_order_settings.png "Click to Enlarge") ](imgs/tweak_order_settings.png)
 
-[ ![Tweak](imgs/tweak5.png "Click to Enlarge") ](imgs/tweak5.png)
 
-In Order settings you can tweak **resume, exit & misc/miscellaneous** parameters. 
-You can also add the **instrument max order count, crossover accuracy decimals & credit exposure factor**.
+**Strategy Settings** Change Strategy Settings here. In strategy settings, you can select the **candle duration, strategy mode**. 
 
-[ ![Tweak](imgs/tweak6.png "Click to Enlarge") ](imgs/tweak6.png)
+[ ![Tweak](imgs/tweak_settings.png "Click to Enlarge") ](imgs/tweak_settings.png)
 
-**Step 4:** Once you are convinced and happy with the tweak, click **save as new entry**. You will get a confirmation pop-up, click yes if you wish to continue.
+**Strategy Parameters** Change Strategy Parameters
 
-[ ![Tweak](imgs/tweak7.png "Click to Enlarge") ](imgs/tweak7.png)
+[ ![Tweak](imgs/tweak_strategy_parameters.png "Click to Enlarge") ](imgs/tweak_strategy_parameters.png)
 
-A new entry will appear with the changes. You can see this entry in the [My Strategies](https://app.algobulls.com/manage-strategies) section.
 
-[ ![Tweak](imgs/tweak_9.png "Click to Enlarge") ](imgs/tweak_9.png)
+**Step 4:** Once you are convinced and happy with the tweak, click **save** to save the strategy with tweaked configs. Or you can click on **Save as New** to save a new strategy with changed parameters.
+
+
+[ ![Tweak](imgs/tweak_save.png "Click to Enlarge") ](imgs/tweak_save.png)
+
 
 You can also add tags to the tweaked strategy as per your requirement. 
 

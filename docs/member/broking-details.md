@@ -3,19 +3,20 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mXURffbZnhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1. Introduction
-To begin algo trading with AlgoBulls, it is necessary to add your broker details and bind your broking account. 
 
-## 2. How to add your broking account? 
+To begin algo trading with AlgoBulls, it is necessary to add your broker details and bind your broking account.
 
-To add a broker account follow these steps: 
+## 2. How to add your broking account?
+
+To add a broker account, follow these steps:
 
 ### i. OAuth:
 
-From the AlgoBulls sidebar navigation select **Broking Details** in **Live Mode**
+From the AlgoBulls sidebar navigation select **Broking Details**.
 
-![Broking](imgs/broker_details.png)
+![Broking](imgs/broking_details.png)
 
-Click the [Add Broker](https://app.algobulls.com/broking?addBroker=true) button. 
+Click the [Add Broker](https://app.algobulls.com/broking?addBroker=true) button.
 
 ![Broking](imgs/add_broker.png)
 
@@ -35,9 +36,9 @@ You will be redirected to the AlgoBulls website, login to access your AlgoBulls 
 
 ### ii. Non-Auth:
 
-From the AlgoBulls sidebar navigation select Broking Details in Live Mode
+From the AlgoBulls sidebar navigation select Broking Details.
 
-![Broking](imgs/broker_details.png)
+![Broking](imgs/broking_details.png)
 
 From the **Add New Broker** list select your broker.
 
