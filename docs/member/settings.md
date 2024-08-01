@@ -21,31 +21,31 @@ You can access the settings page by visiting [AlgoBulls Settings](https://app.al
      - **Interested Products**: Select from Phoenix and Odyssey.
      - **Link Social Media Accounts**: Connect LinkedIn, Twitter, Facebook, Instagram, and YouTube.
 
-![Personal Info](path/to/personal_info_screenshot.png)
+![Personal Info](imgs/personal_info.png)
 
 ### 2. **Password & Security**
    - **Signing In**: View and update your password.
    - **Password Last Changed**: Display the date when the password was last changed.
 
-![Password & Security](path/to/password_security_screenshot.png)
+![Password & Security](imgs/password_change.png)
 
 ### 3. **Trade Manager**
    - **Access**: Your trade manager has limited access and can only START/STOP strategies on your behalf.
 
-![Trade Manager](path/to/trade_manager_screenshot.png)
+![Trade Manager](imgs/trade_manager.png)
 
 ### 4. **Developer Options**
    - **API Token**: Manage your API tokens.
    - **Developer Options**: Enabled according to your active plans.
 
-![Developer Options](path/to/developer_options_screenshot.png)
+![Developer Options](imgs/developer_options.png)
 
 ### 5. **Notification Settings**
    - **Desktop Notification Sound**: Toggle sound notifications.
    - **Notification Types**:
      - **Email**: customise email notifications for Broking Details, Plans & Wallets, and Order Updates.
 
-![Notification Settings](path/to/notification_settings_screenshot.png)
+![Notification Settings](imgs/notification_settings.png)
 
 ### 6. **User Preferences**
    - **Preferred Location**: Set your preferred location.
@@ -53,7 +53,7 @@ You can access the settings page by visiting [AlgoBulls Settings](https://app.al
    - **Phoenix Default Screen**: Select between Splash Screen and Dashboard.
    - **Reset Custom Preferences**: Reset to default custom preferences.
 
-![User Preferences](path/to/user_preferences_screenshot.png)
+![User Preferences](imgs/user_preference.png)
 
 ### 7. **Execution Mode**
    - **Live Trading**: Choose between REGULAR and FAST modes.
@@ -61,7 +61,7 @@ You can access the settings page by visiting [AlgoBulls Settings](https://app.al
    - **Backtesting**: Choose between REGULAR and FAST modes.
    - **Reset to Default**: Reset execution mode preferences to default.
 
-![Execution Mode](path/to/execution_mode_screenshot.png)
+![Execution Mode](imgs/execution_mode.png)
 
 ## Support
 

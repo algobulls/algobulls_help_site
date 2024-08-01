@@ -9,11 +9,11 @@ start trading without worrying about the charges, we have a range of plans that 
 
 ## 2. How to add money?
 
-Go to **My Plans(()) page then go to Payment Gateway Transaction, add amount in Amount field click on **Add Money** button.
+Go to **My Plans** page then go to Payment Gateway Transaction, add amount in Amount field click on **Add Money** button.
 
 ![Nav](imgs/plans_add_money.png)
 
-For more info check
+Learn more about [Pricing](https://help.algobulls.com/member/my_plans.html).
 
 All of your actions, such as backtesting, paper trading, and live trading, are charged depending on the amount in your wallet (wherever charges are applicable).
 
@@ -29,7 +29,7 @@ Here’s a quick explainer on how you can subscribe to a package of your choice.
 
 ![Nav](imgs/pricing_page.png)
 
-By subscribing to odyssey plans, you can do trading in Odyssey strategies. These plans provide the following benefits.
+By subscribing to odyssey plans, you can do trading using our pre-build strategies. These plans provide the following benefits.
 
 * **Transactional Charges**
 
@@ -75,7 +75,7 @@ By subscribing to odyssey plans, you can do trading in Odyssey strategies. These
 
 * Broker Dealer Support
 
-![Nav](imgs/pricing_support.png)
+![Nav](imgs/pricing_broker_dealter_support.png)
 
 * Security and Protection
 

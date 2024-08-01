@@ -22,7 +22,7 @@ How to Manage Your Plans
 
 ## 4. How to Add money?
 
-To add money to your AlgoBulls account. Go to [My Plans](https://app.algobulls.com/myplans) from the sidebar navigation. GO to **Payment Gateway Transactions** Enter the amount and click on **+ Add Money**.
+To add money to your AlgoBulls account. Go to [My Plans](https://app.algobulls.com/myplans) from the sidebar navigation. Go to **Payment Gateway Transactions** enter the amount and click on **Add Money**.
 
 ![Nav](imgs/plans_add_money.png)
 
@@ -36,7 +36,7 @@ Choose your preferred **payment method**. Once the payment is successful the bal
 
 ## 4. Other charges
 
-If no plan is purchased or a plan expires while executing a strategy the following charges will be levied.
+If no plan is purchased or a plan expires while executing a strategy, the following charges will be levied.
 
 ![Nav](imgs/plans_charges.png)
 
