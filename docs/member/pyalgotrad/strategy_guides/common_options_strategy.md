@@ -243,13 +243,13 @@ There are other methods that are used in the strategy:
 ---
 
 ## 10. Check out our docs for developed **Options** strategies 
-- [Options Bear Call Ladder](../../strategies/options_bear_call_ladder.md){target=_blank}
-- [Options Bear Put Ladder](../../strategies/options_bear_put_ladder.md){target=_blank}
-- [Options Bull Call Ladder](../../strategies/options_bull_call_ladder.md){target=_blank}
-- [Options Bull Put Ladder](../../strategies/options_bull_put_ladder.md){target=_blank}
-- [Options Long Iron Butterfly](../../strategies/options_long_iron_butterfly.md){target=_blank}
-- [Options Straddle](../../strategies/options_straddle.md){target=_blank}
-- [Options Strangle](../../strategies/options_strangle.md){target=_blank}
+- [Options Bear Call Ladder](../../strategies/options_bear_call_ladder.md)
+- [Options Bear Put Ladder](../../strategies/options_bear_put_ladder.md)
+- [Options Bull Call Ladder](../../strategies/options_bull_call_ladder.md)
+- [Options Bull Put Ladder](../../strategies/options_bull_put_ladder.md)
+- [Options Long Iron Butterfly](../../strategies/options_long_iron_butterfly.md)
+- [Options Straddle](../../strategies/options_straddle.md)
+- [Options Strangle](../../strategies/options_strangle.md)
 
 
 

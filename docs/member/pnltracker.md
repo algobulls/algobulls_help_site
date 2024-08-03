@@ -1,7 +1,5 @@
 # P&L Tracker
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3f6iuMSCOLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## 1. Introduction
 
 The P&L Tracker feature allows you to gain profit or limit losses at (or near) predefined values for your plan. You can access the P&L Tracker when you start a strategy in the **My Portfolio** section.
@@ -33,8 +31,8 @@ strategy will stop execution.
 will stop execution.
 
 !!! note "Note"
-    * This feature is available for:
-    
+* This feature is available for:
+
     i. Test Mode
     
     [Virtual Trading](https://help.algobulls.com/member/live-trading.html) (Backtesting & Paper Trading)

@@ -1,5 +1,6 @@
 # Angel Broking
 ---
+
 * Official Website: [https://www.angelbroking.com/](https://www.angelbroking.com/)
 
 * Trading Website: [https://trade.angelbroking.com/](https://trade.angelbroking.com/)
@@ -10,7 +11,7 @@
 
 To enable the TOTP please [click here](https://smartapi.angelbroking.com/enable-totp).
 
-## 1. Login and Set up your Angel Broking Account 
+## 1. Login and Set up your Angel Broking Account
 ---
 This section will take you through the step-wise instructions to log in, setup, and bind your broker into your AlgoBulls Account.
 
@@ -27,20 +28,20 @@ Keep the following information available before you start:
 2) Broking Account Credentials
 
 * User ID
-      
+
 * Password
-      
+
 * API Key
 
 * API Secret
 
 !!! note
-    * To know more about API Key and Secret, see the following video (Only for Non-Oauth based login):
+* To know more about API Key and Secret, see the following video (Only for Non-Oauth based login):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/75vlLNRD3IA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### ii. Let's Start
 ---
+
 * Visit the AlgoBulls [Login Page](https://app.algobulls.com/user/login) and click on **login with your Broking Account**.
 
 [ ![Angelbroking](imgs/algo_home.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/algo_home.png)
@@ -54,7 +55,7 @@ As seen here, Angel Broking supports 2 ways of logging in:
 1. non-OAuth Method
 
 2. OAuth Method
-     
+
 Both are explained below
 
 ### iii. Login with non-OAuth Method
@@ -78,7 +79,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 [ ![Angelbroking](imgs/brokingdetails.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/brokingdetails.png)
 
-* Choose the broker. 
+* Choose the broker.
 
 [ ![Angelbroking](imgs/angelbroking/angelbroking_selectbroker_non.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/angelbroking/angelbroking_selectbroker_non.png)
 
@@ -100,6 +101,7 @@ Now Login to your AlgoBulls account. Provide data for the following fields and t
 
 ### iv. Login with OAuth Method
 ---
+
 * Type the first few characters of your Broker Name.
 
 * Select the **ANGELBROKING** broker.

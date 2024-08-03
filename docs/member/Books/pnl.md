@@ -1,7 +1,5 @@
 # P&L Book
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxOBhWKBNIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## 1. What is a P&L Book?
 ---
 

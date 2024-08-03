@@ -20,7 +20,7 @@ You are now ready to select or import your strategy from your AlgoBulls account 
 ## Before you start...
 * Make sure you have an active working AlgoBulls account ready to go!
 * Open a Jupyter Notebook.
-* If you have coded the strategy yourself and not used a ready strategy from the [pyalgostrategypool](https://github.com/algobulls/pyalgostrategypool){target=_blank} package, then make sure your strategy file (.py) and the Jupyter Notebook **are in the same folder**. 
+* If you have coded the strategy yourself and not used a ready strategy from the [pyalgostrategypool](https://github.com/algobulls/pyalgostrategypool) package, then make sure your strategy file (.py) and the Jupyter Notebook **are in the same folder**. 
 
 ---
 ## Let's Start...
@@ -61,7 +61,7 @@ The output of the above step is:
 `Please login to this URL with your AlgoBulls credentials and get your developer access token: https://app.algobulls.com/user/login`
 
 !!! info "Get Developer Key"
-    You will need to log in to your AlgoBulls account and fetch the access token from:  ([See How](prerequisites.md/#algobulls-account){target="_blank"})  
+    You will need to log in to your AlgoBulls account and fetch the access token from:  ([See How](prerequisites.md/#algobulls-account))  
     **Settings** -> **General** -> **Developer Options**  
   
 Once you have the access token, set it in the code as shown here:

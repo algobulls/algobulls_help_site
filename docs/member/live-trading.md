@@ -1,7 +1,5 @@
 # Live Trading and Virtual Trading
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n7b-OEZZxSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## 1. Introduction
 ---
 My Portfolio page displays all the strategies that have been added from Odyssey and Phoenix. You can use these strategies to Backtest, Papertrade, or Livetrade on your desired conditions.

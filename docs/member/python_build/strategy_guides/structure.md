@@ -53,7 +53,7 @@ This handy function calculates something called the "crossover value" for you. I
 
 ## Flowchart
 
-Once you create your own strategy or use a ready strategy from the [pyalgostrategypool](https://github.com/algobulls/pyalgostrategypool){target=_blank} package, this is how it works internally on the AlgoBulls Core Trading Engine.
+Once you create your own strategy or use a ready strategy from the [pyalgostrategypool](https://github.com/algobulls/pyalgostrategypool) package, this is how it works internally on the AlgoBulls Core Trading Engine.
 
 ![Flowchart](flowchart_structure.png "How does a Strategy work")
 

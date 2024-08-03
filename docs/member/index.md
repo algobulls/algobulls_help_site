@@ -55,7 +55,7 @@ In essence, **Phoenix** is more than a product; it's your comprehensive guide to
 
 ## Open Source Strategy Library
 
-We maintain an open source GitHub repository, [pyalgostrategypool](https://github.com/algobulls/pyalgostrategypool){target=_blank} containing fully functional algorithmic trading strategies. These strategies can be used for Backtesting, Paper Trading, or Live Trading across various brokers and exchanges. The same code works in all trading modes.
+We maintain an open source GitHub repository, [pyalgostrategypool](https://github.com/algobulls/pyalgostrategypool) containing fully functional algorithmic trading strategies. These strategies can be used for Backtesting, Paper Trading, or Live Trading across various brokers and exchanges. The same code works in all trading modes.
 
 !!!tip "Keep an eye on our GitHub repo"
     Our team periodically updates the library to add more strategy Python codes
@@ -96,6 +96,6 @@ In the exciting world of algorithmic trading, **Phoenix** offers numerous benefi
 To unleash **Phoenix**'s full potential, dive into its comprehensive documentation. This roadmap offers detailed insights into the product's features, functionalities, and capabilities. It's your go-to resource for harnessing the power of **Phoenix** effectively. The documentation includes:
 
 
-- **[Code Examples](https://github.com/algobulls/pyalgostrategypool){target=_blank}**: Real code snippets showcasing how to implement specific strategies, functions, and techniques using **Phoenix**.
-- **[Python Cookbook for Algorithmic Trading](https://www.amazon.in/Python-Algorithmic-Trading-Cookbook-algorithmic/dp/1838989358){target=_blank}**: A Python Cookbook for Algorithmic Trading, explaining in-depth about strategy creation and execution from scratch using Python. Explore the technical content of the book on [GitHub](https://github.com/PacktPublishing/Python-Algorithmic-Trading-Cookbook){target=_blank}.
+- **[Code Examples](https://github.com/algobulls/pyalgostrategypool)**: Real code snippets showcasing how to implement specific strategies, functions, and techniques using **Phoenix**.
+- **[Python Cookbook for Algorithmic Trading](https://www.amazon.in/Python-Algorithmic-Trading-Cookbook-algorithmic/dp/1838989358)**: A Python Cookbook for Algorithmic Trading, explaining in-depth about strategy creation and execution from scratch using Python. Explore the technical content of the book on [GitHub](https://github.com/PacktPublishing/Python-Algorithmic-Trading-Cookbook).
 

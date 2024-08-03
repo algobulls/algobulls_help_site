@@ -1,7 +1,5 @@
 # Dashboard
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQry77QkoPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## 1. Introduction
 ---
 
@@ -17,13 +15,16 @@ Your current balance is displayed on the AlgoBulls Dashboard. To add money to yo
 
 ## 3. The Action Bar
 ---
-The action bar shows your AlgoBulls funds, subscription plan status, broker account information, and portfolio strategy. From the action bar, you can also [add funds](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), connect another broker account, and add more strategies to your portfolio.
+The action bar shows your AlgoBulls funds, subscription plan status, broker account information, and portfolio strategy. From the action bar, you can
+also [add funds](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading), connect another broker account, and add more strategies
+to your portfolio.
 
 ![Dashboard](imgs/dashboard4.png)
 
 ## 4. Strategy Analytics
 ---
-In this section, you can view overall trading volume, profit and loss, and your current AlgoBulls balance. The left side of the page displays data in a graphical format, while the right side provides strategy details such as strategy name, total transactions, volume, and P&L.
+In this section, you can view overall trading volume, profit and loss, and your current AlgoBulls balance. The left side of the page displays data in a graphical format, while the right side provides strategy details such as strategy name, total
+transactions, volume, and P&L.
 
 [ ![Dashboard](imgs/dashboard5.png "Click to Enlarge or Ctrl+Click to open in a new Tab") ](imgs/dashboard5.png)
 

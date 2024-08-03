@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the **Pyalgotrading** Documentation – your guide to practising and acquainting yourself with the [pyalgotrading](https://github.com/algobulls/pyalgotrading/){target="_blank"} package. Pyalgotrading, built with Python, is an algorithmic trading library that empowers you to design and implement trading strategies on a variety of financial instruments, such as equities, futures, and options. To embark on your journey with Pyalgotrading, ensure you have an active [AlgoBulls](https://www.algobulls.com/){target="_blank"} account, a platform designed for creating and testing trading strategies.
+Welcome to the **Pyalgotrading** Documentation – your guide to practising and acquainting yourself with the [pyalgotrading](https://github.com/algobulls/pyalgotrading/) package. Pyalgotrading, built with Python, is an algorithmic trading library that empowers you to design and implement trading strategies on a variety of financial instruments, such as equities, futures, and options. To embark on your journey with Pyalgotrading, ensure you have an active [AlgoBulls](https://www.algobulls.com/) account, a platform designed for creating and testing trading strategies.
 
 ## Key Features
 
@@ -64,9 +64,9 @@ This documentation serves as your launchpad into the Pyalgotrading package and t
 ## Contribution Guidelines
 
 1. [Fork this project][fork] to your account.
-2. [Create a branch][branch]{target=_blank} for the change you intend to make.
+2. [Create a branch][branch] for the change you intend to make.
 3. Make your changes to your fork.
-4. [Send a pull request][pr]{target=_blank} from your fork’s branch to our `master` branch.
+4. [Send a pull request][pr] from your fork’s branch to our `master` branch.
 
 [fork]: https://help.github.com/articles/fork-a-repo/
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository

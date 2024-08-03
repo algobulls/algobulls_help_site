@@ -1,13 +1,11 @@
 # AlgoBulls Help Site
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iKkvgFcV9Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![Logo](imgs/logo_large.svg)
+<div style="position: relative; padding-bottom: 52.81250000000001%; height: 0;"><iframe src="https://www.loom.com/embed/aa898e5fa469480db8ad04f59b57c74f?sid=66094fa6-abb5-4249-9aab-f7d3e21b4595" frameborder="1" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## 1. Introduction
 
 Welcome to AlgoBulls! We are an algorithmic trading platform offering 100% automated trading algorithms, allowing you to deploy multiple trading strategies across various asset classes. You can choose from a wide range of ready-to-use strategies
-or create and execute your own strategy in **Backtesting**, **Papertrading and  Livetrading mode. Additionally, AlgoBulls provides a Fixed Income marketplace where you can invest in Bonds & NCDs.
+or create and execute your own strategy in **Backtesting**, **Papertrading and Livetrading mode. Additionally, AlgoBulls provides a Fixed Income marketplace where you can invest in Bonds & NCDs.
 
 Here's a quick guide to help you start trading or investing on our user-friendly platform right away!
 
@@ -47,7 +45,6 @@ You can also register with AlgoBulls using WhatsApp. Follow these simple steps:
 
 ![Get OTP](member/imgs/get_otp.png)
 
-
 Haven't registered with AlgoBulls yet? [Register now!](https://app.algobulls.com/user/register)
 
 ## 3. Log in with AlgoBulls
@@ -78,7 +75,6 @@ You can also choose the Login with OTP option. Enter your phone number, and an O
 
 ![OTP Login](member/imgs/otp_login.png)
 
-
 ## 5. Forgot Password?
 
 If you've forgotten your password, you can reset it [here](https://app.algobulls.com/user/login?method=forgot_password).
@@ -101,7 +97,8 @@ To visit the broker details page, [click here](https://app.algobulls.com/broking
 
 ## 7. Adding Funds to Your AlgoBulls Account
 
-After linking your broker with AlgoBulls, you can add funds by navigating to the [My Plans](https://app.algobulls.com/myplans) page from the sidebar menu and clicking on [Payment Gateway Transactions](https://app.algobulls.com/myplans?query=e30%3D&section=transactions).
+After linking your broker with AlgoBulls, you can add funds by navigating to the [My Plans](https://app.algobulls.com/myplans) page from the sidebar menu and clicking
+on [Payment Gateway Transactions](https://app.algobulls.com/myplans?query=e30%3D&section=transactions).
 
 **Step 1:** Edit or continue with the default amount of **1000** and click **Add Money**.
 
@@ -119,7 +116,8 @@ Learn more about [Pricing](https://help.algobulls.com/member/wallet.html).
 
 ## 8. How to Subscribe to a Plan
 
-To [subscribe to a plan](https://app.algobulls.com/pricing?section=Odyssey%20%28Marketplace%29), choose from various plans on the [Pricing](https://app.algobulls.com/pricing?section=Odyssey%20%28Marketplace%29) page. These plans are active for a specific duration, and all included services will not incur additional charges during that period.
+To [subscribe to a plan](https://app.algobulls.com/pricing?section=Odyssey%20%28Marketplace%29), choose from various plans on the [Pricing](https://app.algobulls.com/pricing?section=Odyssey%20%28Marketplace%29) page. These plans are active for a
+specific duration, and all included services will not incur additional charges during that period.
 
 Find out more about [Pricing](https://help.algobulls.com/member/wallet.html).
 
@@ -129,11 +127,13 @@ AlgoBulls also offers free plans. Visit the pricing page to explore available fr
 
 After subscribing to a plan, choose an Algo Strategy from the Odyssey section, which features over 150+ strategies created by industry experts. Odyssey is divided into three categories: Retail, Premium & HNI.
 
-[Retail Strategies](https://app.algobulls.com/marketplace/category/retail): Ideal for all levels of experience, these include strategies for Equity, Futures, and Commodities cash segments. [Learn more](https://help.algobulls.com/member/choose-strategy.html#2-retail-marketplace) about Retail Strategies.
+[Retail Strategies](https://app.algobulls.com/marketplace/category/retail): Ideal for all levels of experience, these include strategies for Equity, Futures, and Commodities cash
+segments. [Learn more](https://help.algobulls.com/member/choose-strategy.html#2-retail-marketplace) about Retail Strategies.
 
 [Premium Strategies](https://app.algobulls.com/marketplace/category/premium): Access intelligent and powerful Index Option Strategies. [Read more](https://help.algobulls.com/member/choose-strategy.html#3-premium-marketplace) about Premium Strategies.
 
-[HNI Strategies](https://app.algobulls.com/marketplace/category/hni): AI-driven trading algorithms tailored to individual needs and risk appetites, including Index Option Strategies. [Learn more](https://help.algobulls.com/member/choose-strategy.html#4-hni-marketplace) about HNI Strategies.
+[HNI Strategies](https://app.algobulls.com/marketplace/category/hni): AI-driven trading algorithms tailored to individual needs and risk appetites, including Index Option
+Strategies. [Learn more](https://help.algobulls.com/member/choose-strategy.html#4-hni-marketplace) about HNI Strategies.
 
 Select a strategy from the AlgoBulls [Odyssey now!](https://app.algobulls.com/marketplace/category/retail)
 
@@ -157,7 +157,8 @@ All strategies deployed from the **Odyssey** page are accessible here as well as
 
 ![My Portfolio](member/imgs/portfolio_strategy.png)
 
-You can initiate a strategy by clicking on the Start button. When you do so, a modal will appear with several options. To run the strategy in live market, select the Live Trading option from the modal. Additionally, you have the flexibility to perform Back Tests and paper trades by choosing the respective options within the same modal. This allows you to thoroughly evaluate and refine your strategies before deploying them in real market conditions.
+You can initiate a strategy by clicking on the Start button. When you do so, a modal will appear with several options. To run the strategy in live market, select the Live Trading option from the modal. Additionally, you have the flexibility to
+perform Back Tests and paper trades by choosing the respective options within the same modal. This allows you to thoroughly evaluate and refine your strategies before deploying them in real market conditions.
 
 ## 11. Live Reports
 
@@ -174,7 +175,6 @@ Want to check Live Reports for your Strategies? Visit the [P&L Book](https://app
 Once you have successfully registered with AlgoBulls, you will be redirected to the <a href="https://help.algobulls.com/member/dashboard.html">AlgoBulls Dashboard</a>. The AlgoBulls Dashboard gives you an overview of your account and trades.
 
 Go to <a href="https://app.algobulls.com/dashboard">my dashboard</a>.
-
 
 ## 12. Settings
 
