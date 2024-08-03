@@ -1,0 +1,3790 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Help Site for using the AlgoBulls Platform | A Trading platform with complete end-to-end solution - ready-to-use Stock Market Knowledge & Fully Automated Algorithmic Trading!">
+      
+      
+        <meta name="author" content="AlgoBulls">
+      
+      
+        <link rel="canonical" href="https://help.algobulls.com/member/strategies/strategy_guides/common_strategy_guide.html">
+      
+      
+        <link rel="prev" href="../../index.html">
+      
+      
+        <link rel="next" href="../aroon_crossover.html">
+      
+      
+      <link rel="icon" href="../../../imgs/favicon.svg">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.6">
+    
+    
+      
+        <title>General Strategy Guide - AlgoBulls Help Site</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.35e1ed30.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.356b1318.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../css/timeago.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","UA-147658856-2"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","UA-147658856-2",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=UA-147658856-2",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="blue">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#common-strategy-building-guide" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../index.html" title="AlgoBulls Help Site" class="md-header__button md-logo" aria-label="AlgoBulls Help Site" data-md-component="logo">
+      
+  <img src="../../../imgs/site_logo_white.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            AlgoBulls Help Site
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              General Strategy Guide
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/algobulls/algobulls_help_site" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../index.html" title="AlgoBulls Help Site" class="md-nav__button md-logo" aria-label="AlgoBulls Help Site" data-md-component="logo">
+      
+  <img src="../../../imgs/site_logo_white.svg" alt="logo">
+
+    </a>
+    AlgoBulls Help Site
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/algobulls/algobulls_help_site" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../index.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../faq.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FAQ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Algo Products
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Algo Products
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Odyssey
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Odyssey
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../choose-strategy.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategy-card.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Strategy Details
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategist-profile.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Strategist Profile
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Phoenix
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Phoenix
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python-build.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../index.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Phoenix Strategy Development Guide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_3" id="__nav_3_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Strategies
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Strategies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    General Strategy Guide
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="common_strategy_guide.html" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    General Strategy Guide
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-the-strategy-structure" class="md-nav__link">
+    Understanding the Strategy Structure
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Strategy Structure">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mandatory-functions" class="md-nav__link">
+    Mandatory Functions:
+  </a>
+  
+    <nav class="md-nav" aria-label="Mandatory Functions:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#initialization-methods" class="md-nav__link">
+    Initialization Methods
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-core-loop-methods" class="md-nav__link">
+    4 Core Loop Methods
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#optional-function" class="md-nav__link">
+    Optional Function
+  </a>
+  
+    <nav class="md-nav" aria-label="Optional Function">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#algorithmic-calculations-methods" class="md-nav__link">
+    Algorithmic Calculations Methods
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#miscellaneous-methods" class="md-nav__link">
+    Miscellaneous Methods
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#working-flow-of-the-strategy" class="md-nav__link">
+    Working Flow of the Strategy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setting-up-imports-and-environment" class="md-nav__link">
+    Setting Up: Imports and Environment
+  </a>
+  
+    <nav class="md-nav" aria-label="Setting Up: Imports and Environment">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pyalgotrading" class="md-nav__link">
+    Pyalgotrading
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phoenix-web" class="md-nav__link">
+    Phoenix Web
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#strategy-code-creation-lets-get-started" class="md-nav__link">
+    Strategy Code Creation: Let's Get Started
+  </a>
+  
+    <nav class="md-nav" aria-label="Strategy Code Creation: Let's Get Started">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#initialization-functions" class="md-nav__link">
+    Initialization Functions
+  </a>
+  
+    <nav class="md-nav" aria-label="Initialization Functions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#init" class="md-nav__link">
+    init()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#initialize" class="md-nav__link">
+    initialize()
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#algorithmic-calculation-functions" class="md-nav__link">
+    Algorithmic Calculation Functions
+  </a>
+  
+    <nav class="md-nav" aria-label="Algorithmic Calculation Functions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#get_decision" class="md-nav__link">
+    get_decision()
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#miscellaneous-functions" class="md-nav__link">
+    Miscellaneous Functions
+  </a>
+  
+    <nav class="md-nav" aria-label="Miscellaneous Functions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#get_child_instrument_details" class="md-nav__link">
+    get_child_instrument_details()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get_allowed_expiry_dates" class="md-nav__link">
+    get_allowed_expiry_dates()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get_options_instrument_with_strike_direction" class="md-nav__link">
+    get_options_instrument_with_strike_direction()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#options_instruments_set_up_local" class="md-nav__link">
+    options_instruments_set_up_local()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#options_instruments_set_up" class="md-nav__link">
+    options_instruments_set_up()
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-4-core-loop-functions" class="md-nav__link">
+    The 4 Core Loop Functions
+  </a>
+  
+    <nav class="md-nav" aria-label="The 4 Core Loop Functions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#strategy_select_instruments_for_entry" class="md-nav__link">
+    strategy_select_instruments_for_entry()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strategy_enter_position" class="md-nav__link">
+    strategy_enter_position()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orderregular" class="md-nav__link">
+    OrderRegular
+  </a>
+  
+    <nav class="md-nav" aria-label="OrderRegular">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parameters" class="md-nav__link">
+    Parameters:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strategy_select_instruments_for_exit" class="md-nav__link">
+    strategy_select_instruments_for_exit()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strategy_exit_position" class="md-nav__link">
+    strategy_exit_position()
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_3_2" id="__nav_3_2_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Regular Strategies
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Regular Strategies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../aroon_crossover.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aroon Crossover
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bollinger_bands.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bollinger Bands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ema_crossover.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    EMA Crossover
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../inverse_ema_scalping.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inverse EMA Scalping
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../macd_crossover.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MACD Crossover
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mean_reversion_bollinger_bands.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mean Reversion Bollinger Bands
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reverse_rsi.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reverse RSI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rsi_macd_crossover.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RSI MACD Crossover
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../stochastic_crossover.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stochastic Crossover
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vwap_crossover.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    VWAP Crossover
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../volatility_trend_atr.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Volatility Trend ATR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_3_3" id="__nav_3_2_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Options Strategies
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Options Strategies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../options_bear_call_ladder.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Options Bear Call Ladder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../options_bear_put_ladder.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Options Bear Put Ladder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../options_bull_call_ladder.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Options Bull Call Ladder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../options_bull_put_ladder.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Options Bull Put Ladder
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../options_long_iron_butterfly.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Options Long Iron Butterfly
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../options_straddle.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Options Straddle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../options_strangle.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Options Strangle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4" id="__nav_3_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pyalgotrading
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Pyalgotrading
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pyalgotrad/introduction.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pyalgotrad/prerequisites.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup your Workspace
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4_3" id="__nav_3_2_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Strategy Creation and Execution
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Strategy Creation and Execution
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pyalgotrad/upload.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Upload your Strategy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pyalgotrad/select.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Select your Strategy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pyalgotrad/testing.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Execute your Strategy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pyalgotrad/pyalgotrading_analytics.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Analytics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4_5" id="__nav_3_2_4_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Features
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Features
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pyalgotrad/slippage.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Slippage
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pyalgotrad/brokerage.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brokerage
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_5" id="__nav_3_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Phoenix Web
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Phoenix Web
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python_build/python-build-introduction.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python_build/python-build-getstarted.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup your Workspace
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_5_3" id="__nav_3_2_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Strategy Creation and Execution
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Strategy Creation and Execution
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python_build/python-build-code-gen-ai.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code Using AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python_build/python-build-professional.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Professional Support
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python_build/python-build-code-ready-templates.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code Ready Templates
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python_build/python-build-code-new.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code New Strategy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python_build/python-build-config-parameters.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Configure and Execute your Strategy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python_build/python-build-view-results.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Analytics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/support_pybuild.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Phoenix Support
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Phoenix Copilot
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Phoenix Copilot
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gen_ai/phoenix_copilot_introduction.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gen_ai/gen_ai_prompt_library.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Prompt Library
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Algo Execution & Analytics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Algo Execution & Analytics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dashboard.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dashboard
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    My Portfolio
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            My Portfolio
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../live-trading.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Live Trading and Virtual Trading
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Live Reports
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Live Reports
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Books/pnl.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    P & L Book
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Books/tradebook.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Trade Book
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Setup
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../broking-details.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Broking Details
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../settings.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Settings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Subscriptions
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Subscriptions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../wallet.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pricing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../my_plans.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    My Plans
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Other Products
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Other Products
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fixed-income.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fixed Income
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../issuer-profile.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Issuer Profile
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Features
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Features
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pnltracker.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    P&L Tracker
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tweak.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tweak
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../how_to.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How to
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fee.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Frequently Encountered Errors
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Broker Information
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Broker Information
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_1" id="__nav_11_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    ALPACA
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_1">
+            <span class="md-nav__icon md-icon"></span>
+            ALPACA
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../broker/alpaca.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../brokers/broker_alpaca_guide.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Information
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_1_3" id="__nav_11_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Setting Up Alpaca with AlgoBulls
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_11_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Setting Up Alpaca with AlgoBulls
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../brokers/connecting_alpaca.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OAuth
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../brokers/non_auth_alpaca.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Non-OAuth
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../broker/angelbroking.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ANGELBROKING
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../broker/sharekhan.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SHAREKHAN
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../broker/zerodha.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ZERODHA
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../developers.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Developer Options
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-the-strategy-structure" class="md-nav__link">
+    Understanding the Strategy Structure
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Strategy Structure">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mandatory-functions" class="md-nav__link">
+    Mandatory Functions:
+  </a>
+  
+    <nav class="md-nav" aria-label="Mandatory Functions:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#initialization-methods" class="md-nav__link">
+    Initialization Methods
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-core-loop-methods" class="md-nav__link">
+    4 Core Loop Methods
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#optional-function" class="md-nav__link">
+    Optional Function
+  </a>
+  
+    <nav class="md-nav" aria-label="Optional Function">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#algorithmic-calculations-methods" class="md-nav__link">
+    Algorithmic Calculations Methods
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#miscellaneous-methods" class="md-nav__link">
+    Miscellaneous Methods
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#working-flow-of-the-strategy" class="md-nav__link">
+    Working Flow of the Strategy
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setting-up-imports-and-environment" class="md-nav__link">
+    Setting Up: Imports and Environment
+  </a>
+  
+    <nav class="md-nav" aria-label="Setting Up: Imports and Environment">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pyalgotrading" class="md-nav__link">
+    Pyalgotrading
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phoenix-web" class="md-nav__link">
+    Phoenix Web
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#strategy-code-creation-lets-get-started" class="md-nav__link">
+    Strategy Code Creation: Let's Get Started
+  </a>
+  
+    <nav class="md-nav" aria-label="Strategy Code Creation: Let's Get Started">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#initialization-functions" class="md-nav__link">
+    Initialization Functions
+  </a>
+  
+    <nav class="md-nav" aria-label="Initialization Functions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#init" class="md-nav__link">
+    init()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#initialize" class="md-nav__link">
+    initialize()
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#algorithmic-calculation-functions" class="md-nav__link">
+    Algorithmic Calculation Functions
+  </a>
+  
+    <nav class="md-nav" aria-label="Algorithmic Calculation Functions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#get_decision" class="md-nav__link">
+    get_decision()
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#miscellaneous-functions" class="md-nav__link">
+    Miscellaneous Functions
+  </a>
+  
+    <nav class="md-nav" aria-label="Miscellaneous Functions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#get_child_instrument_details" class="md-nav__link">
+    get_child_instrument_details()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get_allowed_expiry_dates" class="md-nav__link">
+    get_allowed_expiry_dates()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get_options_instrument_with_strike_direction" class="md-nav__link">
+    get_options_instrument_with_strike_direction()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#options_instruments_set_up_local" class="md-nav__link">
+    options_instruments_set_up_local()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#options_instruments_set_up" class="md-nav__link">
+    options_instruments_set_up()
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-4-core-loop-functions" class="md-nav__link">
+    The 4 Core Loop Functions
+  </a>
+  
+    <nav class="md-nav" aria-label="The 4 Core Loop Functions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#strategy_select_instruments_for_entry" class="md-nav__link">
+    strategy_select_instruments_for_entry()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strategy_enter_position" class="md-nav__link">
+    strategy_enter_position()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#orderregular" class="md-nav__link">
+    OrderRegular
+  </a>
+  
+    <nav class="md-nav" aria-label="OrderRegular">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parameters" class="md-nav__link">
+    Parameters:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strategy_select_instruments_for_exit" class="md-nav__link">
+    strategy_select_instruments_for_exit()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strategy_exit_position" class="md-nav__link">
+    strategy_exit_position()
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="common-strategy-building-guide">Common Strategy Building Guide<a class="headerlink" href="#common-strategy-building-guide" title="Permanent link">&para;</a></h1>
+<h2 id="understanding-the-strategy-structure">Understanding the Strategy Structure<a class="headerlink" href="#understanding-the-strategy-structure" title="Permanent link">&para;</a></h2>
+<p>The strategy code is basically a Python Class, with its Base Class as StrategyBase (for regular strategies) or StrategyBaseOptionsV2 (for options strategies). In this documentation we will focus on a regular strategy called ‘EMA Regular Order’  - a strategy which gives BUY and SELL signals based on two EMA indicators and takes new-entry &amp; previous-exit at every crossover. We also will be discussing about an options strategy called "Options Bear Call Ladder Strategy" - strategy which uses 3 legs to optimize the risk and returns of the options. Inside the strategy class there are many methods that could be divided into 2 different sections: Mandatory Methods: Initialization Methods, 4-Core Loop Methods &amp; Optional Methods: Algorithmic Calculation Methods &amp; Miscellaneous Methods. These sections are explained briefly below.</p>
+<h3 id="mandatory-functions">Mandatory Functions:<a class="headerlink" href="#mandatory-functions" title="Permanent link">&para;</a></h3>
+<h4 id="initialization-methods">Initialization Methods<a class="headerlink" href="#initialization-methods" title="Permanent link">&para;</a></h4>
+<p>In this section, you will have the Strategy Class’ “<strong>init</strong>” method (a.k.a. Constructor). This method will extract the Strategy’s Configured Parameters and save them in the different variables. There is another method in this section called “initialization”, which will be called at the start of every trading day that will occur inside the timeline for which you are executing the strategy.</p>
+<h4 id="4-core-loop-methods">4 Core Loop Methods<a class="headerlink" href="#4-core-loop-methods" title="Permanent link">&para;</a></h4>
+<p>These are the main methods that will be called by the AlgoBulls Core in a sequence for every candle (candle is the minimum time range for which the Open, High, Low and Close values of that instrument are available. Basically it is a representation of a time period and the data corresponds to the trades executed during that period). All the logic design methods are called inside these Core Methods, along with the helping methods.</p>
+<h3 id="optional-function">Optional Function<a class="headerlink" href="#optional-function" title="Permanent link">&para;</a></h3>
+<h4 id="algorithmic-calculations-methods">Algorithmic Calculations Methods<a class="headerlink" href="#algorithmic-calculations-methods" title="Permanent link">&para;</a></h4>
+<p>This section contains the methods that are defined by the user. These are not mandatory but good to keep your code organized and simple. Their main purpose will be to perform operations on historical data or LTP data of the selected instrument.  Based on the results of these operations, it needs to decide whether it should Buy, Sell or take no action on the instrument.<br />
+Apart from decision making, some of the other methods can also be useful to calculate the stop loss or target price for a trade.<br />
+Point being, the purpose of these methods are totally dependent on the application of the user.</p>
+<h4 id="miscellaneous-methods">Miscellaneous Methods<a class="headerlink" href="#miscellaneous-methods" title="Permanent link">&para;</a></h4>
+<p>These are handy methods that are created by a team of expert strategy developers and they are already a part of the base class. These methods do a lot of heavy lifting under the hood and can be used here for various purposes like getting the latest price of a stock, placing an order etc. These methods are not always necessary to be used and are generally a part of other methods mentioned above.</p>
+<h2 id="working-flow-of-the-strategy">Working Flow of the Strategy<a class="headerlink" href="#working-flow-of-the-strategy" title="Permanent link">&para;</a></h2>
+<p>Below Diagram is Sample Diagram on how the strategy execution engine works. Blocks in green are the mandatory methods that need to be implemented for every strategy.  </p>
+<p><a href="flowchart_structure_new.png"><img alt="Flowchart" src="flowchart_structure_new.png" title="How does a Strategy work" /></a></p>
+<hr />
+<h2 id="setting-up-imports-and-environment">Setting Up: Imports and Environment<a class="headerlink" href="#setting-up-imports-and-environment" title="Permanent link">&para;</a></h2>
+<p>Before we dive into building of a strategy we need to fist setup our workspace depending the tool we are using.
+The available tools for creating a workspace of strategy are <strong>Pyalgotrading</strong> and <strong>Phoenix Web</strong>.  </p>
+<h3 id="pyalgotrading">Pyalgotrading<a class="headerlink" href="#pyalgotrading" title="Permanent link">&para;</a></h3>
+<p>If you're coding on your local machine, I recommend setting up a virtual environment and installing the "pyalgotrading" Python package to keep things organised.<br />
+<div class="highlight"><pre><span></span><code>pip3 install pyalgotrading
+</code></pre></div>
+Once you've got it installed, it's time to bring in the magic. Import the package and its constants into your Python file where your trading strategy will take shape.</p>
+<div class="highlight"><pre><span></span><code><span class="kn">from</span> <span class="nn">pyalgotrading.algobulls</span> <span class="kn">import</span> <span class="n">AlgoBullsConnection</span>
+<span class="kn">from</span> <span class="nn">pyalgotrading.strategy</span> <span class="kn">import</span> <span class="o">*</span>
+</code></pre></div>
+<h3 id="phoenix-web">Phoenix Web<a class="headerlink" href="#phoenix-web" title="Permanent link">&para;</a></h3>
+<p>Now, if you prefer a web-based approach, we've got you covered. Head over to the "Code New Strategy" section on the Phoenix page of the AlgoBulls website. Here, you can craft your strategy without the need to import any classes or packages. The choice is yours – flexibility at its best.</p>
+<hr />
+<h2 id="strategy-code-creation-lets-get-started">Strategy Code Creation: Let's Get Started<a class="headerlink" href="#strategy-code-creation-lets-get-started" title="Permanent link">&para;</a></h2>
+<p>With the groundwork laid, it's time to create your strategy class. Be sure to choose the appropriate base class for your strategy. For regular equity strategies, the base class is <code>StrategyBase</code> while for options strategies, it's <code>StrategyOptionsBaseV2</code>.</p>
+<p><strong>Examples:</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1"><strong>Regular</strong></label><label for="__tabbed_1_2"><strong>Options</strong></label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">class</span> <span class="nc">MovingAverageCrossoverV2</span><span class="p">(</span><span class="n">StrategyBase</span><span class="p">):</span>
+    <span class="n">name</span> <span class="o">=</span> <span class="s1">&#39;Moving Average Crossover V2&#39;</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">class</span> <span class="nc">StrategyOptionsBearCallLadder</span><span class="p">(</span><span class="n">StrategyOptionsBaseV2</span><span class="p">):</span>
+    <span class="n">name</span> <span class="o">=</span> <span class="s1">&#39;Options Bear Call Ladder Template&#39;</span>
+</code></pre></div>
+</div>
+</div>
+</div>
+<p>Feel free to get creative with your class name, but it's good practice to make it unique among your strategy class names. Below this declaration, we set the strategy's name.</p>
+<div class="admonition tip">
+<p class="admonition-title">For Pyalgotrading users</p>
+<p>If you are uploading the strategy via pyalgotrading functions, then this <code>name</code> parameter's value will be the name of the strategy. That means this name will be displayed in <strong>My Coded Strategies</strong> section in Phoenix.</p>
+</div>
+<hr />
+<h3 id="initialization-functions">Initialization Functions<a class="headerlink" href="#initialization-functions" title="Permanent link">&para;</a></h3>
+<h4 id="init"><strong>init</strong>()<a class="headerlink" href="#init" title="Permanent link">&para;</a></h4>
+<p>Every great trading strategy starts with a solid foundation – the constructor method, also known as the "init" method. Here's what it looks like:</p>
+<p><div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+    <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+</code></pre></div>
+Within this method, you extract the parameters provided by the user. These user-defined parameters are stored in a dictionary called "self.strategy_parameters." Here's how you can access these values:</p>
+<p><div class="highlight"><pre><span></span><code><span class="bp">self</span><span class="o">.</span><span class="n">timeperiod1</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="p">[</span><span class="s1">&#39;TIMEPERIOD1&#39;</span><span class="p">]</span>
+<span class="bp">self</span><span class="o">.</span><span class="n">timeperiod2</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="p">[</span><span class="s1">&#39;TIMEPERIOD2&#39;</span><span class="p">]</span>
+</code></pre></div>
+Feel free to initialise other variables here, such as <code>self.main_order</code>, <code>self.number_of_allowed_expiry_dates</code>, <code>self.transaction_type_map</code> and more.</p>
+<p><strong>Example:</strong><br />
+This is how the declaration of class along with its constructor would look like.</p>
+<div class="tabbed-set tabbed-alternate" data-tabs="2:2"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1"><strong>Regular</strong></label><label for="__tabbed_2_2"><strong>Options</strong></label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">class</span> <span class="nc">StrategyEMARegularOrder</span><span class="p">(</span><span class="n">StrategyBase</span><span class="p">):</span>
+    <span class="n">name</span> <span class="o">=</span> <span class="s1">&#39;EMA Regular Order Strategy&#39;</span>
+
+    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">timeperiod1</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="p">[</span><span class="s1">&#39;TIMEPERIOD1&#39;</span><span class="p">]</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">timeperiod2</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="p">[</span><span class="s1">&#39;TIMEPERIOD2&#39;</span><span class="p">]</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">main_order_map</span> <span class="o">=</span> <span class="kc">None</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">class</span> <span class="nc">StrategyOptionsBearCallLadder</span><span class="p">(</span><span class="n">StrategyOptionsBaseV2</span><span class="p">):</span>
+    <span class="n">name</span> <span class="o">=</span> <span class="s1">&#39;Options Bear Call Ladder Template&#39;</span>
+
+    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+        <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+
+        <span class="c1"># Parameters (currently set with default values, can be overridden from the Parameters Configuration Pane)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_one_transaction_type</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_ONE_TRANSACTION_TYPE&#39;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>  <span class="c1"># BUY: 1 | SELL: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_one_tradingsymbol_suffix</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_ONE_TRADING_SYMBOL_SUFFIX&#39;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>  <span class="c1"># CE: 1 | PE: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_one_strike_direction</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_ONE_STRIKE_DIRECTION&#39;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>  <span class="c1"># ITM: 0| ATM: 1| OTM: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_one_number_of_strikes</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_ONE_NUMBER_OF_STRIKES&#39;</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_two_transaction_type</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_TWO_TRANSACTION_TYPE&#39;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>  <span class="c1"># BUY: 1 | SELL: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_two_tradingsymbol_suffix</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_TWO_TRADING_SYMBOL_SUFFIX&#39;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>  <span class="c1"># CE: 1 | PE: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_two_strike_direction</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_TWO_STRIKE_DIRECTION&#39;</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>  <span class="c1"># ITM: 0| ATM: 1| OTM: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_two_number_of_strikes</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_TWO_NUMBER_OF_STRIKES&#39;</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_three_transaction_type</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_THREE_TRANSACTION_TYPE&#39;</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>  <span class="c1"># BUY: 1 | SELL: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_three_tradingsymbol_suffix</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_THREE_TRADING_SYMBOL_SUFFIX&#39;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>  <span class="c1"># CE: 1 | PE: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_three_strike_direction</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_THREE_STRIKE_DIRECTION&#39;</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>  <span class="c1"># ITM: 0| ATM: 1| OTM: 2</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">_leg_three_number_of_strikes</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">strategy_parameters</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;LEG_THREE_NUMBER_OF_STRIKES&#39;</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+
+        <span class="c1"># Maps</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">transaction_type_map</span> <span class="o">=</span> <span class="p">{</span><span class="mi">1</span><span class="p">:</span> <span class="s2">&quot;BUY&quot;</span><span class="p">,</span> <span class="mi">2</span><span class="p">:</span> <span class="s2">&quot;SELL&quot;</span><span class="p">}</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">tradingsymbol_suffix_map</span> <span class="o">=</span> <span class="p">{</span><span class="mi">1</span><span class="p">:</span> <span class="s2">&quot;CE&quot;</span><span class="p">,</span> <span class="mi">2</span><span class="p">:</span> <span class="s2">&quot;PE&quot;</span><span class="p">}</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">strike_direction_map</span> <span class="o">=</span> <span class="p">{</span><span class="mi">0</span><span class="p">:</span> <span class="n">OptionsStrikeDirection</span><span class="o">.</span><span class="n">ITM</span><span class="p">,</span> <span class="mi">1</span><span class="p">:</span> <span class="n">OptionsStrikeDirection</span><span class="o">.</span><span class="n">ATM</span><span class="p">,</span> <span class="mi">2</span><span class="p">:</span> <span class="n">OptionsStrikeDirection</span><span class="o">.</span><span class="n">OTM</span><span class="p">}</span>
+
+        <span class="c1"># Variables</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">number_of_allowed_expiry_dates</span> <span class="o">=</span> <span class="mi">1</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">instruments_done_for_the_day</span> <span class="o">=</span> <span class="kc">None</span>
+</code></pre></div>
+</div>
+</div>
+</div>
+<hr />
+<h4 id="initialize">initialize()<a class="headerlink" href="#initialize" title="Permanent link">&para;</a></h4>
+<p>The "<strong>initialize</strong>" method is your strategy's workspace, where you get everything ready for a fresh trading day. It's called at the start of each trading day, allowing you to reset variables, set up your tools, and perform any other tasks to ensure your strategy is primed and ready.</p>
+<p><strong>Example:</strong></p>
+<p><strong>Examples:</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="3:2"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio" /><input id="__tabbed_3_2" name="__tabbed_3" type="radio" /><div class="tabbed-labels"><label for="__tabbed_3_1"><strong>Regular</strong></label><label for="__tabbed_3_2"><strong>Options</strong></label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="bp">self</span><span class="o">.</span><span class="n">main_order_map</span> <span class="o">=</span> <span class="p">{}</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">initialize</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+    <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="n">initialize</span><span class="p">()</span>
+    <span class="bp">self</span><span class="o">.</span><span class="n">instruments_done_for_the_day</span> <span class="o">=</span> <span class="p">[]</span>
+</code></pre></div>
+</div>
+</div>
+</div>
+<hr />
+<h3 id="algorithmic-calculation-functions">Algorithmic Calculation Functions<a class="headerlink" href="#algorithmic-calculation-functions" title="Permanent link">&para;</a></h3>
+<h4 id="get_decision">get_decision()<a class="headerlink" href="#get_decision" title="Permanent link">&para;</a></h4>
+<p>Now, let's dive into the heart of your strategy – the "get_decision" method. This method is where the magic happens, where you decide when to enter or exit a trade, set stop losses, and target prices. Here's how it works:
+Historical data of the instrument up to a certain point in your strategy is collected using:</p>
+<ul>
+<li>Historical data is a time series data of open, high, low and close values of an instrument. These values are fetched at an interval same as that of the candle interval. The method given below fetches multiple historical data values till the current candle on which the strategy is executing. Historical data of the instrument up to a certain point in your strategy is collected using:
+    <div class="highlight"><pre><span></span><code><span class="n">hist_data</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_historical_data</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span>
+</code></pre></div>
+  Here the variable hist_data is a pandas.Dataframe object. A Pandas DataFrame is a 2 dimensional data structure, like a 2 dimensional array, or a table with rows and columns. The hist_data Dataframe will have 4 columns named as : “open”, “high”, “close“ and “low”. For every row there will be a unique timestamp and the difference between each timestamp is of candle interval.</li>
+<li>To access all the values of one particular column from the hist_data, you can use the following syntax code. Remember the data type of the column fetched here is pandas.Series
+    <div class="highlight"><pre><span></span><code><span class="n">hist_data</span><span class="p">[</span><span class="err">‘</span><span class="o">&lt;</span><span class="n">column_name</span><span class="o">&gt;</span><span class="err">’</span><span class="p">]</span>
+</code></pre></div>
+    <strong>Example:</strong>
+    <div class="highlight"><pre><span></span><code><span class="n">close</span> <span class="o">=</span> <span class="n">hist_data</span><span class="p">[</span><span class="err">‘</span><span class="n">close</span><span class="err">’</span><span class="p">]</span>
+</code></pre></div></li>
+<li>To access the O-H-L-C values of the current latest candle you can use the following code. This also tells us that the index -1 is for latest, -2 will be for second latest and so on. This also implies that index 0 will get the oldest data, index 1 will give second oldest data and so on.<br />
+    <div class="highlight"><pre><span></span><code><span class="n">latest_ohlc</span> <span class="o">=</span> <span class="n">hist_data</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
+</code></pre></div></li>
+<li>
+<p>Next, you analyse this historical data to determine trading signals and calculate indicator values. You can rely on functions from "talib" for this, as shown below:
+    <div class="highlight"><pre><span></span><code><span class="n">ema_x</span> <span class="o">=</span> <span class="n">talib</span><span class="o">.</span><span class="n">EMA</span><span class="p">(</span><span class="n">hist_data</span><span class="p">[</span><span class="s1">&#39;close&#39;</span><span class="p">],</span> <span class="n">timeperiod</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">timeperiod1</span><span class="p">)</span>
+<span class="n">ema_y</span> <span class="o">=</span> <span class="n">talib</span><span class="o">.</span><span class="n">EMA</span><span class="p">(</span><span class="n">hist_data</span><span class="p">[</span><span class="s1">&#39;close&#39;</span><span class="p">],</span> <span class="n">timeperiod</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">timeperiod2</span><span class="p">)</span>
+</code></pre></div>
+    As you can see, we have passed the “close” column and a strategy parameter value called “self.timeperiod1” and “self.timeperiod2” to the talib function. Each of the talib functions require unique input values, some require pandas.Series, some require constants like integers and floats and some require both. To understand the working of each talib function, refer <a href="https://ta-lib.github.io/ta-lib-python/index.html">here.</a></p>
+</li>
+<li>
+<p>In many strategies, the condition to buy or sell can be triggered based on the crossover direction of 2 signals/indicators. A crossover refers to an instance where an indicator and a price, or multiple indicators, overlap and cross one another. Crossovers are used in technical analysis to confirm patterns and trends such as reversals and breakouts, generating buy or sell signals accordingly. Below we have given an example of how to calculate the crossover of the 2 indicator values we had calculated above.<br />
+    <div class="highlight"><pre><span></span><code><span class="n">crossover_value</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">utils</span><span class="o">.</span><span class="n">crossover</span><span class="p">(</span><span class="n">ema_x</span><span class="p">,</span> <span class="n">ema_y</span><span class="p">)</span>
+</code></pre></div>
+    Here if crossover_value is 0 then the indicators ema_x and ema_y have not crossed. If it is 1 then indicator ema_x has crossed ema_y in upward direction. Similarly if it is -1 then indicator ema_x has crossed ema_y in downward direction</p>
+</li>
+</ul>
+<p>By combining these calculated values with historical data, you can make informed decisions about when to initiate or close a trade. Additionally, you can use this information to compute potential target prices or set stop losses.<br />
+AlgoBulls' Phoenix empowers you to navigate the complexities of options trading with ease. </p>
+<p><strong>Example:</strong>  </p>
+<p>This is how an ideal get_decision() function would look like. This example is from RSI Crossover Strategy.</p>
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">get_crossover_value</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">instrument</span><span class="p">):</span>
+    <span class="n">hist_data</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_historical_data</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span>
+
+    <span class="n">rsi_value</span> <span class="o">=</span> <span class="n">talib</span><span class="o">.</span><span class="n">RSI</span><span class="p">(</span><span class="n">hist_data</span><span class="p">[</span><span class="s1">&#39;close&#39;</span><span class="p">],</span>    <span class="n">timeperiod</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">time_period</span><span class="p">)</span>
+
+    <span class="n">oversold_list</span> <span class="o">=</span> <span class="p">[</span><span class="bp">self</span><span class="o">.</span><span class="n">oversold_value</span><span class="p">]</span> <span class="o">*</span> <span class="n">rsi_value</span><span class="o">.</span><span class="n">size</span>
+    <span class="n">overbought_list</span> <span class="o">=</span> <span class="p">[</span><span class="bp">self</span><span class="o">.</span><span class="n">overbought_value</span><span class="p">]</span> <span class="o">*</span> <span class="n">rsi_value</span><span class="o">.</span><span class="n">size</span>
+
+    <span class="n">oversold_crossover_value</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">utils</span><span class="o">.</span><span class="n">crossover</span><span class="p">(</span><span class="n">rsi_value</span><span class="p">,</span> <span class="n">oversold_list</span><span class="p">)</span>
+    <span class="n">overbought_crossover_value</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">utils</span><span class="o">.</span><span class="n">crossover</span><span class="p">(</span><span class="n">rsi_value</span><span class="p">,</span> <span class="n">overbought_list</span><span class="p">)</span>
+
+    <span class="k">return</span> <span class="n">oversold_crossover_value</span><span class="p">,</span> <span class="n">overbought_crossover_value</span>
+</code></pre></div>
+<hr />
+<h3 id="miscellaneous-functions">Miscellaneous Functions<a class="headerlink" href="#miscellaneous-functions" title="Permanent link">&para;</a></h3>
+<h4 id="get_child_instrument_details">get_child_instrument_details()<a class="headerlink" href="#get_child_instrument_details" title="Permanent link">&para;</a></h4>
+<p>The <strong>get_child_instrument_details</strong> function is at your disposal. It takes several parameters:  </p>
+<ul>
+<li><strong>base_instrument</strong>: The foundation of your options strategy, often represented by an index.</li>
+<li><strong>tradingsymbol_suffix</strong>: Specifies whether the option should be a call option (CE) or a put option (PE), determining the trading symbol's suffix.</li>
+<li><strong>strike_direction</strong>: Defines the direction relative to the current strike price, with options like "In The Money" (ITM), "Out of The Money" (OTM), and "At the Money" (ATM).</li>
+<li><strong>no_of_strikes</strong>: Specifies how many strikes away from the current strike price the function should consider, setting the distance in strike prices within the chosen strike direction.</li>
+</ul>
+<p>This function calls two other functions: <code>self.get_allowed_expiry_dates()</code> and <code>get_options_instrument_with_strike_direction()</code>.</p>
+<p><strong>Example:</strong><br />
+This is how the function looks ideally. This example was taken from “Options Bear Call Strategy” from ready templates.</p>
+<div class="highlight"><pre><span></span><code>    <span class="k">def</span> <span class="nf">get_child_instrument_details</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">base_instrument</span><span class="p">,</span> <span class="n">tradingsymbol_suffix</span><span class="p">,</span> <span class="n">strike_direction</span><span class="p">,</span> <span class="n">no_of_strikes</span><span class="p">):</span>
+        <span class="n">expiry_date</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_allowed_expiry_dates</span><span class="p">()[</span><span class="mi">0</span><span class="p">]</span>
+        <span class="n">child_instrument</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_options_instrument_with_strike_direction</span><span class="p">(</span><span class="n">base_instrument</span><span class="p">,</span> <span class="n">expiry_date</span><span class="p">,</span> <span class="n">tradingsymbol_suffix</span><span class="p">,</span> <span class="n">strike_direction</span><span class="p">,</span> <span class="n">no_of_strikes</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">child_instrument</span>
+</code></pre></div>
+<hr />
+<h4 id="get_allowed_expiry_dates">get_allowed_expiry_dates()<a class="headerlink" href="#get_allowed_expiry_dates" title="Permanent link">&para;</a></h4>
+<p>In options strategies, the <strong>get_allowed_expiry_dates</strong> function plays a vital role. It doesn't require parameters; instead, it relies on the <strong>number_of_allowed_expiry_dates</strong> variable defined in the constructor method.  </p>
+<ul>
+<li>If <strong>number_of_allowed_expiry_dates</strong> is set to 1, the function returns the monthly expiry date.</li>
+<li>If <strong>number_of_allowed_expiry_dates</strong> is set to 0, the function returns a weekly expiry date.</li>
+</ul>
+<p>In essence, this function helps you select the appropriate expiry date based on the value you assign to <code>number_of_allowed_expiry_dates</code> variable.</p>
+<hr />
+<h4 id="get_options_instrument_with_strike_direction">get_options_instrument_with_strike_direction()<a class="headerlink" href="#get_options_instrument_with_strike_direction" title="Permanent link">&para;</a></h4>
+<p>This function is a key player in options strategies, taking parameters such as:  </p>
+<ul>
+<li><strong>base_instrument</strong>: The foundation of your options strategy.</li>
+<li><strong>expiry_date</strong>: The expiry date of the child instrument, calculated using the "get_allowed_expiry_dates" function.</li>
+<li><strong>tradingsymbol_suffix</strong>: Specifies whether the option should be a call option (CE) or a put option (PE), helping identify the appropriate options.</li>
+<li><strong>strike_direction</strong>: Determines the direction in relation to the current strike price, offering options like "In The Money" (ITM), "Out of The Money" (OTM), and "At the Money" (ATM).</li>
+<li><strong>no_of_strikes</strong>: Specifies how many strikes away from the current strike price the function should consider, defining the distance in strike prices within the chosen strike direction.</li>
+</ul>
+<h4 id="options_instruments_set_up_local">options_instruments_set_up_local()<a class="headerlink" href="#options_instruments_set_up_local" title="Permanent link">&para;</a></h4>
+<p>Now, let's talk about a crucial piece of the options strategy puzzle – <code>options_instruments_set_up_local</code>. This function creates local instances of all available child instruments based on specified parameters:  </p>
+<ul>
+<li><strong>base_instrument</strong>: The foundation of your options strategy, typically an index.</li>
+<li><strong>tradingsymbol_suffix</strong>: Specifies whether the child instrument should be a call option (CE) or a put option (PE), aiding in the identification of the appropriate options.</li>
+<li><strong>current_close</strong> (strike_price): The current price of the base instrument, also known as the strike price.</li>
+<li><strong>direction</strong>: Determines the direction in relation to the current strike price, helping select the child instrument (i.e., ATM, ITM, or OTM).</li>
+</ul>
+<p>Once executed, this function sets up and stores local instances of child instruments matching your criteria. These instances become valuable assets for further analysis or operations, including utilising the "get_child_instrument_details" function.</p>
+<p><strong>Example:</strong><br />
+This is how this function looks ideally. This example was taken from “Options Bear Call Ladder” from ready templates.</p>
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">options_instruments_set_up_local</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">base_instrument</span><span class="p">,</span> <span class="n">tradingsymbol_suffix</span><span class="p">,</span> <span class="n">current_close</span><span class="p">,</span> <span class="n">direction</span><span class="o">=</span><span class="n">OptionsInstrumentDirection</span><span class="o">.</span><span class="n">EXACT</span><span class="p">):</span>
+        <span class="n">expiry_dates</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_allowed_expiry_dates</span><span class="p">()</span>
+        <span class="k">for</span> <span class="n">expiry_date</span> <span class="ow">in</span> <span class="n">expiry_dates</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">options_instruments_set_up</span><span class="p">(</span><span class="n">base_instrument</span><span class="p">,</span> <span class="n">direction</span><span class="p">,</span> <span class="n">expiry_date</span><span class="p">,</span> <span class="n">tradingsymbol_suffix</span><span class="p">,</span> <span class="n">current_close</span><span class="p">)</span>
+</code></pre></div>
+<hr />
+<h4 id="options_instruments_set_up">options_instruments_set_up()<a class="headerlink" href="#options_instruments_set_up" title="Permanent link">&para;</a></h4>
+<p>The final piece of the puzzle is "options_instruments_set_up." This function takes parameters like:  </p>
+<ul>
+<li><strong>base_instrument</strong>: The foundation of your options strategy.</li>
+<li><strong>direction</strong>: Determines the direction in relation to the current strike price, helping select the child instrument (i.e., ATM, ITM, or OTM).</li>
+<li><strong>expiry_date</strong>: The expiry date of the child instrument, calculated using the "get_allowed_expiry_dates" function.</li>
+<li><strong>tradingsymbol_suffix</strong>: Specifies whether the child instrument should be a call option (CE) or a put option (PE), aiding in the identification of the appropriate options.</li>
+<li><strong>current_close</strong>: The current price of the base instrument, also known as the strike price.</li>
+</ul>
+<hr />
+<p>Now, let's talk about the engine that drives your strategy – the core loop functions. </p>
+<p>These include "<strong>strategy_select_instruments_for_entry</strong>", "<strong>strategy_enter_position</strong>", "<strong>strategy_select_instruments_for_exit</strong>" and "<strong>strategy_exit_position</strong>" These functions are called within a loop from the AlgoBulls core until an Exit Event for the strategy occurs.</p>
+<hr />
+<h3 id="the-4-core-loop-functions">The 4 Core Loop Functions<a class="headerlink" href="#the-4-core-loop-functions" title="Permanent link">&para;</a></h3>
+<h4 id="strategy_select_instruments_for_entry">strategy_select_instruments_for_entry()<a class="headerlink" href="#strategy_select_instruments_for_entry" title="Permanent link">&para;</a></h4>
+<p>This function takes parameters:  </p>
+<ul>
+<li><strong>candle</strong>: The current candle where the strategy is executing its algorithm.</li>
+<li><strong>instrument_bucket</strong>: A list of all the instruments provided by the user when starting the strategy.
+Here, you iterate through the instruments, calling "self.get_decision()" to determine actions for each. For options strategies, you can also use "self.options_instruments_set_up_local()" to set up child instruments for each base instrument. The selected instruments and their meta-information are returned by the function.</li>
+</ul>
+<p><strong>Example</strong>:<br />
+This function would ideally look like this. This example was taken from “Options Straddle” from Ready Templates.</p>
+<p><strong>Examples:</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="4:2"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio" /><input id="__tabbed_4_2" name="__tabbed_4" type="radio" /><div class="tabbed-labels"><label for="__tabbed_4_1"><strong>Regular</strong></label><label for="__tabbed_4_2"><strong>Options</strong></label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">strategy_select_instruments_for_entry</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">candle</span><span class="p">,</span> <span class="n">instruments_bucket</span><span class="p">):</span>
+    <span class="n">selected_instruments</span><span class="p">,</span> <span class="n">meta</span> <span class="o">=</span> <span class="p">[],</span> <span class="p">[]</span>
+
+    <span class="k">for</span> <span class="n">instrument</span> <span class="ow">in</span> <span class="n">instruments_bucket</span><span class="p">:</span>
+        <span class="n">crossover</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_decision</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span>
+        <span class="n">action_constants</span> <span class="o">=</span> <span class="p">{</span><span class="mi">1</span><span class="p">:</span> <span class="s1">&#39;BUY&#39;</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">:</span> <span class="s1">&#39;SELL&#39;</span><span class="p">}</span>
+
+        <span class="k">if</span> <span class="n">crossover</span> <span class="ow">in</span> <span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">]:</span>
+            <span class="n">selected_instruments</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span>
+            <span class="n">meta</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">&#39;action&#39;</span><span class="p">:</span> <span class="n">action_constants</span><span class="p">[</span><span class="n">crossover</span><span class="p">]})</span>
+
+    <span class="k">return</span> <span class="n">selected_instruments</span><span class="p">,</span> <span class="n">meta</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">strategy_select_instruments_for_entry</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">candle</span><span class="p">,</span> <span class="n">instruments_bucket</span><span class="p">):</span>
+    <span class="n">selected_instruments</span><span class="p">,</span> <span class="n">meta</span> <span class="o">=</span> <span class="p">[],</span> <span class="p">[]</span>
+
+    <span class="k">for</span> <span class="n">instrument</span> <span class="ow">in</span> <span class="n">instruments_bucket</span><span class="p">:</span>
+        <span class="k">if</span> <span class="n">instrument</span> <span class="ow">not</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">instruments_done_for_the_day</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">instruments_done_for_the_day</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span>
+            <span class="n">ltp</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">broker</span><span class="o">.</span><span class="n">get_ltp</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span>
+
+            <span class="bp">self</span><span class="o">.</span><span class="n">options_instruments_set_up_local</span><span class="p">(</span><span class="n">instrument</span><span class="p">,</span> <span class="s2">&quot;CE&quot;</span><span class="p">,</span> <span class="n">ltp</span><span class="p">)</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">options_instruments_set_up_local</span><span class="p">(</span><span class="n">instrument</span><span class="p">,</span> <span class="s2">&quot;PE&quot;</span><span class="p">,</span> <span class="n">ltp</span><span class="p">)</span>
+
+            <span class="n">leg_wise_list</span> <span class="o">=</span> <span class="p">[(</span><span class="s1">&#39;LEG_ONE&#39;</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_one_tradingsymbol_suffix</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_one_strike_direction</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_one_number_of_strikes</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_one_transaction_type</span><span class="p">),</span>
+                             <span class="p">(</span><span class="s1">&#39;LEG_TWO&#39;</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_two_tradingsymbol_suffix</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_two_strike_direction</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_two_number_of_strikes</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_two_transaction_type</span><span class="p">),</span>
+                             <span class="p">(</span><span class="s1">&#39;LEG_THREE&#39;</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_three_tradingsymbol_suffix</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_three_strike_direction</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_three_number_of_strikes</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_leg_three_transaction_type</span><span class="p">)]</span>
+
+            <span class="k">for</span> <span class="n">leg_number</span><span class="p">,</span> <span class="n">tradingingsymbol_suffix</span><span class="p">,</span> <span class="n">strike_direction</span><span class="p">,</span> <span class="n">number_of_strikes</span><span class="p">,</span> <span class="n">transaction_type</span> <span class="ow">in</span> <span class="n">leg_wise_list</span><span class="p">:</span>
+                <span class="bp">self</span><span class="o">.</span><span class="n">logger</span><span class="o">.</span><span class="n">info</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Processing </span><span class="si">{</span><span class="n">leg_number</span><span class="si">}</span><span class="s1">...&#39;</span><span class="p">)</span>
+                <span class="n">child_instrument</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_child_instrument_details</span><span class="p">(</span><span class="n">instrument</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">tradingsymbol_suffix_map</span><span class="p">[</span><span class="n">tradingingsymbol_suffix</span><span class="p">],</span> <span class="bp">self</span><span class="o">.</span><span class="n">strike_direction_map</span><span class="p">[</span><span class="n">strike_direction</span><span class="p">],</span> <span class="n">number_of_strikes</span><span class="p">)</span>
+                <span class="n">selected_instruments</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">child_instrument</span><span class="p">)</span>
+                <span class="n">meta</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">&#39;base_instrument&#39;</span><span class="p">:</span> <span class="n">instrument</span><span class="p">,</span> <span class="s1">&#39;action&#39;</span><span class="p">:</span> <span class="bp">self</span><span class="o">.</span><span class="n">transaction_type_map</span><span class="p">[</span><span class="n">transaction_type</span><span class="p">]})</span>
+
+    <span class="k">return</span> <span class="n">selected_instruments</span><span class="p">,</span> <span class="n">meta</span>
+</code></pre></div>
+</div>
+</div>
+</div>
+<hr />
+<h4 id="strategy_enter_position">strategy_enter_position()<a class="headerlink" href="#strategy_enter_position" title="Permanent link">&para;</a></h4>
+<p>This function takes parameters:  </p>
+<ul>
+<li><strong>candle</strong>: The current candle where the strategy is executing its algorithm.</li>
+<li><strong>instrument</strong>: One of the instruments from the selected instruments list returned by "strategy_select_instruments_for_entry."</li>
+<li><strong>meta</strong>: Meta-information of that particular instrument, aligning with the instrument from the meta list.</li>
+</ul>
+<p>Here, you place orders for the selected instruments, updating them in "self.main_order" for easy access in exit functions.</p>
+<p><strong>Example</strong>:<br />
+This function would ideally look like this. This example was taken from “Options Straddle” from Ready Templates.</p>
+<p><strong>Examples:</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="5:2"><input checked="checked" id="__tabbed_5_1" name="__tabbed_5" type="radio" /><input id="__tabbed_5_2" name="__tabbed_5" type="radio" /><div class="tabbed-labels"><label for="__tabbed_5_1"><strong>Regular</strong></label><label for="__tabbed_5_2"><strong>Options</strong></label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">strategy_enter_position</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">candle</span><span class="p">,</span> <span class="n">instrument</span><span class="p">,</span> <span class="n">meta</span><span class="p">):</span>
+    <span class="bp">self</span><span class="o">.</span><span class="n">main_order_map</span><span class="p">[</span><span class="n">instrument</span><span class="p">]</span> <span class="o">=</span> <span class="n">_</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">broker</span><span class="o">.</span><span class="n">OrderRegular</span><span class="p">(</span><span class="n">instrument</span><span class="p">,</span> <span class="n">meta</span><span class="p">[</span><span class="s1">&#39;action&#39;</span><span class="p">],</span> <span class="n">quantity</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">number_of_lots</span> <span class="o">*</span> <span class="n">instrument</span><span class="o">.</span><span class="n">lot_size</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">_</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">strategy_enter_position</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">candle</span><span class="p">,</span> <span class="n">instrument</span><span class="p">,</span> <span class="n">sideband_info</span><span class="p">):</span>
+    <span class="n">_</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">broker</span><span class="o">.</span><span class="n">OrderRegular</span><span class="p">(</span><span class="n">instrument</span><span class="p">,</span> <span class="n">sideband_info</span><span class="p">[</span><span class="s1">&#39;action&#39;</span><span class="p">],</span> <span class="n">quantity</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">number_of_lots</span> <span class="o">*</span> <span class="n">instrument</span><span class="o">.</span><span class="n">lot_size</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">_</span>
+</code></pre></div>
+</div>
+</div>
+</div>
+<h4 id="orderregular"><strong>OrderRegular</strong><a class="headerlink" href="#orderregular" title="Permanent link">&para;</a></h4>
+<p>The <code>self.broker.OrderRegular</code> is used to place the entry/exit orders.          </p>
+<h5 id="parameters">Parameters:<a class="headerlink" href="#parameters" title="Permanent link">&para;</a></h5>
+<ul>
+<li><code>instrument</code>: Instrument object on which to place the order.</li>
+<li><code>action</code>: Action to be taken, either 'BUY' or 'SELL'.</li>
+<li><code>quantity</code>: The quantity of the order, generally calculated as <code>self.number_of_lots * instrument.lot_size</code>.</li>
+<li><code>order_variety</code>: (Optional) Type of order. Default is MARKET order (<code>BrokerOrderVarietyConstants.MARKET</code>).</li>
+<li><code>price</code>: (Optional) The price at which the limit order will be placed.</li>
+<li><code>trigger_price</code>: (Optional) The trigger price for stop-loss orders.</li>
+</ul>
+<p>Click on each of the tabs to see the relevant code snippet.</p>
+<div class="tabbed-set tabbed-alternate" data-tabs="6:4"><input checked="checked" id="__tabbed_6_1" name="__tabbed_6" type="radio" /><input id="__tabbed_6_2" name="__tabbed_6" type="radio" /><input id="__tabbed_6_3" name="__tabbed_6" type="radio" /><input id="__tabbed_6_4" name="__tabbed_6" type="radio" /><div class="tabbed-labels"><label for="__tabbed_6_1"><strong>Market Order</strong></label><label for="__tabbed_6_2"><strong>Limit Order</strong></label><label for="__tabbed_6_3"><strong>Stoploss Market Order</strong></label><label for="__tabbed_6_4"><strong>Stoploss Limit Order</strong></label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="bp">self</span><span class="o">.</span><span class="n">broker</span><span class="o">.</span><span class="n">OrderRegular</span><span class="p">(</span>
+    <span class="n">instrument</span><span class="p">,</span>
+    <span class="n">action</span><span class="p">,</span> 
+    <span class="n">quantity</span> 
+    <span class="p">)</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="bp">self</span><span class="o">.</span><span class="n">broker</span><span class="o">.</span><span class="n">OrderRegular</span><span class="p">(</span>
+    <span class="n">instrument</span><span class="p">,</span> 
+    <span class="n">action</span><span class="p">,</span> 
+    <span class="n">quantity</span><span class="p">,</span> 
+    <span class="n">order_variety</span><span class="o">=</span><span class="n">BrokerOrderVarietyConstants</span><span class="o">.</span><span class="n">LIMIT</span><span class="p">,</span> 
+    <span class="n">price</span><span class="o">=</span><span class="n">price</span> 
+    <span class="p">)</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="bp">self</span><span class="o">.</span><span class="n">broker</span><span class="o">.</span><span class="n">OrderRegular</span><span class="p">(</span>
+    <span class="n">instrument</span><span class="p">,</span> 
+    <span class="n">action</span><span class="p">,</span> 
+    <span class="n">quantity</span><span class="p">,</span> 
+    <span class="n">order</span><span class="o">=</span><span class="n">order_variety</span><span class="o">=</span><span class="n">BrokerOrderVarietyConstants</span><span class="o">.</span><span class="n">STOPLOSS_MARKET</span><span class="p">,</span> 
+    <span class="n">trigger_price</span><span class="o">=</span><span class="n">trigger_price</span>
+    <span class="p">)</span>
+</code></pre></div>
+</div>
+<div class="tabbed-block">
+<div class="highlight"><pre><span></span><code><span class="bp">self</span><span class="o">.</span><span class="n">broker</span><span class="o">.</span><span class="n">OrderRegular</span><span class="p">(</span>
+    <span class="n">instrument</span><span class="p">,</span>  
+    <span class="n">action</span><span class="p">,</span> 
+    <span class="n">quantity</span><span class="p">,</span>  
+    <span class="n">order_variety</span><span class="o">=</span><span class="n">BrokerOrderVarietyConstants</span><span class="o">.</span><span class="n">STOPLOSS_LIMIT</span><span class="p">,</span> 
+    <span class="n">price</span><span class="o">=</span><span class="n">price</span><span class="p">,</span> 
+    <span class="n">trigger_price</span><span class="o">=</span><span class="n">trigger_price</span>
+<span class="p">)</span>
+</code></pre></div>
+</div>
+</div>
+</div>
+<h4 id="strategy_select_instruments_for_exit">strategy_select_instruments_for_exit()<a class="headerlink" href="#strategy_select_instruments_for_exit" title="Permanent link">&para;</a></h4>
+<p>Similar to entry, this function takes parameters:</p>
+<ul>
+<li><strong>candle</strong>: The current candle where the strategy is executing its algorithm.</li>
+<li><strong>instrument_bucket</strong>: A list of all instruments provided by the user when starting the strategy.</li>
+</ul>
+<p>The function iterates through the instrument bucket, checking if the instrument is present in "self.main_order" and whether its exit condition is satisfied. Instruments meeting exit conditions are added to the selected instruments list, along with their respective actions and meta-information.</p>
+<p><strong>Example</strong>:<br />
+This function should ideally look like this. This example was taken from “EMA Crossover Strategy”.</p>
+<div class="highlight"><pre><span></span><code>    <span class="k">def</span> <span class="nf">strategy_select_instruments_for_exit</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">candle</span><span class="p">,</span> <span class="n">instruments_bucket</span><span class="p">):</span>
+        <span class="n">selected_instruments</span><span class="p">,</span> <span class="n">meta</span> <span class="o">=</span> <span class="p">[],</span> <span class="p">[]</span>
+
+        <span class="k">for</span> <span class="n">instrument</span> <span class="ow">in</span> <span class="n">instruments_bucket</span><span class="p">:</span>
+            <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">main_order_map</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+                <span class="n">crossover</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_decision</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span>
+
+                <span class="k">if</span> <span class="n">crossover</span> <span class="ow">in</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">]:</span>
+                    <span class="n">selected_instruments</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">instrument</span><span class="p">)</span>
+                    <span class="n">meta</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">&#39;action&#39;</span><span class="p">:</span> <span class="s1">&#39;EXIT&#39;</span><span class="p">})</span>
+
+        <span class="k">return</span> <span class="n">selected_instruments</span><span class="p">,</span> <span class="n">meta</span>
+</code></pre></div>
+<hr />
+<h4 id="strategy_exit_position">strategy_exit_position()<a class="headerlink" href="#strategy_exit_position" title="Permanent link">&para;</a></h4>
+<p>Finally, this function takes parameters:</p>
+<ul>
+<li><strong>candle</strong>: The current candle where the strategy is executing its algorithm.</li>
+<li><strong>instrument</strong>: One of the instruments from the selected instruments list returned by "strategy_select_instruments_for_exit."</li>
+<li><strong>meta</strong>: Meta-information of that particular instrument, aligning with the instrument from the meta list.</li>
+</ul>
+<p>Here, you place orders for the selected instruments, removing them from "self.main_order" to prepare for the next iteration of the AlgoBulls core loop.</p>
+<p><strong>Example:</strong>
+This function should ideally look like this. This example was taken from the "EMA Crossover Strategy". Here, we are telling the core to exit all positions:
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">strategy_exit_position</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">candle</span><span class="p">,</span> <span class="n">instrument</span><span class="p">,</span> <span class="n">meta</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">meta</span><span class="p">[</span><span class="s1">&#39;action&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;EXIT&#39;</span><span class="p">:</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">main_order_map</span><span class="p">[</span><span class="n">instrument</span><span class="p">]</span><span class="o">.</span><span class="n">exit_position</span><span class="p">()</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">main_order_map</span><span class="p">[</span><span class="n">instrument</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="k">return</span> <span class="kc">True</span>
+    <span class="k">return</span> <span class="kc">False</span>
+</code></pre></div>
+If you want the strategy to place the exit order instead of letting the core handle it, then this is what the function should look like:
+<div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">strategy_exit_position</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">candle</span><span class="p">,</span> <span class="n">instrument</span><span class="p">,</span> <span class="n">meta</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">meta</span><span class="p">[</span><span class="s1">&#39;action&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;EXIT&#39;</span><span class="p">:</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">broker</span><span class="o">.</span><span class="n">OrderRegular</span><span class="p">(</span>
+            <span class="n">instrument</span><span class="p">,</span>
+            <span class="n">action</span><span class="p">,</span>
+            <span class="n">quantity</span><span class="p">,</span>
+            <span class="n">related_order</span><span class="o">=</span><span class="n">entry_order</span><span class="p">,</span>
+            <span class="n">position</span><span class="o">=</span><span class="n">BrokerExistingOrderPositionConstants</span><span class="o">.</span><span class="n">EXIT</span>
+            <span class="p">)</span>
+        <span class="k">return</span> <span class="kc">True</span>
+    <span class="k">return</span> <span class="kc">False</span>
+</code></pre></div></p>
+<div class="admonition tip">
+<p class="admonition-title">Note</p>
+<ul>
+<li><code>meta['action']</code> has to be opposite of the entry order's transaction type. For example: if the entry order is 'BUY', then <code>meta['action']</code> should be 'SELL', and vice versa.</li>
+<li>Pass the entry order object as the <code>related_order</code> parameter.</li>
+<li>You can specify a lesser quantity if you want to partially exit your entry order. In case of partial exits, ensure that you return 'True' only if the quantity becomes zero after placing this order, else return 'False' for your intermediate/partial exits.</li>
+</ul>
+</div>
+
+  <hr>
+<div class="md-source-file">
+  <small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2024-08-03T09:14:47+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-08-03</span>
+      
+    
+  </small>
+</div>
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright © 2020 | All Rights Reserved | AlgoBulls Technologies Private Limited
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://linkedin.com/company/algobulls" target="_blank" rel="noopener" title="linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://facebook.com/algobullsalgotrading" target="_blank" rel="noopener" title="facebook.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/algobulls/" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1zM480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2zm-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3zm-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.expand", "navigation.top"], "search": "../../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.aecac24b.min.js"></script>
+      
+        <script src="../../../js/timeago.min.js"></script>
+      
+        <script src="../../../js/timeago_mkdocs_material.js"></script>
+      
+    
+  </body>
+</html>
