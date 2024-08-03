@@ -35,7 +35,7 @@ theme:
       accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
-#        icon: material/weather-night
+        #        icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -43,7 +43,7 @@ theme:
       accent: blue
       toggle:
         icon: material/toggle-switch
-#        icon: material/weather-sunny
+        #        icon: material/weather-sunny
         name: Switch to light mode
   language: en
   features:
@@ -60,37 +60,110 @@ use_directory_urls: false
 nav:
   - Home: 'index.md'
   - 'FAQ': 'member/faq.md'
-  - 'Website Manual':
+  - 'Algo Products':
+      - 'Odyssey':
+          - 'Introduction': 'member/choose-strategy.md'
+          - 'Strategy Details': 'member/strategy-card.md'
+          - 'Strategist Profile': 'member/strategist-profile.md'
+      - 'Phoenix':
+          - 'Introduction': 'member/python-build.md'
+          - Phoenix Strategy Development Guide: 'member/index.md'
+
+          - 'Strategies':
+              - General Strategy Guide: 'member/strategies/strategy_guides/common_strategy_guide.md'
+              - Regular Strategies:
+                  - Aroon Crossover: 'member/strategies/aroon_crossover.md'
+                  - Bollinger Bands: 'member/strategies/bollinger_bands.md'
+                  - EMA Crossover: 'member/strategies/ema_crossover.md'
+                  - Inverse EMA Scalping: 'member/strategies/inverse_ema_scalping.md'
+                  - MACD Crossover: 'member/strategies/macd_crossover.md'
+                  - Mean Reversion Bollinger Bands: 'member/strategies/mean_reversion_bollinger_bands.md'
+                  - Reverse RSI: 'member/strategies/reverse_rsi.md'
+                  - RSI MACD Crossover: 'member/strategies/rsi_macd_crossover.md'
+                  - Stochastic Crossover: 'member/strategies/stochastic_crossover.md'
+                  - VWAP Crossover: 'member/strategies/vwap_crossover.md'
+                  - Volatility Trend ATR: 'member/strategies/volatility_trend_atr.md'
+
+              - Options Strategies:
+                  - Options Bear Call Ladder: 'member/strategies/options_bear_call_ladder.md'
+                  - Options Bear Put Ladder: 'member/strategies/options_bear_put_ladder.md'
+                  - Options Bull Call Ladder: 'member/strategies/options_bull_call_ladder.md'
+                  - Options Bull Put Ladder: 'member/strategies/options_bull_put_ladder.md'
+                  - Options Long Iron Butterfly: 'member/strategies/options_long_iron_butterfly.md'
+                  - Options Straddle: 'member/strategies/options_straddle.md'
+                  - Options Strangle: 'member/strategies/options_strangle.md'
+          - Pyalgotrading:
+              - Introduction: 'member/pyalgotrad/introduction.md'
+              - Setup your Workspace: 'member/pyalgotrad/prerequisites.md'
+              - Strategy Creation and Execution:
+                  - Upload your Strategy: 'member/pyalgotrad/upload.md'
+                  - Select your Strategy: 'member/pyalgotrad/select.md'
+                  - Execute your Strategy: 'member/pyalgotrad/testing.md'
+              - Analytics: 'member/pyalgotrad/pyalgotrading_analytics.md'
+              - Features:
+                  - Slippage: 'member/pyalgotrad/slippage.md'
+                  - Brokerage: 'member/pyalgotrad/brokerage.md'
+          - Phoenix Web:
+              - Introduction: 'member/python_build/python-build-introduction.md'
+              - Setup your Workspace: 'member/python_build/python-build-getstarted.md'
+              - Strategy Creation and Execution:
+                  - Code Using AI: 'member/python_build/python-build-code-gen-ai.md'
+                  - Professional Support: 'member/python_build/python-build-professional.md'
+                  - Code Ready Templates: 'member/python_build/python-build-code-ready-templates.md'
+                  - Code New Strategy: 'member/python_build/python-build-code-new.md'
+                  - Configure and Execute your Strategy: 'member/python_build/python-build-config-parameters.md'
+              - Analytics: 'member/python_build/python-build-view-results.md'
+          - Phoenix Support: 'member/support/support_pybuild.md'
+
+      - Phoenix Copilot:
+          - Introduction: 'member/gen_ai/phoenix_copilot_introduction.md'
+#          - Create your OpenAI Keys: 'member/gen_ai/get_open_ai_keys.md'
+          - Prompt Library: 'member/gen_ai/gen_ai_prompt_library.md'
+  - 'Algo Execution & Analytics':
       - 'Dashboard': 'member/dashboard.md'
-      - 'Odyssey': 'member/choose-strategy.md'
-      - 'Strategy Card': 'member/strategy-card.md'
-      - 'Strategist Profile': 'member/strategist-profile.md'
-      - 'Phoenix': 'member/python-build.md'
-      - 'Fixed Income': 'member/fixed-income.md'
-      - 'Issuer Profile': 'member/issuer-profile.md'
+
       - 'My Portfolio':
-          - 'Live Trading': 'member/live-trading.md'
-          - 'Virtual Trading': 'member/virtual-trading.md'
-      - 'My Strategies': 'member/my-strategies.md'
+          - 'Live Trading and Virtual Trading': 'member/live-trading.md'
+      #          - 'Virtual Trading': 'member/virtual-trading.md'
+      #      - 'My Strategies': 'member/my-strategies.md'
       - 'Live Reports':
           - 'P & L Book': 'member/Books/pnl.md'
           - 'Trade Book': 'member/Books/tradebook.md'
-          - 'Fund Book': 'member/Books/fundbook.md'
+      #          - 'Fund Book': 'member/Books/fundbook.md'
+
+  - 'Setup':
       - 'Broking Details': 'member/broking-details.md'
-      - 'Plans & Wallet': 'member/wallet.md'
       - 'Settings': 'member/settings.md'
+
+  - 'Subscriptions':
+      - 'Pricing': 'member/wallet.md'
+      - 'My Plans': 'member/my_plans.md'
+
+  - 'Other Products':
+      - 'Fixed Income': 'member/fixed-income.md'
+      - 'Issuer Profile': 'member/issuer-profile.md'
+
   - 'Features':
       - 'P&L Tracker': 'member/pnltracker.md'
       - 'Tweak': 'member/tweak.md'
-      - 'Test & Live Mode': 'member/test-to-live-mode.md'
-#      - 'Brokerage Calculator': 'member/brokerage-calculator.md'
+  #      - 'Test & Live Mode': 'member/test-to-live-mode.md'
+  #      - 'Brokerage Calculator': 'member/brokerage-calculator.md'
+
+  - How to: 'member/strategies/how_to.md'
+  - Frequently Encountered Errors: 'member/strategies/fee.md'
+
   - 'Broker Information':
-#      - '5PAISA': 'broker/fivepaisa.md'
-#      - 'AC AGARWAL': 'broker/acagarwal.md'
-#      - 'ALICEBLUE': 'broker/aliceblue.md'
-#      - 'ALPACA': 'broker/alpaca.md'
-#      - 'ANAND RATHI': 'broker/anandrathi.md'
+      #      - '5PAISA': 'broker/fivepaisa.md'
+      #      - 'AC AGARWAL': 'broker/acagarwal.md'
+      #      - 'ALICEBLUE': 'broker/aliceblue.md'
+      - 'ALPACA':
+          - Setup: 'broker/alpaca.md'
+          - Information: 'member/brokers/broker_alpaca_guide.md'
+          - Setting Up Alpaca with AlgoBulls:
+              - OAuth: 'member/brokers/connecting_alpaca.md'
+              - Non-OAuth: 'member/brokers/non_auth_alpaca.md'
       - 'ANGELBROKING': 'broker/angelbroking.md'
+#      - 'ANAND RATHI': 'broker/anandrathi.md'
 #      - 'ARHAM WEALTH': 'broker/arhamwealth.md'
 #      - 'CHOICE': 'broker/choice.md'
 #      - 'FINDOC': 'broker/findoc.md'
@@ -116,7 +189,7 @@ nav:
 
 plugins:
   - search                                  # necessary for search to work
-  - git-revision-date-localized:            # When enabled, the respective 'Last Updated' date is automatically added at the bottom of each page. Docs: https://squidfunk.github.io/mkdocs-material/plugins/revision-date/
+  - git-revision-date-localized: # When enabled, the respective 'Last Updated' date is automatically added at the bottom of each page. Docs: https://squidfunk.github.io/mkdocs-material/plugins/revision-date/
       type: timeago
 
 
@@ -140,7 +213,7 @@ extra:
 
 markdown_extensions:
   - admonition              # Add note, tip, question, warning, error, etc. Docs: https://squidfunk.github.io/mkdocs-material/extensions/admonition/
-  - toc:                    # Docs: https://squidfunk.github.io/mkdocs-material/extensions/permalinks/
+  - toc: # Docs: https://squidfunk.github.io/mkdocs-material/extensions/permalinks/
       permalink: true
   - pymdownx.superfences
   - pymdownx.tabbed:

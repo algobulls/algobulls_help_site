@@ -1,165 +1,137 @@
-# Live Trading
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n7b-OEZZxSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Live Trading and Virtual Trading
 
 ## 1. Introduction
 ---
+My Portfolio page displays all the strategies that have been added from Odyssey and Phoenix. You can use these strategies to Backtest, Papertrade, or Livetrade on your desired conditions.
 
-You can execute strategies to begin live trading in the Live Trading Mode. Switch the toggle button on the bottom left side of the website to Live Mode.
 
-* Begin live trading with 100% automation in the **live trading mode**.
-
-* Choose from multiple brokers & execute trades directly in your **broking** account.
-
-* Monitor **live profit & loss** and fetch strategy execution **logs** in real time. There are no charges for fetching **logs**.
-
-* Start & Stop your algo strategies in one click. Charges may be applicable for **start and stop**.
-
-* Choose a strategy from the [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace now!
-
-## 2. What is Live Mode?
+## 2. How to Begin Live Trading?
 ---
+Begin Live Trading on AlgoBulls with these simple steps:
 
-The **Live Mode** is where you can execute strategies to begin live trading. Switch the toggle button on the bottom left side of the website to Live Mode. 
+**Step 1:**
+Select a strategy from the Odyssey or Phoenix page
 
-[![test_and_live](imgs/test_and_live5.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/test_and_live5.png)
+- For Odyssey click on execute button. The strategy will be added to the portfolio, and you will be redirected to the [My Portfolio](https://app.algobulls.com/portfolio) page.
 
-The Odyssey includes more than 150+ strategies that you can choose from; select a strategy, click execute and begin live trading. 
+- For Phoenix, click on **Add to My Portfolio** button inside the strategy below the code editor to add this strategy to My portfolio page.
 
-To avoid additional charges for services used in Live Trading, ensure you [subscribe to a plan](https://app.algobulls.com/wallet?defaultCategory=backtesting%26PaperTrading) from the Plans & Wallet section.
+**Step 2:**
+To start the chosen strategy, click the start button in the Action field.
 
-## 3. How to begin Live Trading?
----
-Begin Live Trading on AlgoBulls with these 4 simple steps:   
+[![Portfolio Strategy](imgs/portfolio_strategy.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio_strategy.png)
 
-**Step 1**
+**Step 3:**
 
-Switch to Live Mode 
+i. Select Live Trading from the modal.
 
-**Step 2**
+ii. Select a broker
 
-Select a strategy from the choose strategy section and click on execute. The strategy will be added to the portfolio & you will be redirected to the [My Portfolio](https://app.algobulls.com/portfolio) page.
+iii Add the start and end time, and specify the Quantity/Lots.
 
-**Step 3**
+[![Execute Modal](imgs/live_trade_modal.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/live_trade_modal.png)
 
-To start the chosen strategy click the start button from the Action field.
+**Step 4:**
+Use the toggle button to activate the P&L Tracker. Add the desired profit and risk appetite here. Click on Save & Start.
 
-[![PTB](imgs/my_portfolio.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/my_portfolio.png)
+[![PnL Tracker](imgs/ptb15.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/ptb15.png)
 
-Select a broker, add the start and end time and Quantity/Lots. 
+!!! note
 
-[![PTB](imgs/ptb14.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/ptb14.png)
+    * Please note that you will be charged for using these services.
 
-**Step 4**
-
-Use the toggle button to activate the P&L Tracker. Add the Desired Profit and Risk Appetite here. Click on Save & Start. 
-
-[![PTB](imgs/ptb15.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/ptb15.png)
-
-!!! note annotate "Note"
-
-    * Please note that you will be charged for using these services, to get these charges waived off you can purchase a package with AlgoBulls instead.
-
+    * To waive these charges, you can purchase a package with AlgoBulls.
 
 !!! warning
-    Even after completing all of the preceding steps mentioned above, trading may not begin for the following reasons:
-    
-    * Your broker account may be insufficiently funded.
-    
-    * A particular segment in your broker account has not yet been activated (This happens with new accounts, and though some brokers activate this by default, others may take 24 hours or more to do so).
-    
-    * Due to market volatility, your broker may have stopped accepting certain order requests on some of the scripts or stocks (If any such order type with such script/stock strategy is currently running in your AlgoBulls account, new orders for the same won't be displayed).
-    
-    * Certain order types are incompatible with certain brokers.
-    
-    * It's essential for your linked broker account to allow you to execute those orders. Not all strategies are accepted/allowed by every broker. This is because of broker permission issues.
 
-    * The AlgoBulls platform has no control over the brokerage charges imposed by your broker once your trading begins. Before proceeding, please review all charges on the broker's end.
+    Even after completing all the preceding steps, trading may not begin for the following reasons:
 
-------------
-Visit [algobulls.com](https://algobulls.com/).
+    * Insufficient funds in your broker account.
+    * A particular segment in your broker account has not been activated (this can happen with new accounts; some brokers activate this by default, while others may take 24 hours or more).
+    * Due to market volatility, your broker may stop accepting certain order requests on some scripts or stocks. If any such order type with such script/stock strategy is currently running in your AlgoBulls account, new orders for the same won't be displayed.
+    * Certain order types may be incompatible with certain brokers.
+    * Your linked broker account must allow you to execute those orders. Not all strategies are accepted/allowed by every broker due to permission issues.
+    * The AlgoBulls platform has no control over the brokerage charges imposed by your broker once your trading begins. Please review all charges on the broker's end before proceeding.
 
-The strategy may stop due to various reasons such as market closure, p&l achieved, or if there are any errors. 
-To check errors, in the **progress field** click on the **view details** option and then click on **detailed logs** on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
+    ------------
+    Visit [algobulls.com](https://algobulls.com/).
 
-[![PTB](imgs/ptb17.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/ptb17.png)
+- Strategies may stop due to various reasons such as market closure, P&L achieved, or if there are any errors. To check errors, in the **Progress field** click on the **view details** option.
 
-## 4. How to apply tweaked strategy in Live Trading?
+    - For Odyssey, logs and orders timeline will appear.
+
+      [![View Details Odyssey](imgs/view_details_odyssey.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/view_details_odyssey.png)
+
+    - For Phoenix, logs and orders timeline will appear along with a button to show **detailed analytics**.
+
+      [![View Details Phoenix](imgs/view_details_phoenix.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/view_details_phoenix.png)
+
+## 3. How to Begin Virtual Trading?
 ---
 
-If you are happy with the strategy after its virtual trading results you can begin real money trading by simply switching to Live Mode. 
+* **Step 1:**
+  To start the chosen strategy, click the start button in the Action field.
 
-The backtested/paper traded strategy will be added to your [My Strategies](my-strategies.md) section where you can simply switch them to **Live Trading** from the toggle button. The strategy will be added to your portfolio in **Live Mode**.
+  [![Portfolio Strategy](imgs/portfolio_strategy.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio_strategy.png)
 
-## 5. Summary Bar
+* **Step 2:**
+  i. Select Back Testing or Paper Trading from the modal.
+
+  [![Execution Modal](imgs/execution_modal.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/execution_modal.png)
+
+* **Step 3:**
+
+    * i. Click on Customisations and add dates for Back Testing.
+
+  [![Customisation](imgs/bt_customization.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/bt_customization.png)
+
+    * ii. Click on Customisations and add time for Paper Trading.
+
+  [![Customisation](imgs/pt_customization.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/pt_customization.png)
+
+* **Step 4:**
+  Use the toggle button to activate the P&L Tracker. Add the desired profit and risk appetite here. Click on Save & Start.
+
+  [![PnL Tracker](imgs/ptb15.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/ptb15.png)
+
+## 4. Summary Bar
 ---
+The **Summary Bar** in the portfolio section includes the following:
 
-The **summary bar** in the portfolio section includes the following: 
+* **Odyssey Strategy**: Number of strategies from the Odyssey in your portfolio.
+* **Tweak Strategy**: Number of strategies that have been tweaked by you.
+* **Custom Strategy**: Number of custom strategies built by the AlgoBulls developer team for you.
+* **Total Running Strategies**: Number of strategies currently active in your portfolio (during market hours).
+* **Today's P&L**: The total P&L value.
+  [![Portfolio Meta](imgs/portfolio_meta.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio_meta.png)
 
-**Choose Strategy**: Number of strategies from the Odyssey in your portfolio added by you.
-
-**Tweak Strategy**:  Number of strategies that have been tweaked by you.
-
-**Build Strategy**: Number of custom strategies that have been built by the AlgoBulls developer team for you. 
-
-**Total Running Strategies**: The number of strategies that are currently active on your portfolio, especially from the ones mentioned above (During the market hours).
-
-**Today’s P&L**: The total P&L value.
-
-[![Portfolio](imgs/portfolio2.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio2.png)
-
-## 6. Fields
+## 5. Fields
 ---
+The My Portfolio section includes the following fields:
 
-My Portfolio includes the following fields: 
+* **Mode**: Displays the strategy mode: **LT (Live Trading)**, **BT (Back Testing)**, or **PT (Paper Trading)**.
+* **Strategy**: Displays the strategy name and code.
+* **Instrument(s)**: Includes the instruments on which the strategy is being run.
+* **Tag**: A user-defined tag for the strategy, allowing users to categorize different strategies.
+* **Live Reports**: Displays **P&L** and **Trade Volume**, with redirect links to view your results in the respective **P&L Book** and **Trade Book**.
+  [![Strategy Fields](imgs/portfolio_fields.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio_fields.png)
 
-* **Strategy**: This field displays the strategy name and code.
+* **Config**: View parameters and other configuration settings here. The strategy configuration field includes **instrument** and **strategy settings**, such as general settings, strategy parameters, resume, exit, and miscellaneous options.
+  [![Tweak Config](imgs/tweak_config_view.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/tweak_config_view.png)
 
-* **Instrument(s)**: This includes the instrument on which the strategy is being run. 
+* **Action**: The Action field allows you to start or stop a strategy. To execute a strategy, click on **start**. You can choose multiple brokers and run the strategies simultaneously.
+  [![Action](imgs/portfolio7.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio7.png)
 
-* **Tag**: This is a user defined tag for the strategy. Users can tag different strategies under different tags.
-
-* **Volume**: This includes the strategy volume. To get a detailed view you can also click the symbol highlighted in blue in the volume field that redirects you to the tradebook.
-
-[![Portfolio](imgs/portfolio3.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio3.png)
-
-[![Portfolio](imgs/portfolio4.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio4.png)
-
-* **Config**: You can view parameters and other configuration settings here. 
-The strategy configuration field includes **instrument** and **strategy settings** such as general settings, strategy parameters, resume, exit and misc options. 
-
-[![Portfolio](imgs/portfolio5.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio5.png)
-
-* **Progress**: This includes the strategy progress status. You can view if the strategy is about to begin, has begun or has stopped here. You can also click on the view details section to get a real time progress update. 
-
-[![Portfolio](imgs/portfolio6.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio6.png)
-
-* **Logs** - The log feature allows you to view the complete details of an order placed. In the **progress** field click on the **view details** option and then click  **detailed logs** on the right side corner. These logs can also be downloaded at any time of the day unless you override it by starting the same strategy again.
-
-[![Portfolio](imgs/portfolio6.1.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio6.1.png)
-
-* **Action** - he action field allows you to start or stop a strategy. To execute a strategy, click on **start**. When you click on the **start button** you will be able to choose multiple brokers and run the strategies simultaneously too.
-
-[![Portfolio](imgs/portfolio7.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/portfolio7.png)
-
-## 7. Toolbar
+## 6. Toolbar
 ---
-The Dashboard toolbar includes the refresh, density, settings and full screen tools. 
+The Dashboard toolbar includes the refresh, density, settings, and full-screen tools.
+[![Toolbar](imgs/toolbar_normal.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/toolbar_normal.png)
 
-[![Filters](imgs/toolbar1.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/toolbar1.png)
+- **Refresh**: If you can't see a recent entry in the table, click Refresh to check again.
+  [![Toolbar Refresh](imgs/toolbar_refresh.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/toolbar_refresh.png)
 
-**Refresh** - If you can't see an entry in the table (perhaps the most recent one), click Refresh to check again.
+- **Settings**: Select the columns you want to view using this settings option.
+  [![Toolbar Settings](imgs/toolbar_settings.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/toolbar_settings.png)
 
-[![Filters](imgs/sc25.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sc25.png)
-
-**Density** - View data comfortably by choosing the density. The options include Larger, Middle and Compact. 
-
-[![Filters](imgs/sc26.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sc26.png)
-
-**Settings** - Select the columns that you want to view in this settings option.
-
-[![Filters](imgs/sc27.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sc27.png)
-
-**Full Screen** - With this option you will be able to view your current tab on the browser in full Screen. To go back to the normal viewing mode click on it again. This is similar to pressing F11 on most browsers and operating systems.
-
-[![Filters](imgs/sc28.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sc28.png)
+- **Full Screen**: Use this option to view your current tab in full-screen mode. To return to normal viewing, click the icon again or press F11 on most browsers and operating systems.
+  [![Toolbar Full Screen](imgs/toolbar_full_screen.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/toolbar_full_screen.png)

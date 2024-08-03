@@ -1,64 +1,68 @@
 # Settings
 
-## 1. Introduction
+The AlgoBulls Settings page allows users to customise their account and trading experience. Below is a detailed description of each section and its functionalities.
 
-Add or edit your basic profile, set your trading risk, grant access to your trading manager, and explore your developer options.
+## Accessing the Settings Page
 
-![Settings](imgs/settings1.png)
+You can access the settings page by visiting [AlgoBulls Settings](https://app.algobulls.com/settings).
 
-### The settings section is divided into 4 parts: 
+## Sections and Features
 
-### i. Personal Info
+### 1. **Personal Info**
+   - **Basic Info**: Update personal details including Name, Mobile Number, Email, Date of Birth, Country, Occupation, and Trading Experience. These informations are necessary for better service and we suggest to fill these details properly, so that we can provide you custom features and better experience.
+   - **Detailed Profiling**:
+     - **Trading Goals**: Select your trading goals.
+     - **Preferred Trading Style**: Choose your preferred trading style.
+     - **Current Challenges in Trading**: Share your current challenges.
+     - **Coding Experience**: Indicate your coding experience level.
+     - **Favorite Trading Platforms/Tools**: List your favorite tools.
+     - **Preferred Learning Methods**: Select how you prefer to learn.
+     - **Main Source of Trading Information**: Choose your primary source of information.
+     - **Interested Products**: Select from Phoenix and Odyssey.
+     - **Link Social Media Accounts**: Connect LinkedIn, Twitter, Facebook, Instagram, and YouTube.
 
-![Settings](imgs/settings2.png)
+![Personal Info](imgs/personal_info.png)
 
-You can add or edit your [personal details here](https://app.algobulls.com/settings?section=personalInfo).
+### 2. **Password & Security**
+   - **Signing In**: View and update your password.
+   - **Password Last Changed**: Display the date when the password was last changed.
 
-**Basic Info:**
+![Password & Security](imgs/password_change.png)
 
-**Name**: Your **full name**, preferably, in accordance with a **legal document** such as an Aadhar Card.
+### 3. **Trade Manager**
+   - **Access**: Your trade manager has limited access and can only START/STOP strategies on your behalf.
 
-**E-mail**: Your relationship manager or an AlgoBulls representative will reach out to you via email or phone.
+![Trade Manager](imgs/trade_manager.png)
 
-**Mobile Number**: Your registered mobile number is displayed here. This field is non editable.
+### 4. **Developer Options**
+   - **API Token**: Manage your API tokens.
+   - **Developer Options**: Enabled according to your active plans.
 
-**Personal Info:**
+![Developer Options](imgs/developer_options.png)
 
-**Title**: A suitable one liner description for your bio.
+### 5. **Notification Settings**
+   - **Desktop Notification Sound**: Toggle sound notifications.
+   - **Notification Types**:
+     - **Email**: customise email notifications for Broking Details, Plans & Wallets, and Order Updates.
 
-**Bio**: A short **about me** section that allows us to learn more about you and interact with you suitably.
+![Notification Settings](imgs/notification_settings.png)
 
-**Date of Birth**: Set up your date of birth.
+### 6. **User Preferences**
+   - **Preferred Location**: Set your preferred location.
+   - **Site Theme**: Choose between Light and Dark themes.
+   - **Phoenix Default Screen**: Select between Splash Screen and Dashboard.
+   - **Reset Custom Preferences**: Reset to default custom preferences.
 
-**Experience**: If we know the degree of your market knowledge, our experts will be able to connect with you more effectively over the phone/email.
+![User Preferences](imgs/user_preference.png)
 
-**Education**: If we know whether you have any past financial background, our specialists will be able to connect with you more effectively over the phone/email. (For example, Commerce, MBA Finance, and so on.)
+### 7. **Execution Mode**
+   - **Live Trading**: Choose between REGULAR and FAST modes.
+   - **Paper Trading**: Choose between REGULAR and FAST modes.
+   - **Backtesting**: Choose between REGULAR and FAST modes.
+   - **Reset to Default**: Reset execution mode preferences to default.
 
-**Link Social Media Accounts:**
+![Execution Mode](imgs/execution_mode.png)
 
-You can also link your social media accounts such as Linkedin, Twitter, Facebook, Instagram & YouTube.
+## Support
 
-### ii. Password & Security
-
-![Settings](imgs/settings3.png)
-
-You can [edit your password](https://app.algobulls.com/settings?section=password%26Security) and check other security options here .
-
-
-### iii. Trade Manager
-
-![Settings](imgs/settings4.png)
-
-Enter your [agent's details here](https://app.algobulls.com/settings?section=tradeManager) if your AlgoBulls platform account will be managed by them.
-
-!!! note annotate "Note"  
-
-     * Please do not share your AlgoBulls credentials with your agent. Once you add your agent details here, the agent gets a separate set of credentials with limited account access to manage your trades.
-   
-     * AlgoBulls will not be responsible for any issues occurring because of deliberate or leaked credentials of your account.
-
-### iv. Developer Options
-
-![Settings](imgs/settings5.png)
-
-We offer the Phoenix service to the developers through our platform. Developers can use the [pyalgotrading](https://github.com/algobulls/pyalgotrading/)  package to create and test their own strategies. To learn more, visit the [Developer Options](../developers.md) help page.
+For assistance, contact AlgoBulls support at [support@algobulls.com](mailto:support@algobulls.com) or visit our [Help Center](https://support.algobulls.com).

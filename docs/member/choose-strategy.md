@@ -3,129 +3,116 @@
 ## 1. Introduction
 ---
 
-Choose from a wide range of advanced, AI-driven strategies developed with cutting-edge technology.
-Odyssey has more than 150+ Algo Strategies created by industry leading experts. The AlgoBulls strategies are a combination of complex formulas and mathematical models that offer excellent speed and accuracy in comparison to Manual trading. 
-Odyssey is divided into 3 parts: [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium) & [HNI](https://app.algobulls.com/marketplace/category/hni) marketplace.
+Explore a wide range of advanced, AI-driven strategies developed with cutting-edge technology. Odyssey offers over 150 sophisticated algo strategies crafted by industry-leading experts. These strategies combine complex formulas and mathematical
+models to provide superior speed and accuracy compared to manual trading.
 
+* Odyssey is divided into three categories: [Retail](https://app.algobulls.com/marketplace/category/retail), [Premium](https://app.algobulls.com/marketplace/category/premium), and [HNI](https://app.algobulls.com/marketplace/category/hni). You can
+  select your preferred strategy category from the dropdown menu.
 
-![ChooseStrategy](imgs/cs1.png)
+  ![Odyssey Overview](imgs/cs1.png)
 
-## 2. [Retail Marketplace](https://app.algobulls.com/marketplace/category/retail) 
-The retail marketplace includes carefully chosen trading algos, ideal for all levels of experience, whether novice or expert. The **retail section** includes **equity, futures & commodities** cash segment strategies. 
+## 2. [Retail Strategies](https://app.algobulls.com/marketplace/category/retail)
+---
 
-* Filter strategies by name or strategy code. 
+Retail strategies include a curated selection of trading algos suitable for all experience levels, from novice to expert. This category encompasses strategies for equity, futures, and commodities cash segments.
 
-* Search strategies using the **sort** or **duration** filter. 
+- Filter strategies by name or strategy code.
+- Search for strategies using the **sort** or **duration** filter.
+- Add strategies to your **favourites** list.
+- To add a strategy to your **My Portfolio** page, click on **Execute**.
+- Click **Know More** to obtain additional information about any strategy.
 
-* Add strategies to your **favourites** list.
+  [![Sort](imgs/retail_strategy.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/retail_strategy.png)
 
-* To add strategy to your **my portfolio** page, click on **execute**.
+## 3. [Premium Strategies](https://app.algobulls.com/marketplace/category/premium)
+---
 
-* Click on **know more** to get more information about any strategy.
+Our Premium Strategies feature powerful and intelligent trading algos designed for index options strategies. These advanced strategies leverage state-of-the-art technology to optimise trading performance.
 
-[![ChooseStrategy](imgs/retail_marketplace.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/retail_marketplace.png)
+- Filter strategies by name or strategy code.
+- Search for strategies using the **sort** or **duration** filter.
+- Add strategies to your **favourites** list.
+- To add a strategy to your **My Portfolio** page, click on **Execute**.
+- Click **Know More** to discover more about any strategy.
 
-## 3. [Premium Marketplace](https://app.algobulls.com/marketplace/category/premium)  
-With our intelligent and powerful trading algos, we enable you to trade through **index options strategies**. Choose from this wide range of advanced, AI-driven strategies developed with cutting-edge technology. 
+  [![Sort](imgs/premium_strategy.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/premium_strategy.png)
 
-* Filter strategies by name or strategy code 
+## 4. [HNI Strategies](https://app.algobulls.com/marketplace/category/hni)
+---
 
-* Search strategies using the **sort** or **duration** filter 
+HNI Strategies are AI-driven trading algorithms tailored to the needs and risk appetites of high-net-worth individuals (HNI). These strategies are designed for personalised portfolio management and optimisation.
 
-* Add strategies to your **favourites** list.
+- **AI-Driven Trading Algorithms**: Utilise advanced algorithms for enhanced trading.
+- **Personalised Portfolio Management**: Customise strategies based on individual needs.
+- **Risk Assessment**: Evaluate risk tolerance using historical data, investment goals, and market conditions.
+- **Investment Strategy**: Develop strategies aligned with your risk profile, financial goals, and market opportunities.
 
-* To add strategy to your **my portfolio** page, click on **execute**.
+- Filter strategies by name or strategy code.
+- Search for strategies using the **sort** or **duration** filter.
+- Add strategies to your **favourites** list.
+- To add a strategy to your **My Portfolio** page, click on **Execute**.
+- Click **Know More** to access detailed information, including parameters and backtesting reports, to evaluate strategy performance.
 
-* Click on **know more** to get more information about any strategy.
-
-[![ChooseStrategy](imgs/premium_marketplace.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/premium_marketplace.png)
-
-## 4. [HNI Marketplace](https://app.algobulls.com/marketplace/category/hni) 
-AI-driven trading algos tailored for the HNI clientele's individual needs and risk appetite.This marketplace includes **index option strategies** 
-
-* Filter strategies by name or strategy code 
-
-* Search strategies using the **sort** or **duration** filter 
-
-* Add strategies to your **favourites** list.
-
-* To add strategy to your **my portfolio** page, click on **execute**.
-
-* Click on **know more** to get more information about any strategy.
-
-[![ChooseStrategy](imgs/hni_marketplace.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/hni_marketplace.png)
-
-Before adding strategies to your **my portfolio** section, you can explore the strategy details, parameters and back testing reports to evaluate the strategy's performance in the **choose strategy** section. Know more about the [Strategy Card](strategy-card.md).
+  [![Sort](imgs/hni_strategy.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/hni_strategy.png)
 
 ## 5. Explore Strategies
 ---
-You can find strategies using the following options: 
+
+You can find strategies using the following options:
 
 ### i. Search Bar
 
-Use this to type in the **strategy name** or **code** .
+- Use the search bar to type in the **strategy name** or **strategy code** to quickly locate specific strategies.
 
-[ ![Marketplace](imgs/cs3.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs3.png)
+  [![Search Bar](imgs/cs3.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs3.png)
 
 ### ii. Filters
 
-[//]: # (You can filter your view as per the **ROI %, risk %, capital required & hit ratio**. You can also use the filter option for **brokers, exchanges, segments, modes, candle types, candle sizes** and **tags**. Click on the **Apply Filters** button to see the results.)
-You can filter your view as per the **risk %, capital required & hit ratio**. You can also use the filter option for **brokers, exchanges, segments, modes, candle types, candle sizes** and **tags**. Click on the **Apply Filters** button to see the results.
+- Filter your view based on  **brokers, exchanges, segments, modes, candle types, candle sizes,** and **tags** are also available. Click **Apply Filters** to see the results.
 
-[![ChooseStrategy](imgs/cs4.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs4.png)
+  [![Filters](imgs/cs4.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs4.png)
 
 ### iii. Favourites
 
-Use the toggle button to activate the Favourite Mode to view the strategies marked as **Favourite** (<font size=3>**☆**</font>).
+- Activate the Favourite Mode to view strategies marked as **Favourite** (<font size=3>**☆**</font>).
 
-[![ChooseStrategy](imgs/cs5.png  "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs5.png)
+  [![Favourites](imgs/favourite.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/favourite.png)
 
-### iv. Sort
+### iv. New Strategies
 
-You can sort the strategies into the following:
+- Activate the New Strategies Mode to view strategies which are newly added to Odyssey.
 
-[//]: # (* ROI)
+  [![New Strategies](imgs/new_strategy.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/new_strategy.png)
 
-* Risk 
+### v. Sort
 
-* Transaction Charges 
+- Sort strategies by clicking on the heading of each column:
 
-* Recent Transactions 
+    - **Strategy**
+    - **Instruments**
 
-Click on the **Apply Sort** button to categorise the strategies. 
+      [![Sort](imgs/sort.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/sort.png)
 
-[![ChooseStrategy](imgs/cs6.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs6.png)
+### vi. Duration
 
-### v. Duration
+- Search for strategies added to the marketplace in the last 3 days, 14 days, 30 days, 6 months, 1 Year, 2 Year, or All Time. Click **Apply Duration** to save changes.
 
-This option allows you to search for strategies that have been added to the marketplace in the last 3 days, 14 days, 30 days and All Time. Click on **Apply Duration** to save the changes. 
+  [![Duration](imgs/duration.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/duration.png)
 
-[![ChooseStrategy](imgs/cs7.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs7.png)
+### vii. Pagination
 
-### vi. Pagination
+- Navigate between pages using the **<** and **>** buttons. You can also choose to view **4, 8,** or **12** strategies per page.
 
-You can click the **<** and **>** for changing pages. You can also choose to view **4/8/12** strategies per page.
+  [![Pagination](imgs/cs8.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs8.png)
 
-[![ChooseStrategy](imgs/cs8.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/cs8.png)
+### viii. Share
 
-### vii. Density
+- Share your favourite strategy with friends and family by clicking the share icon in the strategy column.
 
-Adjust the density by choosing the **compact, regular or list mode**.
+  [![Share](imgs/share.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/share.png)
 
-* **Compact Mode**
+### ix. Know More
 
-In this mode the strategies are displayed in a compact view. You can click on the know more button to view the whole strategy.
+- Click the **Know More** button below the **Execute** button to discover additional details about the strategy.
 
-[![ChooseStrategy](imgs/compact_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/compact_mode.png)
-
-* **Regular Mode** 
-
-This is the AlgoBulls' default mode. In comparison to any other mode, the strategy card in regular mode has the most information.
-
-[![ChooseStrategy](imgs/regular_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/regular_mode.png)
-
-* **List Mode**
-
-This mode displays all the strategies in the marketplace in a list view.
-
-[![ChooseStrategy](imgs/list_mode.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/list_mode.png)
+  [![Know More](imgs/know_more.png "Click to Enlarge or Ctrl+Click to open in a new Tab")](imgs/know_more.png)
