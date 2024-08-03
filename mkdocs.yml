@@ -116,7 +116,7 @@ nav:
           - Phoenix Support: 'member/support/support_pybuild.md'
 
       - Phoenix Copilot:
-          - Create your OpenAI Keys: 'member/gen_ai/get_open_ai_keys.md'
+#          - Create your OpenAI Keys: 'member/gen_ai/get_open_ai_keys.md'
           - Prompt Library: 'member/gen_ai/gen_ai_prompt_library.md'
   - 'Algo Execution & Analytics':
       - 'Dashboard': 'member/dashboard.md'
