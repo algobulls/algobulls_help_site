@@ -2,44 +2,56 @@
 
 You will need the following to start with Pyalgotrading:
 
-1. ### **[AlgoBulls Account](https://www.algobulls.com/)**
-    To upload and test your strategies, you will need this account. You can create your account for FREE on the [AlgoBulls website](https://build.algobulls.com/user/register).
+### 1.  **[AlgoBulls Account](https://www.algobulls.com/)**
 
-2. ### Developer Key
+To upload and test your strategies, you will need this account. You can create your account for FREE on the [AlgoBulls website](https://build.algobulls.com/user/register).
+
+### 2. Developer Key
+
 To access the features, you will need a developer key. The key can be obtained as follows:
-    - **Step 1**: Activate the [Advanced Phoenix Plan](https://build.algobulls.com/pricing?section=Developers) from the **Pricing** menu.
-    [![purchase plan](imgs/purchase_plan.png)](imgs/purchase_plan.png)
-    - **Step 2**: Get the [Developer Key](https://build.algobulls.com/settings?query=eyJpc0xpdmUiOiJ0cnVlIn0%3D&section=developerOptions) from the **Settings** section.
-    [![developer key](imgs/developer_key.png)](imgs/developer_key.png)
-    !!! Note "Please Note"
-         For security reasons, the **developer key** will get reset every time you log out from your AlgoBulls account.
-    Once you have the developer key, you can access the AlgoBulls platform using `pyalgotrading` functions.   
 
-3. ### **[Python 3.10+](https://www.python.org/downloads/)**
-  The Pyalgotrading platform can run all strategies that conform to Python 3.8 or higher. However, we recommend Python 3.10 or higher. 
+- **Step 1**: Activate the [Advanced Phoenix Plan](https://build.algobulls.com/pricing?section=Developers) from the **Pricing** menu.
+  [![purchase plan](imgs/plans.png)](imgs/plans.png)
 
-    !!! Tip "Python Tips"
-        * It is a good idea to set up a virtual environment first while installing Python 3.10.
-        * Once Python is installed, most packages are easily installed in your venv using `pip install` command
-    
-4. ### **[Pyalgotrading Package](https://pypi.org/project/pyalgotrading/)**  
-  To create and execute your fully automated trading strategies, you only need to install `pyalgotrading`. You can install the `pyalgotrading` package using the following command:
-    ```shell
-    pip install pyalgotrading
-    ``` 
+- **Step 2**: Get the [Developer Key](https://build.algobulls.com/settings?query=eyJpc0xpdmUiOiJ0cnVlIn0%3D&section=developerOptions) from the **Settings** section.
+  [![developer key](imgs/developer_options.png)](imgs/developer_options.png)
 
-5. ### **[Jupyter Notebook](https://jupyter.org/install)**
-  You will use a Jupyter Notebook to connect to the AlgoBulls platform. Using the notebook, you can upload the strategy, test your strategy (Backtesting, Paper Trading, or Real Trading), and fetch logs.  
-       Install Jupyter Notebook using the following command:  
-       ```
-       pip install jupyter
-       ```
+!!! Note "Please Note"
+    For security reasons, the **developer key** will get reset every time you log out from your AlgoBulls account.
+    Once you have the developer key, you can access the AlgoBulls platform using `pyalgotrading` functions.
 
-    !!! Tip "Pro Tip"
-           If you are an experienced Pyalgotrading user, Jupyter Notebook might not be necessary. You can directly integrate it into your application.
+### 3.  **[Python 3.10+](https://www.python.org/downloads/)**
 
-6. ### Enhancing Productivity
+The Pyalgotrading platform can run all strategies that conform to Python 3.8 or higher. However, we recommend Python 3.10 or higher.
+
+!!! Tip "Python Tips"
+    * It is a good idea to set up a virtual environment first while installing Python 3.10.
+    * Once Python is installed, most packages are easily installed in your venv using `pip install` command
+
+### 4. **[Pyalgotrading Package](https://pypi.org/project/pyalgotrading/)**
+
+To create and execute your fully automated trading strategies, you only need to install `pyalgotrading`. You can install the `pyalgotrading` package using the following command:
+
+```shell
+pip install pyalgotrading
+```
+
+### 5. **[Jupyter Notebook](https://jupyter.org/install)**
+
+You will use a Jupyter Notebook to connect to the AlgoBulls platform. Using the notebook, you can upload the strategy, test your strategy (Backtesting, Paper Trading, or Real Trading), and fetch logs.  
+Install Jupyter Notebook using the following command:
+
+```
+pip install jupyter
+```
+
+!!! Tip "Pro Tip"
+       If you are an experienced Pyalgotrading user, Jupyter Notebook might not be necessary. You can directly integrate it into your application.
+
+### 6. Enhancing Productivity
+
 For enhancing your productivity while building and executing strategies using Pyalgotrading, you can make use of Python IDEs of your choice, such as:
-    - **[PyCharm](https://www.jetbrains.com/pycharm/download/)**
-    - **[VS Code](https://code.visualstudio.com/)**
+
+- **[PyCharm](https://www.jetbrains.com/pycharm/download/)**
+- **[VS Code](https://code.visualstudio.com/)**
     
