@@ -5,7 +5,7 @@
 ## 1. Introduction
 
 Welcome to AlgoBulls! We are an algorithmic trading platform offering 100% automated trading algorithms, allowing you to deploy multiple trading strategies across various asset classes. You can choose from a wide range of ready-to-use strategies
-or create and execute your own strategy in **Backtesting**, **Papertrading and Livetrading mode. Additionally, AlgoBulls provides a Fixed Income marketplace where you can invest in Bonds & NCDs.
+or create and execute your own strategy in **Backtesting, Paper Trading and Live Trading mode**. Additionally, AlgoBulls provides a Fixed Income marketplace where you can invest in Bonds & NCDs.
 
 Here's a quick guide to help you start trading or investing on our user-friendly platform right away!
 
@@ -13,13 +13,13 @@ Here's a quick guide to help you start trading or investing on our user-friendly
 
 ### i. **Sign Up using Google**
 
-Register with AlgoBulls in less than a minute using the Login with Google option.
+Register with AlgoBulls in less than a minute using the Login with a Google option.
 
 ![Google Signup](member/imgs/google_whatsapp.png)
 
 ### ii. **Sign Up using WhatsApp**
 
-You can also register with AlgoBulls using WhatsApp. Follow these simple steps:
+You can also register with AlgoBulls using WhatsApp. Follow these steps:
 
 **Step 1:** Click on the WhatsApp icon.
 
@@ -29,7 +29,7 @@ You can also register with AlgoBulls using WhatsApp. Follow these simple steps:
 
 ![WhatsApp Signup QR Code](member/imgs/whatsapp_qrcode.png)
 
-**Step 3:** Send the pre-formatted text in whatsapp chat. It will redirect and allow you to sign-up you to AlgoBulls.
+**Step 3:** Send the pre-formatted text in WhatsApp chat. It will redirect and allow you to sign you up to AlgoBulls.
 
 ### iii. **Sign Up in 3 simple steps**
 
@@ -49,11 +49,11 @@ Haven't registered with AlgoBulls yet? [Register now!](https://app.algobulls.com
 
 ## 3. Log in with AlgoBulls
 
-If you already have an AlgoBulls account, simply log in using the following options:
+If you already have an AlgoBulls account, log in using the following options:
 
 ### i. Login using Google
 
-Use your Google account to **Log in**. Just click on the Google icon and log in with your Google credentials.
+Use your Google account to **Log in**. Click on the Google icon and log in with your Google credentials.
 
 ![Google Login](member/imgs/google_whatsapp.png)
 
@@ -71,7 +71,7 @@ Use your mobile number and password to log in.
 
 ### iv. [Login with OTP](https://app.algobulls.com/user/login?method=mobile)
 
-You can also choose the Login with OTP option. Enter your phone number, and an OTP will be sent to your registered mobile number.
+You can also choose the Login with an OTP option. Enter your phone number, and an OTP will be sent to your registered mobile number.
 
 ![OTP Login](member/imgs/otp_login.png)
 
@@ -83,7 +83,7 @@ Ready to start trading? [Log in](https://app.algobulls.com/user/login) now.
 
 ## 6. How to Add a Broking Account?
 
-To begin trading, it's necessary to add your broker details and link your broking account. Follow these three simple steps:
+To begin trading, it's necessary to add your broker details and link your broking account. Follow these three steps:
 
 **Step 1:** From the AlgoBulls sidebar navigation, select [Broking Details](https://app.algobulls.com/broking)  and click on the [Add Broker](https://app.algobulls.com/broking?addBroker=true) button.
 
@@ -194,7 +194,7 @@ The AlgoBulls <a href="https://app.algobulls.com/settings">Settings</a> page all
 
 - Manage Execution Mode Preference
 
-This page provides a centralized location to tailor your AlgoBulls account to your specific needs and preferences.
+This page provides a centralised location to tailor your AlgoBulls account to your specific needs and preferences.
 
-For further information regarding the AlgoBulls platform you can always reach out to our customer service team at <a href="mailto:support@algobulls.com">support@algobulls.com</a> OR call us on +91 8069 230 300.
+For further information regarding the AlgoBulls platform you can always reach out to our customer service team at <a href="mailto: support@algobulls.com">support@algobulls.com</a> OR call us on +91 8069 230 300.
 
