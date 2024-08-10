@@ -7,7 +7,7 @@ This is a trading strategy called "RSI MACD Crossovers" implemented in Python us
 
 !!! Tips "Jupyter Notebook for Indian Exchange (NSE)"
     - **[Click here to view a working notebook for NSE exchange in cloud. No installation required. ](https://nbviewer.org/github/algobulls/pyalgotrading/blob/master/jupyter/nse_equity/rsi_macd_crossover.ipynb)**
-    - **[Click here to execute a working notebook for NSE exchange in cloud. No installation required. ](https://mybinder.org/v2/gh/algobulls/pyalgotrading/fe289cc5d5df69e7b87b930cce110326645cd99d?urlpath=lab%2Ftree%2Fjupyter%2Fnse_equity%2Frsi_macd_crossover.ipynb)**
+    - **[Click here to execute a working notebook for NSE exchange in cloud. No installation required. ](https://mybinder.org/v2/gh/algobulls/pyalgotrading/d1825d24e2244c9e49368a3e0be70ba870e71c5c?urlpath=lab%2Ftree%2Fjupyter%2Fnse_equity%2Frsi_macd_crossover.ipynb)**
 
 # RSI and MACD Crossover
 In the dynamic world of stock trading, effective strategies are the key to success. The combination of two powerful technical indicators, the Moving Average Convergence Divergence (MACD) and the Relative Strength Index (RSI), can be a game-changer for traders. This strategy leverages MACD and RSI crossovers to identify potential entry and exit points in the stock market.
