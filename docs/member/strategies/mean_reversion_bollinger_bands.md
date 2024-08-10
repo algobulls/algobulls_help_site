@@ -7,7 +7,7 @@ This is a trading strategy called "Mean Reversion Bollinger Bands" implemented i
     
 !!! Tips "Jupyter Notebook for Indian Exchange (NSE)"
     - **[Click here to view a working notebook for NSE exchange in cloud. No installation required. ](https://nbviewer.org/github/algobulls/pyalgotrading/blob/master/jupyter/nse_equity/mean_reversion_bollinger_bands.ipynb)**
-    - **[Click here to execute a working notebook for NSE exchange in cloud. No installation required. ](https://mybinder.org/v2/gh/algobulls/pyalgotrading/fe289cc5d5df69e7b87b930cce110326645cd99d?urlpath=lab%2Ftree%2Fjupyter%2Fnse_equity%2Fmean_reversion_bollinger_bands.ipynb)**
+    - **[Click here to execute a working notebook for NSE exchange in cloud. No installation required. ](https://mybinder.org/v2/gh/algobulls/pyalgotrading/d1825d24e2244c9e49368a3e0be70ba870e71c5c?urlpath=lab%2Ftree%2Fjupyter%2Fnse_equity%2Fmean_reversion_bollinger_bands.ipynb)**
     
 ## Mean Reversion Bollinger Bands
 In the dynamic world of stock trading, effective strategies can make all the difference. The Mean Reversion Bollinger Bands strategy is a powerful tool that traders can use to identify potential entry and exit points in the stock market.

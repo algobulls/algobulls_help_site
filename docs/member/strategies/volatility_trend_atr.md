@@ -7,7 +7,7 @@ This is a trading strategy called "Volatility Trends ATR" implemented in Python 
 
 !!! Tips "Jupyter Notebook for Indian Exchange (NSE)"
     - **[Click here to view a working notebook for NSE exchange in cloud. No installation required. ](https://nbviewer.org/github/algobulls/pyalgotrading/blob/master/jupyter/nse_equity/volatility_trend_atr.ipynb)**
-    - **[Click here to execute a working notebook for NSE exchange in cloud. No installation required. ](https://mybinder.org/v2/gh/algobulls/pyalgotrading/fe289cc5d5df69e7b87b930cce110326645cd99d?urlpath=lab%2Ftree%2Fjupyter%2Fnse_equity%2Fvolatility_trend_atr.ipynb)**
+    - **[Click here to execute a working notebook for NSE exchange in cloud. No installation required. ](https://mybinder.org/v2/gh/algobulls/pyalgotrading/d1825d24e2244c9e49368a3e0be70ba870e71c5c?urlpath=lab%2Ftree%2Fjupyter%2Fnse_equity%2Fvolatility_trend_atr.ipynb)**
 
 # Volatility Trends with Average True Range (ATR) Indicator
 In the ever-changing realm of stock trading, market volatility can be both an opportunity and a challenge. Traders and investors require a reliable instrument to gauge price fluctuations and devise informed strategies. The Average True Range (ATR) steps in as a robust technical indicator to fulfill this role. ATR delivers valuable insights into market volatility trends, equipping traders with the necessary tools to make calculated decisions in the stock market.
