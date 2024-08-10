@@ -7,7 +7,7 @@ This is a trading strategy called "MACD Crossovers" implemented in Python using 
 
 !!! Tips "Jupyter Notebook for Indian Exchange (NSE)"
     - **[Click here to view a working notebook for NSE exchange in cloud. No installation required. ](https://nbviewer.org/github/algobulls/pyalgotrading/blob/master/jupyter/nse_equity/macd_crossover.ipynb)**
-    - **[Click here to execute a working notebook for NSE exchange in cloud. No installation required. ](https://mybinder.org/v2/gh/algobulls/pyalgotrading/d1825d24e2244c9e49368a3e0be70ba870e71c5c?urlpath=lab%2Ftree%2Fjupyter%2Fnse_equity%2Faroon_crossover.ipynb)**
+    - **[Click here to execute a working notebook for NSE exchange in cloud. No installation required. ](https://mybinder.org/v2/gh/algobulls/pyalgotrading/d1825d24e2244c9e49368a3e0be70ba870e71c5c?urlpath=lab%2Ftree%2Fjupyter%2Fnse_equity%2Fmacd_crossover.ipynb)**
 
 # MACD Crossover 
 
