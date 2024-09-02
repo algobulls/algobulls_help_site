@@ -168,7 +168,7 @@ nav:
 #      - 'CHOICE': 'broker/choice.md'
 #      - 'FINDOC': 'broker/findoc.md'
 #      - 'FINVASIA': 'broker/finvasia.md'
-#      - 'FYERS': 'broker/fyers.md'
+      - 'FYERS': 'broker/fyers.md'
 #      - 'ICICI SECURITIES': 'broker/icicisecurities.md'
 #      - 'IIFL SECURITIES': 'broker/iifl.md'
 #      - 'INDIRA SECURITIES': 'broker/indirasecurities.md'
